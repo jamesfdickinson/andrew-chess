@@ -5,6 +5,9 @@ export function chessPwa(root) {
   return {
     name: 'andrew-chess-pwa', apply: 'build', enforce: 'post',
     async generateBundle(_, bundle) {
+      // Social crawlers fetch this directly; it need not occupy the offline cache.
+      this.emitFile({ type: 'asset', fileName: 'social/andrew-chess-v2.png',
+        source: await readFile(new URL('public/social/andrew-chess-v2.png', root)) });
       const files = ['manifest.webmanifest', 'icons/favicon.png', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/maskable-512.png', 'icons/apple-touch-icon.png'];
       for (const fileName of files) {
         this.emitFile({ type: 'asset', fileName, source: await readFile(new URL(`public/${fileName}`, root)) });
