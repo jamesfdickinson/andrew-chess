@@ -2,6 +2,7 @@ import { sheetFiles, sheetUrl } from './coach-artwork.js';
 import { performanceCatalog } from './performance-catalog.js';
 import { portraitDirection, portraitBeats, portraitCue } from './portrait-emotion.js';
 import { portraitPresets } from './portrait-config.js';
+import { createPortraitRenderer } from './portrait-renderer.js';
 
 export function attachCoachPortrait(root, { getCoach = () => ({ id: 'jimmy' }) } = {}) {
   const stage = root.querySelector('.coach-stage');
@@ -11,6 +12,7 @@ export function attachCoachPortrait(root, { getCoach = () => ({ id: 'jimmy' }) }
   portrait.setAttribute('role', 'img');
   portrait.setAttribute('aria-label', 'Pixel-art chess coach');
   stage.prepend(portrait);
+  const renderFrame = createPortraitRenderer(portrait);
   const sheets = Object.fromEntries(Object.entries(sheetFiles).map(([key, file]) => [key, sheetUrl(file)]));
   const motion = matchMedia('(prefers-reduced-motion: reduce)');
   let emotion = 'calm', speaking = false, timer, mouth = 0, began = 0, beats = [];
@@ -26,9 +28,8 @@ export function attachCoachPortrait(root, { getCoach = () => ({ id: 'jimmy' }) }
       const ownGenerated = coach.assets?.some(item => item.setId === emotion);
       if (asset) preset = portraitPresets[asset.setId] || preset;
       else if (!ownGenerated) {
-        portrait.style.backgroundImage = coach.reference?.image ? `url("${coach.reference.image}")` : 'none';
-        portrait.style.backgroundSize = '100% 100%'; portrait.style.backgroundPosition = 'center';
-        portrait.setAttribute('aria-label', coach.reference?.image ? 'Coach portrait; emotion artwork pending' : 'Coach artwork not created yet');
+        renderFrame({ image: coach.reference?.image, size: '100% 100%', position: 'center', emotion, mouth: 0,
+          label: coach.reference?.image ? 'Coach portrait; emotion artwork pending' : 'Coach artwork not created yet' });
         return;
       }
     }
@@ -37,11 +38,9 @@ export function attachCoachPortrait(root, { getCoach = () => ({ id: 'jimmy' }) }
     const rows = preset.rows || 4;
     const row = speaking && !motion.matches && preset.gesture
       ? preset.gesture[Math.floor(seconds / preset.step)] ?? preset.row : preset.row;
-    portrait.style.backgroundImage = `url("${preset.image || sheets[preset.sheet]}")`;
-    portrait.style.backgroundSize = `300% ${rows * 100}%`;
-    portrait.style.backgroundPosition = `${column * 50}% ${rows > 1 ? row * 100 / (rows - 1) : 0}%`;
-    portrait.dataset.emotion = emotion;
-    portrait.dataset.mouth = preset.columns ? '0' : String(column);
+    renderFrame({ image: preset.image || sheets[preset.sheet], size: `300% ${rows * 100}%`,
+      position: `${column * 50}% ${rows > 1 ? row * 100 / (rows - 1) : 0}%`,
+      emotion, mouth: preset.columns ? 0 : column });
   }
   function schedule() {
     clearTimeout(timer);
