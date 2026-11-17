@@ -1,0 +1,125 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 6.03725,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": " We got their pawn, but they got ours.",
+      "noSpeechProbability": 0.0063637904822826385
+    },
+    {
+      "start": 2.96,
+      "end": 5.46,
+      "text": " Next time, can we just do the first part?",
+      "noSpeechProbability": 0.0063637904822826385
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.14,
+      "text": "We",
+      "probability": 0.8177188634872437
+    },
+    {
+      "start": 0.14,
+      "end": 0.32,
+      "text": "got",
+      "probability": 0.9964261651039124
+    },
+    {
+      "start": 0.32,
+      "end": 0.56,
+      "text": "their",
+      "probability": 0.9209242463111877
+    },
+    {
+      "start": 0.56,
+      "end": 0.92,
+      "text": "pawn,",
+      "probability": 0.5844604969024658
+    },
+    {
+      "start": 1.28,
+      "end": 1.48,
+      "text": "but",
+      "probability": 0.9941909909248352
+    },
+    {
+      "start": 1.48,
+      "end": 1.68,
+      "text": "they",
+      "probability": 0.9949634075164795
+    },
+    {
+      "start": 1.68,
+      "end": 1.94,
+      "text": "got",
+      "probability": 0.997050404548645
+    },
+    {
+      "start": 1.94,
+      "end": 2.2,
+      "text": "ours.",
+      "probability": 0.9887946844100952
+    },
+    {
+      "start": 2.96,
+      "end": 3.08,
+      "text": "Next",
+      "probability": 0.9832356572151184
+    },
+    {
+      "start": 3.08,
+      "end": 3.54,
+      "text": "time,",
+      "probability": 0.9977275729179382
+    },
+    {
+      "start": 3.88,
+      "end": 4.08,
+      "text": "can",
+      "probability": 0.9890053868293762
+    },
+    {
+      "start": 4.08,
+      "end": 4.24,
+      "text": "we",
+      "probability": 0.9983441829681396
+    },
+    {
+      "start": 4.24,
+      "end": 4.46,
+      "text": "just",
+      "probability": 0.9880082607269287
+    },
+    {
+      "start": 4.46,
+      "end": 4.66,
+      "text": "do",
+      "probability": 0.9966102242469788
+    },
+    {
+      "start": 4.66,
+      "end": 4.8,
+      "text": "the",
+      "probability": 0.9973545074462891
+    },
+    {
+      "start": 4.8,
+      "end": 5.08,
+      "text": "first",
+      "probability": 0.9958685636520386
+    },
+    {
+      "start": 5.08,
+      "end": 5.46,
+      "text": "part?",
+      "probability": 0.9980747699737549
+    }
+  ],
+  "text": "We got their pawn, but they got ours. Next time, can we just do the first part?"
+}

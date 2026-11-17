@@ -1,0 +1,107 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 6.966,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.36,
+      "text": " A quiet pond move. They do not have to take something every turn.",
+      "noSpeechProbability": 0.002913862932473421
+    },
+    {
+      "start": 6.16,
+      "end": 6.8,
+      "text": " Apparently...",
+      "noSpeechProbability": 0.002913862932473421
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.12,
+      "text": "A",
+      "probability": 0.8224459290504456
+    },
+    {
+      "start": 0.12,
+      "end": 0.48,
+      "text": "quiet",
+      "probability": 0.9518775939941406
+    },
+    {
+      "start": 0.48,
+      "end": 0.8,
+      "text": "pond",
+      "probability": 0.619563639163971
+    },
+    {
+      "start": 0.8,
+      "end": 1.18,
+      "text": "move.",
+      "probability": 0.9976690411567688
+    },
+    {
+      "start": 2.0,
+      "end": 2.22,
+      "text": "They",
+      "probability": 0.9918647408485413
+    },
+    {
+      "start": 2.22,
+      "end": 2.36,
+      "text": "do",
+      "probability": 0.974706768989563
+    },
+    {
+      "start": 2.36,
+      "end": 2.6,
+      "text": "not",
+      "probability": 0.9834036231040955
+    },
+    {
+      "start": 2.6,
+      "end": 2.86,
+      "text": "have",
+      "probability": 0.9770262837409973
+    },
+    {
+      "start": 2.86,
+      "end": 3.0,
+      "text": "to",
+      "probability": 0.9989466071128845
+    },
+    {
+      "start": 3.0,
+      "end": 3.22,
+      "text": "take",
+      "probability": 0.999090313911438
+    },
+    {
+      "start": 3.22,
+      "end": 3.54,
+      "text": "something",
+      "probability": 0.991599440574646
+    },
+    {
+      "start": 3.54,
+      "end": 3.98,
+      "text": "every",
+      "probability": 0.9848396182060242
+    },
+    {
+      "start": 3.98,
+      "end": 4.36,
+      "text": "turn.",
+      "probability": 0.9985356330871582
+    },
+    {
+      "start": 6.16,
+      "end": 6.8,
+      "text": "Apparently...",
+      "probability": 0.6248223185539246
+    }
+  ],
+  "text": "A quiet pond move. They do not have to take something every turn. Apparently..."
+}

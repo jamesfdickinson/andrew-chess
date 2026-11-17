@@ -1,0 +1,95 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.5975625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.14,
+      "text": " Look for a pawn with fewer defenders. Start planning how to reach it.",
+      "noSpeechProbability": 0.0007788445218466222
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.18,
+      "text": "Look",
+      "probability": 0.8656956553459167
+    },
+    {
+      "start": 0.18,
+      "end": 0.38,
+      "text": "for",
+      "probability": 0.9976696372032166
+    },
+    {
+      "start": 0.38,
+      "end": 0.5,
+      "text": "a",
+      "probability": 0.9820669889450073
+    },
+    {
+      "start": 0.5,
+      "end": 0.78,
+      "text": "pawn",
+      "probability": 0.896055281162262
+    },
+    {
+      "start": 0.78,
+      "end": 1.02,
+      "text": "with",
+      "probability": 0.9979301691055298
+    },
+    {
+      "start": 1.02,
+      "end": 1.32,
+      "text": "fewer",
+      "probability": 0.9974097609519958
+    },
+    {
+      "start": 1.32,
+      "end": 1.68,
+      "text": "defenders.",
+      "probability": 0.9975893497467041
+    },
+    {
+      "start": 2.74,
+      "end": 2.74,
+      "text": "Start",
+      "probability": 0.993103563785553
+    },
+    {
+      "start": 2.74,
+      "end": 3.24,
+      "text": "planning",
+      "probability": 0.9889206886291504
+    },
+    {
+      "start": 3.24,
+      "end": 3.52,
+      "text": "how",
+      "probability": 0.9896191954612732
+    },
+    {
+      "start": 3.52,
+      "end": 3.7,
+      "text": "to",
+      "probability": 0.9976620674133301
+    },
+    {
+      "start": 3.7,
+      "end": 3.92,
+      "text": "reach",
+      "probability": 0.9994685053825378
+    },
+    {
+      "start": 3.92,
+      "end": 4.14,
+      "text": "it.",
+      "probability": 0.9979265928268433
+    }
+  ],
+  "text": "Look for a pawn with fewer defenders. Start planning how to reach it."
+}

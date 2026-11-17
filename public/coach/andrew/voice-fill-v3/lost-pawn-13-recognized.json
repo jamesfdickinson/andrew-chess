@@ -1,0 +1,71 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.365375,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.74,
+      "text": " We are meant to collect pawns, not distribute them.",
+      "noSpeechProbability": 0.0016684567090123892
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.2,
+      "text": "We",
+      "probability": 0.7376909852027893
+    },
+    {
+      "start": 0.2,
+      "end": 0.32,
+      "text": "are",
+      "probability": 0.9805624485015869
+    },
+    {
+      "start": 0.32,
+      "end": 0.58,
+      "text": "meant",
+      "probability": 0.9969013929367065
+    },
+    {
+      "start": 0.58,
+      "end": 0.86,
+      "text": "to",
+      "probability": 0.9985221028327942
+    },
+    {
+      "start": 0.86,
+      "end": 1.2,
+      "text": "collect",
+      "probability": 0.9985591769218445
+    },
+    {
+      "start": 1.2,
+      "end": 2.1,
+      "text": "pawns,",
+      "probability": 0.733224093914032
+    },
+    {
+      "start": 2.34,
+      "end": 2.58,
+      "text": "not",
+      "probability": 0.9894461035728455
+    },
+    {
+      "start": 2.58,
+      "end": 3.22,
+      "text": "distribute",
+      "probability": 0.9933601021766663
+    },
+    {
+      "start": 3.22,
+      "end": 3.74,
+      "text": "them.",
+      "probability": 0.999030351638794
+    }
+  ],
+  "text": "We are meant to collect pawns, not distribute them."
+}

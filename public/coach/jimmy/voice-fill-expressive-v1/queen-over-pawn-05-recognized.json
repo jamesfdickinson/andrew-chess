@@ -1,0 +1,83 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.805,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.2,
+      "text": " Why the Queen? The Pawn was available. We have discussed this.",
+      "noSpeechProbability": 0.0037186373956501484
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.32,
+      "text": "Why",
+      "probability": 0.669032096862793
+    },
+    {
+      "start": 0.32,
+      "end": 0.52,
+      "text": "the",
+      "probability": 0.8371540307998657
+    },
+    {
+      "start": 0.52,
+      "end": 0.88,
+      "text": "Queen?",
+      "probability": 0.8201708197593689
+    },
+    {
+      "start": 1.78,
+      "end": 1.92,
+      "text": "The",
+      "probability": 0.9691188931465149
+    },
+    {
+      "start": 1.92,
+      "end": 2.3,
+      "text": "Pawn",
+      "probability": 0.5937337577342987
+    },
+    {
+      "start": 2.3,
+      "end": 2.48,
+      "text": "was",
+      "probability": 0.9899371862411499
+    },
+    {
+      "start": 2.48,
+      "end": 2.94,
+      "text": "available.",
+      "probability": 0.9842038750648499
+    },
+    {
+      "start": 3.82,
+      "end": 3.98,
+      "text": "We",
+      "probability": 0.9936501383781433
+    },
+    {
+      "start": 3.98,
+      "end": 4.18,
+      "text": "have",
+      "probability": 0.9860981702804565
+    },
+    {
+      "start": 4.18,
+      "end": 4.64,
+      "text": "discussed",
+      "probability": 0.955527663230896
+    },
+    {
+      "start": 4.64,
+      "end": 5.2,
+      "text": "this.",
+      "probability": 0.996504545211792
+    }
+  ],
+  "text": "Why the Queen? The Pawn was available. We have discussed this."
+}

@@ -1,0 +1,107 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.3870625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.02,
+      "text": " What is the pond plan behind that move? I hope there is a pond plan.",
+      "noSpeechProbability": 0.003768280614167452
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.22,
+      "text": "What",
+      "probability": 0.8868183493614197
+    },
+    {
+      "start": 0.22,
+      "end": 0.42,
+      "text": "is",
+      "probability": 0.995506763458252
+    },
+    {
+      "start": 0.42,
+      "end": 0.58,
+      "text": "the",
+      "probability": 0.9949479103088379
+    },
+    {
+      "start": 0.58,
+      "end": 0.9,
+      "text": "pond",
+      "probability": 0.5011563301086426
+    },
+    {
+      "start": 0.9,
+      "end": 1.28,
+      "text": "plan",
+      "probability": 0.9494014978408813
+    },
+    {
+      "start": 1.28,
+      "end": 1.7,
+      "text": "behind",
+      "probability": 0.9930382370948792
+    },
+    {
+      "start": 1.7,
+      "end": 2.04,
+      "text": "that",
+      "probability": 0.9913026094436646
+    },
+    {
+      "start": 2.04,
+      "end": 2.32,
+      "text": "move?",
+      "probability": 0.9900104403495789
+    },
+    {
+      "start": 3.24,
+      "end": 3.3,
+      "text": "I",
+      "probability": 0.9940297603607178
+    },
+    {
+      "start": 3.3,
+      "end": 3.56,
+      "text": "hope",
+      "probability": 0.9951803684234619
+    },
+    {
+      "start": 3.56,
+      "end": 3.84,
+      "text": "there",
+      "probability": 0.9959861636161804
+    },
+    {
+      "start": 3.84,
+      "end": 4.04,
+      "text": "is",
+      "probability": 0.9675736427307129
+    },
+    {
+      "start": 4.04,
+      "end": 4.12,
+      "text": "a",
+      "probability": 0.9900291562080383
+    },
+    {
+      "start": 4.12,
+      "end": 4.36,
+      "text": "pond",
+      "probability": 0.9868500232696533
+    },
+    {
+      "start": 4.36,
+      "end": 5.02,
+      "text": "plan.",
+      "probability": 0.9911409020423889
+    }
+  ],
+  "text": "What is the pond plan behind that move? I hope there is a pond plan."
+}

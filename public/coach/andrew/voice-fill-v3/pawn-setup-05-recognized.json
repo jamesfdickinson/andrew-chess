@@ -1,0 +1,77 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.922625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.3,
+      "text": " Keep your pawns working together. Even little heroes need backup.",
+      "noSpeechProbability": 0.0030085479374974966
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.2,
+      "text": "Keep",
+      "probability": 0.8567567467689514
+    },
+    {
+      "start": 0.2,
+      "end": 0.4,
+      "text": "your",
+      "probability": 0.9932149648666382
+    },
+    {
+      "start": 0.4,
+      "end": 0.9,
+      "text": "pawns",
+      "probability": 0.8635787069797516
+    },
+    {
+      "start": 0.9,
+      "end": 1.26,
+      "text": "working",
+      "probability": 0.9979797005653381
+    },
+    {
+      "start": 1.26,
+      "end": 1.64,
+      "text": "together.",
+      "probability": 0.9976206421852112
+    },
+    {
+      "start": 2.72,
+      "end": 2.72,
+      "text": "Even",
+      "probability": 0.9969996809959412
+    },
+    {
+      "start": 2.72,
+      "end": 3.04,
+      "text": "little",
+      "probability": 0.9944614171981812
+    },
+    {
+      "start": 3.04,
+      "end": 3.54,
+      "text": "heroes",
+      "probability": 0.9767018556594849
+    },
+    {
+      "start": 3.54,
+      "end": 3.9,
+      "text": "need",
+      "probability": 0.9984334111213684
+    },
+    {
+      "start": 3.9,
+      "end": 4.3,
+      "text": "backup.",
+      "probability": 0.90728360414505
+    }
+  ],
+  "text": "Keep your pawns working together. Even little heroes need backup."
+}

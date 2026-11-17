@@ -1,0 +1,77 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.644,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.96,
+      "text": " Our pond count is going in the wrong direction, again!",
+      "noSpeechProbability": 0.007903899066150188
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.18,
+      "text": "Our",
+      "probability": 0.8850668668746948
+    },
+    {
+      "start": 0.18,
+      "end": 0.42,
+      "text": "pond",
+      "probability": 0.7031534314155579
+    },
+    {
+      "start": 0.42,
+      "end": 0.86,
+      "text": "count",
+      "probability": 0.931814432144165
+    },
+    {
+      "start": 0.86,
+      "end": 1.16,
+      "text": "is",
+      "probability": 0.9940206408500671
+    },
+    {
+      "start": 1.16,
+      "end": 1.42,
+      "text": "going",
+      "probability": 0.9961404204368591
+    },
+    {
+      "start": 1.42,
+      "end": 1.68,
+      "text": "in",
+      "probability": 0.9933755993843079
+    },
+    {
+      "start": 1.68,
+      "end": 1.78,
+      "text": "the",
+      "probability": 0.9981354475021362
+    },
+    {
+      "start": 1.78,
+      "end": 2.04,
+      "text": "wrong",
+      "probability": 0.9910518527030945
+    },
+    {
+      "start": 2.04,
+      "end": 2.84,
+      "text": "direction,",
+      "probability": 0.9986433386802673
+    },
+    {
+      "start": 3.44,
+      "end": 3.96,
+      "text": "again!",
+      "probability": 0.5043076276779175
+    }
+  ],
+  "text": "Our pond count is going in the wrong direction, again!"
+}

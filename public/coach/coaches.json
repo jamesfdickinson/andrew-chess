@@ -1,0 +1,13 @@
+[
+  {
+    "id": "jimmy",
+    "name": "Jimmy",
+    "voiceId": "jimmy-long-reference-v2",
+    "original": true
+  },
+  {
+    "id": "andrew",
+    "name": "Andrew",
+    "voiceId": "andrew-new-recordings-v3"
+  }
+]

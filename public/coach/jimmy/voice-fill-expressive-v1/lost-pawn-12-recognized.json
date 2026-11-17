@@ -1,0 +1,83 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.82975,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.58,
+      "text": " Our pond count is going in the wrong direction.",
+      "noSpeechProbability": 0.0014860605588182807
+    },
+    {
+      "start": 4.1,
+      "end": 4.28,
+      "text": " and",
+      "noSpeechProbability": 0.4744481146335602
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.14,
+      "text": "Our",
+      "probability": 0.6768720149993896
+    },
+    {
+      "start": 0.14,
+      "end": 0.4,
+      "text": "pond",
+      "probability": 0.7528350949287415
+    },
+    {
+      "start": 0.4,
+      "end": 0.78,
+      "text": "count",
+      "probability": 0.9461653232574463
+    },
+    {
+      "start": 0.78,
+      "end": 1.0,
+      "text": "is",
+      "probability": 0.994688868522644
+    },
+    {
+      "start": 1.0,
+      "end": 1.24,
+      "text": "going",
+      "probability": 0.9966425895690918
+    },
+    {
+      "start": 1.24,
+      "end": 1.46,
+      "text": "in",
+      "probability": 0.9939641356468201
+    },
+    {
+      "start": 1.46,
+      "end": 1.56,
+      "text": "the",
+      "probability": 0.99774169921875
+    },
+    {
+      "start": 1.56,
+      "end": 1.82,
+      "text": "wrong",
+      "probability": 0.9956021308898926
+    },
+    {
+      "start": 1.82,
+      "end": 2.58,
+      "text": "direction.",
+      "probability": 0.998846173286438
+    },
+    {
+      "start": 4.1,
+      "end": 4.28,
+      "text": "and",
+      "probability": 0.0739036351442337
+    }
+  ],
+  "text": "Our pond count is going in the wrong direction. and"
+}

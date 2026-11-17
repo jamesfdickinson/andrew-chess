@@ -1,0 +1,83 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.340625,
+  "segments": [
+    {
+      "start": 0.08,
+      "end": 4.52,
+      "text": " Let them celebrate the Queen. We have the Pawn. Excellent business.",
+      "noSpeechProbability": 0.0014779099728912115
+    }
+  ],
+  "words": [
+    {
+      "start": 0.08,
+      "end": 0.24,
+      "text": "Let",
+      "probability": 0.8450025916099548
+    },
+    {
+      "start": 0.24,
+      "end": 0.44,
+      "text": "them",
+      "probability": 0.9946240782737732
+    },
+    {
+      "start": 0.44,
+      "end": 0.8,
+      "text": "celebrate",
+      "probability": 0.996235191822052
+    },
+    {
+      "start": 0.8,
+      "end": 1.2,
+      "text": "the",
+      "probability": 0.9841104745864868
+    },
+    {
+      "start": 1.2,
+      "end": 1.46,
+      "text": "Queen.",
+      "probability": 0.5650720000267029
+    },
+    {
+      "start": 2.18,
+      "end": 2.22,
+      "text": "We",
+      "probability": 0.9971939325332642
+    },
+    {
+      "start": 2.22,
+      "end": 2.48,
+      "text": "have",
+      "probability": 0.9985620379447937
+    },
+    {
+      "start": 2.48,
+      "end": 2.64,
+      "text": "the",
+      "probability": 0.9897386431694031
+    },
+    {
+      "start": 2.64,
+      "end": 3.0,
+      "text": "Pawn.",
+      "probability": 0.5842429995536804
+    },
+    {
+      "start": 3.54,
+      "end": 4.04,
+      "text": "Excellent",
+      "probability": 0.9862017035484314
+    },
+    {
+      "start": 4.04,
+      "end": 4.52,
+      "text": "business.",
+      "probability": 0.944311261177063
+    }
+  ],
+  "text": "Let them celebrate the Queen. We have the Pawn. Excellent business."
+}

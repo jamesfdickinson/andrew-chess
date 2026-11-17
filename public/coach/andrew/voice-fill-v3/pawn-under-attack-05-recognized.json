@@ -1,0 +1,77 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.45825,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.46,
+      "text": " They are shopping in our pond apartment. We are closed!",
+      "noSpeechProbability": 0.002432730980217457
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.14,
+      "text": "They",
+      "probability": 0.8433484435081482
+    },
+    {
+      "start": 0.14,
+      "end": 0.3,
+      "text": "are",
+      "probability": 0.9853297472000122
+    },
+    {
+      "start": 0.3,
+      "end": 0.58,
+      "text": "shopping",
+      "probability": 0.996067225933075
+    },
+    {
+      "start": 0.58,
+      "end": 0.98,
+      "text": "in",
+      "probability": 0.99222332239151
+    },
+    {
+      "start": 0.98,
+      "end": 1.12,
+      "text": "our",
+      "probability": 0.9916985034942627
+    },
+    {
+      "start": 1.12,
+      "end": 1.36,
+      "text": "pond",
+      "probability": 0.9156897068023682
+    },
+    {
+      "start": 1.36,
+      "end": 1.98,
+      "text": "apartment.",
+      "probability": 0.6357316970825195
+    },
+    {
+      "start": 2.8,
+      "end": 2.86,
+      "text": "We",
+      "probability": 0.9830227494239807
+    },
+    {
+      "start": 2.86,
+      "end": 3.08,
+      "text": "are",
+      "probability": 0.9891942739486694
+    },
+    {
+      "start": 3.08,
+      "end": 3.46,
+      "text": "closed!",
+      "probability": 0.9369791746139526
+    }
+  ],
+  "text": "They are shopping in our pond apartment. We are closed!"
+}

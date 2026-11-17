@@ -1,0 +1,131 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.4799375,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.28,
+      "text": " That move left an available pawn untouched.",
+      "noSpeechProbability": 0.0010781391756609082
+    },
+    {
+      "start": 3.78,
+      "end": 5.02,
+      "text": " Explain that one to your coach.",
+      "noSpeechProbability": 0.0010781391756609082
+    },
+    {
+      "start": 5.02,
+      "end": 5.1,
+      "text": " Thank you very much.",
+      "noSpeechProbability": 0.31557613611221313
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.18,
+      "text": "That",
+      "probability": 0.7332655191421509
+    },
+    {
+      "start": 0.18,
+      "end": 0.4,
+      "text": "move",
+      "probability": 0.9810912609100342
+    },
+    {
+      "start": 0.4,
+      "end": 0.7,
+      "text": "left",
+      "probability": 0.9862175583839417
+    },
+    {
+      "start": 0.7,
+      "end": 0.9,
+      "text": "an",
+      "probability": 0.9954142570495605
+    },
+    {
+      "start": 0.9,
+      "end": 1.22,
+      "text": "available",
+      "probability": 0.9893072247505188
+    },
+    {
+      "start": 1.22,
+      "end": 1.7,
+      "text": "pawn",
+      "probability": 0.5606346726417542
+    },
+    {
+      "start": 1.7,
+      "end": 2.28,
+      "text": "untouched.",
+      "probability": 0.9810088872909546
+    },
+    {
+      "start": 3.78,
+      "end": 3.78,
+      "text": "Explain",
+      "probability": 0.947095513343811
+    },
+    {
+      "start": 3.78,
+      "end": 4.14,
+      "text": "that",
+      "probability": 0.9986288547515869
+    },
+    {
+      "start": 4.14,
+      "end": 4.34,
+      "text": "one",
+      "probability": 0.9890848994255066
+    },
+    {
+      "start": 4.34,
+      "end": 4.5,
+      "text": "to",
+      "probability": 0.9976860284805298
+    },
+    {
+      "start": 4.5,
+      "end": 4.64,
+      "text": "your",
+      "probability": 0.9965960383415222
+    },
+    {
+      "start": 4.64,
+      "end": 5.02,
+      "text": "coach.",
+      "probability": 0.9794815182685852
+    },
+    {
+      "start": 5.02,
+      "end": 5.02,
+      "text": "Thank",
+      "probability": 0.011432040482759476
+    },
+    {
+      "start": 5.02,
+      "end": 5.02,
+      "text": "you",
+      "probability": 0.9873483180999756
+    },
+    {
+      "start": 5.02,
+      "end": 5.02,
+      "text": "very",
+      "probability": 0.4713553190231323
+    },
+    {
+      "start": 5.02,
+      "end": 5.1,
+      "text": "much.",
+      "probability": 0.9970636963844299
+    }
+  ],
+  "text": "That move left an available pawn untouched. Explain that one to your coach. Thank you very much."
+}

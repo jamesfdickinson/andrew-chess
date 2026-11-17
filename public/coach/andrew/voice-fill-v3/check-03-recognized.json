@@ -1,0 +1,95 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.969125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.14,
+      "text": " Fine. Make the king move. Can that help you line up upon capture?",
+      "noSpeechProbability": 0.0033374782651662827
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.34,
+      "text": "Fine.",
+      "probability": 0.765709638595581
+    },
+    {
+      "start": 0.86,
+      "end": 0.88,
+      "text": "Make",
+      "probability": 0.9794942140579224
+    },
+    {
+      "start": 0.88,
+      "end": 1.08,
+      "text": "the",
+      "probability": 0.9957196116447449
+    },
+    {
+      "start": 1.08,
+      "end": 1.24,
+      "text": "king",
+      "probability": 0.753349781036377
+    },
+    {
+      "start": 1.24,
+      "end": 1.58,
+      "text": "move.",
+      "probability": 0.998021125793457
+    },
+    {
+      "start": 2.26,
+      "end": 2.28,
+      "text": "Can",
+      "probability": 0.9868533611297607
+    },
+    {
+      "start": 2.28,
+      "end": 2.48,
+      "text": "that",
+      "probability": 0.9919141530990601
+    },
+    {
+      "start": 2.48,
+      "end": 2.76,
+      "text": "help",
+      "probability": 0.9958282113075256
+    },
+    {
+      "start": 2.76,
+      "end": 2.94,
+      "text": "you",
+      "probability": 0.9964998960494995
+    },
+    {
+      "start": 2.94,
+      "end": 3.2,
+      "text": "line",
+      "probability": 0.9847601056098938
+    },
+    {
+      "start": 3.2,
+      "end": 3.38,
+      "text": "up",
+      "probability": 0.994464099407196
+    },
+    {
+      "start": 3.38,
+      "end": 3.74,
+      "text": "upon",
+      "probability": 0.8972740769386292
+    },
+    {
+      "start": 3.74,
+      "end": 4.14,
+      "text": "capture?",
+      "probability": 0.9130637645721436
+    }
+  ],
+  "text": "Fine. Make the king move. Can that help you line up upon capture?"
+}

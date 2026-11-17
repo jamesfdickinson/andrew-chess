@@ -1,0 +1,119 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 9.798875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.22,
+      "text": " Oh good. There goes our pawn. Wonderful. That was sarcasm. I wanted us to keep that one.",
+      "noSpeechProbability": 0.0021258352790027857
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.3,
+      "text": "Oh",
+      "probability": 0.8764484524726868
+    },
+    {
+      "start": 0.3,
+      "end": 0.58,
+      "text": "good.",
+      "probability": 0.7475552558898926
+    },
+    {
+      "start": 1.38,
+      "end": 1.44,
+      "text": "There",
+      "probability": 0.9855468273162842
+    },
+    {
+      "start": 1.44,
+      "end": 1.7,
+      "text": "goes",
+      "probability": 0.9990963935852051
+    },
+    {
+      "start": 1.7,
+      "end": 1.9,
+      "text": "our",
+      "probability": 0.9892438650131226
+    },
+    {
+      "start": 1.9,
+      "end": 2.22,
+      "text": "pawn.",
+      "probability": 0.7549113631248474
+    },
+    {
+      "start": 3.48,
+      "end": 3.96,
+      "text": "Wonderful.",
+      "probability": 0.976414144039154
+    },
+    {
+      "start": 5.26,
+      "end": 5.44,
+      "text": "That",
+      "probability": 0.9966259002685547
+    },
+    {
+      "start": 5.44,
+      "end": 5.66,
+      "text": "was",
+      "probability": 0.9983683228492737
+    },
+    {
+      "start": 5.66,
+      "end": 6.58,
+      "text": "sarcasm.",
+      "probability": 0.995198518037796
+    },
+    {
+      "start": 7.42,
+      "end": 7.56,
+      "text": "I",
+      "probability": 0.9977992177009583
+    },
+    {
+      "start": 7.56,
+      "end": 7.92,
+      "text": "wanted",
+      "probability": 0.9979749321937561
+    },
+    {
+      "start": 7.92,
+      "end": 8.16,
+      "text": "us",
+      "probability": 0.996778666973114
+    },
+    {
+      "start": 8.16,
+      "end": 8.3,
+      "text": "to",
+      "probability": 0.9993119239807129
+    },
+    {
+      "start": 8.3,
+      "end": 8.58,
+      "text": "keep",
+      "probability": 0.997671902179718
+    },
+    {
+      "start": 8.58,
+      "end": 8.9,
+      "text": "that",
+      "probability": 0.9992358684539795
+    },
+    {
+      "start": 8.9,
+      "end": 9.22,
+      "text": "one.",
+      "probability": 0.9970018267631531
+    }
+  ],
+  "text": "Oh good. There goes our pawn. Wonderful. That was sarcasm. I wanted us to keep that one."
+}

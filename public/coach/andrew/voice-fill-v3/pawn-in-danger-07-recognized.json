@@ -1,0 +1,77 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.365375,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.66,
+      "text": " Before admiring that move, check what can take our pond.",
+      "noSpeechProbability": 0.0011668053921312094
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.3,
+      "text": "Before",
+      "probability": 0.9445103406906128
+    },
+    {
+      "start": 0.3,
+      "end": 0.84,
+      "text": "admiring",
+      "probability": 0.9983959496021271
+    },
+    {
+      "start": 0.84,
+      "end": 1.22,
+      "text": "that",
+      "probability": 0.994346559047699
+    },
+    {
+      "start": 1.22,
+      "end": 1.58,
+      "text": "move,",
+      "probability": 0.9969603419303894
+    },
+    {
+      "start": 2.14,
+      "end": 2.36,
+      "text": "check",
+      "probability": 0.9959010481834412
+    },
+    {
+      "start": 2.36,
+      "end": 2.62,
+      "text": "what",
+      "probability": 0.9961239695549011
+    },
+    {
+      "start": 2.62,
+      "end": 2.82,
+      "text": "can",
+      "probability": 0.9971799850463867
+    },
+    {
+      "start": 2.82,
+      "end": 3.08,
+      "text": "take",
+      "probability": 0.9983152151107788
+    },
+    {
+      "start": 3.08,
+      "end": 3.3,
+      "text": "our",
+      "probability": 0.9885340332984924
+    },
+    {
+      "start": 3.3,
+      "end": 3.66,
+      "text": "pond.",
+      "probability": 0.8900620937347412
+    }
+  ],
+  "text": "Before admiring that move, check what can take our pond."
+}

@@ -1,0 +1,125 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.99075,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.68,
+      "text": " Could an exchange open a line toward a pond?",
+      "noSpeechProbability": 0.0020527520682662725
+    },
+    {
+      "start": 3.6,
+      "end": 5.38,
+      "text": " That is the sort of plan I like.",
+      "noSpeechProbability": 0.0020527520682662725
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.16,
+      "text": "Could",
+      "probability": 0.9555766582489014
+    },
+    {
+      "start": 0.16,
+      "end": 0.32,
+      "text": "an",
+      "probability": 0.6578187346458435
+    },
+    {
+      "start": 0.32,
+      "end": 0.6,
+      "text": "exchange",
+      "probability": 0.9843686819076538
+    },
+    {
+      "start": 0.6,
+      "end": 1.42,
+      "text": "open",
+      "probability": 0.9929574728012085
+    },
+    {
+      "start": 1.42,
+      "end": 1.6,
+      "text": "a",
+      "probability": 0.9914193153381348
+    },
+    {
+      "start": 1.6,
+      "end": 1.9,
+      "text": "line",
+      "probability": 0.9316034913063049
+    },
+    {
+      "start": 1.9,
+      "end": 2.2,
+      "text": "toward",
+      "probability": 0.9129024147987366
+    },
+    {
+      "start": 2.2,
+      "end": 2.34,
+      "text": "a",
+      "probability": 0.9764593243598938
+    },
+    {
+      "start": 2.34,
+      "end": 2.68,
+      "text": "pond?",
+      "probability": 0.6347046494483948
+    },
+    {
+      "start": 3.6,
+      "end": 3.74,
+      "text": "That",
+      "probability": 0.9873902797698975
+    },
+    {
+      "start": 3.74,
+      "end": 3.94,
+      "text": "is",
+      "probability": 0.9886888861656189
+    },
+    {
+      "start": 3.94,
+      "end": 4.12,
+      "text": "the",
+      "probability": 0.9928991794586182
+    },
+    {
+      "start": 4.12,
+      "end": 4.34,
+      "text": "sort",
+      "probability": 0.9962803721427917
+    },
+    {
+      "start": 4.34,
+      "end": 4.5,
+      "text": "of",
+      "probability": 0.9958181977272034
+    },
+    {
+      "start": 4.5,
+      "end": 4.78,
+      "text": "plan",
+      "probability": 0.9816848635673523
+    },
+    {
+      "start": 4.78,
+      "end": 5.06,
+      "text": "I",
+      "probability": 0.9850442409515381
+    },
+    {
+      "start": 5.06,
+      "end": 5.38,
+      "text": "like.",
+      "probability": 0.9864625334739685
+    }
+  ],
+  "text": "Could an exchange open a line toward a pond? That is the sort of plan I like."
+}

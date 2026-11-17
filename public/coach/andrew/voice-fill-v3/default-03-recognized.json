@@ -1,0 +1,95 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.3189375,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.86,
+      "text": " No pond that time? Tell me you are setting up to take one.",
+      "noSpeechProbability": 0.0025798706337809563
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.22,
+      "text": "No",
+      "probability": 0.7313985228538513
+    },
+    {
+      "start": 0.22,
+      "end": 0.44,
+      "text": "pond",
+      "probability": 0.4462006986141205
+    },
+    {
+      "start": 0.44,
+      "end": 0.78,
+      "text": "that",
+      "probability": 0.9942989349365234
+    },
+    {
+      "start": 0.78,
+      "end": 1.14,
+      "text": "time?",
+      "probability": 0.9986057877540588
+    },
+    {
+      "start": 1.9,
+      "end": 1.98,
+      "text": "Tell",
+      "probability": 0.9774678945541382
+    },
+    {
+      "start": 1.98,
+      "end": 2.2,
+      "text": "me",
+      "probability": 0.9974542260169983
+    },
+    {
+      "start": 2.2,
+      "end": 2.38,
+      "text": "you",
+      "probability": 0.9619969725608826
+    },
+    {
+      "start": 2.38,
+      "end": 2.48,
+      "text": "are",
+      "probability": 0.9102168679237366
+    },
+    {
+      "start": 2.48,
+      "end": 2.8,
+      "text": "setting",
+      "probability": 0.9967079162597656
+    },
+    {
+      "start": 2.8,
+      "end": 3.02,
+      "text": "up",
+      "probability": 0.9980661273002625
+    },
+    {
+      "start": 3.02,
+      "end": 3.22,
+      "text": "to",
+      "probability": 0.9935941100120544
+    },
+    {
+      "start": 3.22,
+      "end": 3.46,
+      "text": "take",
+      "probability": 0.9869818091392517
+    },
+    {
+      "start": 3.46,
+      "end": 3.86,
+      "text": "one.",
+      "probability": 0.9883481860160828
+    }
+  ],
+  "text": "No pond that time? Tell me you are setting up to take one."
+}

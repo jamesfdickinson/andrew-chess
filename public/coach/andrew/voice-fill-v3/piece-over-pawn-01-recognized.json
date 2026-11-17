@@ -1,0 +1,137 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 7.19825,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.88,
+      "text": " You took a piece, but you could have taken a pawn.",
+      "noSpeechProbability": 0.002479156944900751
+    },
+    {
+      "start": 3.58,
+      "end": 4.2,
+      "text": " Bad choice.",
+      "noSpeechProbability": 0.002479156944900751
+    },
+    {
+      "start": 5.04,
+      "end": 6.48,
+      "text": " The pawn was the prize.",
+      "noSpeechProbability": 0.002479156944900751
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.14,
+      "text": "You",
+      "probability": 0.8116133213043213
+    },
+    {
+      "start": 0.14,
+      "end": 0.36,
+      "text": "took",
+      "probability": 0.9985516667366028
+    },
+    {
+      "start": 0.36,
+      "end": 0.52,
+      "text": "a",
+      "probability": 0.9959233999252319
+    },
+    {
+      "start": 0.52,
+      "end": 0.8,
+      "text": "piece,",
+      "probability": 0.9858283996582031
+    },
+    {
+      "start": 1.28,
+      "end": 1.48,
+      "text": "but",
+      "probability": 0.9926163554191589
+    },
+    {
+      "start": 1.48,
+      "end": 1.66,
+      "text": "you",
+      "probability": 0.9951593279838562
+    },
+    {
+      "start": 1.66,
+      "end": 1.9,
+      "text": "could",
+      "probability": 0.9972118735313416
+    },
+    {
+      "start": 1.9,
+      "end": 2.04,
+      "text": "have",
+      "probability": 0.8269553780555725
+    },
+    {
+      "start": 2.04,
+      "end": 2.4,
+      "text": "taken",
+      "probability": 0.9951788187026978
+    },
+    {
+      "start": 2.4,
+      "end": 2.54,
+      "text": "a",
+      "probability": 0.9964053630828857
+    },
+    {
+      "start": 2.54,
+      "end": 2.88,
+      "text": "pawn.",
+      "probability": 0.8188791871070862
+    },
+    {
+      "start": 3.58,
+      "end": 3.8,
+      "text": "Bad",
+      "probability": 0.9839412569999695
+    },
+    {
+      "start": 3.8,
+      "end": 4.2,
+      "text": "choice.",
+      "probability": 0.9946999549865723
+    },
+    {
+      "start": 5.04,
+      "end": 5.14,
+      "text": "The",
+      "probability": 0.9946001768112183
+    },
+    {
+      "start": 5.14,
+      "end": 5.48,
+      "text": "pawn",
+      "probability": 0.9763264060020447
+    },
+    {
+      "start": 5.48,
+      "end": 5.8,
+      "text": "was",
+      "probability": 0.9992011189460754
+    },
+    {
+      "start": 5.8,
+      "end": 6.0,
+      "text": "the",
+      "probability": 0.9953423738479614
+    },
+    {
+      "start": 6.0,
+      "end": 6.48,
+      "text": "prize.",
+      "probability": 0.9923496246337891
+    }
+  ],
+  "text": "You took a piece, but you could have taken a pawn. Bad choice. The pawn was the prize."
+}

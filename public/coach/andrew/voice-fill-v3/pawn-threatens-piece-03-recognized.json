@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.3870625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.6,
+      "text": " Our pond has expensive taste. It is eyeing a much bigger piece.",
+      "noSpeechProbability": 0.0006376144010573626
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.2,
+      "text": "Our",
+      "probability": 0.8638980984687805
+    },
+    {
+      "start": 0.2,
+      "end": 0.42,
+      "text": "pond",
+      "probability": 0.8789745569229126
+    },
+    {
+      "start": 0.42,
+      "end": 0.78,
+      "text": "has",
+      "probability": 0.9984098672866821
+    },
+    {
+      "start": 0.78,
+      "end": 1.24,
+      "text": "expensive",
+      "probability": 0.9676750898361206
+    },
+    {
+      "start": 1.24,
+      "end": 1.9,
+      "text": "taste.",
+      "probability": 0.957973062992096
+    },
+    {
+      "start": 2.74,
+      "end": 2.76,
+      "text": "It",
+      "probability": 0.9888206720352173
+    },
+    {
+      "start": 2.76,
+      "end": 2.88,
+      "text": "is",
+      "probability": 0.9889794588088989
+    },
+    {
+      "start": 2.88,
+      "end": 3.22,
+      "text": "eyeing",
+      "probability": 0.9846150279045105
+    },
+    {
+      "start": 3.22,
+      "end": 3.48,
+      "text": "a",
+      "probability": 0.9940223097801208
+    },
+    {
+      "start": 3.48,
+      "end": 3.76,
+      "text": "much",
+      "probability": 0.9931848645210266
+    },
+    {
+      "start": 3.76,
+      "end": 4.28,
+      "text": "bigger",
+      "probability": 0.9981335997581482
+    },
+    {
+      "start": 4.28,
+      "end": 4.6,
+      "text": "piece.",
+      "probability": 0.9411536455154419
+    }
+  ],
+  "text": "Our pond has expensive taste. It is eyeing a much bigger piece."
+}

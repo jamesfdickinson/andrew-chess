@@ -1,0 +1,53 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 8.2663125,
+  "segments": [
+    {
+      "start": 1.42,
+      "end": 6.02,
+      "text": " On. Right. New plan. Take everything.",
+      "noSpeechProbability": 0.3419917821884155
+    }
+  ],
+  "words": [
+    {
+      "start": 1.42,
+      "end": 1.78,
+      "text": "On.",
+      "probability": 0.19387724995613098
+    },
+    {
+      "start": 2.46,
+      "end": 3.0,
+      "text": "Right.",
+      "probability": 0.9550588130950928
+    },
+    {
+      "start": 3.78,
+      "end": 4.24,
+      "text": "New",
+      "probability": 0.9810020923614502
+    },
+    {
+      "start": 4.24,
+      "end": 4.76,
+      "text": "plan.",
+      "probability": 0.9614376425743103
+    },
+    {
+      "start": 5.42,
+      "end": 5.68,
+      "text": "Take",
+      "probability": 0.9885665774345398
+    },
+    {
+      "start": 5.68,
+      "end": 6.02,
+      "text": "everything.",
+      "probability": 0.20271502435207367
+    }
+  ],
+  "text": "On. Right. New plan. Take everything."
+}

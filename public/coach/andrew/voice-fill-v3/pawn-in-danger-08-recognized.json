@@ -1,0 +1,83 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.2941875,
+  "segments": [
+    {
+      "start": 0.24,
+      "end": 4.66,
+      "text": " I like generous people. I do not like generous pawn placements.",
+      "noSpeechProbability": 0.07843059301376343
+    }
+  ],
+  "words": [
+    {
+      "start": 0.24,
+      "end": 0.4,
+      "text": "I",
+      "probability": 0.6621676087379456
+    },
+    {
+      "start": 0.4,
+      "end": 0.4,
+      "text": "like",
+      "probability": 0.37578126788139343
+    },
+    {
+      "start": 0.4,
+      "end": 0.78,
+      "text": "generous",
+      "probability": 0.9940894842147827
+    },
+    {
+      "start": 0.78,
+      "end": 1.3,
+      "text": "people.",
+      "probability": 0.9984591007232666
+    },
+    {
+      "start": 2.14,
+      "end": 2.22,
+      "text": "I",
+      "probability": 0.9966590404510498
+    },
+    {
+      "start": 2.22,
+      "end": 2.4,
+      "text": "do",
+      "probability": 0.9935747981071472
+    },
+    {
+      "start": 2.4,
+      "end": 2.72,
+      "text": "not",
+      "probability": 0.9649884700775146
+    },
+    {
+      "start": 2.72,
+      "end": 3.08,
+      "text": "like",
+      "probability": 0.9987812638282776
+    },
+    {
+      "start": 3.08,
+      "end": 3.56,
+      "text": "generous",
+      "probability": 0.9970340728759766
+    },
+    {
+      "start": 3.56,
+      "end": 3.88,
+      "text": "pawn",
+      "probability": 0.8196097016334534
+    },
+    {
+      "start": 3.88,
+      "end": 4.66,
+      "text": "placements.",
+      "probability": 0.9946856796741486
+    }
+  ],
+  "text": "I like generous people. I do not like generous pawn placements."
+}

@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.712125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.2,
+      "text": " That is one small capture for you, one enormous moment for me.",
+      "noSpeechProbability": 0.0061279404908418655
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.2,
+      "text": "That",
+      "probability": 0.8589804172515869
+    },
+    {
+      "start": 0.2,
+      "end": 0.36,
+      "text": "is",
+      "probability": 0.9747913479804993
+    },
+    {
+      "start": 0.36,
+      "end": 0.72,
+      "text": "one",
+      "probability": 0.9826723337173462
+    },
+    {
+      "start": 0.72,
+      "end": 1.24,
+      "text": "small",
+      "probability": 0.995677649974823
+    },
+    {
+      "start": 1.24,
+      "end": 1.64,
+      "text": "capture",
+      "probability": 0.9586002230644226
+    },
+    {
+      "start": 1.64,
+      "end": 2.08,
+      "text": "for",
+      "probability": 0.9962194561958313
+    },
+    {
+      "start": 2.08,
+      "end": 2.36,
+      "text": "you,",
+      "probability": 0.9958311915397644
+    },
+    {
+      "start": 2.86,
+      "end": 3.16,
+      "text": "one",
+      "probability": 0.9877603650093079
+    },
+    {
+      "start": 3.16,
+      "end": 3.72,
+      "text": "enormous",
+      "probability": 0.9969502091407776
+    },
+    {
+      "start": 3.72,
+      "end": 4.56,
+      "text": "moment",
+      "probability": 0.9981305003166199
+    },
+    {
+      "start": 4.56,
+      "end": 4.9,
+      "text": "for",
+      "probability": 0.9961540102958679
+    },
+    {
+      "start": 4.9,
+      "end": 5.2,
+      "text": "me.",
+      "probability": 0.9949098229408264
+    }
+  ],
+  "text": "That is one small capture for you, one enormous moment for me."
+}

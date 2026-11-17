@@ -1,0 +1,119 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.5728125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.52,
+      "text": " You had a pawn capture and chose something else.",
+      "noSpeechProbability": 0.001131211407482624
+    },
+    {
+      "start": 3.46,
+      "end": 4.96,
+      "text": " I am going to need a moment.",
+      "noSpeechProbability": 0.001131211407482624
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.16,
+      "text": "You",
+      "probability": 0.6815704107284546
+    },
+    {
+      "start": 0.16,
+      "end": 0.36,
+      "text": "had",
+      "probability": 0.9879202842712402
+    },
+    {
+      "start": 0.36,
+      "end": 0.44,
+      "text": "a",
+      "probability": 0.9789618849754333
+    },
+    {
+      "start": 0.44,
+      "end": 0.78,
+      "text": "pawn",
+      "probability": 0.8328015208244324
+    },
+    {
+      "start": 0.78,
+      "end": 1.3,
+      "text": "capture",
+      "probability": 0.985848069190979
+    },
+    {
+      "start": 1.3,
+      "end": 1.54,
+      "text": "and",
+      "probability": 0.9832610487937927
+    },
+    {
+      "start": 1.54,
+      "end": 1.76,
+      "text": "chose",
+      "probability": 0.9734137654304504
+    },
+    {
+      "start": 1.76,
+      "end": 2.22,
+      "text": "something",
+      "probability": 0.9983586668968201
+    },
+    {
+      "start": 2.22,
+      "end": 2.52,
+      "text": "else.",
+      "probability": 0.9980770349502563
+    },
+    {
+      "start": 3.46,
+      "end": 3.8,
+      "text": "I",
+      "probability": 0.9929355978965759
+    },
+    {
+      "start": 3.8,
+      "end": 3.92,
+      "text": "am",
+      "probability": 0.9284459948539734
+    },
+    {
+      "start": 3.92,
+      "end": 4.14,
+      "text": "going",
+      "probability": 0.9979023933410645
+    },
+    {
+      "start": 4.14,
+      "end": 4.32,
+      "text": "to",
+      "probability": 0.997174859046936
+    },
+    {
+      "start": 4.32,
+      "end": 4.52,
+      "text": "need",
+      "probability": 0.9974009990692139
+    },
+    {
+      "start": 4.52,
+      "end": 4.66,
+      "text": "a",
+      "probability": 0.9962448477745056
+    },
+    {
+      "start": 4.66,
+      "end": 4.96,
+      "text": "moment.",
+      "probability": 0.9991650581359863
+    }
+  ],
+  "text": "You had a pawn capture and chose something else. I am going to need a moment."
+}

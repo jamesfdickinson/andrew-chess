@@ -1,0 +1,95 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.712125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.94,
+      "text": " Look at that pond bossing the big pieces around.",
+      "noSpeechProbability": 0.0013619465753436089
+    },
+    {
+      "start": 3.6,
+      "end": 4.78,
+      "text": " That is leadership.",
+      "noSpeechProbability": 0.0013619465753436089
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.2,
+      "text": "Look",
+      "probability": 0.9043562412261963
+    },
+    {
+      "start": 0.2,
+      "end": 0.36,
+      "text": "at",
+      "probability": 0.9969063401222229
+    },
+    {
+      "start": 0.36,
+      "end": 0.56,
+      "text": "that",
+      "probability": 0.9834012985229492
+    },
+    {
+      "start": 0.56,
+      "end": 0.88,
+      "text": "pond",
+      "probability": 0.93376225233078
+    },
+    {
+      "start": 0.88,
+      "end": 1.64,
+      "text": "bossing",
+      "probability": 0.770148366689682
+    },
+    {
+      "start": 1.64,
+      "end": 1.78,
+      "text": "the",
+      "probability": 0.9900621175765991
+    },
+    {
+      "start": 1.78,
+      "end": 2.1,
+      "text": "big",
+      "probability": 0.9923996329307556
+    },
+    {
+      "start": 2.1,
+      "end": 2.48,
+      "text": "pieces",
+      "probability": 0.9937607645988464
+    },
+    {
+      "start": 2.48,
+      "end": 2.94,
+      "text": "around.",
+      "probability": 0.9962546825408936
+    },
+    {
+      "start": 3.6,
+      "end": 3.84,
+      "text": "That",
+      "probability": 0.9805375933647156
+    },
+    {
+      "start": 3.84,
+      "end": 4.16,
+      "text": "is",
+      "probability": 0.9913233518600464
+    },
+    {
+      "start": 4.16,
+      "end": 4.78,
+      "text": "leadership.",
+      "probability": 0.8861608505249023
+    }
+  ],
+  "text": "Look at that pond bossing the big pieces around. That is leadership."
+}

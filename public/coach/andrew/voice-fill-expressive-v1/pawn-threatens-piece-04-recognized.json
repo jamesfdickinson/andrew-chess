@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 6.083625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": " A little pawn, a big threat.",
+      "noSpeechProbability": 0.0033012526109814644
+    },
+    {
+      "start": 3.44,
+      "end": 5.4,
+      "text": " Never underestimate the little ones.",
+      "noSpeechProbability": 0.0033012526109814644
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.12,
+      "text": "A",
+      "probability": 0.6754065155982971
+    },
+    {
+      "start": 0.12,
+      "end": 0.44,
+      "text": "little",
+      "probability": 0.9336889386177063
+    },
+    {
+      "start": 0.44,
+      "end": 0.84,
+      "text": "pawn,",
+      "probability": 0.5044851899147034
+    },
+    {
+      "start": 1.32,
+      "end": 1.4,
+      "text": "a",
+      "probability": 0.9777109026908875
+    },
+    {
+      "start": 1.4,
+      "end": 1.8,
+      "text": "big",
+      "probability": 0.9916816353797913
+    },
+    {
+      "start": 1.8,
+      "end": 2.3,
+      "text": "threat.",
+      "probability": 0.9955600500106812
+    },
+    {
+      "start": 3.44,
+      "end": 3.44,
+      "text": "Never",
+      "probability": 0.9908096790313721
+    },
+    {
+      "start": 3.44,
+      "end": 4.14,
+      "text": "underestimate",
+      "probability": 0.9958642721176147
+    },
+    {
+      "start": 4.14,
+      "end": 4.64,
+      "text": "the",
+      "probability": 0.9943318367004395
+    },
+    {
+      "start": 4.64,
+      "end": 4.98,
+      "text": "little",
+      "probability": 0.9787726402282715
+    },
+    {
+      "start": 4.98,
+      "end": 5.4,
+      "text": "ones.",
+      "probability": 0.9776470065116882
+    }
+  ],
+  "text": "A little pawn, a big threat. Never underestimate the little ones."
+}

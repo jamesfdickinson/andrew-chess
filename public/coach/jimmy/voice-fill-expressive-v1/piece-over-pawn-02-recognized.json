@@ -1,0 +1,101 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 7.19825,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.62,
+      "text": " A stronger piece? Sure. A better choice than the pawn? Not in my book.",
+      "noSpeechProbability": 0.0018698093481361866
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.12,
+      "text": "A",
+      "probability": 0.8315122127532959
+    },
+    {
+      "start": 0.12,
+      "end": 0.48,
+      "text": "stronger",
+      "probability": 0.9925014972686768
+    },
+    {
+      "start": 0.48,
+      "end": 0.94,
+      "text": "piece?",
+      "probability": 0.9427486062049866
+    },
+    {
+      "start": 2.02,
+      "end": 2.08,
+      "text": "Sure.",
+      "probability": 0.9687305688858032
+    },
+    {
+      "start": 3.12,
+      "end": 3.24,
+      "text": "A",
+      "probability": 0.9916601777076721
+    },
+    {
+      "start": 3.24,
+      "end": 3.54,
+      "text": "better",
+      "probability": 0.9979745745658875
+    },
+    {
+      "start": 3.54,
+      "end": 3.88,
+      "text": "choice",
+      "probability": 0.9960319399833679
+    },
+    {
+      "start": 3.88,
+      "end": 4.24,
+      "text": "than",
+      "probability": 0.9931098222732544
+    },
+    {
+      "start": 4.24,
+      "end": 4.34,
+      "text": "the",
+      "probability": 0.958861231803894
+    },
+    {
+      "start": 4.34,
+      "end": 4.6,
+      "text": "pawn?",
+      "probability": 0.49945271015167236
+    },
+    {
+      "start": 5.82,
+      "end": 5.88,
+      "text": "Not",
+      "probability": 0.9840831160545349
+    },
+    {
+      "start": 5.88,
+      "end": 6.1,
+      "text": "in",
+      "probability": 0.9895660877227783
+    },
+    {
+      "start": 6.1,
+      "end": 6.3,
+      "text": "my",
+      "probability": 0.9977802634239197
+    },
+    {
+      "start": 6.3,
+      "end": 6.62,
+      "text": "book.",
+      "probability": 0.9989836812019348
+    }
+  ],
+  "text": "A stronger piece? Sure. A better choice than the pawn? Not in my book."
+}

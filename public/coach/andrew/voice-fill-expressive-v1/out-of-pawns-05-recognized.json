@@ -1,0 +1,77 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 10.449,
+  "segments": [
+    {
+      "start": 2.38,
+      "end": 6.82,
+      "text": " Run. Make those fancy pieces earn their keep.",
+      "noSpeechProbability": 0.10497681796550751
+    },
+    {
+      "start": 9.58,
+      "end": 10.08,
+      "text": " Uns.",
+      "noSpeechProbability": 0.10497681796550751
+    }
+  ],
+  "words": [
+    {
+      "start": 2.38,
+      "end": 2.72,
+      "text": "Run.",
+      "probability": 0.066249318420887
+    },
+    {
+      "start": 3.48,
+      "end": 4.12,
+      "text": "Make",
+      "probability": 0.9878003597259521
+    },
+    {
+      "start": 4.12,
+      "end": 4.4,
+      "text": "those",
+      "probability": 0.995236337184906
+    },
+    {
+      "start": 4.4,
+      "end": 4.84,
+      "text": "fancy",
+      "probability": 0.9962823987007141
+    },
+    {
+      "start": 4.84,
+      "end": 5.62,
+      "text": "pieces",
+      "probability": 0.9926477670669556
+    },
+    {
+      "start": 5.62,
+      "end": 6.1,
+      "text": "earn",
+      "probability": 0.9553009271621704
+    },
+    {
+      "start": 6.1,
+      "end": 6.44,
+      "text": "their",
+      "probability": 0.9745290875434875
+    },
+    {
+      "start": 6.44,
+      "end": 6.82,
+      "text": "keep.",
+      "probability": 0.7829165458679199
+    },
+    {
+      "start": 9.58,
+      "end": 10.08,
+      "text": "Uns.",
+      "probability": 0.5764691606163979
+    }
+  ],
+  "text": "Run. Make those fancy pieces earn their keep. Uns."
+}

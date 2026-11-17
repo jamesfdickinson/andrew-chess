@@ -1,0 +1,77 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.5728125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.68,
+      "text": " Your pawn is protecting a teammate. Small piece, big responsibility.",
+      "noSpeechProbability": 0.0022655336651951075
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.14,
+      "text": "Your",
+      "probability": 0.781090259552002
+    },
+    {
+      "start": 0.14,
+      "end": 0.42,
+      "text": "pawn",
+      "probability": 0.4851062595844269
+    },
+    {
+      "start": 0.42,
+      "end": 0.7,
+      "text": "is",
+      "probability": 0.9970728158950806
+    },
+    {
+      "start": 0.7,
+      "end": 1.12,
+      "text": "protecting",
+      "probability": 0.9976750016212463
+    },
+    {
+      "start": 1.12,
+      "end": 1.44,
+      "text": "a",
+      "probability": 0.9870707392692566
+    },
+    {
+      "start": 1.44,
+      "end": 1.62,
+      "text": "teammate.",
+      "probability": 0.9566463232040405
+    },
+    {
+      "start": 2.84,
+      "end": 2.84,
+      "text": "Small",
+      "probability": 0.9857425689697266
+    },
+    {
+      "start": 2.84,
+      "end": 3.16,
+      "text": "piece,",
+      "probability": 0.9461450576782227
+    },
+    {
+      "start": 3.78,
+      "end": 3.9,
+      "text": "big",
+      "probability": 0.9817851781845093
+    },
+    {
+      "start": 3.9,
+      "end": 4.68,
+      "text": "responsibility.",
+      "probability": 0.993842601776123
+    }
+  ],
+  "text": "Your pawn is protecting a teammate. Small piece, big responsibility."
+}

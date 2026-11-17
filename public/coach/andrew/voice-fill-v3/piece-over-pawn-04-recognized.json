@@ -1,0 +1,107 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 7.15175,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.46,
+      "text": " That capture had everything except the one thing I wanted, the pawn you left behind.",
+      "noSpeechProbability": 0.0017825440736487508
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.28,
+      "text": "That",
+      "probability": 0.8865759372711182
+    },
+    {
+      "start": 0.28,
+      "end": 0.78,
+      "text": "capture",
+      "probability": 0.9423026442527771
+    },
+    {
+      "start": 0.78,
+      "end": 1.16,
+      "text": "had",
+      "probability": 0.9887843132019043
+    },
+    {
+      "start": 1.16,
+      "end": 1.8,
+      "text": "everything",
+      "probability": 0.9725983142852783
+    },
+    {
+      "start": 1.8,
+      "end": 2.38,
+      "text": "except",
+      "probability": 0.9678804278373718
+    },
+    {
+      "start": 2.38,
+      "end": 2.76,
+      "text": "the",
+      "probability": 0.9920376539230347
+    },
+    {
+      "start": 2.76,
+      "end": 3.1,
+      "text": "one",
+      "probability": 0.9617633819580078
+    },
+    {
+      "start": 3.1,
+      "end": 3.46,
+      "text": "thing",
+      "probability": 0.9962396621704102
+    },
+    {
+      "start": 3.46,
+      "end": 3.68,
+      "text": "I",
+      "probability": 0.9580878615379333
+    },
+    {
+      "start": 3.68,
+      "end": 3.94,
+      "text": "wanted,",
+      "probability": 0.998117208480835
+    },
+    {
+      "start": 4.66,
+      "end": 4.76,
+      "text": "the",
+      "probability": 0.9856107234954834
+    },
+    {
+      "start": 4.76,
+      "end": 5.14,
+      "text": "pawn",
+      "probability": 0.8271116614341736
+    },
+    {
+      "start": 5.14,
+      "end": 5.44,
+      "text": "you",
+      "probability": 0.9920489192008972
+    },
+    {
+      "start": 5.44,
+      "end": 5.76,
+      "text": "left",
+      "probability": 0.9987454414367676
+    },
+    {
+      "start": 5.76,
+      "end": 6.46,
+      "text": "behind.",
+      "probability": 0.998559296131134
+    }
+  ],
+  "text": "That capture had everything except the one thing I wanted, the pawn you left behind."
+}

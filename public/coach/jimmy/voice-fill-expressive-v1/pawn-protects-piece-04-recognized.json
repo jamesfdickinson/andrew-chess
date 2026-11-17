@@ -1,0 +1,71 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 3.575875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.96,
+      "text": " Look at that teamwork. The pawn has your back.",
+      "noSpeechProbability": 0.001072241342626512
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.22,
+      "text": "Look",
+      "probability": 0.7662886381149292
+    },
+    {
+      "start": 0.22,
+      "end": 0.36,
+      "text": "at",
+      "probability": 0.9966939687728882
+    },
+    {
+      "start": 0.36,
+      "end": 0.52,
+      "text": "that",
+      "probability": 0.9894065260887146
+    },
+    {
+      "start": 0.52,
+      "end": 1.08,
+      "text": "teamwork.",
+      "probability": 0.9502981901168823
+    },
+    {
+      "start": 1.78,
+      "end": 1.82,
+      "text": "The",
+      "probability": 0.982134222984314
+    },
+    {
+      "start": 1.82,
+      "end": 2.14,
+      "text": "pawn",
+      "probability": 0.49572572112083435
+    },
+    {
+      "start": 2.14,
+      "end": 2.44,
+      "text": "has",
+      "probability": 0.9976428151130676
+    },
+    {
+      "start": 2.44,
+      "end": 2.6,
+      "text": "your",
+      "probability": 0.9892592430114746
+    },
+    {
+      "start": 2.6,
+      "end": 2.96,
+      "text": "back.",
+      "probability": 0.9983662962913513
+    }
+  ],
+  "text": "Look at that teamwork. The pawn has your back."
+}

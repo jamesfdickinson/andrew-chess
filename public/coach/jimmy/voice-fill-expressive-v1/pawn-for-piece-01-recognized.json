@@ -1,0 +1,137 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 7.058875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.42,
+      "text": " You traded our pawn for a bigger piece?",
+      "noSpeechProbability": 0.0010175262577831745
+    },
+    {
+      "start": 3.36,
+      "end": 3.98,
+      "text": " Bad trade.",
+      "noSpeechProbability": 0.0010175262577831745
+    },
+    {
+      "start": 5.12,
+      "end": 6.46,
+      "text": " I wanted to keep the pawn.",
+      "noSpeechProbability": 0.0010175262577831745
+    },
+    {
+      "start": 6.46,
+      "end": 6.6,
+      "text": " on.",
+      "noSpeechProbability": 0.549730658531189
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.14,
+      "text": "You",
+      "probability": 0.6841462850570679
+    },
+    {
+      "start": 0.14,
+      "end": 0.46,
+      "text": "traded",
+      "probability": 0.9957601428031921
+    },
+    {
+      "start": 0.46,
+      "end": 0.76,
+      "text": "our",
+      "probability": 0.9881938695907593
+    },
+    {
+      "start": 0.76,
+      "end": 1.06,
+      "text": "pawn",
+      "probability": 0.8563825488090515
+    },
+    {
+      "start": 1.06,
+      "end": 1.46,
+      "text": "for",
+      "probability": 0.9985702037811279
+    },
+    {
+      "start": 1.46,
+      "end": 1.6,
+      "text": "a",
+      "probability": 0.997533917427063
+    },
+    {
+      "start": 1.6,
+      "end": 1.92,
+      "text": "bigger",
+      "probability": 0.9966529011726379
+    },
+    {
+      "start": 1.92,
+      "end": 2.42,
+      "text": "piece?",
+      "probability": 0.9944344162940979
+    },
+    {
+      "start": 3.36,
+      "end": 3.64,
+      "text": "Bad",
+      "probability": 0.9781004190444946
+    },
+    {
+      "start": 3.64,
+      "end": 3.98,
+      "text": "trade.",
+      "probability": 0.9878843426704407
+    },
+    {
+      "start": 5.12,
+      "end": 5.18,
+      "text": "I",
+      "probability": 0.9951251149177551
+    },
+    {
+      "start": 5.18,
+      "end": 5.42,
+      "text": "wanted",
+      "probability": 0.9930022358894348
+    },
+    {
+      "start": 5.42,
+      "end": 5.6,
+      "text": "to",
+      "probability": 0.998286783695221
+    },
+    {
+      "start": 5.6,
+      "end": 5.88,
+      "text": "keep",
+      "probability": 0.9981903433799744
+    },
+    {
+      "start": 5.88,
+      "end": 6.1,
+      "text": "the",
+      "probability": 0.9977522492408752
+    },
+    {
+      "start": 6.1,
+      "end": 6.46,
+      "text": "pawn.",
+      "probability": 0.9971639513969421
+    },
+    {
+      "start": 6.46,
+      "end": 6.6,
+      "text": "on.",
+      "probability": 0.22121375799179077
+    }
+  ],
+  "text": "You traded our pawn for a bigger piece? Bad trade. I wanted to keep the pawn. on."
+}

@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.7585625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.9,
+      "text": " We just lost a pawn! A pawn! Please look after the collection.",
+      "noSpeechProbability": 0.0025158023927360773
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.14,
+      "text": "We",
+      "probability": 0.8522021770477295
+    },
+    {
+      "start": 0.14,
+      "end": 0.32,
+      "text": "just",
+      "probability": 0.9903092980384827
+    },
+    {
+      "start": 0.32,
+      "end": 0.62,
+      "text": "lost",
+      "probability": 0.9991043210029602
+    },
+    {
+      "start": 0.62,
+      "end": 0.86,
+      "text": "a",
+      "probability": 0.8286486268043518
+    },
+    {
+      "start": 0.86,
+      "end": 1.26,
+      "text": "pawn!",
+      "probability": 0.5659548044204712
+    },
+    {
+      "start": 1.94,
+      "end": 1.98,
+      "text": "A",
+      "probability": 0.8955689668655396
+    },
+    {
+      "start": 1.98,
+      "end": 2.4,
+      "text": "pawn!",
+      "probability": 0.5542235970497131
+    },
+    {
+      "start": 3.32,
+      "end": 3.58,
+      "text": "Please",
+      "probability": 0.9695842266082764
+    },
+    {
+      "start": 3.58,
+      "end": 3.94,
+      "text": "look",
+      "probability": 0.9847341179847717
+    },
+    {
+      "start": 3.94,
+      "end": 4.22,
+      "text": "after",
+      "probability": 0.9974338412284851
+    },
+    {
+      "start": 4.22,
+      "end": 4.5,
+      "text": "the",
+      "probability": 0.9964596629142761
+    },
+    {
+      "start": 4.5,
+      "end": 4.9,
+      "text": "collection.",
+      "probability": 0.9839484095573425
+    }
+  ],
+  "text": "We just lost a pawn! A pawn! Please look after the collection."
+}

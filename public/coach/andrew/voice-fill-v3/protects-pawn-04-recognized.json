@@ -1,0 +1,83 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.2725,
+  "segments": [
+    {
+      "start": 0.05,
+      "end": 2.03,
+      "text": " That pawn is not on its own anymore.",
+      "noSpeechProbability": 0.0014024290721863508
+    },
+    {
+      "start": 2.97,
+      "end": 3.41,
+      "text": " Nice teamwork!",
+      "noSpeechProbability": 0.0014024290721863508
+    }
+  ],
+  "words": [
+    {
+      "start": 0.05,
+      "end": 0.25,
+      "text": "That",
+      "probability": 0.830715000629425
+    },
+    {
+      "start": 0.25,
+      "end": 0.49,
+      "text": "pawn",
+      "probability": 0.6515839695930481
+    },
+    {
+      "start": 0.49,
+      "end": 0.77,
+      "text": "is",
+      "probability": 0.9924466609954834
+    },
+    {
+      "start": 0.77,
+      "end": 1.03,
+      "text": "not",
+      "probability": 0.98996502161026
+    },
+    {
+      "start": 1.03,
+      "end": 1.27,
+      "text": "on",
+      "probability": 0.9933353662490845
+    },
+    {
+      "start": 1.27,
+      "end": 1.47,
+      "text": "its",
+      "probability": 0.8723951578140259
+    },
+    {
+      "start": 1.47,
+      "end": 1.69,
+      "text": "own",
+      "probability": 0.9995107650756836
+    },
+    {
+      "start": 1.69,
+      "end": 2.03,
+      "text": "anymore.",
+      "probability": 0.9547221660614014
+    },
+    {
+      "start": 2.97,
+      "end": 2.99,
+      "text": "Nice",
+      "probability": 0.9822530746459961
+    },
+    {
+      "start": 2.99,
+      "end": 3.41,
+      "text": "teamwork!",
+      "probability": 0.9901164174079895
+    }
+  ],
+  "text": "That pawn is not on its own anymore. Nice teamwork!"
+}

@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 6.3623125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.84,
+      "text": " Upon helping another piece, generous, considering who does all the real work.",
+      "noSpeechProbability": 0.006621971260756254
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.38,
+      "text": "Upon",
+      "probability": 0.8981017470359802
+    },
+    {
+      "start": 0.38,
+      "end": 0.88,
+      "text": "helping",
+      "probability": 0.9939653277397156
+    },
+    {
+      "start": 0.88,
+      "end": 1.32,
+      "text": "another",
+      "probability": 0.9944597482681274
+    },
+    {
+      "start": 1.32,
+      "end": 1.72,
+      "text": "piece,",
+      "probability": 0.9177033305168152
+    },
+    {
+      "start": 2.42,
+      "end": 2.86,
+      "text": "generous,",
+      "probability": 0.9872820973396301
+    },
+    {
+      "start": 3.58,
+      "end": 3.96,
+      "text": "considering",
+      "probability": 0.99542635679245
+    },
+    {
+      "start": 3.96,
+      "end": 4.4,
+      "text": "who",
+      "probability": 0.9934899806976318
+    },
+    {
+      "start": 4.4,
+      "end": 4.62,
+      "text": "does",
+      "probability": 0.9979435801506042
+    },
+    {
+      "start": 4.62,
+      "end": 4.92,
+      "text": "all",
+      "probability": 0.9978334307670593
+    },
+    {
+      "start": 4.92,
+      "end": 5.1,
+      "text": "the",
+      "probability": 0.9889055490493774
+    },
+    {
+      "start": 5.1,
+      "end": 5.38,
+      "text": "real",
+      "probability": 0.9920847415924072
+    },
+    {
+      "start": 5.38,
+      "end": 5.84,
+      "text": "work.",
+      "probability": 0.9988858103752136
+    }
+  ],
+  "text": "Upon helping another piece, generous, considering who does all the real work."
+}

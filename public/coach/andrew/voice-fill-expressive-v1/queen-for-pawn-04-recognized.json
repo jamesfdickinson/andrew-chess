@@ -1,0 +1,59 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 7.15175,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.3,
+      "text": " Let them in! We have excellent business!",
+      "noSpeechProbability": 0.01150134764611721
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.24,
+      "text": "Let",
+      "probability": 0.7724177837371826
+    },
+    {
+      "start": 0.24,
+      "end": 0.48,
+      "text": "them",
+      "probability": 0.7224627137184143
+    },
+    {
+      "start": 1.79,
+      "end": 2.03,
+      "text": "in!",
+      "probability": 0.858475923538208
+    },
+    {
+      "start": 2.87,
+      "end": 2.97,
+      "text": "We",
+      "probability": 0.8672887682914734
+    },
+    {
+      "start": 2.97,
+      "end": 3.31,
+      "text": "have",
+      "probability": 0.19728203117847443
+    },
+    {
+      "start": 5.46,
+      "end": 5.76,
+      "text": "excellent",
+      "probability": 0.4312772750854492
+    },
+    {
+      "start": 5.76,
+      "end": 6.3,
+      "text": "business!",
+      "probability": 0.9895933866500854
+    }
+  ],
+  "text": "Let them in! We have excellent business!"
+}

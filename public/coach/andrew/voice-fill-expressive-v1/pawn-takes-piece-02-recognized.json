@@ -1,0 +1,65 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.61925,
+  "segments": [
+    {
+      "start": 0.21,
+      "end": 4.91,
+      "text": " That is Pawn Power, small piece, enormous ambition.",
+      "noSpeechProbability": 0.016092782840132713
+    }
+  ],
+  "words": [
+    {
+      "start": 0.21,
+      "end": 0.35,
+      "text": "That",
+      "probability": 0.63988196849823
+    },
+    {
+      "start": 0.35,
+      "end": 0.57,
+      "text": "is",
+      "probability": 0.9877646565437317
+    },
+    {
+      "start": 0.57,
+      "end": 1.05,
+      "text": "Pawn",
+      "probability": 0.4426230862736702
+    },
+    {
+      "start": 1.05,
+      "end": 1.61,
+      "text": "Power,",
+      "probability": 0.8822810053825378
+    },
+    {
+      "start": 2.35,
+      "end": 2.63,
+      "text": "small",
+      "probability": 0.31406405568122864
+    },
+    {
+      "start": 2.63,
+      "end": 3.11,
+      "text": "piece,",
+      "probability": 0.9431996941566467
+    },
+    {
+      "start": 3.55,
+      "end": 3.91,
+      "text": "enormous",
+      "probability": 0.9861851334571838
+    },
+    {
+      "start": 3.91,
+      "end": 4.91,
+      "text": "ambition.",
+      "probability": 0.9949744939804077
+    }
+  ],
+  "text": "That is Pawn Power, small piece, enormous ambition."
+}

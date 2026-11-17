@@ -1,0 +1,83 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.6656875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.16,
+      "text": " Queens get all the attention. Pawns deserve yours. Go get one.",
+      "noSpeechProbability": 0.0021537148859351873
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.28,
+      "text": "Queens",
+      "probability": 0.8235328793525696
+    },
+    {
+      "start": 0.28,
+      "end": 0.62,
+      "text": "get",
+      "probability": 0.9865054488182068
+    },
+    {
+      "start": 0.62,
+      "end": 0.98,
+      "text": "all",
+      "probability": 0.9900817275047302
+    },
+    {
+      "start": 0.98,
+      "end": 1.18,
+      "text": "the",
+      "probability": 0.9881325364112854
+    },
+    {
+      "start": 1.18,
+      "end": 1.62,
+      "text": "attention.",
+      "probability": 0.9986147880554199
+    },
+    {
+      "start": 2.54,
+      "end": 2.86,
+      "text": "Pawns",
+      "probability": 0.7011889219284058
+    },
+    {
+      "start": 2.86,
+      "end": 3.08,
+      "text": "deserve",
+      "probability": 0.9943907856941223
+    },
+    {
+      "start": 3.08,
+      "end": 3.66,
+      "text": "yours.",
+      "probability": 0.9888678789138794
+    },
+    {
+      "start": 4.5,
+      "end": 4.54,
+      "text": "Go",
+      "probability": 0.9957791566848755
+    },
+    {
+      "start": 4.54,
+      "end": 4.82,
+      "text": "get",
+      "probability": 0.9922702312469482
+    },
+    {
+      "start": 4.82,
+      "end": 5.16,
+      "text": "one.",
+      "probability": 0.9931386113166809
+    }
+  ],
+  "text": "Queens get all the attention. Pawns deserve yours. Go get one."
+}

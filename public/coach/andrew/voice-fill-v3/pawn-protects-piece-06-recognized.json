@@ -1,0 +1,95 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.365375,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " Protected by a pawn, that is the kind of insurance I believe in.",
+      "noSpeechProbability": 0.0015388715546578169
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.38,
+      "text": "Protected",
+      "probability": 0.8750664591789246
+    },
+    {
+      "start": 0.38,
+      "end": 0.74,
+      "text": "by",
+      "probability": 0.9953327775001526
+    },
+    {
+      "start": 0.74,
+      "end": 0.9,
+      "text": "a",
+      "probability": 0.8066397905349731
+    },
+    {
+      "start": 0.9,
+      "end": 1.18,
+      "text": "pawn,",
+      "probability": 0.783685564994812
+    },
+    {
+      "start": 1.78,
+      "end": 1.94,
+      "text": "that",
+      "probability": 0.9842447638511658
+    },
+    {
+      "start": 1.94,
+      "end": 2.1,
+      "text": "is",
+      "probability": 0.9917586445808411
+    },
+    {
+      "start": 2.1,
+      "end": 2.24,
+      "text": "the",
+      "probability": 0.9963226318359375
+    },
+    {
+      "start": 2.24,
+      "end": 2.48,
+      "text": "kind",
+      "probability": 0.9959533214569092
+    },
+    {
+      "start": 2.48,
+      "end": 2.62,
+      "text": "of",
+      "probability": 0.997374415397644
+    },
+    {
+      "start": 2.62,
+      "end": 2.96,
+      "text": "insurance",
+      "probability": 0.9900250434875488
+    },
+    {
+      "start": 2.96,
+      "end": 3.34,
+      "text": "I",
+      "probability": 0.9406145215034485
+    },
+    {
+      "start": 3.34,
+      "end": 3.66,
+      "text": "believe",
+      "probability": 0.9986070990562439
+    },
+    {
+      "start": 3.66,
+      "end": 4.0,
+      "text": "in.",
+      "probability": 0.9959571957588196
+    }
+  ],
+  "text": "Protected by a pawn, that is the kind of insurance I believe in."
+}

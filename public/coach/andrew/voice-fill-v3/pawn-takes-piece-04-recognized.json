@@ -1,0 +1,95 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 6.03725,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.18,
+      "text": " All that fancy equipment defeated by a pawn.",
+      "noSpeechProbability": 0.001995083410292864
+    },
+    {
+      "start": 4.08,
+      "end": 5.4,
+      "text": " I love this game.",
+      "noSpeechProbability": 0.001995083410292864
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.24,
+      "text": "All",
+      "probability": 0.7405698895454407
+    },
+    {
+      "start": 0.24,
+      "end": 0.46,
+      "text": "that",
+      "probability": 0.9816321134567261
+    },
+    {
+      "start": 0.46,
+      "end": 0.8,
+      "text": "fancy",
+      "probability": 0.9955703616142273
+    },
+    {
+      "start": 0.8,
+      "end": 1.46,
+      "text": "equipment",
+      "probability": 0.9980061650276184
+    },
+    {
+      "start": 1.46,
+      "end": 2.24,
+      "text": "defeated",
+      "probability": 0.686298668384552
+    },
+    {
+      "start": 2.24,
+      "end": 2.72,
+      "text": "by",
+      "probability": 0.998458743095398
+    },
+    {
+      "start": 2.72,
+      "end": 2.86,
+      "text": "a",
+      "probability": 0.8940914273262024
+    },
+    {
+      "start": 2.86,
+      "end": 3.18,
+      "text": "pawn.",
+      "probability": 0.7632490992546082
+    },
+    {
+      "start": 4.08,
+      "end": 4.2,
+      "text": "I",
+      "probability": 0.9927151799201965
+    },
+    {
+      "start": 4.2,
+      "end": 4.6,
+      "text": "love",
+      "probability": 0.9395685195922852
+    },
+    {
+      "start": 4.6,
+      "end": 5.0,
+      "text": "this",
+      "probability": 0.9973700046539307
+    },
+    {
+      "start": 5.0,
+      "end": 5.4,
+      "text": "game.",
+      "probability": 0.9994484782218933
+    }
+  ],
+  "text": "All that fancy equipment defeated by a pawn. I love this game."
+}

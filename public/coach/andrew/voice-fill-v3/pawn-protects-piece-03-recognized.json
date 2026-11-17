@@ -1,0 +1,101 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.4335,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.52,
+      "text": " That piece has a pawn looking after it now.",
+      "noSpeechProbability": 0.0015576690202578902
+    },
+    {
+      "start": 3.5,
+      "end": 4.58,
+      "text": " Excellent choice of security.",
+      "noSpeechProbability": 0.0015576690202578902
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.22,
+      "text": "That",
+      "probability": 0.8989958763122559
+    },
+    {
+      "start": 0.22,
+      "end": 0.46,
+      "text": "piece",
+      "probability": 0.9524089097976685
+    },
+    {
+      "start": 0.46,
+      "end": 0.78,
+      "text": "has",
+      "probability": 0.9982642531394958
+    },
+    {
+      "start": 0.78,
+      "end": 0.92,
+      "text": "a",
+      "probability": 0.9897812604904175
+    },
+    {
+      "start": 0.92,
+      "end": 1.18,
+      "text": "pawn",
+      "probability": 0.8504148125648499
+    },
+    {
+      "start": 1.18,
+      "end": 1.58,
+      "text": "looking",
+      "probability": 0.9688403010368347
+    },
+    {
+      "start": 1.58,
+      "end": 2.04,
+      "text": "after",
+      "probability": 0.9991132616996765
+    },
+    {
+      "start": 2.04,
+      "end": 2.26,
+      "text": "it",
+      "probability": 0.9949681162834167
+    },
+    {
+      "start": 2.26,
+      "end": 2.52,
+      "text": "now.",
+      "probability": 0.9824640154838562
+    },
+    {
+      "start": 3.5,
+      "end": 3.5,
+      "text": "Excellent",
+      "probability": 0.9618750810623169
+    },
+    {
+      "start": 3.5,
+      "end": 3.9,
+      "text": "choice",
+      "probability": 0.9951539039611816
+    },
+    {
+      "start": 3.9,
+      "end": 4.18,
+      "text": "of",
+      "probability": 0.9992589354515076
+    },
+    {
+      "start": 4.18,
+      "end": 4.58,
+      "text": "security.",
+      "probability": 0.9976702332496643
+    }
+  ],
+  "text": "That piece has a pawn looking after it now. Excellent choice of security."
+}

@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 7.6161875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.3,
+      "text": " Our last pawn!",
+      "noSpeechProbability": 0.0047867679968476295
+    },
+    {
+      "start": 2.24,
+      "end": 7.2,
+      "text": " Right, new plan, take every pawn they have.",
+      "noSpeechProbability": 0.0047867679968476295
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.16,
+      "text": "Our",
+      "probability": 0.6914929747581482
+    },
+    {
+      "start": 0.16,
+      "end": 0.58,
+      "text": "last",
+      "probability": 0.9890015125274658
+    },
+    {
+      "start": 0.58,
+      "end": 1.3,
+      "text": "pawn!",
+      "probability": 0.5666980743408203
+    },
+    {
+      "start": 2.24,
+      "end": 2.8,
+      "text": "Right,",
+      "probability": 0.797721803188324
+    },
+    {
+      "start": 3.54,
+      "end": 3.88,
+      "text": "new",
+      "probability": 0.9691848754882812
+    },
+    {
+      "start": 3.88,
+      "end": 4.38,
+      "text": "plan,",
+      "probability": 0.9978952407836914
+    },
+    {
+      "start": 4.88,
+      "end": 5.16,
+      "text": "take",
+      "probability": 0.9626429080963135
+    },
+    {
+      "start": 5.16,
+      "end": 5.76,
+      "text": "every",
+      "probability": 0.9817933440208435
+    },
+    {
+      "start": 5.76,
+      "end": 6.34,
+      "text": "pawn",
+      "probability": 0.9973164200782776
+    },
+    {
+      "start": 6.34,
+      "end": 6.64,
+      "text": "they",
+      "probability": 0.9971473813056946
+    },
+    {
+      "start": 6.64,
+      "end": 7.2,
+      "text": "have.",
+      "probability": 0.998396098613739
+    }
+  ],
+  "text": "Our last pawn! Right, new plan, take every pawn they have."
+}

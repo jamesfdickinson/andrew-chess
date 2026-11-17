@@ -1,0 +1,119 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.154875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.58,
+      "text": " That is the kind of capture I came here to see.",
+      "noSpeechProbability": 0.005323133431375027
+    },
+    {
+      "start": 3.52,
+      "end": 4.52,
+      "text": " More ponds, please.",
+      "noSpeechProbability": 0.005323133431375027
+    },
+    {
+      "start": 4.52,
+      "end": 4.84,
+      "text": " Please.",
+      "noSpeechProbability": 0.3873683214187622
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.26,
+      "text": "That",
+      "probability": 0.8336960673332214
+    },
+    {
+      "start": 0.26,
+      "end": 0.46,
+      "text": "is",
+      "probability": 0.9596297144889832
+    },
+    {
+      "start": 0.46,
+      "end": 0.58,
+      "text": "the",
+      "probability": 0.9959931373596191
+    },
+    {
+      "start": 0.58,
+      "end": 0.8,
+      "text": "kind",
+      "probability": 0.9922284483909607
+    },
+    {
+      "start": 0.8,
+      "end": 0.94,
+      "text": "of",
+      "probability": 0.9993476271629333
+    },
+    {
+      "start": 0.94,
+      "end": 1.32,
+      "text": "capture",
+      "probability": 0.9888553023338318
+    },
+    {
+      "start": 1.32,
+      "end": 1.58,
+      "text": "I",
+      "probability": 0.9546393752098083
+    },
+    {
+      "start": 1.58,
+      "end": 1.86,
+      "text": "came",
+      "probability": 0.9942530989646912
+    },
+    {
+      "start": 1.86,
+      "end": 2.18,
+      "text": "here",
+      "probability": 0.9960426092147827
+    },
+    {
+      "start": 2.18,
+      "end": 2.32,
+      "text": "to",
+      "probability": 0.9976271986961365
+    },
+    {
+      "start": 2.32,
+      "end": 2.58,
+      "text": "see.",
+      "probability": 0.9992371797561646
+    },
+    {
+      "start": 3.52,
+      "end": 3.52,
+      "text": "More",
+      "probability": 0.9871368408203125
+    },
+    {
+      "start": 3.52,
+      "end": 3.94,
+      "text": "ponds,",
+      "probability": 0.40843093395233154
+    },
+    {
+      "start": 4.16,
+      "end": 4.52,
+      "text": "please.",
+      "probability": 0.9958849549293518
+    },
+    {
+      "start": 4.52,
+      "end": 4.84,
+      "text": "Please.",
+      "probability": 0.057152047753334045
+    }
+  ],
+  "text": "That is the kind of capture I came here to see. More ponds, please. Please."
+}

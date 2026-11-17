@@ -1,0 +1,143 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 6.5945,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.54,
+      "text": " losing upon is not the kind of exchange I had in mind.",
+      "noSpeechProbability": 0.0020613903179764748
+    },
+    {
+      "start": 4.54,
+      "end": 5.88,
+      "text": " Can we get one of theirs?",
+      "noSpeechProbability": 0.0020613903179764748
+    },
+    {
+      "start": 5.88,
+      "end": 6.02,
+      "text": " Cheers!",
+      "noSpeechProbability": 0.3016681671142578
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.26,
+      "text": "losing",
+      "probability": 0.40470898151397705
+    },
+    {
+      "start": 0.26,
+      "end": 0.72,
+      "text": "upon",
+      "probability": 0.5850628614425659
+    },
+    {
+      "start": 0.72,
+      "end": 1.1,
+      "text": "is",
+      "probability": 0.9901303648948669
+    },
+    {
+      "start": 1.1,
+      "end": 1.46,
+      "text": "not",
+      "probability": 0.9965705871582031
+    },
+    {
+      "start": 1.46,
+      "end": 1.66,
+      "text": "the",
+      "probability": 0.9964677095413208
+    },
+    {
+      "start": 1.66,
+      "end": 1.92,
+      "text": "kind",
+      "probability": 0.9977250695228577
+    },
+    {
+      "start": 1.92,
+      "end": 2.08,
+      "text": "of",
+      "probability": 0.998336672782898
+    },
+    {
+      "start": 2.08,
+      "end": 2.44,
+      "text": "exchange",
+      "probability": 0.9957316517829895
+    },
+    {
+      "start": 2.44,
+      "end": 2.8,
+      "text": "I",
+      "probability": 0.8581815361976624
+    },
+    {
+      "start": 2.8,
+      "end": 3.06,
+      "text": "had",
+      "probability": 0.9973899722099304
+    },
+    {
+      "start": 3.06,
+      "end": 3.18,
+      "text": "in",
+      "probability": 0.9991268515586853
+    },
+    {
+      "start": 3.18,
+      "end": 3.54,
+      "text": "mind.",
+      "probability": 0.9958885312080383
+    },
+    {
+      "start": 4.54,
+      "end": 4.76,
+      "text": "Can",
+      "probability": 0.9522509574890137
+    },
+    {
+      "start": 4.76,
+      "end": 4.96,
+      "text": "we",
+      "probability": 0.998004138469696
+    },
+    {
+      "start": 4.96,
+      "end": 5.16,
+      "text": "get",
+      "probability": 0.9989903569221497
+    },
+    {
+      "start": 5.16,
+      "end": 5.46,
+      "text": "one",
+      "probability": 0.9919020533561707
+    },
+    {
+      "start": 5.46,
+      "end": 5.6,
+      "text": "of",
+      "probability": 0.9986668825149536
+    },
+    {
+      "start": 5.6,
+      "end": 5.88,
+      "text": "theirs?",
+      "probability": 0.9934337139129639
+    },
+    {
+      "start": 5.88,
+      "end": 6.02,
+      "text": "Cheers!",
+      "probability": 0.5600088909268379
+    }
+  ],
+  "text": "losing upon is not the kind of exchange I had in mind. Can we get one of theirs? Cheers!"
+}

@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.922625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.42,
+      "text": " That was not a sacrifice.",
+      "noSpeechProbability": 0.0034438620787113905
+    },
+    {
+      "start": 2.2,
+      "end": 4.14,
+      "text": " That was a customer service failure.",
+      "noSpeechProbability": 0.0034438620787113905
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.18,
+      "text": "That",
+      "probability": 0.7843044400215149
+    },
+    {
+      "start": 0.18,
+      "end": 0.32,
+      "text": "was",
+      "probability": 0.9966886639595032
+    },
+    {
+      "start": 0.32,
+      "end": 0.64,
+      "text": "not",
+      "probability": 0.966977059841156
+    },
+    {
+      "start": 0.64,
+      "end": 0.86,
+      "text": "a",
+      "probability": 0.996653139591217
+    },
+    {
+      "start": 0.86,
+      "end": 1.42,
+      "text": "sacrifice.",
+      "probability": 0.9984375834465027
+    },
+    {
+      "start": 2.2,
+      "end": 2.24,
+      "text": "That",
+      "probability": 0.9972845315933228
+    },
+    {
+      "start": 2.24,
+      "end": 2.44,
+      "text": "was",
+      "probability": 0.9990574717521667
+    },
+    {
+      "start": 2.44,
+      "end": 2.58,
+      "text": "a",
+      "probability": 0.9865016341209412
+    },
+    {
+      "start": 2.58,
+      "end": 3.0,
+      "text": "customer",
+      "probability": 0.9785943031311035
+    },
+    {
+      "start": 3.0,
+      "end": 3.62,
+      "text": "service",
+      "probability": 0.9782350063323975
+    },
+    {
+      "start": 3.62,
+      "end": 4.14,
+      "text": "failure.",
+      "probability": 0.9957377910614014
+    }
+  ],
+  "text": "That was not a sacrifice. That was a customer service failure."
+}

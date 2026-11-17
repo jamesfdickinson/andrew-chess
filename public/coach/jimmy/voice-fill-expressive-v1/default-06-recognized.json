@@ -1,0 +1,149 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.61925,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.22,
+      "text": " Can you bring a knight closer to an enemy pawn?",
+      "noSpeechProbability": 0.0009430887294001877
+    },
+    {
+      "start": 3.22,
+      "end": 5.0,
+      "text": " Those little jumps should lead somewhere.",
+      "noSpeechProbability": 0.0009430887294001877
+    },
+    {
+      "start": 5.0,
+      "end": 5.2,
+      "text": " I'm aware.",
+      "noSpeechProbability": 0.216177836060524
+    },
+    {
+      "start": 5.5,
+      "end": 5.58,
+      "text": " 7",
+      "noSpeechProbability": 0.216177836060524
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.14,
+      "text": "Can",
+      "probability": 0.8121428489685059
+    },
+    {
+      "start": 0.14,
+      "end": 0.26,
+      "text": "you",
+      "probability": 0.9986478686332703
+    },
+    {
+      "start": 0.26,
+      "end": 0.44,
+      "text": "bring",
+      "probability": 0.9982078075408936
+    },
+    {
+      "start": 0.44,
+      "end": 0.56,
+      "text": "a",
+      "probability": 0.9978399276733398
+    },
+    {
+      "start": 0.56,
+      "end": 0.8,
+      "text": "knight",
+      "probability": 0.5695000886917114
+    },
+    {
+      "start": 0.8,
+      "end": 1.14,
+      "text": "closer",
+      "probability": 0.9982650876045227
+    },
+    {
+      "start": 1.14,
+      "end": 1.5,
+      "text": "to",
+      "probability": 0.9987905621528625
+    },
+    {
+      "start": 1.5,
+      "end": 1.62,
+      "text": "an",
+      "probability": 0.9829592704772949
+    },
+    {
+      "start": 1.62,
+      "end": 1.88,
+      "text": "enemy",
+      "probability": 0.9984109401702881
+    },
+    {
+      "start": 1.88,
+      "end": 2.22,
+      "text": "pawn?",
+      "probability": 0.9576024413108826
+    },
+    {
+      "start": 3.22,
+      "end": 3.4,
+      "text": "Those",
+      "probability": 0.995882511138916
+    },
+    {
+      "start": 3.4,
+      "end": 3.68,
+      "text": "little",
+      "probability": 0.9985210299491882
+    },
+    {
+      "start": 3.68,
+      "end": 3.98,
+      "text": "jumps",
+      "probability": 0.986120343208313
+    },
+    {
+      "start": 3.98,
+      "end": 4.36,
+      "text": "should",
+      "probability": 0.9971404075622559
+    },
+    {
+      "start": 4.36,
+      "end": 4.62,
+      "text": "lead",
+      "probability": 0.9934229254722595
+    },
+    {
+      "start": 4.62,
+      "end": 5.0,
+      "text": "somewhere.",
+      "probability": 0.9930599927902222
+    },
+    {
+      "start": 5.0,
+      "end": 5.0,
+      "text": "I'm",
+      "probability": 0.13265197025611997
+    },
+    {
+      "start": 5.0,
+      "end": 5.2,
+      "text": "aware.",
+      "probability": 0.4397912323474884
+    },
+    {
+      "start": 5.5,
+      "end": 5.58,
+      "text": "7",
+      "probability": 0.0001845417427830398
+    }
+  ],
+  "text": "Can you bring a knight closer to an enemy pawn? Those little jumps should lead somewhere. I'm aware. 7"
+}

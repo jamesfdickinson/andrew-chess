@@ -1,0 +1,119 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 6.223,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.86,
+      "text": " We are out of ponds, but they are not.",
+      "noSpeechProbability": 0.001232265611179173
+    },
+    {
+      "start": 3.82,
+      "end": 5.6,
+      "text": " I think you know what to do.",
+      "noSpeechProbability": 0.001232265611179173
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.16,
+      "text": "We",
+      "probability": 0.7490262389183044
+    },
+    {
+      "start": 0.16,
+      "end": 0.3,
+      "text": "are",
+      "probability": 0.9573144912719727
+    },
+    {
+      "start": 0.3,
+      "end": 0.68,
+      "text": "out",
+      "probability": 0.9858794808387756
+    },
+    {
+      "start": 0.68,
+      "end": 0.84,
+      "text": "of",
+      "probability": 0.9905319213867188
+    },
+    {
+      "start": 0.84,
+      "end": 1.34,
+      "text": "ponds,",
+      "probability": 0.6471203565597534
+    },
+    {
+      "start": 1.86,
+      "end": 1.92,
+      "text": "but",
+      "probability": 0.9966141581535339
+    },
+    {
+      "start": 1.92,
+      "end": 2.2,
+      "text": "they",
+      "probability": 0.9964401125907898
+    },
+    {
+      "start": 2.2,
+      "end": 2.42,
+      "text": "are",
+      "probability": 0.9885303378105164
+    },
+    {
+      "start": 2.42,
+      "end": 2.86,
+      "text": "not.",
+      "probability": 0.996203601360321
+    },
+    {
+      "start": 3.82,
+      "end": 4.12,
+      "text": "I",
+      "probability": 0.994392454624176
+    },
+    {
+      "start": 4.12,
+      "end": 4.38,
+      "text": "think",
+      "probability": 0.998771607875824
+    },
+    {
+      "start": 4.38,
+      "end": 4.64,
+      "text": "you",
+      "probability": 0.9965794682502747
+    },
+    {
+      "start": 4.64,
+      "end": 4.88,
+      "text": "know",
+      "probability": 0.998063862323761
+    },
+    {
+      "start": 4.88,
+      "end": 5.12,
+      "text": "what",
+      "probability": 0.9988667964935303
+    },
+    {
+      "start": 5.12,
+      "end": 5.32,
+      "text": "to",
+      "probability": 0.9993163347244263
+    },
+    {
+      "start": 5.32,
+      "end": 5.6,
+      "text": "do.",
+      "probability": 0.9996557235717773
+    }
+  ],
+  "text": "We are out of ponds, but they are not. I think you know what to do."
+}

@@ -1,0 +1,173 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 9.3344375,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.66,
+      "text": " magnificent. You practically cleared the board of the pieces that matter. This is a game I will",
+      "noSpeechProbability": 0.005632198415696621
+    },
+    {
+      "start": 6.66,
+      "end": 8.98,
+      "text": " will be talking about for a long time.",
+      "noSpeechProbability": 0.017098015174269676
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.66,
+      "text": "magnificent.",
+      "probability": 0.2817288041114807
+    },
+    {
+      "start": 1.56,
+      "end": 1.72,
+      "text": "You",
+      "probability": 0.9784464836120605
+    },
+    {
+      "start": 1.72,
+      "end": 2.14,
+      "text": "practically",
+      "probability": 0.99558025598526
+    },
+    {
+      "start": 2.14,
+      "end": 2.72,
+      "text": "cleared",
+      "probability": 0.9952301979064941
+    },
+    {
+      "start": 2.72,
+      "end": 2.96,
+      "text": "the",
+      "probability": 0.9962508082389832
+    },
+    {
+      "start": 2.96,
+      "end": 3.26,
+      "text": "board",
+      "probability": 0.9593123197555542
+    },
+    {
+      "start": 3.26,
+      "end": 3.42,
+      "text": "of",
+      "probability": 0.988734781742096
+    },
+    {
+      "start": 3.42,
+      "end": 3.54,
+      "text": "the",
+      "probability": 0.969597578048706
+    },
+    {
+      "start": 3.54,
+      "end": 3.82,
+      "text": "pieces",
+      "probability": 0.9969354867935181
+    },
+    {
+      "start": 3.82,
+      "end": 4.14,
+      "text": "that",
+      "probability": 0.9956827163696289
+    },
+    {
+      "start": 4.14,
+      "end": 4.38,
+      "text": "matter.",
+      "probability": 0.9924403429031372
+    },
+    {
+      "start": 5.2,
+      "end": 5.52,
+      "text": "This",
+      "probability": 0.9869372248649597
+    },
+    {
+      "start": 5.52,
+      "end": 5.76,
+      "text": "is",
+      "probability": 0.9929143190383911
+    },
+    {
+      "start": 5.76,
+      "end": 5.9,
+      "text": "a",
+      "probability": 0.9953000545501709
+    },
+    {
+      "start": 5.9,
+      "end": 6.18,
+      "text": "game",
+      "probability": 0.9994432330131531
+    },
+    {
+      "start": 6.18,
+      "end": 6.5,
+      "text": "I",
+      "probability": 0.9679995775222778
+    },
+    {
+      "start": 6.5,
+      "end": 6.66,
+      "text": "will",
+      "probability": 0.9880579710006714
+    },
+    {
+      "start": 6.66,
+      "end": 6.66,
+      "text": "will",
+      "probability": 0.27704355120658875
+    },
+    {
+      "start": 6.66,
+      "end": 6.8,
+      "text": "be",
+      "probability": 0.9937402009963989
+    },
+    {
+      "start": 6.8,
+      "end": 7.1,
+      "text": "talking",
+      "probability": 0.9945231676101685
+    },
+    {
+      "start": 7.1,
+      "end": 7.54,
+      "text": "about",
+      "probability": 0.9957337975502014
+    },
+    {
+      "start": 7.54,
+      "end": 7.86,
+      "text": "for",
+      "probability": 0.983194887638092
+    },
+    {
+      "start": 7.86,
+      "end": 8.0,
+      "text": "a",
+      "probability": 0.9976416826248169
+    },
+    {
+      "start": 8.0,
+      "end": 8.4,
+      "text": "long",
+      "probability": 0.9942798614501953
+    },
+    {
+      "start": 8.4,
+      "end": 8.98,
+      "text": "time.",
+      "probability": 0.9983124732971191
+    }
+  ],
+  "text": "magnificent. You practically cleared the board of the pieces that matter. This is a game I will will be talking about for a long time."
+}

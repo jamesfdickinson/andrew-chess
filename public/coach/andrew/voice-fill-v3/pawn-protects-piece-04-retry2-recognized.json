@@ -1,0 +1,71 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 3.5295,
+  "segments": [
+    {
+      "start": 0.14,
+      "end": 2.88,
+      "text": " Look at that teamwork, the pond has your back.",
+      "noSpeechProbability": 0.015983914956450462
+    }
+  ],
+  "words": [
+    {
+      "start": 0.14,
+      "end": 0.24,
+      "text": "Look",
+      "probability": 0.47372668981552124
+    },
+    {
+      "start": 0.24,
+      "end": 0.3,
+      "text": "at",
+      "probability": 0.9933813810348511
+    },
+    {
+      "start": 0.3,
+      "end": 0.48,
+      "text": "that",
+      "probability": 0.9935846924781799
+    },
+    {
+      "start": 0.48,
+      "end": 0.96,
+      "text": "teamwork,",
+      "probability": 0.9718238115310669
+    },
+    {
+      "start": 1.64,
+      "end": 1.72,
+      "text": "the",
+      "probability": 0.9745070338249207
+    },
+    {
+      "start": 1.72,
+      "end": 1.98,
+      "text": "pond",
+      "probability": 0.673875093460083
+    },
+    {
+      "start": 1.98,
+      "end": 2.28,
+      "text": "has",
+      "probability": 0.9985912442207336
+    },
+    {
+      "start": 2.28,
+      "end": 2.5,
+      "text": "your",
+      "probability": 0.9833865761756897
+    },
+    {
+      "start": 2.5,
+      "end": 2.88,
+      "text": "back.",
+      "probability": 0.9981978535652161
+    }
+  ],
+  "text": "Look at that teamwork, the pond has your back."
+}

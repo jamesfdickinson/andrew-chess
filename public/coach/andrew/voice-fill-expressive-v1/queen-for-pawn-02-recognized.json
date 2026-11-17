@@ -1,0 +1,131 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 6.8266875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": " They took the queen, but we got a pawn.",
+      "noSpeechProbability": 0.0014235586859285831
+    },
+    {
+      "start": 3.3,
+      "end": 6.04,
+      "text": " That is a deal I would make all day.",
+      "noSpeechProbability": 0.0014235586859285831
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.12,
+      "text": "They",
+      "probability": 0.9012075066566467
+    },
+    {
+      "start": 0.12,
+      "end": 0.34,
+      "text": "took",
+      "probability": 0.9953651428222656
+    },
+    {
+      "start": 0.34,
+      "end": 0.56,
+      "text": "the",
+      "probability": 0.9923703670501709
+    },
+    {
+      "start": 0.56,
+      "end": 0.9,
+      "text": "queen,",
+      "probability": 0.6692099571228027
+    },
+    {
+      "start": 1.16,
+      "end": 1.28,
+      "text": "but",
+      "probability": 0.9974316954612732
+    },
+    {
+      "start": 1.28,
+      "end": 1.42,
+      "text": "we",
+      "probability": 0.9941457509994507
+    },
+    {
+      "start": 1.42,
+      "end": 1.66,
+      "text": "got",
+      "probability": 0.9968351721763611
+    },
+    {
+      "start": 1.66,
+      "end": 1.8,
+      "text": "a",
+      "probability": 0.9418439865112305
+    },
+    {
+      "start": 1.8,
+      "end": 2.2,
+      "text": "pawn.",
+      "probability": 0.7318127155303955
+    },
+    {
+      "start": 3.3,
+      "end": 3.58,
+      "text": "That",
+      "probability": 0.9852679967880249
+    },
+    {
+      "start": 3.58,
+      "end": 3.84,
+      "text": "is",
+      "probability": 0.9858457446098328
+    },
+    {
+      "start": 3.84,
+      "end": 4.0,
+      "text": "a",
+      "probability": 0.8297801613807678
+    },
+    {
+      "start": 4.0,
+      "end": 4.26,
+      "text": "deal",
+      "probability": 0.9996906518936157
+    },
+    {
+      "start": 4.26,
+      "end": 4.58,
+      "text": "I",
+      "probability": 0.9836443066596985
+    },
+    {
+      "start": 4.58,
+      "end": 4.74,
+      "text": "would",
+      "probability": 0.9889630675315857
+    },
+    {
+      "start": 4.74,
+      "end": 4.94,
+      "text": "make",
+      "probability": 0.9991942048072815
+    },
+    {
+      "start": 4.94,
+      "end": 5.46,
+      "text": "all",
+      "probability": 0.8690984845161438
+    },
+    {
+      "start": 5.46,
+      "end": 6.04,
+      "text": "day.",
+      "probability": 0.999110996723175
+    }
+  ],
+  "text": "They took the queen, but we got a pawn. That is a deal I would make all day."
+}

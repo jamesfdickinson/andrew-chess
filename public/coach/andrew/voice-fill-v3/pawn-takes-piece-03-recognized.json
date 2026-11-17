@@ -1,0 +1,65 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.1331875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.64,
+      "text": " Upon just punched above its weight, beautiful work!",
+      "noSpeechProbability": 0.0023306661751121283
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.42,
+      "text": "Upon",
+      "probability": 0.8677082657814026
+    },
+    {
+      "start": 0.42,
+      "end": 0.8,
+      "text": "just",
+      "probability": 0.9231745004653931
+    },
+    {
+      "start": 0.8,
+      "end": 1.1,
+      "text": "punched",
+      "probability": 0.9462193250656128
+    },
+    {
+      "start": 1.1,
+      "end": 1.52,
+      "text": "above",
+      "probability": 0.9948115348815918
+    },
+    {
+      "start": 1.52,
+      "end": 1.8,
+      "text": "its",
+      "probability": 0.9086745381355286
+    },
+    {
+      "start": 1.8,
+      "end": 2.1,
+      "text": "weight,",
+      "probability": 0.9918367266654968
+    },
+    {
+      "start": 2.66,
+      "end": 3.06,
+      "text": "beautiful",
+      "probability": 0.9757360816001892
+    },
+    {
+      "start": 3.06,
+      "end": 3.64,
+      "text": "work!",
+      "probability": 0.9981182813644409
+    }
+  ],
+  "text": "Upon just punched above its weight, beautiful work!"
+}

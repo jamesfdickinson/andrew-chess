@@ -1,0 +1,107 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 6.269375,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.56,
+      "text": " You could have taken a pawn, but you went for the fancy piece instead, disappointing.",
+      "noSpeechProbability": 0.0014770852867513895
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.14,
+      "text": "You",
+      "probability": 0.766202449798584
+    },
+    {
+      "start": 0.14,
+      "end": 0.42,
+      "text": "could",
+      "probability": 0.9935895204544067
+    },
+    {
+      "start": 0.42,
+      "end": 0.56,
+      "text": "have",
+      "probability": 0.7767612934112549
+    },
+    {
+      "start": 0.56,
+      "end": 0.84,
+      "text": "taken",
+      "probability": 0.9967556595802307
+    },
+    {
+      "start": 0.84,
+      "end": 1.06,
+      "text": "a",
+      "probability": 0.8026150465011597
+    },
+    {
+      "start": 1.06,
+      "end": 1.42,
+      "text": "pawn,",
+      "probability": 0.8672140836715698
+    },
+    {
+      "start": 1.84,
+      "end": 1.94,
+      "text": "but",
+      "probability": 0.9856154918670654
+    },
+    {
+      "start": 1.94,
+      "end": 2.1,
+      "text": "you",
+      "probability": 0.9958375692367554
+    },
+    {
+      "start": 2.1,
+      "end": 2.32,
+      "text": "went",
+      "probability": 0.9880950450897217
+    },
+    {
+      "start": 2.32,
+      "end": 2.56,
+      "text": "for",
+      "probability": 0.995189905166626
+    },
+    {
+      "start": 2.56,
+      "end": 2.68,
+      "text": "the",
+      "probability": 0.9873170256614685
+    },
+    {
+      "start": 2.68,
+      "end": 3.04,
+      "text": "fancy",
+      "probability": 0.9890866279602051
+    },
+    {
+      "start": 3.04,
+      "end": 3.46,
+      "text": "piece",
+      "probability": 0.8977279663085938
+    },
+    {
+      "start": 3.46,
+      "end": 4.02,
+      "text": "instead,",
+      "probability": 0.993310809135437
+    },
+    {
+      "start": 4.66,
+      "end": 5.56,
+      "text": "disappointing.",
+      "probability": 0.9358360767364502
+    }
+  ],
+  "text": "You could have taken a pawn, but you went for the fancy piece instead, disappointing."
+}

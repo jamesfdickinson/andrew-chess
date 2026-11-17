@@ -1,0 +1,59 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 3.9474375,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.14,
+      "text": " Lovely, their pawn is now our achievement.",
+      "noSpeechProbability": 0.0013467553071677685
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.48,
+      "text": "Lovely,",
+      "probability": 0.8224811553955078
+    },
+    {
+      "start": 0.94,
+      "end": 1.24,
+      "text": "their",
+      "probability": 0.911550760269165
+    },
+    {
+      "start": 1.24,
+      "end": 1.54,
+      "text": "pawn",
+      "probability": 0.5695381164550781
+    },
+    {
+      "start": 1.54,
+      "end": 1.9,
+      "text": "is",
+      "probability": 0.9961393475532532
+    },
+    {
+      "start": 1.9,
+      "end": 2.2,
+      "text": "now",
+      "probability": 0.9968540072441101
+    },
+    {
+      "start": 2.2,
+      "end": 2.74,
+      "text": "our",
+      "probability": 0.9875559210777283
+    },
+    {
+      "start": 2.74,
+      "end": 3.14,
+      "text": "achievement.",
+      "probability": 0.9924411773681641
+    }
+  ],
+  "text": "Lovely, their pawn is now our achievement."
+}

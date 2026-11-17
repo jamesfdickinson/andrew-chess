@@ -1,0 +1,20 @@
+{
+  "coachId": "andrew",
+  "key": "queen-reject-sad-subtle-talk-ref-00676e4a1c53",
+  "performanceId": "queen-reject-sad-subtle-talk",
+  "referenceId": "00676e4a1c53",
+  "coreReference": {
+    "id": "00676e4a1c53",
+    "image": "/coach/andrew/references/pixel-v2/core.png",
+    "images": [
+      "/coach/andrew/references/pixel-v2/core.png"
+    ],
+    "styleImage": "/coach/andrew/references/pixel-v2/expression-sheet.png",
+    "name": "Coach Andrew · pixel-art core",
+    "createdAt": "2026-11-17T01:49:54.362Z"
+  },
+  "name": "Reject a queen · sad · subtle",
+  "speaking": true,
+  "reference": null,
+  "createdAt": "2026-11-17T02:49:05.879Z"
+}

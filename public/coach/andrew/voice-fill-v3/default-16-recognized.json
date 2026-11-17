@@ -1,0 +1,83 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.2941875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.64,
+      "text": " A quiet move. I assume the next chapter involves a pawn.",
+      "noSpeechProbability": 0.0043595219030976295
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.12,
+      "text": "A",
+      "probability": 0.7846909761428833
+    },
+    {
+      "start": 0.12,
+      "end": 0.48,
+      "text": "quiet",
+      "probability": 0.9043079018592834
+    },
+    {
+      "start": 0.48,
+      "end": 0.92,
+      "text": "move.",
+      "probability": 0.9953494668006897
+    },
+    {
+      "start": 1.78,
+      "end": 1.84,
+      "text": "I",
+      "probability": 0.9891998767852783
+    },
+    {
+      "start": 1.84,
+      "end": 2.18,
+      "text": "assume",
+      "probability": 0.9956169128417969
+    },
+    {
+      "start": 2.18,
+      "end": 2.48,
+      "text": "the",
+      "probability": 0.9924622774124146
+    },
+    {
+      "start": 2.48,
+      "end": 2.74,
+      "text": "next",
+      "probability": 0.9975824356079102
+    },
+    {
+      "start": 2.74,
+      "end": 3.34,
+      "text": "chapter",
+      "probability": 0.9892420172691345
+    },
+    {
+      "start": 3.34,
+      "end": 4.06,
+      "text": "involves",
+      "probability": 0.9731489419937134
+    },
+    {
+      "start": 4.06,
+      "end": 4.28,
+      "text": "a",
+      "probability": 0.942058801651001
+    },
+    {
+      "start": 4.28,
+      "end": 4.64,
+      "text": "pawn.",
+      "probability": 0.8111889362335205
+    }
+  ],
+  "text": "A quiet move. I assume the next chapter involves a pawn."
+}

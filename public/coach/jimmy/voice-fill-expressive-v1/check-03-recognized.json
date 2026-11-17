@@ -1,0 +1,113 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.87625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.52,
+      "text": " Fine, make the king move.",
+      "noSpeechProbability": 0.0013095852918922901
+    },
+    {
+      "start": 2.44,
+      "end": 4.12,
+      "text": " Can that help you line up upon capture?",
+      "noSpeechProbability": 0.0013095852918922901
+    },
+    {
+      "start": 4.12,
+      "end": 4.32,
+      "text": " capture.",
+      "noSpeechProbability": 0.24330973625183105
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.28,
+      "text": "Fine,",
+      "probability": 0.7697357535362244
+    },
+    {
+      "start": 0.58,
+      "end": 0.8,
+      "text": "make",
+      "probability": 0.9875076413154602
+    },
+    {
+      "start": 0.8,
+      "end": 0.98,
+      "text": "the",
+      "probability": 0.9984806180000305
+    },
+    {
+      "start": 0.98,
+      "end": 1.14,
+      "text": "king",
+      "probability": 0.7894262075424194
+    },
+    {
+      "start": 1.14,
+      "end": 1.52,
+      "text": "move.",
+      "probability": 0.9982522130012512
+    },
+    {
+      "start": 2.44,
+      "end": 2.5,
+      "text": "Can",
+      "probability": 0.9909405708312988
+    },
+    {
+      "start": 2.5,
+      "end": 2.66,
+      "text": "that",
+      "probability": 0.9959320425987244
+    },
+    {
+      "start": 2.66,
+      "end": 2.86,
+      "text": "help",
+      "probability": 0.9968212842941284
+    },
+    {
+      "start": 2.86,
+      "end": 3.02,
+      "text": "you",
+      "probability": 0.9976945519447327
+    },
+    {
+      "start": 3.02,
+      "end": 3.26,
+      "text": "line",
+      "probability": 0.9832131266593933
+    },
+    {
+      "start": 3.26,
+      "end": 3.42,
+      "text": "up",
+      "probability": 0.9906778335571289
+    },
+    {
+      "start": 3.42,
+      "end": 3.78,
+      "text": "upon",
+      "probability": 0.8560909032821655
+    },
+    {
+      "start": 3.78,
+      "end": 4.12,
+      "text": "capture?",
+      "probability": 0.8856321573257446
+    },
+    {
+      "start": 4.12,
+      "end": 4.32,
+      "text": "capture.",
+      "probability": 0.3469003736972809
+    }
+  ],
+  "text": "Fine, make the king move. Can that help you line up upon capture? capture."
+}

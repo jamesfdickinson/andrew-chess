@@ -1,0 +1,83 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.179625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.68,
+      "text": " Our pond has company and I do not trust the visitor.",
+      "noSpeechProbability": 0.00201888638548553
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.2,
+      "text": "Our",
+      "probability": 0.7473472952842712
+    },
+    {
+      "start": 0.2,
+      "end": 0.42,
+      "text": "pond",
+      "probability": 0.7173675298690796
+    },
+    {
+      "start": 0.42,
+      "end": 0.78,
+      "text": "has",
+      "probability": 0.9978088736534119
+    },
+    {
+      "start": 0.78,
+      "end": 1.22,
+      "text": "company",
+      "probability": 0.9925323128700256
+    },
+    {
+      "start": 1.22,
+      "end": 1.94,
+      "text": "and",
+      "probability": 0.6559187173843384
+    },
+    {
+      "start": 1.94,
+      "end": 2.1,
+      "text": "I",
+      "probability": 0.9777987599372864
+    },
+    {
+      "start": 2.1,
+      "end": 2.26,
+      "text": "do",
+      "probability": 0.9954153299331665
+    },
+    {
+      "start": 2.26,
+      "end": 2.6,
+      "text": "not",
+      "probability": 0.9920498728752136
+    },
+    {
+      "start": 2.6,
+      "end": 2.98,
+      "text": "trust",
+      "probability": 0.9980596899986267
+    },
+    {
+      "start": 2.98,
+      "end": 3.28,
+      "text": "the",
+      "probability": 0.9964750409126282
+    },
+    {
+      "start": 3.28,
+      "end": 3.68,
+      "text": "visitor.",
+      "probability": 0.9858216643333435
+    }
+  ],
+  "text": "Our pond has company and I do not trust the visitor."
+}

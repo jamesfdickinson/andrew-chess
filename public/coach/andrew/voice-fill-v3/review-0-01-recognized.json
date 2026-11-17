@@ -1,0 +1,173 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 9.009375,
+  "segments": [
+    {
+      "start": 0.08,
+      "end": 3.02,
+      "text": " I watched the whole game waiting for you to take a pawn.",
+      "noSpeechProbability": 0.005357293412089348
+    },
+    {
+      "start": 3.82,
+      "end": 4.5,
+      "text": " Not one.",
+      "noSpeechProbability": 0.005357293412089348
+    },
+    {
+      "start": 5.36,
+      "end": 8.4,
+      "text": " We need to have a serious talk about your priorities.",
+      "noSpeechProbability": 0.005357293412089348
+    }
+  ],
+  "words": [
+    {
+      "start": 0.08,
+      "end": 0.14,
+      "text": "I",
+      "probability": 0.8767109513282776
+    },
+    {
+      "start": 0.14,
+      "end": 0.4,
+      "text": "watched",
+      "probability": 0.8153616786003113
+    },
+    {
+      "start": 0.4,
+      "end": 0.72,
+      "text": "the",
+      "probability": 0.9949706196784973
+    },
+    {
+      "start": 0.72,
+      "end": 0.94,
+      "text": "whole",
+      "probability": 0.9965207576751709
+    },
+    {
+      "start": 0.94,
+      "end": 1.4,
+      "text": "game",
+      "probability": 0.999085545539856
+    },
+    {
+      "start": 1.4,
+      "end": 1.74,
+      "text": "waiting",
+      "probability": 0.9888336658477783
+    },
+    {
+      "start": 1.74,
+      "end": 2.08,
+      "text": "for",
+      "probability": 0.9964559674263
+    },
+    {
+      "start": 2.08,
+      "end": 2.22,
+      "text": "you",
+      "probability": 0.9988034963607788
+    },
+    {
+      "start": 2.22,
+      "end": 2.32,
+      "text": "to",
+      "probability": 0.9971812963485718
+    },
+    {
+      "start": 2.32,
+      "end": 2.56,
+      "text": "take",
+      "probability": 0.999010443687439
+    },
+    {
+      "start": 2.56,
+      "end": 2.68,
+      "text": "a",
+      "probability": 0.8188820481300354
+    },
+    {
+      "start": 2.68,
+      "end": 3.02,
+      "text": "pawn.",
+      "probability": 0.6480056643486023
+    },
+    {
+      "start": 3.82,
+      "end": 4.08,
+      "text": "Not",
+      "probability": 0.9886871576309204
+    },
+    {
+      "start": 4.08,
+      "end": 4.5,
+      "text": "one.",
+      "probability": 0.9304175972938538
+    },
+    {
+      "start": 5.36,
+      "end": 5.6,
+      "text": "We",
+      "probability": 0.9976842403411865
+    },
+    {
+      "start": 5.6,
+      "end": 5.8,
+      "text": "need",
+      "probability": 0.9986849427223206
+    },
+    {
+      "start": 5.8,
+      "end": 5.98,
+      "text": "to",
+      "probability": 0.9969595670700073
+    },
+    {
+      "start": 5.98,
+      "end": 6.18,
+      "text": "have",
+      "probability": 0.998590886592865
+    },
+    {
+      "start": 6.18,
+      "end": 6.3,
+      "text": "a",
+      "probability": 0.9875917434692383
+    },
+    {
+      "start": 6.3,
+      "end": 6.72,
+      "text": "serious",
+      "probability": 0.9989387392997742
+    },
+    {
+      "start": 6.72,
+      "end": 7.2,
+      "text": "talk",
+      "probability": 0.9994764924049377
+    },
+    {
+      "start": 7.2,
+      "end": 7.54,
+      "text": "about",
+      "probability": 0.998471200466156
+    },
+    {
+      "start": 7.54,
+      "end": 7.72,
+      "text": "your",
+      "probability": 0.9979210495948792
+    },
+    {
+      "start": 7.72,
+      "end": 8.4,
+      "text": "priorities.",
+      "probability": 0.9984645843505859
+    }
+  ],
+  "text": "I watched the whole game waiting for you to take a pawn. Not one. We need to have a serious talk about your priorities."
+}

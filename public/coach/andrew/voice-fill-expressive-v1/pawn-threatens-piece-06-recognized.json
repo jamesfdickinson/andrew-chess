@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.4799375,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.34,
+      "text": " Make way for the pawn!",
+      "noSpeechProbability": 0.0012435236712917686
+    },
+    {
+      "start": 2.3,
+      "end": 4.68,
+      "text": " Suddenly the fancy pieces look nervous.",
+      "noSpeechProbability": 0.0012435236712917686
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.22,
+      "text": "Make",
+      "probability": 0.8704806566238403
+    },
+    {
+      "start": 0.22,
+      "end": 0.54,
+      "text": "way",
+      "probability": 0.951158881187439
+    },
+    {
+      "start": 0.54,
+      "end": 0.84,
+      "text": "for",
+      "probability": 0.9984531402587891
+    },
+    {
+      "start": 0.84,
+      "end": 0.98,
+      "text": "the",
+      "probability": 0.996527373790741
+    },
+    {
+      "start": 0.98,
+      "end": 1.34,
+      "text": "pawn!",
+      "probability": 0.43257904052734375
+    },
+    {
+      "start": 2.3,
+      "end": 2.76,
+      "text": "Suddenly",
+      "probability": 0.9942300319671631
+    },
+    {
+      "start": 2.76,
+      "end": 3.08,
+      "text": "the",
+      "probability": 0.671362578868866
+    },
+    {
+      "start": 3.08,
+      "end": 3.34,
+      "text": "fancy",
+      "probability": 0.9968473315238953
+    },
+    {
+      "start": 3.34,
+      "end": 3.86,
+      "text": "pieces",
+      "probability": 0.9855151176452637
+    },
+    {
+      "start": 3.86,
+      "end": 4.16,
+      "text": "look",
+      "probability": 0.9865169525146484
+    },
+    {
+      "start": 4.16,
+      "end": 4.68,
+      "text": "nervous.",
+      "probability": 0.9887821078300476
+    }
+  ],
+  "text": "Make way for the pawn! Suddenly the fancy pieces look nervous."
+}

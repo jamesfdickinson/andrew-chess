@@ -1,0 +1,95 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 7.9876875,
+  "segments": [
+    {
+      "start": 1.97,
+      "end": 7.19,
+      "text": " I am not happy about that. We are supposed to be collecting theirs.",
+      "noSpeechProbability": 0.06399809569120407
+    }
+  ],
+  "words": [
+    {
+      "start": 1.97,
+      "end": 3.07,
+      "text": "I",
+      "probability": 0.5069094896316528
+    },
+    {
+      "start": 3.07,
+      "end": 3.25,
+      "text": "am",
+      "probability": 0.8670366406440735
+    },
+    {
+      "start": 3.25,
+      "end": 3.55,
+      "text": "not",
+      "probability": 0.8060016632080078
+    },
+    {
+      "start": 3.55,
+      "end": 4.09,
+      "text": "happy",
+      "probability": 0.994387686252594
+    },
+    {
+      "start": 4.09,
+      "end": 4.37,
+      "text": "about",
+      "probability": 0.9953279495239258
+    },
+    {
+      "start": 4.37,
+      "end": 4.73,
+      "text": "that.",
+      "probability": 0.9974780678749084
+    },
+    {
+      "start": 5.21,
+      "end": 5.41,
+      "text": "We",
+      "probability": 0.9935786724090576
+    },
+    {
+      "start": 5.41,
+      "end": 5.53,
+      "text": "are",
+      "probability": 0.9498838782310486
+    },
+    {
+      "start": 5.53,
+      "end": 5.83,
+      "text": "supposed",
+      "probability": 0.9722118973731995
+    },
+    {
+      "start": 5.83,
+      "end": 6.11,
+      "text": "to",
+      "probability": 0.9982169270515442
+    },
+    {
+      "start": 6.11,
+      "end": 6.21,
+      "text": "be",
+      "probability": 0.9959569573402405
+    },
+    {
+      "start": 6.21,
+      "end": 6.59,
+      "text": "collecting",
+      "probability": 0.9969139099121094
+    },
+    {
+      "start": 6.59,
+      "end": 7.19,
+      "text": "theirs.",
+      "probability": 0.9696629047393799
+    }
+  ],
+  "text": "I am not happy about that. We are supposed to be collecting theirs."
+}

@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.82975,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.88,
+      "text": " Ask yourself one question, how does this help me take a pawn?",
+      "noSpeechProbability": 0.0004880078777205199
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.26,
+      "text": "Ask",
+      "probability": 0.966899573802948
+    },
+    {
+      "start": 0.26,
+      "end": 0.58,
+      "text": "yourself",
+      "probability": 0.9918292164802551
+    },
+    {
+      "start": 0.58,
+      "end": 0.98,
+      "text": "one",
+      "probability": 0.982406735420227
+    },
+    {
+      "start": 0.98,
+      "end": 1.5,
+      "text": "question,",
+      "probability": 0.9979605674743652
+    },
+    {
+      "start": 2.14,
+      "end": 2.36,
+      "text": "how",
+      "probability": 0.6196113228797913
+    },
+    {
+      "start": 2.36,
+      "end": 2.52,
+      "text": "does",
+      "probability": 0.991132915019989
+    },
+    {
+      "start": 2.52,
+      "end": 2.72,
+      "text": "this",
+      "probability": 0.996167004108429
+    },
+    {
+      "start": 2.72,
+      "end": 2.96,
+      "text": "help",
+      "probability": 0.9908398985862732
+    },
+    {
+      "start": 2.96,
+      "end": 3.16,
+      "text": "me",
+      "probability": 0.9960231781005859
+    },
+    {
+      "start": 3.16,
+      "end": 3.4,
+      "text": "take",
+      "probability": 0.9981024861335754
+    },
+    {
+      "start": 3.4,
+      "end": 3.54,
+      "text": "a",
+      "probability": 0.8428972959518433
+    },
+    {
+      "start": 3.54,
+      "end": 3.88,
+      "text": "pawn?",
+      "probability": 0.5528085827827454
+    }
+  ],
+  "text": "Ask yourself one question, how does this help me take a pawn?"
+}

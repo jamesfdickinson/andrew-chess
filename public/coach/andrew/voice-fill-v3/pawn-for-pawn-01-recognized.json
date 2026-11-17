@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 6.5945,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.88,
+      "text": " Upon for upon, I am pleased and upset in exactly equal amounts.",
+      "noSpeechProbability": 0.0035053440369665623
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.4,
+      "text": "Upon",
+      "probability": 0.7425597310066223
+    },
+    {
+      "start": 0.4,
+      "end": 0.78,
+      "text": "for",
+      "probability": 0.876888632774353
+    },
+    {
+      "start": 0.78,
+      "end": 1.06,
+      "text": "upon,",
+      "probability": 0.6204123497009277
+    },
+    {
+      "start": 1.88,
+      "end": 2.14,
+      "text": "I",
+      "probability": 0.9885680675506592
+    },
+    {
+      "start": 2.14,
+      "end": 2.26,
+      "text": "am",
+      "probability": 0.9917628765106201
+    },
+    {
+      "start": 2.26,
+      "end": 2.66,
+      "text": "pleased",
+      "probability": 0.9865480065345764
+    },
+    {
+      "start": 2.66,
+      "end": 3.16,
+      "text": "and",
+      "probability": 0.990810751914978
+    },
+    {
+      "start": 3.16,
+      "end": 3.6,
+      "text": "upset",
+      "probability": 0.9983382225036621
+    },
+    {
+      "start": 3.6,
+      "end": 4.02,
+      "text": "in",
+      "probability": 0.979611337184906
+    },
+    {
+      "start": 4.02,
+      "end": 4.56,
+      "text": "exactly",
+      "probability": 0.9798351526260376
+    },
+    {
+      "start": 4.56,
+      "end": 5.36,
+      "text": "equal",
+      "probability": 0.9958730340003967
+    },
+    {
+      "start": 5.36,
+      "end": 5.88,
+      "text": "amounts.",
+      "probability": 0.9796287417411804
+    }
+  ],
+  "text": "Upon for upon, I am pleased and upset in exactly equal amounts."
+}

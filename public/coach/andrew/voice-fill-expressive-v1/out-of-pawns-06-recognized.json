@@ -1,0 +1,41 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 8.35925,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.42,
+      "text": " Not a single pun!",
+      "noSpeechProbability": 0.010979373008012772
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.3,
+      "text": "Not",
+      "probability": 0.6097060441970825
+    },
+    {
+      "start": 0.3,
+      "end": 0.44,
+      "text": "a",
+      "probability": 0.98499596118927
+    },
+    {
+      "start": 0.44,
+      "end": 0.9,
+      "text": "single",
+      "probability": 0.9507738351821899
+    },
+    {
+      "start": 0.9,
+      "end": 1.42,
+      "text": "pun!",
+      "probability": 0.7439100742340088
+    }
+  ],
+  "text": "Not a single pun!"
+}

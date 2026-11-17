@@ -1,0 +1,59 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.6905,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.46,
+      "text": " The smallest pieces, the biggest opportunity, pawns.",
+      "noSpeechProbability": 0.0032847237307578325
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.12,
+      "text": "The",
+      "probability": 0.4753999412059784
+    },
+    {
+      "start": 0.12,
+      "end": 0.46,
+      "text": "smallest",
+      "probability": 0.9600476026535034
+    },
+    {
+      "start": 0.46,
+      "end": 0.96,
+      "text": "pieces,",
+      "probability": 0.9865292310714722
+    },
+    {
+      "start": 1.76,
+      "end": 1.94,
+      "text": "the",
+      "probability": 0.9723960757255554
+    },
+    {
+      "start": 1.94,
+      "end": 2.32,
+      "text": "biggest",
+      "probability": 0.9969431757926941
+    },
+    {
+      "start": 2.32,
+      "end": 3.1,
+      "text": "opportunity,",
+      "probability": 0.9958691000938416
+    },
+    {
+      "start": 3.72,
+      "end": 4.46,
+      "text": "pawns.",
+      "probability": 0.7887801826000214
+    }
+  ],
+  "text": "The smallest pieces, the biggest opportunity, pawns."
+}

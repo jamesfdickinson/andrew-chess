@@ -1,0 +1,83 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.340625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.62,
+      "text": " Why the Queen? The pond was available! We have discussed this!",
+      "noSpeechProbability": 0.0038689037319272757
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.2,
+      "text": "Why",
+      "probability": 0.8342374563217163
+    },
+    {
+      "start": 0.2,
+      "end": 0.42,
+      "text": "the",
+      "probability": 0.9306627511978149
+    },
+    {
+      "start": 0.42,
+      "end": 0.7,
+      "text": "Queen?",
+      "probability": 0.6213849186897278
+    },
+    {
+      "start": 1.48,
+      "end": 1.5,
+      "text": "The",
+      "probability": 0.9691444635391235
+    },
+    {
+      "start": 1.5,
+      "end": 1.74,
+      "text": "pond",
+      "probability": 0.6272761821746826
+    },
+    {
+      "start": 1.74,
+      "end": 2.04,
+      "text": "was",
+      "probability": 0.9953410625457764
+    },
+    {
+      "start": 2.04,
+      "end": 2.44,
+      "text": "available!",
+      "probability": 0.9917685985565186
+    },
+    {
+      "start": 3.36,
+      "end": 3.4,
+      "text": "We",
+      "probability": 0.9891433119773865
+    },
+    {
+      "start": 3.4,
+      "end": 3.58,
+      "text": "have",
+      "probability": 0.9890708923339844
+    },
+    {
+      "start": 3.58,
+      "end": 3.96,
+      "text": "discussed",
+      "probability": 0.873177707195282
+    },
+    {
+      "start": 3.96,
+      "end": 4.62,
+      "text": "this!",
+      "probability": 0.9960707426071167
+    }
+  ],
+  "text": "Why the Queen? The pond was available! We have discussed this!"
+}

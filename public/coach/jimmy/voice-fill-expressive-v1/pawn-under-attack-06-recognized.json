@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.783375,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.1,
+      "text": " a pawn is under attack. Perhaps attend to that before something fancy.",
+      "noSpeechProbability": 0.003045762190595269
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.1,
+      "text": "a",
+      "probability": 0.21284912526607513
+    },
+    {
+      "start": 0.1,
+      "end": 0.42,
+      "text": "pawn",
+      "probability": 0.9772017002105713
+    },
+    {
+      "start": 0.42,
+      "end": 0.62,
+      "text": "is",
+      "probability": 0.9953179359436035
+    },
+    {
+      "start": 0.62,
+      "end": 0.84,
+      "text": "under",
+      "probability": 0.9981774091720581
+    },
+    {
+      "start": 0.84,
+      "end": 1.24,
+      "text": "attack.",
+      "probability": 0.9955965876579285
+    },
+    {
+      "start": 2.04,
+      "end": 2.3,
+      "text": "Perhaps",
+      "probability": 0.9903455376625061
+    },
+    {
+      "start": 2.3,
+      "end": 2.62,
+      "text": "attend",
+      "probability": 0.8596541881561279
+    },
+    {
+      "start": 2.62,
+      "end": 2.92,
+      "text": "to",
+      "probability": 0.982236921787262
+    },
+    {
+      "start": 2.92,
+      "end": 3.08,
+      "text": "that",
+      "probability": 0.9953806400299072
+    },
+    {
+      "start": 3.08,
+      "end": 3.34,
+      "text": "before",
+      "probability": 0.9954379200935364
+    },
+    {
+      "start": 3.34,
+      "end": 3.68,
+      "text": "something",
+      "probability": 0.9944952130317688
+    },
+    {
+      "start": 3.68,
+      "end": 4.1,
+      "text": "fancy.",
+      "probability": 0.9946475625038147
+    }
+  ],
+  "text": "a pawn is under attack. Perhaps attend to that before something fancy."
+}

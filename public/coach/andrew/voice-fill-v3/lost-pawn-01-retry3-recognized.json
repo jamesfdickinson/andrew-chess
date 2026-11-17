@@ -1,0 +1,125 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 7.105375,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.38,
+      "text": " No, they took your pawn. I am not happy about that. We are supposed to be collecting theirs.",
+      "noSpeechProbability": 0.0060780649073421955
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.28,
+      "text": "No,",
+      "probability": 0.8410082459449768
+    },
+    {
+      "start": 0.7,
+      "end": 0.92,
+      "text": "they",
+      "probability": 0.981255292892456
+    },
+    {
+      "start": 0.92,
+      "end": 1.14,
+      "text": "took",
+      "probability": 0.9945100545883179
+    },
+    {
+      "start": 1.14,
+      "end": 1.36,
+      "text": "your",
+      "probability": 0.9869374632835388
+    },
+    {
+      "start": 1.36,
+      "end": 1.66,
+      "text": "pawn.",
+      "probability": 0.6672266721725464
+    },
+    {
+      "start": 2.38,
+      "end": 2.48,
+      "text": "I",
+      "probability": 0.995301365852356
+    },
+    {
+      "start": 2.48,
+      "end": 2.62,
+      "text": "am",
+      "probability": 0.973259449005127
+    },
+    {
+      "start": 2.62,
+      "end": 2.88,
+      "text": "not",
+      "probability": 0.9408581256866455
+    },
+    {
+      "start": 2.88,
+      "end": 3.4,
+      "text": "happy",
+      "probability": 0.9976014494895935
+    },
+    {
+      "start": 3.4,
+      "end": 3.66,
+      "text": "about",
+      "probability": 0.9976844787597656
+    },
+    {
+      "start": 3.66,
+      "end": 4.02,
+      "text": "that.",
+      "probability": 0.9987831711769104
+    },
+    {
+      "start": 4.46,
+      "end": 4.64,
+      "text": "We",
+      "probability": 0.9946513772010803
+    },
+    {
+      "start": 4.64,
+      "end": 4.76,
+      "text": "are",
+      "probability": 0.979534387588501
+    },
+    {
+      "start": 4.76,
+      "end": 4.98,
+      "text": "supposed",
+      "probability": 0.9795229434967041
+    },
+    {
+      "start": 4.98,
+      "end": 5.36,
+      "text": "to",
+      "probability": 0.9989481568336487
+    },
+    {
+      "start": 5.36,
+      "end": 5.46,
+      "text": "be",
+      "probability": 0.9976258873939514
+    },
+    {
+      "start": 5.46,
+      "end": 5.82,
+      "text": "collecting",
+      "probability": 0.9986453652381897
+    },
+    {
+      "start": 5.82,
+      "end": 6.38,
+      "text": "theirs.",
+      "probability": 0.9800123572349548
+    }
+  ],
+  "text": "No, they took your pawn. I am not happy about that. We are supposed to be collecting theirs."
+}

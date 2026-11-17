@@ -1,0 +1,119 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.99075,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.94,
+      "text": " We gave up a big piece and brought home a pond.",
+      "noSpeechProbability": 0.0009262458770535886
+    },
+    {
+      "start": 3.9,
+      "end": 5.36,
+      "text": " Now that is a trade.",
+      "noSpeechProbability": 0.0009262458770535886
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.14,
+      "text": "We",
+      "probability": 0.8395047187805176
+    },
+    {
+      "start": 0.14,
+      "end": 0.4,
+      "text": "gave",
+      "probability": 0.9932554960250854
+    },
+    {
+      "start": 0.4,
+      "end": 0.64,
+      "text": "up",
+      "probability": 0.9977681636810303
+    },
+    {
+      "start": 0.64,
+      "end": 0.78,
+      "text": "a",
+      "probability": 0.9960224032402039
+    },
+    {
+      "start": 0.78,
+      "end": 1.08,
+      "text": "big",
+      "probability": 0.9908615350723267
+    },
+    {
+      "start": 1.08,
+      "end": 1.42,
+      "text": "piece",
+      "probability": 0.9676817059516907
+    },
+    {
+      "start": 1.42,
+      "end": 1.92,
+      "text": "and",
+      "probability": 0.924954354763031
+    },
+    {
+      "start": 1.92,
+      "end": 2.2,
+      "text": "brought",
+      "probability": 0.9983477592468262
+    },
+    {
+      "start": 2.2,
+      "end": 2.54,
+      "text": "home",
+      "probability": 0.9681344628334045
+    },
+    {
+      "start": 2.54,
+      "end": 2.7,
+      "text": "a",
+      "probability": 0.9696467518806458
+    },
+    {
+      "start": 2.7,
+      "end": 2.94,
+      "text": "pond.",
+      "probability": 0.6292864680290222
+    },
+    {
+      "start": 3.9,
+      "end": 3.96,
+      "text": "Now",
+      "probability": 0.9867912530899048
+    },
+    {
+      "start": 3.96,
+      "end": 4.36,
+      "text": "that",
+      "probability": 0.7624764442443848
+    },
+    {
+      "start": 4.36,
+      "end": 4.82,
+      "text": "is",
+      "probability": 0.9791637063026428
+    },
+    {
+      "start": 4.82,
+      "end": 4.96,
+      "text": "a",
+      "probability": 0.9935669302940369
+    },
+    {
+      "start": 4.96,
+      "end": 5.36,
+      "text": "trade.",
+      "probability": 0.9853310585021973
+    }
+  ],
+  "text": "We gave up a big piece and brought home a pond. Now that is a trade."
+}

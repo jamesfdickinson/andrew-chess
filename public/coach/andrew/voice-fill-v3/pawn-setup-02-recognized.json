@@ -1,0 +1,101 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 6.03725,
+  "segments": [
+    {
+      "start": 0.02,
+      "end": 5.4,
+      "text": " A quiet pond move. They do not have to take something every turn, apparently.",
+      "noSpeechProbability": 0.005528341978788376
+    }
+  ],
+  "words": [
+    {
+      "start": 0.02,
+      "end": 0.14,
+      "text": "A",
+      "probability": 0.8565448522567749
+    },
+    {
+      "start": 0.14,
+      "end": 0.54,
+      "text": "quiet",
+      "probability": 0.918393611907959
+    },
+    {
+      "start": 0.54,
+      "end": 0.88,
+      "text": "pond",
+      "probability": 0.5092566609382629
+    },
+    {
+      "start": 0.88,
+      "end": 1.32,
+      "text": "move.",
+      "probability": 0.9983049631118774
+    },
+    {
+      "start": 1.98,
+      "end": 2.1,
+      "text": "They",
+      "probability": 0.9941526055335999
+    },
+    {
+      "start": 2.1,
+      "end": 2.24,
+      "text": "do",
+      "probability": 0.9875587224960327
+    },
+    {
+      "start": 2.24,
+      "end": 2.48,
+      "text": "not",
+      "probability": 0.9921392798423767
+    },
+    {
+      "start": 2.48,
+      "end": 2.74,
+      "text": "have",
+      "probability": 0.9867586493492126
+    },
+    {
+      "start": 2.74,
+      "end": 2.92,
+      "text": "to",
+      "probability": 0.9984386563301086
+    },
+    {
+      "start": 2.92,
+      "end": 3.14,
+      "text": "take",
+      "probability": 0.9987756609916687
+    },
+    {
+      "start": 3.14,
+      "end": 3.54,
+      "text": "something",
+      "probability": 0.9915380477905273
+    },
+    {
+      "start": 3.54,
+      "end": 4.04,
+      "text": "every",
+      "probability": 0.9856979846954346
+    },
+    {
+      "start": 4.04,
+      "end": 4.44,
+      "text": "turn,",
+      "probability": 0.9971652626991272
+    },
+    {
+      "start": 4.88,
+      "end": 5.4,
+      "text": "apparently.",
+      "probability": 0.9947494864463806
+    }
+  ],
+  "text": "A quiet pond move. They do not have to take something every turn, apparently."
+}

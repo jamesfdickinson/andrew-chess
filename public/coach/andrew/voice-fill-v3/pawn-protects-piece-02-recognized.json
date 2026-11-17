@@ -1,0 +1,71 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.3870625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.96,
+      "text": " Upon on bodyguard duty, finally, someone reliable around here.",
+      "noSpeechProbability": 0.0023168562911450863
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.4,
+      "text": "Upon",
+      "probability": 0.9077860116958618
+    },
+    {
+      "start": 0.4,
+      "end": 0.68,
+      "text": "on",
+      "probability": 0.8608396649360657
+    },
+    {
+      "start": 0.68,
+      "end": 1.36,
+      "text": "bodyguard",
+      "probability": 0.7963488399982452
+    },
+    {
+      "start": 1.36,
+      "end": 1.64,
+      "text": "duty,",
+      "probability": 0.997919499874115
+    },
+    {
+      "start": 2.3,
+      "end": 2.8,
+      "text": "finally,",
+      "probability": 0.9684464931488037
+    },
+    {
+      "start": 3.26,
+      "end": 3.5,
+      "text": "someone",
+      "probability": 0.9911620616912842
+    },
+    {
+      "start": 3.5,
+      "end": 3.84,
+      "text": "reliable",
+      "probability": 0.9877673387527466
+    },
+    {
+      "start": 3.84,
+      "end": 4.5,
+      "text": "around",
+      "probability": 0.9915536046028137
+    },
+    {
+      "start": 4.5,
+      "end": 4.96,
+      "text": "here.",
+      "probability": 0.9942957758903503
+    }
+  ],
+  "text": "Upon on bodyguard duty, finally, someone reliable around here."
+}

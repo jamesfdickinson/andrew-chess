@@ -1,0 +1,101 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.6905,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.1,
+      "text": " That pond is on the menu. I would prefer it stayed on the board.",
+      "noSpeechProbability": 0.002986046951264143
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.24,
+      "text": "That",
+      "probability": 0.8276230096817017
+    },
+    {
+      "start": 0.24,
+      "end": 0.52,
+      "text": "pond",
+      "probability": 0.8052676320075989
+    },
+    {
+      "start": 0.52,
+      "end": 0.82,
+      "text": "is",
+      "probability": 0.9976996779441833
+    },
+    {
+      "start": 0.82,
+      "end": 1.02,
+      "text": "on",
+      "probability": 0.9949725866317749
+    },
+    {
+      "start": 1.02,
+      "end": 1.18,
+      "text": "the",
+      "probability": 0.9981626868247986
+    },
+    {
+      "start": 1.18,
+      "end": 1.5,
+      "text": "menu.",
+      "probability": 0.9971997737884521
+    },
+    {
+      "start": 2.3,
+      "end": 2.32,
+      "text": "I",
+      "probability": 0.9949540495872498
+    },
+    {
+      "start": 2.32,
+      "end": 2.48,
+      "text": "would",
+      "probability": 0.9931797981262207
+    },
+    {
+      "start": 2.48,
+      "end": 2.84,
+      "text": "prefer",
+      "probability": 0.9952734112739563
+    },
+    {
+      "start": 2.84,
+      "end": 3.12,
+      "text": "it",
+      "probability": 0.986684262752533
+    },
+    {
+      "start": 3.12,
+      "end": 3.34,
+      "text": "stayed",
+      "probability": 0.8520774841308594
+    },
+    {
+      "start": 3.34,
+      "end": 3.66,
+      "text": "on",
+      "probability": 0.9979700446128845
+    },
+    {
+      "start": 3.66,
+      "end": 3.8,
+      "text": "the",
+      "probability": 0.9913002848625183
+    },
+    {
+      "start": 3.8,
+      "end": 4.1,
+      "text": "board.",
+      "probability": 0.9784072041511536
+    }
+  ],
+  "text": "That pond is on the menu. I would prefer it stayed on the board."
+}

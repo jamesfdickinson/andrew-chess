@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.1084375,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.36,
+      "text": " Our little pawn is guarding a teammate. They grow up so fast.",
+      "noSpeechProbability": 0.0005653520347550511
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.2,
+      "text": "Our",
+      "probability": 0.8957221508026123
+    },
+    {
+      "start": 0.2,
+      "end": 0.38,
+      "text": "little",
+      "probability": 0.861953854560852
+    },
+    {
+      "start": 0.38,
+      "end": 0.76,
+      "text": "pawn",
+      "probability": 0.5669313669204712
+    },
+    {
+      "start": 0.76,
+      "end": 1.02,
+      "text": "is",
+      "probability": 0.9933918118476868
+    },
+    {
+      "start": 1.02,
+      "end": 1.32,
+      "text": "guarding",
+      "probability": 0.9971074461936951
+    },
+    {
+      "start": 1.32,
+      "end": 1.64,
+      "text": "a",
+      "probability": 0.9908258318901062
+    },
+    {
+      "start": 1.64,
+      "end": 1.88,
+      "text": "teammate.",
+      "probability": 0.958359956741333
+    },
+    {
+      "start": 2.76,
+      "end": 2.94,
+      "text": "They",
+      "probability": 0.9906705617904663
+    },
+    {
+      "start": 2.94,
+      "end": 3.18,
+      "text": "grow",
+      "probability": 0.9940627217292786
+    },
+    {
+      "start": 3.18,
+      "end": 3.48,
+      "text": "up",
+      "probability": 0.9979323148727417
+    },
+    {
+      "start": 3.48,
+      "end": 3.84,
+      "text": "so",
+      "probability": 0.9905665516853333
+    },
+    {
+      "start": 3.84,
+      "end": 4.36,
+      "text": "fast.",
+      "probability": 0.9994644522666931
+    }
+  ],
+  "text": "Our little pawn is guarding a teammate. They grow up so fast."
+}

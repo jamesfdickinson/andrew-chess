@@ -1,0 +1,77 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.1331875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.36,
+      "text": " Someone is eyeing our pawn. This is not a giveaway.",
+      "noSpeechProbability": 0.0025217686779797077
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.34,
+      "text": "Someone",
+      "probability": 0.6756972670555115
+    },
+    {
+      "start": 0.34,
+      "end": 0.6,
+      "text": "is",
+      "probability": 0.996241569519043
+    },
+    {
+      "start": 0.6,
+      "end": 0.94,
+      "text": "eyeing",
+      "probability": 0.9917306303977966
+    },
+    {
+      "start": 0.94,
+      "end": 1.22,
+      "text": "our",
+      "probability": 0.9821292757987976
+    },
+    {
+      "start": 1.22,
+      "end": 1.62,
+      "text": "pawn.",
+      "probability": 0.4527897536754608
+    },
+    {
+      "start": 2.04,
+      "end": 2.34,
+      "text": "This",
+      "probability": 0.990155816078186
+    },
+    {
+      "start": 2.34,
+      "end": 2.48,
+      "text": "is",
+      "probability": 0.992652416229248
+    },
+    {
+      "start": 2.48,
+      "end": 2.82,
+      "text": "not",
+      "probability": 0.9188111424446106
+    },
+    {
+      "start": 2.82,
+      "end": 3.04,
+      "text": "a",
+      "probability": 0.9962422847747803
+    },
+    {
+      "start": 3.04,
+      "end": 3.36,
+      "text": "giveaway.",
+      "probability": 0.9692594408988953
+    }
+  ],
+  "text": "Someone is eyeing our pawn. This is not a giveaway."
+}

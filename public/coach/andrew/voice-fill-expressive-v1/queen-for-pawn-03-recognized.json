@@ -1,0 +1,95 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 7.9876875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": " A whole queen invested in one lovely pawn.",
+      "noSpeechProbability": 0.0016180385136976838
+    },
+    {
+      "start": 4.4,
+      "end": 7.28,
+      "text": " Finally, someone understands value.",
+      "noSpeechProbability": 0.0016180385136976838
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.16,
+      "text": "A",
+      "probability": 0.5605508089065552
+    },
+    {
+      "start": 0.16,
+      "end": 0.5,
+      "text": "whole",
+      "probability": 0.9749078154563904
+    },
+    {
+      "start": 0.5,
+      "end": 0.9,
+      "text": "queen",
+      "probability": 0.9275243282318115
+    },
+    {
+      "start": 0.9,
+      "end": 1.54,
+      "text": "invested",
+      "probability": 0.9850847125053406
+    },
+    {
+      "start": 1.54,
+      "end": 1.96,
+      "text": "in",
+      "probability": 0.9982286095619202
+    },
+    {
+      "start": 1.96,
+      "end": 2.32,
+      "text": "one",
+      "probability": 0.9750853776931763
+    },
+    {
+      "start": 2.32,
+      "end": 2.98,
+      "text": "lovely",
+      "probability": 0.9826503396034241
+    },
+    {
+      "start": 2.98,
+      "end": 3.5,
+      "text": "pawn.",
+      "probability": 0.44525817036628723
+    },
+    {
+      "start": 4.4,
+      "end": 5.04,
+      "text": "Finally,",
+      "probability": 0.9902791380882263
+    },
+    {
+      "start": 5.48,
+      "end": 5.76,
+      "text": "someone",
+      "probability": 0.9951655864715576
+    },
+    {
+      "start": 5.76,
+      "end": 6.38,
+      "text": "understands",
+      "probability": 0.9637070298194885
+    },
+    {
+      "start": 6.38,
+      "end": 7.28,
+      "text": "value.",
+      "probability": 0.9680197238922119
+    }
+  ],
+  "text": "A whole queen invested in one lovely pawn. Finally, someone understands value."
+}

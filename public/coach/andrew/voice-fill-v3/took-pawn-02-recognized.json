@@ -1,0 +1,65 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 3.808125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "text": " One less pawn for your opponent. Nice find!",
+      "noSpeechProbability": 0.004152995068579912
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.22,
+      "text": "One",
+      "probability": 0.7184820771217346
+    },
+    {
+      "start": 0.22,
+      "end": 0.42,
+      "text": "less",
+      "probability": 0.9080870747566223
+    },
+    {
+      "start": 0.42,
+      "end": 0.76,
+      "text": "pawn",
+      "probability": 0.6557702422142029
+    },
+    {
+      "start": 0.76,
+      "end": 1.08,
+      "text": "for",
+      "probability": 0.9947015047073364
+    },
+    {
+      "start": 1.08,
+      "end": 1.26,
+      "text": "your",
+      "probability": 0.9952120780944824
+    },
+    {
+      "start": 1.26,
+      "end": 1.7,
+      "text": "opponent.",
+      "probability": 0.9958328604698181
+    },
+    {
+      "start": 2.4,
+      "end": 2.54,
+      "text": "Nice",
+      "probability": 0.9847277402877808
+    },
+    {
+      "start": 2.54,
+      "end": 3.04,
+      "text": "find!",
+      "probability": 0.6768128871917725
+    }
+  ],
+  "text": "One less pawn for your opponent. Nice find!"
+}

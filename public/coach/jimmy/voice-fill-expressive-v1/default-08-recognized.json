@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 3.483,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.86,
+      "text": " Before your next move, pick a pawn you would like to collect.",
+      "noSpeechProbability": 0.0012011451181024313
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.28,
+      "text": "Before",
+      "probability": 0.9526461958885193
+    },
+    {
+      "start": 0.28,
+      "end": 0.48,
+      "text": "your",
+      "probability": 0.9764043688774109
+    },
+    {
+      "start": 0.48,
+      "end": 0.66,
+      "text": "next",
+      "probability": 0.9987542629241943
+    },
+    {
+      "start": 0.66,
+      "end": 1.06,
+      "text": "move,",
+      "probability": 0.9986625909805298
+    },
+    {
+      "start": 1.42,
+      "end": 1.58,
+      "text": "pick",
+      "probability": 0.9941151142120361
+    },
+    {
+      "start": 1.58,
+      "end": 1.7,
+      "text": "a",
+      "probability": 0.7950519919395447
+    },
+    {
+      "start": 1.7,
+      "end": 1.96,
+      "text": "pawn",
+      "probability": 0.7471598982810974
+    },
+    {
+      "start": 1.96,
+      "end": 2.16,
+      "text": "you",
+      "probability": 0.9956049919128418
+    },
+    {
+      "start": 2.16,
+      "end": 2.28,
+      "text": "would",
+      "probability": 0.9958926439285278
+    },
+    {
+      "start": 2.28,
+      "end": 2.44,
+      "text": "like",
+      "probability": 0.9970571994781494
+    },
+    {
+      "start": 2.44,
+      "end": 2.6,
+      "text": "to",
+      "probability": 0.9989245533943176
+    },
+    {
+      "start": 2.6,
+      "end": 2.86,
+      "text": "collect.",
+      "probability": 0.9984540939331055
+    }
+  ],
+  "text": "Before your next move, pick a pawn you would like to collect."
+}

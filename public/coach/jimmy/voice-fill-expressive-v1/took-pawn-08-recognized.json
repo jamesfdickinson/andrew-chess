@@ -1,0 +1,77 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 3.808125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.22,
+      "text": " Forget the applause, there may be another pawn to take.",
+      "noSpeechProbability": 0.0024636650923639536
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.3,
+      "text": "Forget",
+      "probability": 0.8165335059165955
+    },
+    {
+      "start": 0.3,
+      "end": 0.5,
+      "text": "the",
+      "probability": 0.9942880272865295
+    },
+    {
+      "start": 0.5,
+      "end": 0.86,
+      "text": "applause,",
+      "probability": 0.9914543628692627
+    },
+    {
+      "start": 1.44,
+      "end": 1.62,
+      "text": "there",
+      "probability": 0.9895187020301819
+    },
+    {
+      "start": 1.62,
+      "end": 1.88,
+      "text": "may",
+      "probability": 0.9648292064666748
+    },
+    {
+      "start": 1.88,
+      "end": 2.12,
+      "text": "be",
+      "probability": 0.9990677237510681
+    },
+    {
+      "start": 2.12,
+      "end": 2.38,
+      "text": "another",
+      "probability": 0.9926177859306335
+    },
+    {
+      "start": 2.38,
+      "end": 2.72,
+      "text": "pawn",
+      "probability": 0.6547894477844238
+    },
+    {
+      "start": 2.72,
+      "end": 2.98,
+      "text": "to",
+      "probability": 0.9963955283164978
+    },
+    {
+      "start": 2.98,
+      "end": 3.22,
+      "text": "take.",
+      "probability": 0.9994718432426453
+    }
+  ],
+  "text": "Forget the applause, there may be another pawn to take."
+}

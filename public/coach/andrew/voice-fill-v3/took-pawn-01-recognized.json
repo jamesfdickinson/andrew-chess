@@ -1,0 +1,65 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.179625,
+  "segments": [
+    {
+      "start": 0.08,
+      "end": 3.16,
+      "text": " You took a pawn, keep looking for opportunities.",
+      "noSpeechProbability": 0.004601274151355028
+    }
+  ],
+  "words": [
+    {
+      "start": 0.08,
+      "end": 0.14,
+      "text": "You",
+      "probability": 0.668243408203125
+    },
+    {
+      "start": 0.14,
+      "end": 0.34,
+      "text": "took",
+      "probability": 0.9946532249450684
+    },
+    {
+      "start": 0.34,
+      "end": 0.5,
+      "text": "a",
+      "probability": 0.9678894877433777
+    },
+    {
+      "start": 0.5,
+      "end": 0.94,
+      "text": "pawn,",
+      "probability": 0.7113961577415466
+    },
+    {
+      "start": 1.64,
+      "end": 1.86,
+      "text": "keep",
+      "probability": 0.9778847098350525
+    },
+    {
+      "start": 1.86,
+      "end": 2.24,
+      "text": "looking",
+      "probability": 0.9978898167610168
+    },
+    {
+      "start": 2.24,
+      "end": 2.52,
+      "text": "for",
+      "probability": 0.9989756345748901
+    },
+    {
+      "start": 2.52,
+      "end": 3.16,
+      "text": "opportunities.",
+      "probability": 0.9956644177436829
+    }
+  ],
+  "text": "You took a pawn, keep looking for opportunities."
+}

@@ -1,0 +1,119 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.99075,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.78,
+      "text": " You got the big piece and missed the little one?",
+      "noSpeechProbability": 0.00080296111991629
+    },
+    {
+      "start": 3.46,
+      "end": 5.42,
+      "text": " That is the wrong way around.",
+      "noSpeechProbability": 0.00080296111991629
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.18,
+      "text": "You",
+      "probability": 0.8342154622077942
+    },
+    {
+      "start": 0.18,
+      "end": 0.42,
+      "text": "got",
+      "probability": 0.9736514687538147
+    },
+    {
+      "start": 0.42,
+      "end": 0.62,
+      "text": "the",
+      "probability": 0.9740245342254639
+    },
+    {
+      "start": 0.62,
+      "end": 0.98,
+      "text": "big",
+      "probability": 0.9782942533493042
+    },
+    {
+      "start": 0.98,
+      "end": 1.28,
+      "text": "piece",
+      "probability": 0.9391797780990601
+    },
+    {
+      "start": 1.28,
+      "end": 1.58,
+      "text": "and",
+      "probability": 0.9755086898803711
+    },
+    {
+      "start": 1.58,
+      "end": 1.86,
+      "text": "missed",
+      "probability": 0.8741475343704224
+    },
+    {
+      "start": 1.86,
+      "end": 2.14,
+      "text": "the",
+      "probability": 0.9375021457672119
+    },
+    {
+      "start": 2.14,
+      "end": 2.48,
+      "text": "little",
+      "probability": 0.9838486909866333
+    },
+    {
+      "start": 2.48,
+      "end": 2.78,
+      "text": "one?",
+      "probability": 0.9962714910507202
+    },
+    {
+      "start": 3.46,
+      "end": 3.82,
+      "text": "That",
+      "probability": 0.9825000762939453
+    },
+    {
+      "start": 3.82,
+      "end": 3.98,
+      "text": "is",
+      "probability": 0.9645297527313232
+    },
+    {
+      "start": 3.98,
+      "end": 4.16,
+      "text": "the",
+      "probability": 0.993848979473114
+    },
+    {
+      "start": 4.16,
+      "end": 4.52,
+      "text": "wrong",
+      "probability": 0.953002393245697
+    },
+    {
+      "start": 4.52,
+      "end": 4.94,
+      "text": "way",
+      "probability": 0.9978218078613281
+    },
+    {
+      "start": 4.94,
+      "end": 5.42,
+      "text": "around.",
+      "probability": 0.9901304841041565
+    }
+  ],
+  "text": "You got the big piece and missed the little one? That is the wrong way around."
+}

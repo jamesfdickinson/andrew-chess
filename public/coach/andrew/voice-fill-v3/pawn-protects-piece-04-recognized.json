@@ -1,0 +1,65 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 3.575875,
+  "segments": [
+    {
+      "start": 0.27,
+      "end": 2.89,
+      "text": " With that teamwork, the pond has your back!",
+      "noSpeechProbability": 0.023883264511823654
+    }
+  ],
+  "words": [
+    {
+      "start": 0.27,
+      "end": 0.39,
+      "text": "With",
+      "probability": 0.09896255284547806
+    },
+    {
+      "start": 0.39,
+      "end": 0.51,
+      "text": "that",
+      "probability": 0.9896681308746338
+    },
+    {
+      "start": 0.51,
+      "end": 0.95,
+      "text": "teamwork,",
+      "probability": 0.9724476933479309
+    },
+    {
+      "start": 1.63,
+      "end": 1.73,
+      "text": "the",
+      "probability": 0.978398859500885
+    },
+    {
+      "start": 1.73,
+      "end": 1.97,
+      "text": "pond",
+      "probability": 0.6666696071624756
+    },
+    {
+      "start": 1.97,
+      "end": 2.29,
+      "text": "has",
+      "probability": 0.9980362057685852
+    },
+    {
+      "start": 2.29,
+      "end": 2.49,
+      "text": "your",
+      "probability": 0.9581719040870667
+    },
+    {
+      "start": 2.49,
+      "end": 2.89,
+      "text": "back!",
+      "probability": 0.9975854158401489
+    }
+  ],
+  "text": "With that teamwork, the pond has your back!"
+}

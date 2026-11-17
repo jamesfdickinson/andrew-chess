@@ -1,0 +1,107 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.3189375,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.3,
+      "text": " That pawn is on the menu.",
+      "noSpeechProbability": 0.003285051789134741
+    },
+    {
+      "start": 2.1,
+      "end": 3.74,
+      "text": " I would prefer it stayed on the board.",
+      "noSpeechProbability": 0.003285051789134741
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.18,
+      "text": "That",
+      "probability": 0.6419265270233154
+    },
+    {
+      "start": 0.18,
+      "end": 0.46,
+      "text": "pawn",
+      "probability": 0.4431411921977997
+    },
+    {
+      "start": 0.46,
+      "end": 0.72,
+      "text": "is",
+      "probability": 0.9956499934196472
+    },
+    {
+      "start": 0.72,
+      "end": 0.86,
+      "text": "on",
+      "probability": 0.994731068611145
+    },
+    {
+      "start": 0.86,
+      "end": 0.96,
+      "text": "the",
+      "probability": 0.9978413581848145
+    },
+    {
+      "start": 0.96,
+      "end": 1.3,
+      "text": "menu.",
+      "probability": 0.9951606392860413
+    },
+    {
+      "start": 2.1,
+      "end": 2.26,
+      "text": "I",
+      "probability": 0.9930683374404907
+    },
+    {
+      "start": 2.26,
+      "end": 2.36,
+      "text": "would",
+      "probability": 0.9909750819206238
+    },
+    {
+      "start": 2.36,
+      "end": 2.68,
+      "text": "prefer",
+      "probability": 0.9963915944099426
+    },
+    {
+      "start": 2.68,
+      "end": 2.88,
+      "text": "it",
+      "probability": 0.985156774520874
+    },
+    {
+      "start": 2.88,
+      "end": 3.06,
+      "text": "stayed",
+      "probability": 0.803615152835846
+    },
+    {
+      "start": 3.06,
+      "end": 3.3,
+      "text": "on",
+      "probability": 0.9974533915519714
+    },
+    {
+      "start": 3.3,
+      "end": 3.42,
+      "text": "the",
+      "probability": 0.9906170964241028
+    },
+    {
+      "start": 3.42,
+      "end": 3.74,
+      "text": "board.",
+      "probability": 0.9862483143806458
+    }
+  ],
+  "text": "That pawn is on the menu. I would prefer it stayed on the board."
+}

@@ -1,0 +1,131 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.5728125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.68,
+      "text": " We gave up a big piece and brought home a pawn.",
+      "noSpeechProbability": 0.0007377600995823741
+    },
+    {
+      "start": 3.38,
+      "end": 4.88,
+      "text": " Now that is a trade.",
+      "noSpeechProbability": 0.0007377600995823741
+    },
+    {
+      "start": 4.88,
+      "end": 5.06,
+      "text": " Great.",
+      "noSpeechProbability": 0.34163838624954224
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.18,
+      "text": "We",
+      "probability": 0.6500314474105835
+    },
+    {
+      "start": 0.18,
+      "end": 0.38,
+      "text": "gave",
+      "probability": 0.9905999302864075
+    },
+    {
+      "start": 0.38,
+      "end": 0.6,
+      "text": "up",
+      "probability": 0.9964564442634583
+    },
+    {
+      "start": 0.6,
+      "end": 0.74,
+      "text": "a",
+      "probability": 0.9969807267189026
+    },
+    {
+      "start": 0.74,
+      "end": 1.06,
+      "text": "big",
+      "probability": 0.9959587454795837
+    },
+    {
+      "start": 1.06,
+      "end": 1.38,
+      "text": "piece",
+      "probability": 0.8782776594161987
+    },
+    {
+      "start": 1.38,
+      "end": 1.68,
+      "text": "and",
+      "probability": 0.9760535359382629
+    },
+    {
+      "start": 1.68,
+      "end": 1.94,
+      "text": "brought",
+      "probability": 0.9986385703086853
+    },
+    {
+      "start": 1.94,
+      "end": 2.26,
+      "text": "home",
+      "probability": 0.975941002368927
+    },
+    {
+      "start": 2.26,
+      "end": 2.4,
+      "text": "a",
+      "probability": 0.9730489253997803
+    },
+    {
+      "start": 2.4,
+      "end": 2.68,
+      "text": "pawn.",
+      "probability": 0.6277435421943665
+    },
+    {
+      "start": 3.38,
+      "end": 3.62,
+      "text": "Now",
+      "probability": 0.9892354607582092
+    },
+    {
+      "start": 3.62,
+      "end": 4.02,
+      "text": "that",
+      "probability": 0.8010326623916626
+    },
+    {
+      "start": 4.02,
+      "end": 4.44,
+      "text": "is",
+      "probability": 0.9854098558425903
+    },
+    {
+      "start": 4.44,
+      "end": 4.56,
+      "text": "a",
+      "probability": 0.9973220229148865
+    },
+    {
+      "start": 4.56,
+      "end": 4.88,
+      "text": "trade.",
+      "probability": 0.9927661418914795
+    },
+    {
+      "start": 4.88,
+      "end": 5.06,
+      "text": "Great.",
+      "probability": 0.019959336146712303
+    }
+  ],
+  "text": "We gave up a big piece and brought home a pawn. Now that is a trade. Great."
+}

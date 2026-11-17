@@ -1,0 +1,65 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 3.808125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.96,
+      "text": " Another pawn has left the collection without permission.",
+      "noSpeechProbability": 0.0007981390808708966
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.3,
+      "text": "Another",
+      "probability": 0.9377555847167969
+    },
+    {
+      "start": 0.3,
+      "end": 0.74,
+      "text": "pawn",
+      "probability": 0.6341871023178101
+    },
+    {
+      "start": 0.74,
+      "end": 1.06,
+      "text": "has",
+      "probability": 0.9933212399482727
+    },
+    {
+      "start": 1.06,
+      "end": 1.34,
+      "text": "left",
+      "probability": 0.9985507130622864
+    },
+    {
+      "start": 1.34,
+      "end": 1.6,
+      "text": "the",
+      "probability": 0.9942659735679626
+    },
+    {
+      "start": 1.6,
+      "end": 2.0,
+      "text": "collection",
+      "probability": 0.9837682843208313
+    },
+    {
+      "start": 2.0,
+      "end": 2.52,
+      "text": "without",
+      "probability": 0.9967072606086731
+    },
+    {
+      "start": 2.52,
+      "end": 2.96,
+      "text": "permission.",
+      "probability": 0.9956521391868591
+    }
+  ],
+  "text": "Another pawn has left the collection without permission."
+}

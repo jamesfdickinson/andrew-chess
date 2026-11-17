@@ -1,0 +1,95 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.969125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.46,
+      "text": " Setting the stage for the pawns, the fancy pieces can wait their turn.",
+      "noSpeechProbability": 0.003542221151292324
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.32,
+      "text": "Setting",
+      "probability": 0.9359569549560547
+    },
+    {
+      "start": 0.32,
+      "end": 0.54,
+      "text": "the",
+      "probability": 0.9960370659828186
+    },
+    {
+      "start": 0.54,
+      "end": 0.84,
+      "text": "stage",
+      "probability": 0.9948657155036926
+    },
+    {
+      "start": 0.84,
+      "end": 1.12,
+      "text": "for",
+      "probability": 0.9970521926879883
+    },
+    {
+      "start": 1.12,
+      "end": 1.22,
+      "text": "the",
+      "probability": 0.992866039276123
+    },
+    {
+      "start": 1.22,
+      "end": 1.84,
+      "text": "pawns,",
+      "probability": 0.6820389330387115
+    },
+    {
+      "start": 2.2,
+      "end": 2.32,
+      "text": "the",
+      "probability": 0.9837174415588379
+    },
+    {
+      "start": 2.32,
+      "end": 2.56,
+      "text": "fancy",
+      "probability": 0.9916223883628845
+    },
+    {
+      "start": 2.56,
+      "end": 3.12,
+      "text": "pieces",
+      "probability": 0.9962902069091797
+    },
+    {
+      "start": 3.12,
+      "end": 3.5,
+      "text": "can",
+      "probability": 0.9978346228599548
+    },
+    {
+      "start": 3.5,
+      "end": 3.72,
+      "text": "wait",
+      "probability": 0.8021286129951477
+    },
+    {
+      "start": 3.72,
+      "end": 4.0,
+      "text": "their",
+      "probability": 0.993515133857727
+    },
+    {
+      "start": 4.0,
+      "end": 4.46,
+      "text": "turn.",
+      "probability": 0.9983530044555664
+    }
+  ],
+  "text": "Setting the stage for the pawns, the fancy pieces can wait their turn."
+}

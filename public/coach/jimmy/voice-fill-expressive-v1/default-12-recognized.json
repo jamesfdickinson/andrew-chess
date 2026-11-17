@@ -1,0 +1,191 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.5728125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": " Could an exchange open a line toward a pawn?",
+      "noSpeechProbability": 0.0011525396257638931
+    },
+    {
+      "start": 3.2,
+      "end": 4.96,
+      "text": " That is the sort of plan I like.",
+      "noSpeechProbability": 0.0011525396257638931
+    },
+    {
+      "start": 4.96,
+      "end": 5.04,
+      "text": " I'll be right back.",
+      "noSpeechProbability": 0.38754361867904663
+    },
+    {
+      "start": 5.04,
+      "end": 5.18,
+      "text": " Alright, Mike.",
+      "noSpeechProbability": 0.38754361867904663
+    },
+    {
+      "start": 5.34,
+      "end": 5.42,
+      "text": " Mike, Mike.",
+      "noSpeechProbability": 0.38754361867904663
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.16,
+      "text": "Could",
+      "probability": 0.942064106464386
+    },
+    {
+      "start": 0.16,
+      "end": 0.26,
+      "text": "an",
+      "probability": 0.903242290019989
+    },
+    {
+      "start": 0.26,
+      "end": 0.52,
+      "text": "exchange",
+      "probability": 0.9862608313560486
+    },
+    {
+      "start": 0.52,
+      "end": 1.18,
+      "text": "open",
+      "probability": 0.9949352145195007
+    },
+    {
+      "start": 1.18,
+      "end": 1.32,
+      "text": "a",
+      "probability": 0.993243396282196
+    },
+    {
+      "start": 1.32,
+      "end": 1.6,
+      "text": "line",
+      "probability": 0.9899312257766724
+    },
+    {
+      "start": 1.6,
+      "end": 1.88,
+      "text": "toward",
+      "probability": 0.981273889541626
+    },
+    {
+      "start": 1.88,
+      "end": 2.04,
+      "text": "a",
+      "probability": 0.9684094786643982
+    },
+    {
+      "start": 2.04,
+      "end": 2.32,
+      "text": "pawn?",
+      "probability": 0.6994274258613586
+    },
+    {
+      "start": 3.2,
+      "end": 3.5,
+      "text": "That",
+      "probability": 0.9908700585365295
+    },
+    {
+      "start": 3.5,
+      "end": 3.72,
+      "text": "is",
+      "probability": 0.9919562339782715
+    },
+    {
+      "start": 3.72,
+      "end": 3.88,
+      "text": "the",
+      "probability": 0.9968209266662598
+    },
+    {
+      "start": 3.88,
+      "end": 4.06,
+      "text": "sort",
+      "probability": 0.9962210655212402
+    },
+    {
+      "start": 4.06,
+      "end": 4.2,
+      "text": "of",
+      "probability": 0.9977266192436218
+    },
+    {
+      "start": 4.2,
+      "end": 4.42,
+      "text": "plan",
+      "probability": 0.9980054497718811
+    },
+    {
+      "start": 4.42,
+      "end": 4.68,
+      "text": "I",
+      "probability": 0.984099268913269
+    },
+    {
+      "start": 4.68,
+      "end": 4.96,
+      "text": "like.",
+      "probability": 0.9887735247612
+    },
+    {
+      "start": 4.96,
+      "end": 4.96,
+      "text": "I'll",
+      "probability": 0.14208571892231703
+    },
+    {
+      "start": 4.96,
+      "end": 4.96,
+      "text": "be",
+      "probability": 0.15737901628017426
+    },
+    {
+      "start": 4.96,
+      "end": 5.02,
+      "text": "right",
+      "probability": 0.4735013544559479
+    },
+    {
+      "start": 5.02,
+      "end": 5.04,
+      "text": "back.",
+      "probability": 0.7786380648612976
+    },
+    {
+      "start": 5.04,
+      "end": 5.04,
+      "text": "Alright,",
+      "probability": 0.023778673261404037
+    },
+    {
+      "start": 5.16,
+      "end": 5.18,
+      "text": "Mike.",
+      "probability": 0.08806638419628143
+    },
+    {
+      "start": 5.34,
+      "end": 5.34,
+      "text": "Mike,",
+      "probability": 0.024185942485928535
+    },
+    {
+      "start": 5.34,
+      "end": 5.42,
+      "text": "Mike.",
+      "probability": 0.41601768136024475
+    }
+  ],
+  "text": "Could an exchange open a line toward a pawn? That is the sort of plan I like. I'll be right back. Alright, Mike. Mike, Mike."
+}

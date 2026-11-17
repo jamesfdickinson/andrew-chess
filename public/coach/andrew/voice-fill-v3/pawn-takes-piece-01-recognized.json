@@ -1,0 +1,101 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.99075,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.16,
+      "text": " Our little pond took a big piece. Tell me again which pieces are important.",
+      "noSpeechProbability": 0.002016030251979828
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.16,
+      "text": "Our",
+      "probability": 0.914201021194458
+    },
+    {
+      "start": 0.16,
+      "end": 0.38,
+      "text": "little",
+      "probability": 0.9177552461624146
+    },
+    {
+      "start": 0.38,
+      "end": 0.78,
+      "text": "pond",
+      "probability": 0.8154976963996887
+    },
+    {
+      "start": 0.78,
+      "end": 1.12,
+      "text": "took",
+      "probability": 0.9967124462127686
+    },
+    {
+      "start": 1.12,
+      "end": 1.26,
+      "text": "a",
+      "probability": 0.9964476823806763
+    },
+    {
+      "start": 1.26,
+      "end": 1.58,
+      "text": "big",
+      "probability": 0.992341160774231
+    },
+    {
+      "start": 1.58,
+      "end": 2.0,
+      "text": "piece.",
+      "probability": 0.9553990364074707
+    },
+    {
+      "start": 2.86,
+      "end": 3.12,
+      "text": "Tell",
+      "probability": 0.9888421297073364
+    },
+    {
+      "start": 3.12,
+      "end": 3.3,
+      "text": "me",
+      "probability": 0.9986805319786072
+    },
+    {
+      "start": 3.3,
+      "end": 3.6,
+      "text": "again",
+      "probability": 0.9855594635009766
+    },
+    {
+      "start": 3.6,
+      "end": 3.92,
+      "text": "which",
+      "probability": 0.9681001305580139
+    },
+    {
+      "start": 3.92,
+      "end": 4.32,
+      "text": "pieces",
+      "probability": 0.9810065031051636
+    },
+    {
+      "start": 4.32,
+      "end": 4.68,
+      "text": "are",
+      "probability": 0.9988921284675598
+    },
+    {
+      "start": 4.68,
+      "end": 5.16,
+      "text": "important.",
+      "probability": 0.9985515475273132
+    }
+  ],
+  "text": "Our little pond took a big piece. Tell me again which pieces are important."
+}

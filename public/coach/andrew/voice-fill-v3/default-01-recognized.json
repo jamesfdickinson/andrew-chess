@@ -1,0 +1,83 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.179625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": " Keep an eye on loose pawns. What can you capture next?",
+      "noSpeechProbability": 0.0019312555668875575
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.2,
+      "text": "Keep",
+      "probability": 0.8829654455184937
+    },
+    {
+      "start": 0.2,
+      "end": 0.36,
+      "text": "an",
+      "probability": 0.9965677261352539
+    },
+    {
+      "start": 0.36,
+      "end": 0.58,
+      "text": "eye",
+      "probability": 0.9991145730018616
+    },
+    {
+      "start": 0.58,
+      "end": 0.76,
+      "text": "on",
+      "probability": 0.994993269443512
+    },
+    {
+      "start": 0.76,
+      "end": 0.96,
+      "text": "loose",
+      "probability": 0.9801986813545227
+    },
+    {
+      "start": 0.96,
+      "end": 1.76,
+      "text": "pawns.",
+      "probability": 0.68365179002285
+    },
+    {
+      "start": 2.3,
+      "end": 2.34,
+      "text": "What",
+      "probability": 0.9915117621421814
+    },
+    {
+      "start": 2.34,
+      "end": 2.56,
+      "text": "can",
+      "probability": 0.9950594902038574
+    },
+    {
+      "start": 2.56,
+      "end": 2.72,
+      "text": "you",
+      "probability": 0.9969140291213989
+    },
+    {
+      "start": 2.72,
+      "end": 3.0,
+      "text": "capture",
+      "probability": 0.9941514134407043
+    },
+    {
+      "start": 3.0,
+      "end": 3.6,
+      "text": "next?",
+      "probability": 0.9991835951805115
+    }
+  ],
+  "text": "Keep an eye on loose pawns. What can you capture next?"
+}

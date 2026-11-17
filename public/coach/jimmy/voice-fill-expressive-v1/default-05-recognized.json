@@ -1,0 +1,107 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.2941875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.64,
+      "text": " Try lining a rook up with an enemy pawn. Give it something useful to do.",
+      "noSpeechProbability": 0.0009179185144603252
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.22,
+      "text": "Try",
+      "probability": 0.7827455997467041
+    },
+    {
+      "start": 0.22,
+      "end": 0.52,
+      "text": "lining",
+      "probability": 0.9904643297195435
+    },
+    {
+      "start": 0.52,
+      "end": 0.82,
+      "text": "a",
+      "probability": 0.9830843806266785
+    },
+    {
+      "start": 0.82,
+      "end": 1.08,
+      "text": "rook",
+      "probability": 0.7892114520072937
+    },
+    {
+      "start": 1.08,
+      "end": 1.26,
+      "text": "up",
+      "probability": 0.9015305042266846
+    },
+    {
+      "start": 1.26,
+      "end": 1.46,
+      "text": "with",
+      "probability": 0.9979280233383179
+    },
+    {
+      "start": 1.46,
+      "end": 1.6,
+      "text": "an",
+      "probability": 0.9853816032409668
+    },
+    {
+      "start": 1.6,
+      "end": 1.86,
+      "text": "enemy",
+      "probability": 0.9843330383300781
+    },
+    {
+      "start": 1.86,
+      "end": 2.2,
+      "text": "pawn.",
+      "probability": 0.985836386680603
+    },
+    {
+      "start": 3.26,
+      "end": 3.26,
+      "text": "Give",
+      "probability": 0.9936043620109558
+    },
+    {
+      "start": 3.26,
+      "end": 3.4,
+      "text": "it",
+      "probability": 0.9993377327919006
+    },
+    {
+      "start": 3.4,
+      "end": 3.64,
+      "text": "something",
+      "probability": 0.9983139038085938
+    },
+    {
+      "start": 3.64,
+      "end": 4.04,
+      "text": "useful",
+      "probability": 0.9958974123001099
+    },
+    {
+      "start": 4.04,
+      "end": 4.44,
+      "text": "to",
+      "probability": 0.9734689593315125
+    },
+    {
+      "start": 4.44,
+      "end": 4.64,
+      "text": "do.",
+      "probability": 0.9981972575187683
+    }
+  ],
+  "text": "Try lining a rook up with an enemy pawn. Give it something useful to do."
+}

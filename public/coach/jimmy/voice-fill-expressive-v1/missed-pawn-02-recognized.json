@@ -1,0 +1,107 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.5046875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.28,
+      "text": " Why did you not take the pawn?",
+      "noSpeechProbability": 0.0009710306185297668
+    },
+    {
+      "start": 2.26,
+      "end": 3.7,
+      "text": " It was right there for the taking.",
+      "noSpeechProbability": 0.0009710306185297668
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.22,
+      "text": "Why",
+      "probability": 0.7056037783622742
+    },
+    {
+      "start": 0.22,
+      "end": 0.34,
+      "text": "did",
+      "probability": 0.9815365672111511
+    },
+    {
+      "start": 0.34,
+      "end": 0.44,
+      "text": "you",
+      "probability": 0.9810402393341064
+    },
+    {
+      "start": 0.44,
+      "end": 0.62,
+      "text": "not",
+      "probability": 0.9975314140319824
+    },
+    {
+      "start": 0.62,
+      "end": 0.86,
+      "text": "take",
+      "probability": 0.9984124898910522
+    },
+    {
+      "start": 0.86,
+      "end": 1.0,
+      "text": "the",
+      "probability": 0.9916463494300842
+    },
+    {
+      "start": 1.0,
+      "end": 1.28,
+      "text": "pawn?",
+      "probability": 0.5332821607589722
+    },
+    {
+      "start": 2.26,
+      "end": 2.3,
+      "text": "It",
+      "probability": 0.9825266003608704
+    },
+    {
+      "start": 2.3,
+      "end": 2.42,
+      "text": "was",
+      "probability": 0.9976258873939514
+    },
+    {
+      "start": 2.42,
+      "end": 2.72,
+      "text": "right",
+      "probability": 0.9912834167480469
+    },
+    {
+      "start": 2.72,
+      "end": 3.02,
+      "text": "there",
+      "probability": 0.9978848099708557
+    },
+    {
+      "start": 3.02,
+      "end": 3.24,
+      "text": "for",
+      "probability": 0.9926837086677551
+    },
+    {
+      "start": 3.24,
+      "end": 3.36,
+      "text": "the",
+      "probability": 0.9951759576797485
+    },
+    {
+      "start": 3.36,
+      "end": 3.7,
+      "text": "taking.",
+      "probability": 0.9826483130455017
+    }
+  ],
+  "text": "Why did you not take the pawn? It was right there for the taking."
+}

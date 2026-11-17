@@ -1,0 +1,95 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.0403125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.54,
+      "text": " Their king is in check, but what is your plan for their pawns?",
+      "noSpeechProbability": 0.0018685582326725125
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.14,
+      "text": "Their",
+      "probability": 0.9112644195556641
+    },
+    {
+      "start": 0.14,
+      "end": 0.38,
+      "text": "king",
+      "probability": 0.8227226734161377
+    },
+    {
+      "start": 0.38,
+      "end": 0.62,
+      "text": "is",
+      "probability": 0.98956698179245
+    },
+    {
+      "start": 0.62,
+      "end": 0.74,
+      "text": "in",
+      "probability": 0.9985822439193726
+    },
+    {
+      "start": 0.74,
+      "end": 1.04,
+      "text": "check,",
+      "probability": 0.9680759906768799
+    },
+    {
+      "start": 1.48,
+      "end": 1.64,
+      "text": "but",
+      "probability": 0.9914200305938721
+    },
+    {
+      "start": 1.64,
+      "end": 1.86,
+      "text": "what",
+      "probability": 0.9955072402954102
+    },
+    {
+      "start": 1.86,
+      "end": 1.98,
+      "text": "is",
+      "probability": 0.9917086958885193
+    },
+    {
+      "start": 1.98,
+      "end": 2.12,
+      "text": "your",
+      "probability": 0.9966674447059631
+    },
+    {
+      "start": 2.12,
+      "end": 2.4,
+      "text": "plan",
+      "probability": 0.9987867474555969
+    },
+    {
+      "start": 2.4,
+      "end": 2.68,
+      "text": "for",
+      "probability": 0.9971749782562256
+    },
+    {
+      "start": 2.68,
+      "end": 2.82,
+      "text": "their",
+      "probability": 0.9921769499778748
+    },
+    {
+      "start": 2.82,
+      "end": 3.54,
+      "text": "pawns?",
+      "probability": 0.9721914529800415
+    }
+  ],
+  "text": "Their king is in check, but what is your plan for their pawns?"
+}

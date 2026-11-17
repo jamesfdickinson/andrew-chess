@@ -1,0 +1,113 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.897875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.36,
+      "text": " Check. Yes. But keep your eyes on the pawns. That is where the good stuff is.",
+      "noSpeechProbability": 0.001577104558236897
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.22,
+      "text": "Check.",
+      "probability": 0.4094267189502716
+    },
+    {
+      "start": 0.56,
+      "end": 0.84,
+      "text": "Yes.",
+      "probability": 0.9786548018455505
+    },
+    {
+      "start": 1.6,
+      "end": 1.62,
+      "text": "But",
+      "probability": 0.9696947336196899
+    },
+    {
+      "start": 1.62,
+      "end": 1.86,
+      "text": "keep",
+      "probability": 0.9272544980049133
+    },
+    {
+      "start": 1.86,
+      "end": 2.08,
+      "text": "your",
+      "probability": 0.9911752939224243
+    },
+    {
+      "start": 2.08,
+      "end": 2.34,
+      "text": "eyes",
+      "probability": 0.995872437953949
+    },
+    {
+      "start": 2.34,
+      "end": 2.56,
+      "text": "on",
+      "probability": 0.9980771541595459
+    },
+    {
+      "start": 2.56,
+      "end": 2.66,
+      "text": "the",
+      "probability": 0.9916874766349792
+    },
+    {
+      "start": 2.66,
+      "end": 3.26,
+      "text": "pawns.",
+      "probability": 0.6700806617736816
+    },
+    {
+      "start": 3.66,
+      "end": 3.8,
+      "text": "That",
+      "probability": 0.9883698225021362
+    },
+    {
+      "start": 3.8,
+      "end": 4.0,
+      "text": "is",
+      "probability": 0.9351148009300232
+    },
+    {
+      "start": 4.0,
+      "end": 4.2,
+      "text": "where",
+      "probability": 0.995495080947876
+    },
+    {
+      "start": 4.2,
+      "end": 4.38,
+      "text": "the",
+      "probability": 0.9849864840507507
+    },
+    {
+      "start": 4.38,
+      "end": 4.6,
+      "text": "good",
+      "probability": 0.9618130326271057
+    },
+    {
+      "start": 4.6,
+      "end": 4.94,
+      "text": "stuff",
+      "probability": 0.9961519837379456
+    },
+    {
+      "start": 4.94,
+      "end": 5.36,
+      "text": "is.",
+      "probability": 0.9985111355781555
+    }
+  ],
+  "text": "Check. Yes. But keep your eyes on the pawns. That is where the good stuff is."
+}

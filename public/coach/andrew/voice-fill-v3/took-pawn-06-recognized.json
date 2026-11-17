@@ -1,0 +1,83 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 3.622375,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.1,
+      "text": " You found the pond! I knew you had it in you!",
+      "noSpeechProbability": 0.003592554247006774
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.18,
+      "text": "You",
+      "probability": 0.8224391341209412
+    },
+    {
+      "start": 0.18,
+      "end": 0.42,
+      "text": "found",
+      "probability": 0.9945038557052612
+    },
+    {
+      "start": 0.42,
+      "end": 0.62,
+      "text": "the",
+      "probability": 0.9904605746269226
+    },
+    {
+      "start": 0.62,
+      "end": 0.86,
+      "text": "pond!",
+      "probability": 0.7654125094413757
+    },
+    {
+      "start": 1.68,
+      "end": 1.74,
+      "text": "I",
+      "probability": 0.9940782785415649
+    },
+    {
+      "start": 1.74,
+      "end": 2.02,
+      "text": "knew",
+      "probability": 0.8549993634223938
+    },
+    {
+      "start": 2.02,
+      "end": 2.26,
+      "text": "you",
+      "probability": 0.9971649050712585
+    },
+    {
+      "start": 2.26,
+      "end": 2.52,
+      "text": "had",
+      "probability": 0.9954220652580261
+    },
+    {
+      "start": 2.52,
+      "end": 2.66,
+      "text": "it",
+      "probability": 0.9961569905281067
+    },
+    {
+      "start": 2.66,
+      "end": 2.86,
+      "text": "in",
+      "probability": 0.9880488514900208
+    },
+    {
+      "start": 2.86,
+      "end": 3.1,
+      "text": "you!",
+      "probability": 0.9964474439620972
+    }
+  ],
+  "text": "You found the pond! I knew you had it in you!"
+}

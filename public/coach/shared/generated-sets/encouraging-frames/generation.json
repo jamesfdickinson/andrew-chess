@@ -1,0 +1,16 @@
+{
+  "tool": "built-in image_gen",
+  "reference": "public/coach/shared/generated-sets/dgx-calm-pilot/closed.png",
+  "asset": "src/assets/jimmy-encouraging-frames.png",
+  "preset": "encouraging",
+  "layout": {
+    "columns": 3,
+    "rows": 1,
+    "mouths": [
+      "closed",
+      "partly open",
+      "open"
+    ]
+  },
+  "prompt": "Create a production sprite sheet for a talking portrait animation using the attached image as the character and exact art-style reference. Wide 3:1 image, exactly THREE equal SQUARE cells side by side in ONE row, edge-to-edge with no gutters, no borders, no text. Each cell contains the SAME character portrait at exactly the same scale and position as the reference, entire hair/head and black-shirt shoulders visible, forest green background. Preserve identity, receding curly dark hair, warm nuanced painted pixel-art skin shading, deliberate pixel clusters, 1990s adventure-game art. Expression: gently encouraging, warm engaged eyes and subtle reassuring smile, no big grin. All three cells have IDENTICAL head pose, eyebrows, eyes, nose, shoulders and background; only mouth/lower jaw changes. Left cell: closed mouth, slight reassuring smile. Middle cell: lips slightly parted mid speech, small visible dark mouth opening. Right cell: mouth clearly open vertically mid speech, upper teeth and dark interior, relaxed lowered jaw, no shouting. This is an animation frame set, keep pixel alignment and composition consistent. No props or hands. Output 1536x512 or another exact 3:1 ratio."
+}

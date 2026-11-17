@@ -1,0 +1,83 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.4118125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.82,
+      "text": " Good support from that pond. Keep your little team working together.",
+      "noSpeechProbability": 0.001595718553289771
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.18,
+      "text": "Good",
+      "probability": 0.772659182548523
+    },
+    {
+      "start": 0.18,
+      "end": 0.4,
+      "text": "support",
+      "probability": 0.9894418716430664
+    },
+    {
+      "start": 0.4,
+      "end": 0.84,
+      "text": "from",
+      "probability": 0.9945225715637207
+    },
+    {
+      "start": 0.84,
+      "end": 1.02,
+      "text": "that",
+      "probability": 0.9932942986488342
+    },
+    {
+      "start": 1.02,
+      "end": 1.28,
+      "text": "pond.",
+      "probability": 0.714049756526947
+    },
+    {
+      "start": 2.14,
+      "end": 2.14,
+      "text": "Keep",
+      "probability": 0.994362473487854
+    },
+    {
+      "start": 2.14,
+      "end": 2.32,
+      "text": "your",
+      "probability": 0.9869028329849243
+    },
+    {
+      "start": 2.32,
+      "end": 2.52,
+      "text": "little",
+      "probability": 0.9754012823104858
+    },
+    {
+      "start": 2.52,
+      "end": 2.92,
+      "text": "team",
+      "probability": 0.9956756234169006
+    },
+    {
+      "start": 2.92,
+      "end": 3.3,
+      "text": "working",
+      "probability": 0.9980816841125488
+    },
+    {
+      "start": 3.3,
+      "end": 3.82,
+      "text": "together.",
+      "probability": 0.9982742071151733
+    }
+  ],
+  "text": "Good support from that pond. Keep your little team working together."
+}

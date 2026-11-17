@@ -1,0 +1,65 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.3189375,
+  "segments": [
+    {
+      "start": 0.88,
+      "end": 1.22,
+      "text": " Another piece.",
+      "noSpeechProbability": 0.01994667574763298
+    },
+    {
+      "start": 1.7,
+      "end": 3.56,
+      "text": " Our pawn seems perfectly qualified.",
+      "noSpeechProbability": 0.01994667574763298
+    }
+  ],
+  "words": [
+    {
+      "start": 0.88,
+      "end": 0.94,
+      "text": "Another",
+      "probability": 0.2624990940093994
+    },
+    {
+      "start": 0.94,
+      "end": 1.22,
+      "text": "piece.",
+      "probability": 0.990658164024353
+    },
+    {
+      "start": 1.7,
+      "end": 1.8,
+      "text": "Our",
+      "probability": 0.9653292894363403
+    },
+    {
+      "start": 1.8,
+      "end": 2.04,
+      "text": "pawn",
+      "probability": 0.4098607003688812
+    },
+    {
+      "start": 2.04,
+      "end": 2.42,
+      "text": "seems",
+      "probability": 0.8537915945053101
+    },
+    {
+      "start": 2.42,
+      "end": 2.98,
+      "text": "perfectly",
+      "probability": 0.9892911314964294
+    },
+    {
+      "start": 2.98,
+      "end": 3.56,
+      "text": "qualified.",
+      "probability": 0.9963655471801758
+    }
+  ],
+  "text": "Another piece. Our pawn seems perfectly qualified."
+}

@@ -1,0 +1,113 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.062,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.58,
+      "text": " You gave that pawn some support.",
+      "noSpeechProbability": 0.0007253742078319192
+    },
+    {
+      "start": 2.28,
+      "end": 4.62,
+      "text": " I like a team that looks after its pawns.",
+      "noSpeechProbability": 0.0007253742078319192
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.12,
+      "text": "You",
+      "probability": 0.8299060463905334
+    },
+    {
+      "start": 0.12,
+      "end": 0.38,
+      "text": "gave",
+      "probability": 0.991008460521698
+    },
+    {
+      "start": 0.38,
+      "end": 0.6,
+      "text": "that",
+      "probability": 0.9945688247680664
+    },
+    {
+      "start": 0.6,
+      "end": 0.88,
+      "text": "pawn",
+      "probability": 0.207278311252594
+    },
+    {
+      "start": 0.88,
+      "end": 1.16,
+      "text": "some",
+      "probability": 0.9869242906570435
+    },
+    {
+      "start": 1.16,
+      "end": 1.58,
+      "text": "support.",
+      "probability": 0.9994733929634094
+    },
+    {
+      "start": 2.28,
+      "end": 2.4,
+      "text": "I",
+      "probability": 0.994979202747345
+    },
+    {
+      "start": 2.4,
+      "end": 2.66,
+      "text": "like",
+      "probability": 0.9880445599555969
+    },
+    {
+      "start": 2.66,
+      "end": 2.86,
+      "text": "a",
+      "probability": 0.9964543581008911
+    },
+    {
+      "start": 2.86,
+      "end": 3.06,
+      "text": "team",
+      "probability": 0.9981037378311157
+    },
+    {
+      "start": 3.06,
+      "end": 3.26,
+      "text": "that",
+      "probability": 0.9957215785980225
+    },
+    {
+      "start": 3.26,
+      "end": 3.44,
+      "text": "looks",
+      "probability": 0.9910755157470703
+    },
+    {
+      "start": 3.44,
+      "end": 3.84,
+      "text": "after",
+      "probability": 0.9988002777099609
+    },
+    {
+      "start": 3.84,
+      "end": 4.0,
+      "text": "its",
+      "probability": 0.8369159698486328
+    },
+    {
+      "start": 4.0,
+      "end": 4.62,
+      "text": "pawns.",
+      "probability": 0.9830960333347321
+    }
+  ],
+  "text": "You gave that pawn some support. I like a team that looks after its pawns."
+}

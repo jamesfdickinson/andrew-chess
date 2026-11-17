@@ -1,0 +1,83 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.551125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.52,
+      "text": " A new pond for the collection.",
+      "noSpeechProbability": 0.0033006533049046993
+    },
+    {
+      "start": 2.34,
+      "end": 3.8,
+      "text": " Finally, some good news.",
+      "noSpeechProbability": 0.0033006533049046993
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.14,
+      "text": "A",
+      "probability": 0.7660021781921387
+    },
+    {
+      "start": 0.14,
+      "end": 0.36,
+      "text": "new",
+      "probability": 0.9825906157493591
+    },
+    {
+      "start": 0.36,
+      "end": 0.72,
+      "text": "pond",
+      "probability": 0.5203847289085388
+    },
+    {
+      "start": 0.72,
+      "end": 1.0,
+      "text": "for",
+      "probability": 0.9966098666191101
+    },
+    {
+      "start": 1.0,
+      "end": 1.12,
+      "text": "the",
+      "probability": 0.9900632500648499
+    },
+    {
+      "start": 1.12,
+      "end": 1.52,
+      "text": "collection.",
+      "probability": 0.983564019203186
+    },
+    {
+      "start": 2.34,
+      "end": 2.72,
+      "text": "Finally,",
+      "probability": 0.9732871055603027
+    },
+    {
+      "start": 3.04,
+      "end": 3.12,
+      "text": "some",
+      "probability": 0.956577718257904
+    },
+    {
+      "start": 3.12,
+      "end": 3.44,
+      "text": "good",
+      "probability": 0.9874730110168457
+    },
+    {
+      "start": 3.44,
+      "end": 3.8,
+      "text": "news.",
+      "probability": 0.9991838335990906
+    }
+  ],
+  "text": "A new pond for the collection. Finally, some good news."
+}

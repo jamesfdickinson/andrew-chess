@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 6.03725,
+  "segments": [
+    {
+      "start": 0.14,
+      "end": 5.28,
+      "text": " Good. That pond has back up now. Look after the little guys.",
+      "noSpeechProbability": 0.004076218698173761
+    }
+  ],
+  "words": [
+    {
+      "start": 0.14,
+      "end": 0.7,
+      "text": "Good.",
+      "probability": 0.9047284722328186
+    },
+    {
+      "start": 1.64,
+      "end": 1.64,
+      "text": "That",
+      "probability": 0.9817164540290833
+    },
+    {
+      "start": 1.64,
+      "end": 1.94,
+      "text": "pond",
+      "probability": 0.4325402081012726
+    },
+    {
+      "start": 1.94,
+      "end": 2.22,
+      "text": "has",
+      "probability": 0.9939462542533875
+    },
+    {
+      "start": 2.22,
+      "end": 2.54,
+      "text": "back",
+      "probability": 0.6704831719398499
+    },
+    {
+      "start": 2.54,
+      "end": 2.8,
+      "text": "up",
+      "probability": 0.9644471406936646
+    },
+    {
+      "start": 2.8,
+      "end": 3.08,
+      "text": "now.",
+      "probability": 0.9900387525558472
+    },
+    {
+      "start": 3.96,
+      "end": 4.24,
+      "text": "Look",
+      "probability": 0.9910667538642883
+    },
+    {
+      "start": 4.24,
+      "end": 4.54,
+      "text": "after",
+      "probability": 0.9978491067886353
+    },
+    {
+      "start": 4.54,
+      "end": 4.76,
+      "text": "the",
+      "probability": 0.9961748123168945
+    },
+    {
+      "start": 4.76,
+      "end": 4.96,
+      "text": "little",
+      "probability": 0.9950459003448486
+    },
+    {
+      "start": 4.96,
+      "end": 5.28,
+      "text": "guys.",
+      "probability": 0.9747377634048462
+    }
+  ],
+  "text": "Good. That pond has back up now. Look after the little guys."
+}

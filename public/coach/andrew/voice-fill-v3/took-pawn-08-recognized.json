@@ -1,0 +1,77 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 3.761625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.28,
+      "text": " Forget the applause, there may be another pond to take.",
+      "noSpeechProbability": 0.004755755886435509
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.26,
+      "text": "Forget",
+      "probability": 0.8375125527381897
+    },
+    {
+      "start": 0.26,
+      "end": 0.5,
+      "text": "the",
+      "probability": 0.9954485297203064
+    },
+    {
+      "start": 0.5,
+      "end": 0.82,
+      "text": "applause,",
+      "probability": 0.9855947494506836
+    },
+    {
+      "start": 1.46,
+      "end": 1.68,
+      "text": "there",
+      "probability": 0.9819632768630981
+    },
+    {
+      "start": 1.68,
+      "end": 1.86,
+      "text": "may",
+      "probability": 0.9784433841705322
+    },
+    {
+      "start": 1.86,
+      "end": 2.04,
+      "text": "be",
+      "probability": 0.9993612170219421
+    },
+    {
+      "start": 2.04,
+      "end": 2.36,
+      "text": "another",
+      "probability": 0.9920594692230225
+    },
+    {
+      "start": 2.36,
+      "end": 2.68,
+      "text": "pond",
+      "probability": 0.528075098991394
+    },
+    {
+      "start": 2.68,
+      "end": 2.98,
+      "text": "to",
+      "probability": 0.9987823367118835
+    },
+    {
+      "start": 2.98,
+      "end": 3.28,
+      "text": "take.",
+      "probability": 0.9992741942405701
+    }
+  ],
+  "text": "Forget the applause, there may be another pond to take."
+}

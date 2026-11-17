@@ -1,0 +1,131 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 7.7090625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.52,
+      "text": " Yes, you got a fancy piece, but we lost a pawn to do it.",
+      "noSpeechProbability": 0.0008209749939851463
+    },
+    {
+      "start": 5.34,
+      "end": 7.1,
+      "text": " Those priorities need work.",
+      "noSpeechProbability": 0.0008209749939851463
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.28,
+      "text": "Yes,",
+      "probability": 0.8335277438163757
+    },
+    {
+      "start": 0.7,
+      "end": 0.84,
+      "text": "you",
+      "probability": 0.9958254098892212
+    },
+    {
+      "start": 0.84,
+      "end": 1.0,
+      "text": "got",
+      "probability": 0.9348431825637817
+    },
+    {
+      "start": 1.0,
+      "end": 1.12,
+      "text": "a",
+      "probability": 0.9973019361495972
+    },
+    {
+      "start": 1.12,
+      "end": 1.4,
+      "text": "fancy",
+      "probability": 0.9962804913520813
+    },
+    {
+      "start": 1.4,
+      "end": 1.94,
+      "text": "piece,",
+      "probability": 0.9897880554199219
+    },
+    {
+      "start": 2.56,
+      "end": 2.78,
+      "text": "but",
+      "probability": 0.9951152801513672
+    },
+    {
+      "start": 2.78,
+      "end": 2.9,
+      "text": "we",
+      "probability": 0.9972490668296814
+    },
+    {
+      "start": 2.9,
+      "end": 3.18,
+      "text": "lost",
+      "probability": 0.9714866876602173
+    },
+    {
+      "start": 3.18,
+      "end": 3.42,
+      "text": "a",
+      "probability": 0.9374072551727295
+    },
+    {
+      "start": 3.42,
+      "end": 3.74,
+      "text": "pawn",
+      "probability": 0.80777907371521
+    },
+    {
+      "start": 3.74,
+      "end": 4.02,
+      "text": "to",
+      "probability": 0.9983170032501221
+    },
+    {
+      "start": 4.02,
+      "end": 4.28,
+      "text": "do",
+      "probability": 0.9940098524093628
+    },
+    {
+      "start": 4.28,
+      "end": 4.52,
+      "text": "it.",
+      "probability": 0.9980873465538025
+    },
+    {
+      "start": 5.34,
+      "end": 5.66,
+      "text": "Those",
+      "probability": 0.9923485517501831
+    },
+    {
+      "start": 5.66,
+      "end": 6.2,
+      "text": "priorities",
+      "probability": 0.9981458187103271
+    },
+    {
+      "start": 6.2,
+      "end": 6.66,
+      "text": "need",
+      "probability": 0.9972924590110779
+    },
+    {
+      "start": 6.66,
+      "end": 7.1,
+      "text": "work.",
+      "probability": 0.9974159002304077
+    }
+  ],
+  "text": "Yes, you got a fancy piece, but we lost a pawn to do it. Those priorities need work."
+}

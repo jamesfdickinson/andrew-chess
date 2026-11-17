@@ -1,0 +1,107 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.340625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.3,
+      "text": " Have you checked every pond?",
+      "noSpeechProbability": 0.002493668580427766
+    },
+    {
+      "start": 2.38,
+      "end": 3.16,
+      "text": " Check them again.",
+      "noSpeechProbability": 0.002493668580427766
+    },
+    {
+      "start": 4.24,
+      "end": 4.82,
+      "text": " I can wait.",
+      "noSpeechProbability": 0.002493668580427766
+    },
+    {
+      "start": 4.82,
+      "end": 4.92,
+      "text": " Great.",
+      "noSpeechProbability": 0.4474203884601593
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.14,
+      "text": "Have",
+      "probability": 0.8170069456100464
+    },
+    {
+      "start": 0.14,
+      "end": 0.24,
+      "text": "you",
+      "probability": 0.9969795942306519
+    },
+    {
+      "start": 0.24,
+      "end": 0.46,
+      "text": "checked",
+      "probability": 0.9947648048400879
+    },
+    {
+      "start": 0.46,
+      "end": 0.9,
+      "text": "every",
+      "probability": 0.9872512817382812
+    },
+    {
+      "start": 0.9,
+      "end": 1.3,
+      "text": "pond?",
+      "probability": 0.5101318955421448
+    },
+    {
+      "start": 2.38,
+      "end": 2.66,
+      "text": "Check",
+      "probability": 0.9715737104415894
+    },
+    {
+      "start": 2.66,
+      "end": 2.84,
+      "text": "them",
+      "probability": 0.9960125684738159
+    },
+    {
+      "start": 2.84,
+      "end": 3.16,
+      "text": "again.",
+      "probability": 0.9978216886520386
+    },
+    {
+      "start": 4.24,
+      "end": 4.44,
+      "text": "I",
+      "probability": 0.9924370646476746
+    },
+    {
+      "start": 4.44,
+      "end": 4.6,
+      "text": "can",
+      "probability": 0.9972457885742188
+    },
+    {
+      "start": 4.6,
+      "end": 4.82,
+      "text": "wait.",
+      "probability": 0.9951642751693726
+    },
+    {
+      "start": 4.82,
+      "end": 4.92,
+      "text": "Great.",
+      "probability": 0.13786274194717407
+    }
+  ],
+  "text": "Have you checked every pond? Check them again. I can wait. Great."
+}

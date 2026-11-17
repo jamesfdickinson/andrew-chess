@@ -1,0 +1,53 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 47.5545,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.04,
+      "text": " They took our pawn.",
+      "noSpeechProbability": 0.0009940321324393153
+    },
+    {
+      "start": 1.04,
+      "end": 1.22,
+      "text": " on.",
+      "noSpeechProbability": 0.3737120032310486
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.14,
+      "text": "They",
+      "probability": 0.7487979531288147
+    },
+    {
+      "start": 0.14,
+      "end": 0.34,
+      "text": "took",
+      "probability": 0.9947227239608765
+    },
+    {
+      "start": 0.34,
+      "end": 0.62,
+      "text": "our",
+      "probability": 0.992380678653717
+    },
+    {
+      "start": 0.62,
+      "end": 1.04,
+      "text": "pawn.",
+      "probability": 0.5553357601165771
+    },
+    {
+      "start": 1.04,
+      "end": 1.22,
+      "text": "on.",
+      "probability": 0.24238593876361847
+    }
+  ],
+  "text": "They took our pawn. on."
+}

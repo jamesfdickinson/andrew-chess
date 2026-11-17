@@ -1,0 +1,83 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 6.315875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.62,
+      "text": " Upon offered itself and you politely declined, please be less polite.",
+      "noSpeechProbability": 0.0030339902732521296
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.42,
+      "text": "Upon",
+      "probability": 0.966921329498291
+    },
+    {
+      "start": 0.42,
+      "end": 0.96,
+      "text": "offered",
+      "probability": 0.9437270164489746
+    },
+    {
+      "start": 0.96,
+      "end": 1.38,
+      "text": "itself",
+      "probability": 0.9895880222320557
+    },
+    {
+      "start": 1.38,
+      "end": 1.82,
+      "text": "and",
+      "probability": 0.7893168926239014
+    },
+    {
+      "start": 1.82,
+      "end": 2.0,
+      "text": "you",
+      "probability": 0.9824348092079163
+    },
+    {
+      "start": 2.0,
+      "end": 2.46,
+      "text": "politely",
+      "probability": 0.995614767074585
+    },
+    {
+      "start": 2.46,
+      "end": 3.12,
+      "text": "declined,",
+      "probability": 0.9962409734725952
+    },
+    {
+      "start": 4.12,
+      "end": 4.42,
+      "text": "please",
+      "probability": 0.9138963222503662
+    },
+    {
+      "start": 4.42,
+      "end": 4.74,
+      "text": "be",
+      "probability": 0.9956652522087097
+    },
+    {
+      "start": 4.74,
+      "end": 5.04,
+      "text": "less",
+      "probability": 0.9876919388771057
+    },
+    {
+      "start": 5.04,
+      "end": 5.62,
+      "text": "polite.",
+      "probability": 0.9989450573921204
+    }
+  ],
+  "text": "Upon offered itself and you politely declined, please be less polite."
+}

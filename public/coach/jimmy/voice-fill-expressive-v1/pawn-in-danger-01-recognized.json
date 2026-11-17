@@ -1,0 +1,95 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.5046875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.04,
+      "text": " Watch out. Your pawn is in danger. Do not let them take it.",
+      "noSpeechProbability": 0.0021646993700414896
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.22,
+      "text": "Watch",
+      "probability": 0.8690432906150818
+    },
+    {
+      "start": 0.22,
+      "end": 0.52,
+      "text": "out.",
+      "probability": 0.9972769618034363
+    },
+    {
+      "start": 0.96,
+      "end": 1.06,
+      "text": "Your",
+      "probability": 0.9807102680206299
+    },
+    {
+      "start": 1.06,
+      "end": 1.38,
+      "text": "pawn",
+      "probability": 0.6149255037307739
+    },
+    {
+      "start": 1.38,
+      "end": 1.58,
+      "text": "is",
+      "probability": 0.9961483478546143
+    },
+    {
+      "start": 1.58,
+      "end": 1.7,
+      "text": "in",
+      "probability": 0.9993237257003784
+    },
+    {
+      "start": 1.7,
+      "end": 2.18,
+      "text": "danger.",
+      "probability": 0.9998501539230347
+    },
+    {
+      "start": 2.62,
+      "end": 2.74,
+      "text": "Do",
+      "probability": 0.9822202920913696
+    },
+    {
+      "start": 2.74,
+      "end": 3.06,
+      "text": "not",
+      "probability": 0.9804773330688477
+    },
+    {
+      "start": 3.06,
+      "end": 3.32,
+      "text": "let",
+      "probability": 0.9986043572425842
+    },
+    {
+      "start": 3.32,
+      "end": 3.5,
+      "text": "them",
+      "probability": 0.9993320107460022
+    },
+    {
+      "start": 3.5,
+      "end": 3.76,
+      "text": "take",
+      "probability": 0.9972796440124512
+    },
+    {
+      "start": 3.76,
+      "end": 4.04,
+      "text": "it.",
+      "probability": 0.9972512125968933
+    }
+  ],
+  "text": "Watch out. Your pawn is in danger. Do not let them take it."
+}

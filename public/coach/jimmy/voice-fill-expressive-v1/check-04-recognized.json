@@ -1,0 +1,77 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.2260625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.54,
+      "text": " Check is exciting. Taking a pawn would be exciting too.",
+      "noSpeechProbability": 0.0032595316879451275
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.22,
+      "text": "Check",
+      "probability": 0.6422716379165649
+    },
+    {
+      "start": 0.22,
+      "end": 0.4,
+      "text": "is",
+      "probability": 0.9937428832054138
+    },
+    {
+      "start": 0.4,
+      "end": 0.88,
+      "text": "exciting.",
+      "probability": 0.9902196526527405
+    },
+    {
+      "start": 1.7,
+      "end": 1.94,
+      "text": "Taking",
+      "probability": 0.9743974208831787
+    },
+    {
+      "start": 1.94,
+      "end": 2.12,
+      "text": "a",
+      "probability": 0.9874700903892517
+    },
+    {
+      "start": 2.12,
+      "end": 2.42,
+      "text": "pawn",
+      "probability": 0.6894813179969788
+    },
+    {
+      "start": 2.42,
+      "end": 2.62,
+      "text": "would",
+      "probability": 0.993635892868042
+    },
+    {
+      "start": 2.62,
+      "end": 2.78,
+      "text": "be",
+      "probability": 0.9989746809005737
+    },
+    {
+      "start": 2.78,
+      "end": 3.08,
+      "text": "exciting",
+      "probability": 0.9975557327270508
+    },
+    {
+      "start": 3.08,
+      "end": 3.54,
+      "text": "too.",
+      "probability": 0.779755175113678
+    }
+  ],
+  "text": "Check is exciting. Taking a pawn would be exciting too."
+}

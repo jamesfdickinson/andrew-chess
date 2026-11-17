@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.6905,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.74,
+      "text": " Look along your Bishop Diagonals. Could you aim one at a pawn?",
+      "noSpeechProbability": 0.001297484734095633
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.2,
+      "text": "Look",
+      "probability": 0.8565237522125244
+    },
+    {
+      "start": 0.2,
+      "end": 0.5,
+      "text": "along",
+      "probability": 0.9895227551460266
+    },
+    {
+      "start": 0.5,
+      "end": 0.72,
+      "text": "your",
+      "probability": 0.9910634756088257
+    },
+    {
+      "start": 0.72,
+      "end": 1.08,
+      "text": "Bishop",
+      "probability": 0.6653388142585754
+    },
+    {
+      "start": 1.08,
+      "end": 1.8,
+      "text": "Diagonals.",
+      "probability": 0.8927423556645712
+    },
+    {
+      "start": 2.48,
+      "end": 2.62,
+      "text": "Could",
+      "probability": 0.9778259992599487
+    },
+    {
+      "start": 2.62,
+      "end": 2.74,
+      "text": "you",
+      "probability": 0.9933759570121765
+    },
+    {
+      "start": 2.74,
+      "end": 2.98,
+      "text": "aim",
+      "probability": 0.9307622313499451
+    },
+    {
+      "start": 2.98,
+      "end": 3.24,
+      "text": "one",
+      "probability": 0.843643307685852
+    },
+    {
+      "start": 3.24,
+      "end": 3.38,
+      "text": "at",
+      "probability": 0.9724510908126831
+    },
+    {
+      "start": 3.38,
+      "end": 3.46,
+      "text": "a",
+      "probability": 0.9756866097450256
+    },
+    {
+      "start": 3.46,
+      "end": 3.74,
+      "text": "pawn?",
+      "probability": 0.8793573379516602
+    }
+  ],
+  "text": "Look along your Bishop Diagonals. Could you aim one at a pawn?"
+}

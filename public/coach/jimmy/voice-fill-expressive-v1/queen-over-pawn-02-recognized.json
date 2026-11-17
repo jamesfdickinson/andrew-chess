@@ -1,0 +1,131 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 7.8948125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.18,
+      "text": " You took the queen and left the pawn?",
+      "noSpeechProbability": 0.0005771530559286475
+    },
+    {
+      "start": 3.02,
+      "end": 5.28,
+      "text": " I cannot approve of those priorities.",
+      "noSpeechProbability": 0.0005771530559286475
+    },
+    {
+      "start": 6.22,
+      "end": 7.0,
+      "text": " Get the pawn.",
+      "noSpeechProbability": 0.0005771530559286475
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.16,
+      "text": "You",
+      "probability": 0.7897680997848511
+    },
+    {
+      "start": 0.16,
+      "end": 0.42,
+      "text": "took",
+      "probability": 0.9932098984718323
+    },
+    {
+      "start": 0.42,
+      "end": 0.64,
+      "text": "the",
+      "probability": 0.9975493550300598
+    },
+    {
+      "start": 0.64,
+      "end": 0.96,
+      "text": "queen",
+      "probability": 0.7998663783073425
+    },
+    {
+      "start": 0.96,
+      "end": 1.3,
+      "text": "and",
+      "probability": 0.9746050834655762
+    },
+    {
+      "start": 1.3,
+      "end": 1.56,
+      "text": "left",
+      "probability": 0.9986253976821899
+    },
+    {
+      "start": 1.56,
+      "end": 1.78,
+      "text": "the",
+      "probability": 0.9955258965492249
+    },
+    {
+      "start": 1.78,
+      "end": 2.18,
+      "text": "pawn?",
+      "probability": 0.9127590656280518
+    },
+    {
+      "start": 3.02,
+      "end": 3.38,
+      "text": "I",
+      "probability": 0.9483098983764648
+    },
+    {
+      "start": 3.38,
+      "end": 3.7,
+      "text": "cannot",
+      "probability": 0.916560173034668
+    },
+    {
+      "start": 3.7,
+      "end": 4.44,
+      "text": "approve",
+      "probability": 0.9940255880355835
+    },
+    {
+      "start": 4.44,
+      "end": 4.64,
+      "text": "of",
+      "probability": 0.9866264462471008
+    },
+    {
+      "start": 4.64,
+      "end": 4.82,
+      "text": "those",
+      "probability": 0.9929121136665344
+    },
+    {
+      "start": 4.82,
+      "end": 5.28,
+      "text": "priorities.",
+      "probability": 0.9984793066978455
+    },
+    {
+      "start": 6.22,
+      "end": 6.38,
+      "text": "Get",
+      "probability": 0.9888613820075989
+    },
+    {
+      "start": 6.38,
+      "end": 6.6,
+      "text": "the",
+      "probability": 0.999099850654602
+    },
+    {
+      "start": 6.6,
+      "end": 7.0,
+      "text": "pawn.",
+      "probability": 0.9899187088012695
+    }
+  ],
+  "text": "You took the queen and left the pawn? I cannot approve of those priorities. Get the pawn."
+}

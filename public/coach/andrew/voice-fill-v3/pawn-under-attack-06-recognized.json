@@ -1,0 +1,83 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.1084375,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.54,
+      "text": " Upon is under attack. Perhaps attend to that before something fancy.",
+      "noSpeechProbability": 0.002372667659074068
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.36,
+      "text": "Upon",
+      "probability": 0.6243311166763306
+    },
+    {
+      "start": 0.36,
+      "end": 0.66,
+      "text": "is",
+      "probability": 0.9560887813568115
+    },
+    {
+      "start": 0.66,
+      "end": 0.88,
+      "text": "under",
+      "probability": 0.9960567951202393
+    },
+    {
+      "start": 0.88,
+      "end": 1.3,
+      "text": "attack.",
+      "probability": 0.9942947030067444
+    },
+    {
+      "start": 2.34,
+      "end": 2.34,
+      "text": "Perhaps",
+      "probability": 0.9922284483909607
+    },
+    {
+      "start": 2.34,
+      "end": 2.66,
+      "text": "attend",
+      "probability": 0.9358738660812378
+    },
+    {
+      "start": 2.66,
+      "end": 3.0,
+      "text": "to",
+      "probability": 0.9796504974365234
+    },
+    {
+      "start": 3.0,
+      "end": 3.22,
+      "text": "that",
+      "probability": 0.9934132695198059
+    },
+    {
+      "start": 3.22,
+      "end": 3.44,
+      "text": "before",
+      "probability": 0.9906638860702515
+    },
+    {
+      "start": 3.44,
+      "end": 3.96,
+      "text": "something",
+      "probability": 0.9918661713600159
+    },
+    {
+      "start": 3.96,
+      "end": 4.54,
+      "text": "fancy.",
+      "probability": 0.9957544803619385
+    }
+  ],
+  "text": "Upon is under attack. Perhaps attend to that before something fancy."
+}

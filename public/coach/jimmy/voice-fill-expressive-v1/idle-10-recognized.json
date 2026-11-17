@@ -1,0 +1,83 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 3.71525,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.02,
+      "text": " That rook looks impressive, but does it come with a pawn?",
+      "noSpeechProbability": 0.0010121816303581
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.16,
+      "text": "That",
+      "probability": 0.7062270045280457
+    },
+    {
+      "start": 0.16,
+      "end": 0.44,
+      "text": "rook",
+      "probability": 0.9090400338172913
+    },
+    {
+      "start": 0.44,
+      "end": 0.7,
+      "text": "looks",
+      "probability": 0.9895715713500977
+    },
+    {
+      "start": 0.7,
+      "end": 1.4,
+      "text": "impressive,",
+      "probability": 0.9989168643951416
+    },
+    {
+      "start": 1.82,
+      "end": 1.98,
+      "text": "but",
+      "probability": 0.9981080293655396
+    },
+    {
+      "start": 1.98,
+      "end": 2.14,
+      "text": "does",
+      "probability": 0.9950242638587952
+    },
+    {
+      "start": 2.14,
+      "end": 2.28,
+      "text": "it",
+      "probability": 0.9985466599464417
+    },
+    {
+      "start": 2.28,
+      "end": 2.46,
+      "text": "come",
+      "probability": 0.9955427050590515
+    },
+    {
+      "start": 2.46,
+      "end": 2.64,
+      "text": "with",
+      "probability": 0.9990494847297668
+    },
+    {
+      "start": 2.64,
+      "end": 2.72,
+      "text": "a",
+      "probability": 0.9949823021888733
+    },
+    {
+      "start": 2.72,
+      "end": 3.02,
+      "text": "pawn?",
+      "probability": 0.9650564193725586
+    }
+  ],
+  "text": "That rook looks impressive, but does it come with a pawn?"
+}

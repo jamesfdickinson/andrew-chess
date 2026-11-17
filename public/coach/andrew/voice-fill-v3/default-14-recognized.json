@@ -1,0 +1,83 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.644,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.92,
+      "text": " Ask yourself one question. How does this help me take upon?",
+      "noSpeechProbability": 0.002730479696765542
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.28,
+      "text": "Ask",
+      "probability": 0.969689130783081
+    },
+    {
+      "start": 0.28,
+      "end": 0.64,
+      "text": "yourself",
+      "probability": 0.9893352389335632
+    },
+    {
+      "start": 0.64,
+      "end": 0.98,
+      "text": "one",
+      "probability": 0.9876497387886047
+    },
+    {
+      "start": 0.98,
+      "end": 1.52,
+      "text": "question.",
+      "probability": 0.9988239407539368
+    },
+    {
+      "start": 2.38,
+      "end": 2.44,
+      "text": "How",
+      "probability": 0.9471574425697327
+    },
+    {
+      "start": 2.44,
+      "end": 2.66,
+      "text": "does",
+      "probability": 0.996008038520813
+    },
+    {
+      "start": 2.66,
+      "end": 2.82,
+      "text": "this",
+      "probability": 0.9964261651039124
+    },
+    {
+      "start": 2.82,
+      "end": 3.08,
+      "text": "help",
+      "probability": 0.9919758439064026
+    },
+    {
+      "start": 3.08,
+      "end": 3.3,
+      "text": "me",
+      "probability": 0.9960885047912598
+    },
+    {
+      "start": 3.3,
+      "end": 3.52,
+      "text": "take",
+      "probability": 0.9971814155578613
+    },
+    {
+      "start": 3.52,
+      "end": 3.92,
+      "text": "upon?",
+      "probability": 0.279570996761322
+    }
+  ],
+  "text": "Ask yourself one question. How does this help me take upon?"
+}

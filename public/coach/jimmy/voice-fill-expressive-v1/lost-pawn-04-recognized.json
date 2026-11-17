@@ -1,0 +1,107 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 7.7090625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.28,
+      "text": " I noticed that pawn disappear. Do not think I did not notice. Protect the pawns.",
+      "noSpeechProbability": 0.0013351511443033814
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.2,
+      "text": "I",
+      "probability": 0.9465914368629456
+    },
+    {
+      "start": 0.2,
+      "end": 0.48,
+      "text": "noticed",
+      "probability": 0.7150508761405945
+    },
+    {
+      "start": 0.48,
+      "end": 0.78,
+      "text": "that",
+      "probability": 0.994802713394165
+    },
+    {
+      "start": 0.78,
+      "end": 1.12,
+      "text": "pawn",
+      "probability": 0.4023312032222748
+    },
+    {
+      "start": 1.12,
+      "end": 1.64,
+      "text": "disappear.",
+      "probability": 0.9733051061630249
+    },
+    {
+      "start": 2.74,
+      "end": 2.98,
+      "text": "Do",
+      "probability": 0.9626968502998352
+    },
+    {
+      "start": 2.98,
+      "end": 3.36,
+      "text": "not",
+      "probability": 0.9948915243148804
+    },
+    {
+      "start": 3.36,
+      "end": 3.74,
+      "text": "think",
+      "probability": 0.995740532875061
+    },
+    {
+      "start": 3.74,
+      "end": 3.92,
+      "text": "I",
+      "probability": 0.9821479320526123
+    },
+    {
+      "start": 3.92,
+      "end": 4.08,
+      "text": "did",
+      "probability": 0.9937453269958496
+    },
+    {
+      "start": 4.08,
+      "end": 4.32,
+      "text": "not",
+      "probability": 0.9947330951690674
+    },
+    {
+      "start": 4.32,
+      "end": 4.76,
+      "text": "notice.",
+      "probability": 0.9931095838546753
+    },
+    {
+      "start": 5.72,
+      "end": 6.06,
+      "text": "Protect",
+      "probability": 0.9658005833625793
+    },
+    {
+      "start": 6.06,
+      "end": 6.52,
+      "text": "the",
+      "probability": 0.9977728724479675
+    },
+    {
+      "start": 6.52,
+      "end": 7.28,
+      "text": "pawns.",
+      "probability": 0.9673575758934021
+    }
+  ],
+  "text": "I noticed that pawn disappear. Do not think I did not notice. Protect the pawns."
+}

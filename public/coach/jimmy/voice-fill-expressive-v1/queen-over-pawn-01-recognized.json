@@ -1,0 +1,137 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 8.127,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.08,
+      "text": " A queen? There was a pawn right there.",
+      "noSpeechProbability": 0.000821415800601244
+    },
+    {
+      "start": 3.82,
+      "end": 7.62,
+      "text": " Bad move. You got distracted by the fancy hat.",
+      "noSpeechProbability": 0.000821415800601244
+    },
+    {
+      "start": 7.62,
+      "end": 7.72,
+      "text": " that.",
+      "noSpeechProbability": 0.36656638979911804
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.14,
+      "text": "A",
+      "probability": 0.8493282794952393
+    },
+    {
+      "start": 0.14,
+      "end": 0.54,
+      "text": "queen?",
+      "probability": 0.9452154040336609
+    },
+    {
+      "start": 1.5,
+      "end": 1.58,
+      "text": "There",
+      "probability": 0.9860320091247559
+    },
+    {
+      "start": 1.58,
+      "end": 1.7,
+      "text": "was",
+      "probability": 0.9972832202911377
+    },
+    {
+      "start": 1.7,
+      "end": 1.84,
+      "text": "a",
+      "probability": 0.9972910284996033
+    },
+    {
+      "start": 1.84,
+      "end": 2.16,
+      "text": "pawn",
+      "probability": 0.8508119583129883
+    },
+    {
+      "start": 2.16,
+      "end": 2.52,
+      "text": "right",
+      "probability": 0.9790486097335815
+    },
+    {
+      "start": 2.52,
+      "end": 3.08,
+      "text": "there.",
+      "probability": 0.9988945126533508
+    },
+    {
+      "start": 3.82,
+      "end": 4.16,
+      "text": "Bad",
+      "probability": 0.9724729657173157
+    },
+    {
+      "start": 4.16,
+      "end": 4.52,
+      "text": "move.",
+      "probability": 0.9984176158905029
+    },
+    {
+      "start": 5.38,
+      "end": 5.52,
+      "text": "You",
+      "probability": 0.9947471022605896
+    },
+    {
+      "start": 5.52,
+      "end": 5.68,
+      "text": "got",
+      "probability": 0.9976720213890076
+    },
+    {
+      "start": 5.68,
+      "end": 5.96,
+      "text": "distracted",
+      "probability": 0.9994565844535828
+    },
+    {
+      "start": 5.96,
+      "end": 6.6,
+      "text": "by",
+      "probability": 0.9986879229545593
+    },
+    {
+      "start": 6.6,
+      "end": 6.72,
+      "text": "the",
+      "probability": 0.9910448789596558
+    },
+    {
+      "start": 6.72,
+      "end": 7.1,
+      "text": "fancy",
+      "probability": 0.9952948689460754
+    },
+    {
+      "start": 7.1,
+      "end": 7.62,
+      "text": "hat.",
+      "probability": 0.9969444870948792
+    },
+    {
+      "start": 7.62,
+      "end": 7.72,
+      "text": "that.",
+      "probability": 0.07356300950050354
+    }
+  ],
+  "text": "A queen? There was a pawn right there. Bad move. You got distracted by the fancy hat. that."
+}

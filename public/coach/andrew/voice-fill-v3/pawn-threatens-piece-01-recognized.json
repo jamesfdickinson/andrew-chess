@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 6.269375,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.58,
+      "text": " Your pawn is threatening a bigger piece, small but terrifying, I approve.",
+      "noSpeechProbability": 0.003360315691679716
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.16,
+      "text": "Your",
+      "probability": 0.6083922386169434
+    },
+    {
+      "start": 0.16,
+      "end": 0.44,
+      "text": "pawn",
+      "probability": 0.657268226146698
+    },
+    {
+      "start": 0.44,
+      "end": 0.7,
+      "text": "is",
+      "probability": 0.9935448169708252
+    },
+    {
+      "start": 0.7,
+      "end": 1.04,
+      "text": "threatening",
+      "probability": 0.9964702129364014
+    },
+    {
+      "start": 1.04,
+      "end": 1.32,
+      "text": "a",
+      "probability": 0.9966588020324707
+    },
+    {
+      "start": 1.32,
+      "end": 1.62,
+      "text": "bigger",
+      "probability": 0.9975078105926514
+    },
+    {
+      "start": 1.62,
+      "end": 2.02,
+      "text": "piece,",
+      "probability": 0.8923398852348328
+    },
+    {
+      "start": 2.66,
+      "end": 3.16,
+      "text": "small",
+      "probability": 0.9511740803718567
+    },
+    {
+      "start": 3.16,
+      "end": 3.54,
+      "text": "but",
+      "probability": 0.9300280809402466
+    },
+    {
+      "start": 3.54,
+      "end": 4.22,
+      "text": "terrifying,",
+      "probability": 0.9947729706764221
+    },
+    {
+      "start": 4.96,
+      "end": 5.12,
+      "text": "I",
+      "probability": 0.9811965227127075
+    },
+    {
+      "start": 5.12,
+      "end": 5.58,
+      "text": "approve.",
+      "probability": 0.9912842512130737
+    }
+  ],
+  "text": "Your pawn is threatening a bigger piece, small but terrifying, I approve."
+}

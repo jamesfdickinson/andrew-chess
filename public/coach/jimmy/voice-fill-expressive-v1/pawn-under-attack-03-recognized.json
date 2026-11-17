@@ -1,0 +1,101 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.2260625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.54,
+      "text": " That move threatens the collection.",
+      "noSpeechProbability": 0.0017085622530430555
+    },
+    {
+      "start": 2.18,
+      "end": 3.54,
+      "text": " Check your pond before you move.",
+      "noSpeechProbability": 0.0017085622530430555
+    },
+    {
+      "start": 3.54,
+      "end": 3.76,
+      "text": " Move.",
+      "noSpeechProbability": 0.45252174139022827
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.16,
+      "text": "That",
+      "probability": 0.801240861415863
+    },
+    {
+      "start": 0.16,
+      "end": 0.42,
+      "text": "move",
+      "probability": 0.9868208765983582
+    },
+    {
+      "start": 0.42,
+      "end": 0.78,
+      "text": "threatens",
+      "probability": 0.9972430467605591
+    },
+    {
+      "start": 0.78,
+      "end": 1.14,
+      "text": "the",
+      "probability": 0.997647225856781
+    },
+    {
+      "start": 1.14,
+      "end": 1.54,
+      "text": "collection.",
+      "probability": 0.986936628818512
+    },
+    {
+      "start": 2.18,
+      "end": 2.34,
+      "text": "Check",
+      "probability": 0.9942104816436768
+    },
+    {
+      "start": 2.34,
+      "end": 2.52,
+      "text": "your",
+      "probability": 0.9965104460716248
+    },
+    {
+      "start": 2.52,
+      "end": 2.8,
+      "text": "pond",
+      "probability": 0.6377139687538147
+    },
+    {
+      "start": 2.8,
+      "end": 3.14,
+      "text": "before",
+      "probability": 0.9945749044418335
+    },
+    {
+      "start": 3.14,
+      "end": 3.34,
+      "text": "you",
+      "probability": 0.9987678527832031
+    },
+    {
+      "start": 3.34,
+      "end": 3.54,
+      "text": "move.",
+      "probability": 0.9988023042678833
+    },
+    {
+      "start": 3.54,
+      "end": 3.76,
+      "text": "Move.",
+      "probability": 0.12406869977712631
+    }
+  ],
+  "text": "That move threatens the collection. Check your pond before you move. Move."
+}

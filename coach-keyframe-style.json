@@ -1,0 +1,13 @@
+{
+  "server": "http://192.168.1.84:8188",
+  "sshHost": "spark-25d9",
+  "model": "flux-2-klein-4b.safetensors",
+  "clip": "qwen_3_4b.safetensors",
+  "vae": "flux2-vae.safetensors",
+  "seed": 197901,
+  "size": 768,
+  "steps": 4,
+  "pixelSize": 192,
+  "reference": "src/assets/andrew-talking-sheet.png",
+  "prompt": "Animate the illustrated character from image 1 using the facial performance in image 2. Image 1 defines the character identity AND the exact art style: preserve that illustrated man's receding curly dark hair, facial proportions, warm nuanced painted skin shading, black shirt, and deep forest-green background. Image 2 supplies ONLY the expression, head direction and gesture. Match image 2's exact mouth opening, lip shape, eyebrows and eye openness; do not copy the neutral expression from image 1. One head-and-shoulders portrait, entire head visible, same scale and composition as image 1. Rich hand-painted 1990s adventure-game portrait with deliberate small pixel clusters, subtle facial shading and expressive character acting. No thick cartoon outlines, no flat vector art, no photographic texture, no dithering or stipple, no room, no text, no collage."
+}

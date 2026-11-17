@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.5046875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.86,
+      "text": " Give that pawn a job, claim some space and help the others.",
+      "noSpeechProbability": 0.0014809032436460257
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.18,
+      "text": "Give",
+      "probability": 0.7725585699081421
+    },
+    {
+      "start": 0.18,
+      "end": 0.44,
+      "text": "that",
+      "probability": 0.9918696880340576
+    },
+    {
+      "start": 0.44,
+      "end": 0.68,
+      "text": "pawn",
+      "probability": 0.5317749977111816
+    },
+    {
+      "start": 0.68,
+      "end": 0.94,
+      "text": "a",
+      "probability": 0.9960302710533142
+    },
+    {
+      "start": 0.94,
+      "end": 1.24,
+      "text": "job,",
+      "probability": 0.990110456943512
+    },
+    {
+      "start": 1.8,
+      "end": 2.02,
+      "text": "claim",
+      "probability": 0.9925198554992676
+    },
+    {
+      "start": 2.02,
+      "end": 2.3,
+      "text": "some",
+      "probability": 0.9947987794876099
+    },
+    {
+      "start": 2.3,
+      "end": 2.64,
+      "text": "space",
+      "probability": 0.9979076385498047
+    },
+    {
+      "start": 2.64,
+      "end": 3.06,
+      "text": "and",
+      "probability": 0.5590918064117432
+    },
+    {
+      "start": 3.06,
+      "end": 3.3,
+      "text": "help",
+      "probability": 0.99652099609375
+    },
+    {
+      "start": 3.3,
+      "end": 3.54,
+      "text": "the",
+      "probability": 0.9926185011863708
+    },
+    {
+      "start": 3.54,
+      "end": 3.86,
+      "text": "others.",
+      "probability": 0.9923475980758667
+    }
+  ],
+  "text": "Give that pawn a job, claim some space and help the others."
+}

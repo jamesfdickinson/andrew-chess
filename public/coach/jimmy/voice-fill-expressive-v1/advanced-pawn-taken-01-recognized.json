@@ -1,0 +1,107 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.154875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.86,
+      "text": " They moved that pond and you took it straight away.",
+      "noSpeechProbability": 0.002019836101680994
+    },
+    {
+      "start": 4.04,
+      "end": 4.42,
+      "text": " Excellent service.",
+      "noSpeechProbability": 0.002019836101680994
+    },
+    {
+      "start": 4.42,
+      "end": 4.6,
+      "text": " service.",
+      "noSpeechProbability": 0.26312339305877686
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.18,
+      "text": "They",
+      "probability": 0.6875447034835815
+    },
+    {
+      "start": 0.18,
+      "end": 0.44,
+      "text": "moved",
+      "probability": 0.9013627171516418
+    },
+    {
+      "start": 0.44,
+      "end": 0.7,
+      "text": "that",
+      "probability": 0.9887357354164124
+    },
+    {
+      "start": 0.7,
+      "end": 1.0,
+      "text": "pond",
+      "probability": 0.7112485766410828
+    },
+    {
+      "start": 1.0,
+      "end": 1.36,
+      "text": "and",
+      "probability": 0.8411470651626587
+    },
+    {
+      "start": 1.36,
+      "end": 1.58,
+      "text": "you",
+      "probability": 0.9832572340965271
+    },
+    {
+      "start": 1.58,
+      "end": 1.88,
+      "text": "took",
+      "probability": 0.9978392720222473
+    },
+    {
+      "start": 1.88,
+      "end": 2.04,
+      "text": "it",
+      "probability": 0.9984826445579529
+    },
+    {
+      "start": 2.04,
+      "end": 2.42,
+      "text": "straight",
+      "probability": 0.9944422841072083
+    },
+    {
+      "start": 2.42,
+      "end": 2.86,
+      "text": "away.",
+      "probability": 0.9129664897918701
+    },
+    {
+      "start": 4.04,
+      "end": 4.04,
+      "text": "Excellent",
+      "probability": 0.963735044002533
+    },
+    {
+      "start": 4.04,
+      "end": 4.42,
+      "text": "service.",
+      "probability": 0.9759637117385864
+    },
+    {
+      "start": 4.42,
+      "end": 4.6,
+      "text": "service.",
+      "probability": 0.5635532736778259
+    }
+  ],
+  "text": "They moved that pond and you took it straight away. Excellent service. service."
+}

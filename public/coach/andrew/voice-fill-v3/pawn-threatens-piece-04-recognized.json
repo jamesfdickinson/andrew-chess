@@ -1,0 +1,83 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.526375,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.82,
+      "text": " A little pond, a big threat. Never underestimate the little ones.",
+      "noSpeechProbability": 0.0028052839916199446
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.14,
+      "text": "A",
+      "probability": 0.8430761694908142
+    },
+    {
+      "start": 0.14,
+      "end": 0.34,
+      "text": "little",
+      "probability": 0.9432011842727661
+    },
+    {
+      "start": 0.34,
+      "end": 0.64,
+      "text": "pond,",
+      "probability": 0.5713137984275818
+    },
+    {
+      "start": 1.18,
+      "end": 1.34,
+      "text": "a",
+      "probability": 0.9669111371040344
+    },
+    {
+      "start": 1.34,
+      "end": 1.62,
+      "text": "big",
+      "probability": 0.9934461712837219
+    },
+    {
+      "start": 1.62,
+      "end": 2.02,
+      "text": "threat.",
+      "probability": 0.9958833456039429
+    },
+    {
+      "start": 3.16,
+      "end": 3.16,
+      "text": "Never",
+      "probability": 0.9877124428749084
+    },
+    {
+      "start": 3.16,
+      "end": 3.8,
+      "text": "underestimate",
+      "probability": 0.9980296492576599
+    },
+    {
+      "start": 3.8,
+      "end": 4.28,
+      "text": "the",
+      "probability": 0.9963524341583252
+    },
+    {
+      "start": 4.28,
+      "end": 4.48,
+      "text": "little",
+      "probability": 0.9891853332519531
+    },
+    {
+      "start": 4.48,
+      "end": 4.82,
+      "text": "ones.",
+      "probability": 0.984603226184845
+    }
+  ],
+  "text": "A little pond, a big threat. Never underestimate the little ones."
+}

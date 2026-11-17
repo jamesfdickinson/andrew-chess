@@ -1,0 +1,95 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.340625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.42,
+      "text": " You moved a piece. Good start. Now give it a pawn to chase.",
+      "noSpeechProbability": 0.004312179982662201
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.14,
+      "text": "You",
+      "probability": 0.6915781497955322
+    },
+    {
+      "start": 0.14,
+      "end": 0.36,
+      "text": "moved",
+      "probability": 0.900233805179596
+    },
+    {
+      "start": 0.36,
+      "end": 0.58,
+      "text": "a",
+      "probability": 0.8938100934028625
+    },
+    {
+      "start": 0.58,
+      "end": 0.9,
+      "text": "piece.",
+      "probability": 0.9420841336250305
+    },
+    {
+      "start": 1.48,
+      "end": 1.68,
+      "text": "Good",
+      "probability": 0.9915488958358765
+    },
+    {
+      "start": 1.68,
+      "end": 2.08,
+      "text": "start.",
+      "probability": 0.9680342078208923
+    },
+    {
+      "start": 2.72,
+      "end": 2.94,
+      "text": "Now",
+      "probability": 0.9920840263366699
+    },
+    {
+      "start": 2.94,
+      "end": 3.32,
+      "text": "give",
+      "probability": 0.5910226106643677
+    },
+    {
+      "start": 3.32,
+      "end": 3.46,
+      "text": "it",
+      "probability": 0.997352123260498
+    },
+    {
+      "start": 3.46,
+      "end": 3.54,
+      "text": "a",
+      "probability": 0.699532687664032
+    },
+    {
+      "start": 3.54,
+      "end": 3.84,
+      "text": "pawn",
+      "probability": 0.8101015686988831
+    },
+    {
+      "start": 3.84,
+      "end": 4.1,
+      "text": "to",
+      "probability": 0.9958958625793457
+    },
+    {
+      "start": 4.1,
+      "end": 4.42,
+      "text": "chase.",
+      "probability": 0.5736750960350037
+    }
+  ],
+  "text": "You moved a piece. Good start. Now give it a pawn to chase."
+}

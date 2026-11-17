@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.99075,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.16,
+      "text": " You're queen for their pawn? Brilliant trade! You got the important piece!",
+      "noSpeechProbability": 0.007155233062803745
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.24,
+      "text": "You're",
+      "probability": 0.729067400097847
+    },
+    {
+      "start": 0.24,
+      "end": 0.5,
+      "text": "queen",
+      "probability": 0.7461571097373962
+    },
+    {
+      "start": 0.5,
+      "end": 0.82,
+      "text": "for",
+      "probability": 0.9942654967308044
+    },
+    {
+      "start": 0.82,
+      "end": 0.98,
+      "text": "their",
+      "probability": 0.9825742840766907
+    },
+    {
+      "start": 0.98,
+      "end": 1.28,
+      "text": "pawn?",
+      "probability": 0.7806265950202942
+    },
+    {
+      "start": 2.58,
+      "end": 2.58,
+      "text": "Brilliant",
+      "probability": 0.9614378809928894
+    },
+    {
+      "start": 2.58,
+      "end": 2.94,
+      "text": "trade!",
+      "probability": 0.9726544618606567
+    },
+    {
+      "start": 3.8,
+      "end": 3.88,
+      "text": "You",
+      "probability": 0.9900850057601929
+    },
+    {
+      "start": 3.88,
+      "end": 4.1,
+      "text": "got",
+      "probability": 0.9770166277885437
+    },
+    {
+      "start": 4.1,
+      "end": 4.3,
+      "text": "the",
+      "probability": 0.9961749315261841
+    },
+    {
+      "start": 4.3,
+      "end": 4.68,
+      "text": "important",
+      "probability": 0.9842469692230225
+    },
+    {
+      "start": 4.68,
+      "end": 5.16,
+      "text": "piece!",
+      "probability": 0.6308397650718689
+    }
+  ],
+  "text": "You're queen for their pawn? Brilliant trade! You got the important piece!"
+}

@@ -1,0 +1,2566 @@
+{
+  "coachId": "jimmy",
+  "name": "Jimmy",
+  "voiceId": "jimmy-long-reference-v2",
+  "startedAt": "2026-11-17T03:44:55.865Z",
+  "items": [
+    {
+      "id": "pawn-threatens-piece-03",
+      "text": "Our pawn has expensive taste. It is eyeing a much bigger piece.",
+      "synthesisText": "[impressed] Our pawn has expensive taste. [playfully excited] It is eyeing a much bigger piece.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-threatens-piece-03-audio.wav",
+        "generatedText": "Our pawn has expensive taste. It is eyeing a much bigger piece.",
+        "synthesisText": "[impressed] Our pawn has expensive taste. [playfully excited] It is eyeing a much bigger piece.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 269802,
+        "savedAt": "2026-11-17T03:45:04.741Z",
+        "video": null
+      },
+      "recognizedText": "Our pond has expensive taste. It is eyeing a much bigger piece.",
+      "wordCoverage": 0.9166666666666666,
+      "duration": 5.61925,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-threatens-piece-04",
+      "text": "A little pawn, a big threat. Never underestimate the little ones.",
+      "synthesisText": "[impressed] A little pawn, a big threat. [playfully excited] Never underestimate the little ones.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-threatens-piece-04-audio.wav",
+        "generatedText": "A little pawn, a big threat. Never underestimate the little ones.",
+        "synthesisText": "[impressed] A little pawn, a big threat. [playfully excited] Never underestimate the little ones.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 256426,
+        "savedAt": "2026-11-17T03:45:14.411Z",
+        "video": null
+      },
+      "recognizedText": "a little pawn, a big threat. Never underestimate the little ones.",
+      "wordCoverage": 1,
+      "duration": 5.340625,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-threatens-piece-05",
+      "text": "That bigger piece has a pawn problem. Excellent placement!",
+      "synthesisText": "[impressed] That bigger piece has a pawn problem. [playfully excited] Excellent placement!",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-threatens-piece-05-audio.wav",
+        "generatedText": "That bigger piece has a pawn problem. Excellent placement!",
+        "synthesisText": "[impressed] That bigger piece has a pawn problem. [playfully excited] Excellent placement!",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 207386,
+        "savedAt": "2026-11-17T03:45:22.658Z",
+        "video": null
+      },
+      "recognizedText": "That bigger piece has a pawn problem. Excellent placement. management.",
+      "wordCoverage": 1,
+      "duration": 4.3189375,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-threatens-piece-06",
+      "text": "Make way for the pawn! Suddenly the fancy pieces look nervous.",
+      "synthesisText": "[impressed] Make way for the pawn! [playfully excited] Suddenly the fancy pieces look nervous.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-threatens-piece-06-audio.wav",
+        "generatedText": "Make way for the pawn! Suddenly the fancy pieces look nervous.",
+        "synthesisText": "[impressed] Make way for the pawn! [playfully excited] Suddenly the fancy pieces look nervous.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 267572,
+        "savedAt": "2026-11-17T03:45:34.255Z",
+        "video": null
+      },
+      "recognizedText": "Make way for the pawn. Suddenly the fancy pieces look nervous. service.",
+      "wordCoverage": 1,
+      "duration": 5.5728125,
+      "missingArtwork": []
+    },
+    {
+      "id": "queen-for-pawn-04",
+      "text": "Let them celebrate the queen. We have the pawn. Excellent business.",
+      "synthesisText": "[delighted] Let them celebrate the queen. [playfully triumphant] We have the pawn. [delighted] Excellent business.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/queen-for-pawn-04-audio.wav",
+        "generatedText": "Let them celebrate the queen. We have the pawn. Excellent business.",
+        "synthesisText": "[delighted] Let them celebrate the queen. [playfully triumphant] We have the pawn. [delighted] Excellent business.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 247510,
+        "savedAt": "2026-11-17T03:45:46.677Z",
+        "video": null
+      },
+      "recognizedText": "Let them celebrate the queen. We have the pawn. Excellent business.",
+      "wordCoverage": 1,
+      "duration": 5.154875,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-for-piece-01",
+      "text": "You traded our pawn for a bigger piece? Bad trade. I wanted to keep the pawn!",
+      "synthesisText": "[disappointed] You traded our pawn for a bigger piece? [incredulous] Bad trade. [disappointed] I wanted to keep the pawn!",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-for-piece-01-audio.wav",
+        "generatedText": "You traded our pawn for a bigger piece? Bad trade. I wanted to keep the pawn!",
+        "synthesisText": "[disappointed] You traded our pawn for a bigger piece? [incredulous] Bad trade. [disappointed] I wanted to keep the pawn!",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 338904,
+        "savedAt": "2026-11-17T03:45:58.658Z",
+        "video": null
+      },
+      "recognizedText": "You traded our pawn for a bigger piece? Bad trade. I wanted to keep the pawn. on.",
+      "wordCoverage": 1,
+      "duration": 7.058875,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-for-piece-02",
+      "text": "Yes, you got a fancy piece. But we lost a pawn to do it! Those priorities need work.",
+      "synthesisText": "[disappointed] Yes, you got a fancy piece. [incredulous] But we lost a pawn to do it! [disappointed] Those priorities need work.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-for-piece-02-audio.wav",
+        "generatedText": "Yes, you got a fancy piece. But we lost a pawn to do it! Those priorities need work.",
+        "synthesisText": "[disappointed] Yes, you got a fancy piece. [incredulous] But we lost a pawn to do it! [disappointed] Those priorities need work.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 370112,
+        "savedAt": "2026-11-17T03:46:13.441Z",
+        "video": null
+      },
+      "recognizedText": "Yes, you got a fancy piece, but we lost a pawn to do it. Those priorities need work.",
+      "wordCoverage": 1,
+      "duration": 7.7090625,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-for-piece-03",
+      "text": "A bigger piece is no consolation for that pawn. Next time, make the trade the other way around.",
+      "synthesisText": "[disappointed] A bigger piece is no consolation for that pawn. [incredulous] Next time, make the trade the other way around.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-for-piece-03-audio.wav",
+        "generatedText": "A bigger piece is no consolation for that pawn. Next time, make the trade the other way around.",
+        "synthesisText": "[disappointed] A bigger piece is no consolation for that pawn. [incredulous] Next time, make the trade the other way around.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 354508,
+        "savedAt": "2026-11-17T03:46:25.839Z",
+        "video": null
+      },
+      "recognizedText": "A bigger piece is no consolation for that pawn. Next time, make the trade the other way around. around.",
+      "wordCoverage": 1,
+      "duration": 7.384,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-for-piece-04",
+      "text": "We gave up a perfectly good pawn for that? I would like a refund.",
+      "synthesisText": "[disappointed] We gave up a perfectly good pawn for that? [incredulous] I would like a refund.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-for-piece-04-audio.wav",
+        "generatedText": "We gave up a perfectly good pawn for that? I would like a refund.",
+        "synthesisText": "[disappointed] We gave up a perfectly good pawn for that? [incredulous] I would like a refund.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 251968,
+        "savedAt": "2026-11-17T03:46:36.927Z",
+        "video": null
+      },
+      "recognizedText": "We gave up a perfectly good pawn for that. I would like a refund.",
+      "wordCoverage": 1,
+      "duration": 5.24775,
+      "missingArtwork": []
+    },
+    {
+      "id": "piece-for-pawn-01",
+      "text": "We gave up a big piece and brought home a pawn. Now that is a trade!",
+      "synthesisText": "[pleased] We gave up a big piece and brought home a pawn. [proud] Now that is a trade!",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/piece-for-pawn-01-audio.wav",
+        "generatedText": "We gave up a big piece and brought home a pawn. Now that is a trade!",
+        "synthesisText": "[pleased] We gave up a big piece and brought home a pawn. [proud] Now that is a trade!",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 267572,
+        "savedAt": "2026-11-17T03:46:46.943Z",
+        "video": null
+      },
+      "recognizedText": "We gave up a big piece and brought home a pawn. Now that is a trade. Great.",
+      "wordCoverage": 1,
+      "duration": 5.5728125,
+      "missingArtwork": []
+    },
+    {
+      "id": "piece-for-pawn-02",
+      "text": "A fine exchange. They can keep the fancy piece. We got the pawn.",
+      "synthesisText": "[pleased] A fine exchange. [proud] They can keep the fancy piece. [pleased] We got the pawn.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/piece-for-pawn-02-audio.wav",
+        "generatedText": "A fine exchange. They can keep the fancy piece. We got the pawn.",
+        "synthesisText": "[pleased] A fine exchange. [proud] They can keep the fancy piece. [pleased] We got the pawn.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 254198,
+        "savedAt": "2026-11-17T03:46:58.525Z",
+        "video": null
+      },
+      "recognizedText": "a fine exchange. They can keep the fancy piece. We got the pawn.",
+      "wordCoverage": 1,
+      "duration": 5.2941875,
+      "missingArtwork": []
+    },
+    {
+      "id": "piece-for-pawn-03",
+      "text": "That piece has served its purpose: it got us a pawn. Excellent work.",
+      "synthesisText": "[pleased] That piece has served its purpose: it got us a pawn. [proud] Excellent work.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/piece-for-pawn-03-audio.wav",
+        "generatedText": "That piece has served its purpose: it got us a pawn. Excellent work.",
+        "synthesisText": "[pleased] That piece has served its purpose: it got us a pawn. [proud] Excellent work.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 240822,
+        "savedAt": "2026-11-17T03:47:07.801Z",
+        "video": null
+      },
+      "recognizedText": "That piece has served its purpose. It got us upon. Excellent work.",
+      "wordCoverage": 0.8461538461538461,
+      "duration": 5.0155,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-for-pawn-01",
+      "text": "A pawn for a pawn. I am pleased and upset in exactly equal amounts.",
+      "synthesisText": "[pleased] A pawn for a pawn. [encouraging] I am pleased and upset in exactly equal amounts.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-for-pawn-01-audio.wav",
+        "generatedText": "A pawn for a pawn. I am pleased and upset in exactly equal amounts.",
+        "synthesisText": "[pleased] A pawn for a pawn. [encouraging] I am pleased and upset in exactly equal amounts.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 303238,
+        "savedAt": "2026-11-17T03:47:18.748Z",
+        "video": null
+      },
+      "recognizedText": "Upon for a pawn, I am pleased and upset in exactly equal amounts.",
+      "wordCoverage": 1,
+      "duration": 6.315875,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-for-pawn-02",
+      "text": "We got their pawn, but they got ours. Next time, can we just do the first part?",
+      "synthesisText": "[pleased] We got their pawn, but they got ours. [encouraging] Next time, can we just do the first part?",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-for-pawn-02-audio.wav",
+        "generatedText": "We got their pawn, but they got ours. Next time, can we just do the first part?",
+        "synthesisText": "[pleased] We got their pawn, but they got ours. [encouraging] Next time, can we just do the first part?",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 289864,
+        "savedAt": "2026-11-17T03:47:29.395Z",
+        "video": null
+      },
+      "recognizedText": "We got their pawn, but they got ours. Next time, can we just do the first part? part.",
+      "wordCoverage": 1,
+      "duration": 6.03725,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-for-pawn-03",
+      "text": "One pawn in, one pawn out. This collection is not going to grow itself.",
+      "synthesisText": "[pleased] One pawn in, one pawn out. [encouraging] This collection is not going to grow itself.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-for-pawn-03-audio.wav",
+        "generatedText": "One pawn in, one pawn out. This collection is not going to grow itself.",
+        "synthesisText": "[pleased] One pawn in, one pawn out. [encouraging] This collection is not going to grow itself.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 292092,
+        "savedAt": "2026-11-17T03:47:41.444Z",
+        "video": null
+      },
+      "recognizedText": "one pawn in, one pawn out. This collection is not going to grow itself.",
+      "wordCoverage": 1,
+      "duration": 6.083625,
+      "missingArtwork": []
+    },
+    {
+      "id": "advanced-pawn-taken-01",
+      "text": "They moved that pawn and you took it straight away. Excellent service!",
+      "synthesisText": "[amused] They moved that pawn and you took it straight away. [pleased] Excellent service!",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/advanced-pawn-taken-01-audio.wav",
+        "generatedText": "They moved that pawn and you took it straight away. Excellent service!",
+        "synthesisText": "[amused] They moved that pawn and you took it straight away. [pleased] Excellent service!",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 247510,
+        "savedAt": "2026-11-17T03:47:50.880Z",
+        "video": null
+      },
+      "recognizedText": "They moved that pond and you took it straight away. Excellent service. service.",
+      "wordCoverage": 0.9166666666666666,
+      "duration": 5.154875,
+      "missingArtwork": []
+    },
+    {
+      "id": "advanced-pawn-taken-02",
+      "text": "A freshly delivered pawn! You did not keep it waiting. I like that.",
+      "synthesisText": "[amused] A freshly delivered pawn! [pleased] You did not keep it waiting. [amused] I like that.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/advanced-pawn-taken-02-audio.wav",
+        "generatedText": "A freshly delivered pawn! You did not keep it waiting. I like that.",
+        "synthesisText": "[amused] A freshly delivered pawn! [pleased] You did not keep it waiting. [amused] I like that.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 289864,
+        "savedAt": "2026-11-17T03:48:02.364Z",
+        "video": null
+      },
+      "recognizedText": "Ha ha, a freshly delivered pond. You did not keep it waiting. I like that.",
+      "wordCoverage": 0.9230769230769231,
+      "duration": 6.03725,
+      "missingArtwork": []
+    },
+    {
+      "id": "advanced-pawn-taken-03",
+      "text": "Their pawn stepped forward, and you collected it. Beautiful timing.",
+      "synthesisText": "[amused] Their pawn stepped forward, and you collected it. [pleased] Beautiful timing.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/advanced-pawn-taken-03-audio.wav",
+        "generatedText": "Their pawn stepped forward, and you collected it. Beautiful timing.",
+        "synthesisText": "[amused] Their pawn stepped forward, and you collected it. [pleased] Beautiful timing.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 249740,
+        "savedAt": "2026-11-17T03:48:11.804Z",
+        "video": null
+      },
+      "recognizedText": "Their pawn stepped forward and you collected it. Beautiful timing. timing.",
+      "wordCoverage": 1,
+      "duration": 5.2013125,
+      "missingArtwork": []
+    },
+    {
+      "id": "queen-over-pawn-01",
+      "text": "A queen? There was a pawn right there! Bad move. You got distracted by the fancy hat.",
+      "synthesisText": "[incredulous] A queen? [playfully disappointed] There was a pawn right there! [incredulous] Bad move. [playfully disappointed] You got distracted by the fancy hat.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/queen-over-pawn-01-audio.wav",
+        "generatedText": "A queen? There was a pawn right there! Bad move. You got distracted by the fancy hat.",
+        "synthesisText": "[incredulous] A queen? [playfully disappointed] There was a pawn right there! [incredulous] Bad move. [playfully disappointed] You got distracted by the fancy hat.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 390174,
+        "savedAt": "2026-11-17T03:48:27.115Z",
+        "video": null
+      },
+      "recognizedText": "A queen? There was a pawn right there. Bad move. You got distracted by the fancy hat. that.",
+      "wordCoverage": 1,
+      "duration": 8.127,
+      "missingArtwork": []
+    },
+    {
+      "id": "queen-over-pawn-02",
+      "text": "You took the queen and left the pawn? I cannot approve of those priorities. Get the pawn!",
+      "synthesisText": "[incredulous] You took the queen and left the pawn? [playfully disappointed] I cannot approve of those priorities. [incredulous] Get the pawn!",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/queen-over-pawn-02-audio.wav",
+        "generatedText": "You took the queen and left the pawn? I cannot approve of those priorities. Get the pawn!",
+        "synthesisText": "[incredulous] You took the queen and left the pawn? [playfully disappointed] I cannot approve of those priorities. [incredulous] Get the pawn!",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 379028,
+        "savedAt": "2026-11-17T03:48:42.653Z",
+        "video": null
+      },
+      "recognizedText": "You took the queen and left the pawn? I cannot approve of those priorities. Get the pawn.",
+      "wordCoverage": 1,
+      "duration": 7.8948125,
+      "missingArtwork": []
+    },
+    {
+      "id": "queen-over-pawn-03",
+      "text": "You traded a perfectly good pawn opportunity for a queen? I expected better.",
+      "synthesisText": "[incredulous] You traded a perfectly good pawn opportunity for a queen? [playfully disappointed] I expected better.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/queen-over-pawn-03-audio.wav",
+        "generatedText": "You traded a perfectly good pawn opportunity for a queen? I expected better.",
+        "synthesisText": "[incredulous] You traded a perfectly good pawn opportunity for a queen? [playfully disappointed] I expected better.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 318842,
+        "savedAt": "2026-11-17T03:48:54.094Z",
+        "video": null
+      },
+      "recognizedText": "You traded a perfectly good pawn opportunity for a queen? I expected better.",
+      "wordCoverage": 1,
+      "duration": 6.6409375,
+      "missingArtwork": []
+    },
+    {
+      "id": "queen-over-pawn-04",
+      "text": "That queen capture looked flashy. Taking the pawn would have looked better to me.",
+      "synthesisText": "[incredulous] That queen capture looked flashy. [playfully disappointed] Taking the pawn would have looked better to me.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/queen-over-pawn-04-audio.wav",
+        "generatedText": "That queen capture looked flashy. Taking the pawn would have looked better to me.",
+        "synthesisText": "[incredulous] That queen capture looked flashy. [playfully disappointed] Taking the pawn would have looked better to me.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 265344,
+        "savedAt": "2026-11-17T03:49:04.034Z",
+        "video": null
+      },
+      "recognizedText": "That queen capture looked flashy, taking the pawn would have looked better to me.",
+      "wordCoverage": 1,
+      "duration": 5.526375,
+      "missingArtwork": []
+    },
+    {
+      "id": "queen-over-pawn-05",
+      "text": "Why the queen? The pawn was available. We have discussed this!",
+      "synthesisText": "[incredulous] Why the queen? [playfully disappointed] The pawn was available. [incredulous] We have discussed this!",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/queen-over-pawn-05-audio.wav",
+        "generatedText": "Why the queen? The pawn was available. We have discussed this!",
+        "synthesisText": "[incredulous] Why the queen? [playfully disappointed] The pawn was available. [incredulous] We have discussed this!",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 278718,
+        "savedAt": "2026-11-17T03:49:14.344Z",
+        "video": null
+      },
+      "recognizedText": "Why the Queen? The Pawn was available. We have discussed this.",
+      "wordCoverage": 1,
+      "duration": 5.805,
+      "missingArtwork": []
+    },
+    {
+      "id": "queen-over-pawn-06",
+      "text": "You got the big piece and missed the little one. That is the wrong way around.",
+      "synthesisText": "[incredulous] You got the big piece and missed the little one. [playfully disappointed] That is the wrong way around.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/queen-over-pawn-06-audio.wav",
+        "generatedText": "You got the big piece and missed the little one. That is the wrong way around.",
+        "synthesisText": "[incredulous] You got the big piece and missed the little one. [playfully disappointed] That is the wrong way around.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 287634,
+        "savedAt": "2026-11-17T03:49:24.877Z",
+        "video": null
+      },
+      "recognizedText": "You got the big piece and missed the little one? That is the wrong way around.",
+      "wordCoverage": 1,
+      "duration": 5.99075,
+      "missingArtwork": []
+    },
+    {
+      "id": "piece-over-pawn-01",
+      "text": "You took a piece, but you could have taken a pawn. Bad choice. The pawn was the prize!",
+      "synthesisText": "[disappointed] You took a piece, but you could have taken a pawn. [teasing] Bad choice. [disappointed] The pawn was the prize!",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/piece-over-pawn-01-audio.wav",
+        "generatedText": "You took a piece, but you could have taken a pawn. Bad choice. The pawn was the prize!",
+        "synthesisText": "[disappointed] You took a piece, but you could have taken a pawn. [teasing] Bad choice. [disappointed] The pawn was the prize!",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 354508,
+        "savedAt": "2026-11-17T03:49:37.302Z",
+        "video": null
+      },
+      "recognizedText": "You took a piece, but you could have taken a pawn. Bad choice. The pawn was the prize. eyes.",
+      "wordCoverage": 1,
+      "duration": 7.384,
+      "missingArtwork": []
+    },
+    {
+      "id": "piece-over-pawn-02",
+      "text": "A stronger piece? Sure. A better choice than the pawn? Not in my book.",
+      "synthesisText": "[disappointed] A stronger piece? [teasing] Sure. [disappointed] A better choice than the pawn? [teasing] Not in my book.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/piece-over-pawn-02-audio.wav",
+        "generatedText": "A stronger piece? Sure. A better choice than the pawn? Not in my book.",
+        "synthesisText": "[disappointed] A stronger piece? [teasing] Sure. [disappointed] A better choice than the pawn? [teasing] Not in my book.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 345592,
+        "savedAt": "2026-11-17T03:49:50.836Z",
+        "video": null
+      },
+      "recognizedText": "A stronger piece? Sure. A better choice than the pawn? Not in my book.",
+      "wordCoverage": 1,
+      "duration": 7.19825,
+      "missingArtwork": []
+    },
+    {
+      "id": "piece-over-pawn-03",
+      "text": "You could have taken a pawn, but you went for the fancy piece instead. Disappointing.",
+      "synthesisText": "[disappointed] You could have taken a pawn, but you went for the fancy piece instead. [teasing] Disappointing.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/piece-over-pawn-03-audio.wav",
+        "generatedText": "You could have taken a pawn, but you went for the fancy piece instead. Disappointing.",
+        "synthesisText": "[disappointed] You could have taken a pawn, but you went for the fancy piece instead. [teasing] Disappointing.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 287634,
+        "savedAt": "2026-11-17T03:50:01.425Z",
+        "video": null
+      },
+      "recognizedText": "You could have taken a pawn, but you went for the fancy piece instead, disappointing.",
+      "wordCoverage": 1,
+      "duration": 5.99075,
+      "missingArtwork": []
+    },
+    {
+      "id": "piece-over-pawn-04",
+      "text": "That capture had everything except the one thing I wanted: the pawn you left behind.",
+      "synthesisText": "[disappointed] That capture had everything except the one thing I wanted: the pawn you left behind.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/piece-over-pawn-04-audio.wav",
+        "generatedText": "That capture had everything except the one thing I wanted: the pawn you left behind.",
+        "synthesisText": "[disappointed] That capture had everything except the one thing I wanted: the pawn you left behind.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 358966,
+        "savedAt": "2026-11-17T03:50:13.902Z",
+        "video": null
+      },
+      "recognizedText": "That capture had everything except the one thing I wanted, the pawn you left behind.",
+      "wordCoverage": 1,
+      "duration": 7.476875,
+      "missingArtwork": []
+    },
+    {
+      "id": "piece-over-pawn-05",
+      "text": "I saw the pawn capture. You saw the bigger piece. One of us needs to reconsider.",
+      "synthesisText": "[disappointed] I saw the pawn capture. [teasing] You saw the bigger piece. [disappointed] One of us needs to reconsider.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/piece-over-pawn-05-audio.wav",
+        "generatedText": "I saw the pawn capture. You saw the bigger piece. One of us needs to reconsider.",
+        "synthesisText": "[disappointed] I saw the pawn capture. [teasing] You saw the bigger piece. [disappointed] One of us needs to reconsider.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 334446,
+        "savedAt": "2026-11-17T03:50:25.755Z",
+        "video": null
+      },
+      "recognizedText": "I saw the pond capture, you saw the bigger piece, one of us needs to reconsider.",
+      "wordCoverage": 0.9375,
+      "duration": 6.966,
+      "missingArtwork": []
+    },
+    {
+      "id": "missed-pawn-02",
+      "text": "Why did you not take the pawn? It was right there for the taking.",
+      "synthesisText": "[concerned] Why did you not take the pawn? [encouraging] It was right there for the taking.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/missed-pawn-02-audio.wav",
+        "generatedText": "Why did you not take the pawn? It was right there for the taking.",
+        "synthesisText": "[concerned] Why did you not take the pawn? [encouraging] It was right there for the taking.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 216302,
+        "savedAt": "2026-11-17T03:50:34.399Z",
+        "video": null
+      },
+      "recognizedText": "Why did you not take the pawn? It was right there for the taking.",
+      "wordCoverage": 1,
+      "duration": 4.5046875,
+      "missingArtwork": []
+    },
+    {
+      "id": "missed-pawn-03",
+      "text": "That move left an available pawn untouched. Explain that one to your coach.",
+      "synthesisText": "[concerned] That move left an available pawn untouched. [encouraging] Explain that one to your coach.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/missed-pawn-03-audio.wav",
+        "generatedText": "That move left an available pawn untouched. Explain that one to your coach.",
+        "synthesisText": "[concerned] That move left an available pawn untouched. [encouraging] Explain that one to your coach.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 263114,
+        "savedAt": "2026-11-17T03:50:44.314Z",
+        "video": null
+      },
+      "recognizedText": "That move left an available pawn untouched. Explain that one to your coach. Thank you very much.",
+      "wordCoverage": 1,
+      "duration": 5.4799375,
+      "missingArtwork": []
+    },
+    {
+      "id": "missed-pawn-04",
+      "text": "You had a pawn capture and chose something else. I am going to need a moment.",
+      "synthesisText": "[concerned] You had a pawn capture and chose something else. [encouraging] I am going to need a moment.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/missed-pawn-04-audio.wav",
+        "generatedText": "You had a pawn capture and chose something else. I am going to need a moment.",
+        "synthesisText": "[concerned] You had a pawn capture and chose something else. [encouraging] I am going to need a moment.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 267572,
+        "savedAt": "2026-11-17T03:50:57.015Z",
+        "video": null
+      },
+      "recognizedText": "You had a pawn capture and chose something else. I am going to need a moment.",
+      "wordCoverage": 1,
+      "duration": 5.5728125,
+      "missingArtwork": []
+    },
+    {
+      "id": "missed-pawn-05",
+      "text": "Was that pawn not good enough for you? Take the opportunity next time.",
+      "synthesisText": "[concerned] Was that pawn not good enough for you? [encouraging] Take the opportunity next time.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/missed-pawn-05-audio.wav",
+        "generatedText": "Was that pawn not good enough for you? Take the opportunity next time.",
+        "synthesisText": "[concerned] Was that pawn not good enough for you? [encouraging] Take the opportunity next time.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 222990,
+        "savedAt": "2026-11-17T03:51:05.802Z",
+        "video": null
+      },
+      "recognizedText": "Was that pawn not good enough for you? Take the opportunity next time.",
+      "wordCoverage": 1,
+      "duration": 4.644,
+      "missingArtwork": []
+    },
+    {
+      "id": "missed-pawn-06",
+      "text": "A pawn offered itself and you politely declined. Please be less polite.",
+      "synthesisText": "[concerned] A pawn offered itself and you politely declined. [encouraging] Please be less polite.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/missed-pawn-06-audio.wav",
+        "generatedText": "A pawn offered itself and you politely declined. Please be less polite.",
+        "synthesisText": "[concerned] A pawn offered itself and you politely declined. [encouraging] Please be less polite.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 280946,
+        "savedAt": "2026-11-17T03:51:16.192Z",
+        "video": null
+      },
+      "recognizedText": "Upon offered itself and you politely declined, please be less polite.",
+      "wordCoverage": 0.8333333333333334,
+      "duration": 5.8514375,
+      "missingArtwork": []
+    },
+    {
+      "id": "missed-pawn-07",
+      "text": "Before you move again, check whether there is a pawn you can take.",
+      "synthesisText": "[concerned] Before you move again, check whether there is a pawn you can take.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/missed-pawn-07-audio.wav",
+        "generatedText": "Before you move again, check whether there is a pawn you can take.",
+        "synthesisText": "[concerned] Before you move again, check whether there is a pawn you can take.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 189554,
+        "savedAt": "2026-11-17T03:51:23.966Z",
+        "video": null
+      },
+      "recognizedText": "Before you move again, check whether there is a pawn you can take.",
+      "wordCoverage": 1,
+      "duration": 3.9474375,
+      "missingArtwork": []
+    },
+    {
+      "id": "missed-pawn-08",
+      "text": "There was a pawn you could take! Check those diagonals and open lines.",
+      "synthesisText": "[concerned] There was a pawn you could take! [encouraging] Check those diagonals and open lines.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/missed-pawn-08-audio.wav",
+        "generatedText": "There was a pawn you could take! Check those diagonals and open lines.",
+        "synthesisText": "[concerned] There was a pawn you could take! [encouraging] Check those diagonals and open lines.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 225220,
+        "savedAt": "2026-11-17T03:51:32.826Z",
+        "video": null
+      },
+      "recognizedText": "There was a pawn you could take. Check those diagonals and open lines. signs.",
+      "wordCoverage": 1,
+      "duration": 4.6905,
+      "missingArtwork": []
+    },
+    {
+      "id": "took-pawn-01",
+      "text": "You took a pawn! Keep looking for opportunities.",
+      "synthesisText": "[excited] You took a pawn! [proud] Keep looking for opportunities.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/took-pawn-01-audio.wav",
+        "generatedText": "You took a pawn! Keep looking for opportunities.",
+        "synthesisText": "[excited] You took a pawn! [proud] Keep looking for opportunities.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 171720,
+        "savedAt": "2026-11-17T03:51:44.175Z",
+        "video": null
+      },
+      "recognizedText": "You took a pawn. Keep looking for opportunities.",
+      "wordCoverage": 1,
+      "duration": 3.575875,
+      "missingArtwork": []
+    },
+    {
+      "id": "took-pawn-02",
+      "text": "One less pawn for your opponent. Nice find!",
+      "synthesisText": "[excited] One less pawn for your opponent. [proud] Nice find!",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/took-pawn-02-audio.wav",
+        "generatedText": "One less pawn for your opponent. Nice find!",
+        "synthesisText": "[excited] One less pawn for your opponent. [proud] Nice find!",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 158346,
+        "savedAt": "2026-11-17T03:51:51.134Z",
+        "video": null
+      },
+      "recognizedText": "One less pawn for your opponent, nice find.",
+      "wordCoverage": 1,
+      "duration": 3.29725,
+      "missingArtwork": []
+    },
+    {
+      "id": "took-pawn-03",
+      "text": "Yes! A pawn! Now see if you can line up the next one.",
+      "synthesisText": "[excited] Yes! [proud] A pawn! [excited] Now see if you can line up the next one.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/took-pawn-03-audio.wav",
+        "generatedText": "Yes! A pawn! Now see if you can line up the next one.",
+        "synthesisText": "[excited] Yes! [proud] A pawn! [excited] Now see if you can line up the next one.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 225220,
+        "savedAt": "2026-11-17T03:51:59.960Z",
+        "video": null
+      },
+      "recognizedText": "Yes, upon. Now see if you can line up the next one.",
+      "wordCoverage": 0.8461538461538461,
+      "duration": 4.6905,
+      "missingArtwork": []
+    },
+    {
+      "id": "took-pawn-04",
+      "text": "That is the kind of capture I came here to see. More pawns, please.",
+      "synthesisText": "[excited] That is the kind of capture I came here to see. [proud] More pawns, please.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/took-pawn-04-audio.wav",
+        "generatedText": "That is the kind of capture I came here to see. More pawns, please.",
+        "synthesisText": "[excited] That is the kind of capture I came here to see. [proud] More pawns, please.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 247510,
+        "savedAt": "2026-11-17T03:52:09.413Z",
+        "video": null
+      },
+      "recognizedText": "That is the kind of capture I came here to see. More ponds, please. Please.",
+      "wordCoverage": 0.9285714285714286,
+      "duration": 5.154875,
+      "missingArtwork": []
+    },
+    {
+      "id": "took-pawn-05",
+      "text": "Excellent choice. A pawn has left the board and my day has improved.",
+      "synthesisText": "[excited] Excellent choice. [proud] A pawn has left the board and my day has improved.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/took-pawn-05-audio.wav",
+        "generatedText": "Excellent choice. A pawn has left the board and my day has improved.",
+        "synthesisText": "[excited] Excellent choice. [proud] A pawn has left the board and my day has improved.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 263114,
+        "savedAt": "2026-11-17T03:52:20.673Z",
+        "video": null
+      },
+      "recognizedText": "Excellent choice. Upon has left the board and my day has improved.",
+      "wordCoverage": 0.8461538461538461,
+      "duration": 5.4799375,
+      "missingArtwork": []
+    },
+    {
+      "id": "took-pawn-06",
+      "text": "You found the pawn. I knew you had it in you.",
+      "synthesisText": "[excited] You found the pawn. [proud] I knew you had it in you.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/took-pawn-06-audio.wav",
+        "generatedText": "You found the pawn. I knew you had it in you.",
+        "synthesisText": "[excited] You found the pawn. [proud] I knew you had it in you.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 169492,
+        "savedAt": "2026-11-17T03:52:27.886Z",
+        "video": null
+      },
+      "recognizedText": "You found the pawn. I knew you had it in you.",
+      "wordCoverage": 1,
+      "duration": 3.5295,
+      "missingArtwork": []
+    },
+    {
+      "id": "took-pawn-07",
+      "text": "One pawn down. Start planning the next collection.",
+      "synthesisText": "[excited] One pawn down. [proud] Start planning the next collection.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/took-pawn-07-audio.wav",
+        "generatedText": "One pawn down. Start planning the next collection.",
+        "synthesisText": "[excited] One pawn down. [proud] Start planning the next collection.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 189554,
+        "savedAt": "2026-11-17T03:52:35.635Z",
+        "video": null
+      },
+      "recognizedText": "One pond down, start planning the next collection.",
+      "wordCoverage": 0.875,
+      "duration": 3.9474375,
+      "missingArtwork": []
+    },
+    {
+      "id": "took-pawn-08",
+      "text": "Forget the applause. There may be another pawn to take.",
+      "synthesisText": "[excited] Forget the applause. [proud] There may be another pawn to take.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/took-pawn-08-audio.wav",
+        "generatedText": "Forget the applause. There may be another pawn to take.",
+        "synthesisText": "[excited] Forget the applause. [proud] There may be another pawn to take.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 182866,
+        "savedAt": "2026-11-17T03:52:43.227Z",
+        "video": null
+      },
+      "recognizedText": "Forget the applause, there may be another pawn to take.",
+      "wordCoverage": 1,
+      "duration": 3.808125,
+      "missingArtwork": []
+    },
+    {
+      "id": "took-pawn-09",
+      "text": "A new pawn for the collection! Finally, some good news.",
+      "synthesisText": "[excited] A new pawn for the collection! [proud] Finally, some good news.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/took-pawn-09-audio.wav",
+        "generatedText": "A new pawn for the collection! Finally, some good news.",
+        "synthesisText": "[excited] A new pawn for the collection! [proud] Finally, some good news.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 218532,
+        "savedAt": "2026-11-17T03:52:51.816Z",
+        "video": null
+      },
+      "recognizedText": "A new pond for the collection. Finally, some good news.",
+      "wordCoverage": 0.9,
+      "duration": 4.551125,
+      "missingArtwork": []
+    },
+    {
+      "id": "took-pawn-10",
+      "text": "Lovely. Their pawn is now our achievement.",
+      "synthesisText": "[excited] Lovely. [proud] Their pawn is now our achievement.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/took-pawn-10-audio.wav",
+        "generatedText": "Lovely. Their pawn is now our achievement.",
+        "synthesisText": "[excited] Lovely. [proud] Their pawn is now our achievement.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 189554,
+        "savedAt": "2026-11-17T03:52:59.652Z",
+        "video": null
+      },
+      "recognizedText": "Lovely, their pawn is now our achievement.",
+      "wordCoverage": 1,
+      "duration": 3.9474375,
+      "missingArtwork": []
+    },
+    {
+      "id": "took-pawn-11",
+      "text": "That is one small capture for you, one enormous moment for me.",
+      "synthesisText": "[excited] That is one small capture for you, one enormous moment for me.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/took-pawn-11-audio.wav",
+        "generatedText": "That is one small capture for you, one enormous moment for me.",
+        "synthesisText": "[excited] That is one small capture for you, one enormous moment for me.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 231906,
+        "savedAt": "2026-11-17T03:53:08.568Z",
+        "video": null
+      },
+      "recognizedText": "That is one small capture for you, one enormous moment for me.",
+      "wordCoverage": 1,
+      "duration": 4.82975,
+      "missingArtwork": []
+    },
+    {
+      "id": "took-pawn-12",
+      "text": "Another pawn collected. This is what quality chess looks like.",
+      "synthesisText": "[excited] Another pawn collected. [proud] This is what quality chess looks like.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/took-pawn-12-audio.wav",
+        "generatedText": "Another pawn collected. This is what quality chess looks like.",
+        "synthesisText": "[excited] Another pawn collected. [proud] This is what quality chess looks like.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 247510,
+        "savedAt": "2026-11-17T03:53:17.964Z",
+        "video": null
+      },
+      "recognizedText": "Another pond collected. This is what quality chest looks like.",
+      "wordCoverage": 0.8,
+      "duration": 5.154875,
+      "missingArtwork": []
+    },
+    {
+      "id": "took-pawn-13",
+      "text": "Keep that up and I might stop complaining. Briefly.",
+      "synthesisText": "[excited] Keep that up and I might stop complaining. [proud] Briefly.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/took-pawn-13-audio.wav",
+        "generatedText": "Keep that up and I might stop complaining. Briefly.",
+        "synthesisText": "[excited] Keep that up and I might stop complaining. [proud] Briefly.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 178408,
+        "savedAt": "2026-11-17T03:53:25.446Z",
+        "video": null
+      },
+      "recognizedText": "Keep that up and I might stop complaining, briefly.",
+      "wordCoverage": 1,
+      "duration": 3.71525,
+      "missingArtwork": []
+    },
+    {
+      "id": "check-01",
+      "text": "Check, yes. But keep your eyes on the pawns. That is where the good stuff is.",
+      "synthesisText": "[concerned] Check, yes. [reassuring] But keep your eyes on the pawns. [concerned] That is where the good stuff is.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/check-01-audio.wav",
+        "generatedText": "Check, yes. But keep your eyes on the pawns. That is where the good stuff is.",
+        "synthesisText": "[concerned] Check, yes. [reassuring] But keep your eyes on the pawns. [concerned] That is where the good stuff is.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 296550,
+        "savedAt": "2026-11-17T03:53:36.266Z",
+        "video": null
+      },
+      "recognizedText": "Check, yes. But keep your eyes on the pawns. That is where the good stuff is.",
+      "wordCoverage": 1,
+      "duration": 6.1765,
+      "missingArtwork": []
+    },
+    {
+      "id": "check-02",
+      "text": "Their king is in check, but what is your plan for their pawns?",
+      "synthesisText": "[concerned] Their king is in check, but what is your plan for their pawns?",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/check-02-audio.wav",
+        "generatedText": "Their king is in check, but what is your plan for their pawns?",
+        "synthesisText": "[concerned] Their king is in check, but what is your plan for their pawns?",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 194012,
+        "savedAt": "2026-11-17T03:53:44.201Z",
+        "video": null
+      },
+      "recognizedText": "Their king is in check, but what is your plan for their pawns?",
+      "wordCoverage": 1,
+      "duration": 4.0403125,
+      "missingArtwork": []
+    },
+    {
+      "id": "check-03",
+      "text": "Fine, make the king move. Can that help you line up a pawn capture?",
+      "synthesisText": "[concerned] Fine, make the king move. [reassuring] Can that help you line up a pawn capture?",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/check-03-audio.wav",
+        "generatedText": "Fine, make the king move. Can that help you line up a pawn capture?",
+        "synthesisText": "[concerned] Fine, make the king move. [reassuring] Can that help you line up a pawn capture?",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 234136,
+        "savedAt": "2026-11-17T03:53:53.308Z",
+        "video": null
+      },
+      "recognizedText": "Fine, make the king move. Can that help you line up upon capture? capture.",
+      "wordCoverage": 0.8571428571428571,
+      "duration": 4.87625,
+      "missingArtwork": []
+    },
+    {
+      "id": "check-04",
+      "text": "Check is exciting. Taking a pawn would be exciting too.",
+      "synthesisText": "[concerned] Check is exciting. [reassuring] Taking a pawn would be exciting too.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/check-04-audio.wav",
+        "generatedText": "Check is exciting. Taking a pawn would be exciting too.",
+        "synthesisText": "[concerned] Check is exciting. [reassuring] Taking a pawn would be exciting too.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 202928,
+        "savedAt": "2026-11-17T03:54:01.859Z",
+        "video": null
+      },
+      "recognizedText": "Check is exciting. Taking a pawn would be exciting too.",
+      "wordCoverage": 1,
+      "duration": 4.2260625,
+      "missingArtwork": []
+    },
+    {
+      "id": "check-05",
+      "text": "Now look for a way to turn that pressure into a pawn capture.",
+      "synthesisText": "[concerned] Now look for a way to turn that pressure into a pawn capture.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/check-05-audio.wav",
+        "generatedText": "Now look for a way to turn that pressure into a pawn capture.",
+        "synthesisText": "[concerned] Now look for a way to turn that pressure into a pawn capture.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 187324,
+        "savedAt": "2026-11-17T03:54:09.606Z",
+        "video": null
+      },
+      "recognizedText": "Now look for a way to turn that pressure into a pawn capture.",
+      "wordCoverage": 1,
+      "duration": 3.901,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-in-danger-01",
+      "text": "Watch out! Your pawn is in danger. Do not let them take it!",
+      "synthesisText": "[concerned] Watch out! [urgent] Your pawn is in danger. [concerned] Do not let them take it!",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-in-danger-01-audio.wav",
+        "generatedText": "Watch out! Your pawn is in danger. Do not let them take it!",
+        "synthesisText": "[concerned] Watch out! [urgent] Your pawn is in danger. [concerned] Do not let them take it!",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 216302,
+        "savedAt": "2026-11-17T03:54:18.277Z",
+        "video": null
+      },
+      "recognizedText": "Watch out. Your pawn is in danger. Do not let them take it.",
+      "wordCoverage": 1,
+      "duration": 4.5046875,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-in-danger-02",
+      "text": "That pawn is on the menu. I would prefer it stayed on the board.",
+      "synthesisText": "[concerned] That pawn is on the menu. [urgent] I would prefer it stayed on the board.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-in-danger-02-audio.wav",
+        "generatedText": "That pawn is on the menu. I would prefer it stayed on the board.",
+        "synthesisText": "[concerned] That pawn is on the menu. [urgent] I would prefer it stayed on the board.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 207386,
+        "savedAt": "2026-11-17T03:54:26.629Z",
+        "video": null
+      },
+      "recognizedText": "That pawn is on the menu. I would prefer it stayed on the board.",
+      "wordCoverage": 1,
+      "duration": 4.3189375,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-in-danger-03",
+      "text": "Your pawn has attracted the wrong kind of attention. Keep an eye on it!",
+      "synthesisText": "[concerned] Your pawn has attracted the wrong kind of attention. [urgent] Keep an eye on it!",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-in-danger-03-audio.wav",
+        "generatedText": "Your pawn has attracted the wrong kind of attention. Keep an eye on it!",
+        "synthesisText": "[concerned] Your pawn has attracted the wrong kind of attention. [urgent] Keep an eye on it!",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 220760,
+        "savedAt": "2026-11-17T03:54:35.398Z",
+        "video": null
+      },
+      "recognizedText": "your pawn has attracted the wrong kind of attention. Keep an eye on it. All right. All right.",
+      "wordCoverage": 1,
+      "duration": 4.5975625,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-in-danger-04",
+      "text": "We collect pawns. We do not leave ours out as free samples.",
+      "synthesisText": "[concerned] We collect pawns. [urgent] We do not leave ours out as free samples.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-in-danger-04-audio.wav",
+        "generatedText": "We collect pawns. We do not leave ours out as free samples.",
+        "synthesisText": "[concerned] We collect pawns. [urgent] We do not leave ours out as free samples.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 236364,
+        "savedAt": "2026-11-17T03:54:44.887Z",
+        "video": null
+      },
+      "recognizedText": "We collect pawns. We do not leave ours out as free samples.",
+      "wordCoverage": 1,
+      "duration": 4.922625,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-in-danger-05",
+      "text": "That pawn looks a little too available for my liking.",
+      "synthesisText": "[concerned] That pawn looks a little too available for my liking.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-in-danger-05-audio.wav",
+        "generatedText": "That pawn looks a little too available for my liking.",
+        "synthesisText": "[concerned] That pawn looks a little too available for my liking.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 158346,
+        "savedAt": "2026-11-17T03:54:51.847Z",
+        "video": null
+      },
+      "recognizedText": "That pond looks a little too available for my liking.",
+      "wordCoverage": 0.9,
+      "duration": 3.29725,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-in-danger-06",
+      "text": "Someone is eyeing our pawn. This is not a giveaway!",
+      "synthesisText": "[concerned] Someone is eyeing our pawn. [urgent] This is not a giveaway!",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-in-danger-06-audio.wav",
+        "generatedText": "Someone is eyeing our pawn. This is not a giveaway!",
+        "synthesisText": "[concerned] Someone is eyeing our pawn. [urgent] This is not a giveaway!",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 198470,
+        "savedAt": "2026-11-17T03:54:59.899Z",
+        "video": null
+      },
+      "recognizedText": "Someone is eyeing our pawn. This is not a giveaway.",
+      "wordCoverage": 1,
+      "duration": 4.1331875,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-in-danger-07",
+      "text": "Before admiring that move, check what can take our pawn.",
+      "synthesisText": "[concerned] Before admiring that move, check what can take our pawn.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-in-danger-07-audio.wav",
+        "generatedText": "Before admiring that move, check what can take our pawn.",
+        "synthesisText": "[concerned] Before admiring that move, check what can take our pawn.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 187324,
+        "savedAt": "2026-11-17T03:55:07.638Z",
+        "video": null
+      },
+      "recognizedText": "Before admiring that move, check what can take our pond.",
+      "wordCoverage": 0.9,
+      "duration": 3.901,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-in-danger-08",
+      "text": "I like generous people. I do not like generous pawn placements.",
+      "synthesisText": "[concerned] I like generous people. [urgent] I do not like generous pawn placements.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-in-danger-08-audio.wav",
+        "generatedText": "I like generous people. I do not like generous pawn placements.",
+        "synthesisText": "[concerned] I like generous people. [urgent] I do not like generous pawn placements.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 247510,
+        "savedAt": "2026-11-17T03:55:17.014Z",
+        "video": null
+      },
+      "recognizedText": "I like generous people. I do not like generous pawn placements.",
+      "wordCoverage": 1,
+      "duration": 5.154875,
+      "missingArtwork": []
+    },
+    {
+      "id": "protects-pawn-01",
+      "text": "Good! That pawn has backup now. Look after the little guys.",
+      "synthesisText": "[relieved] Good! [proud] That pawn has backup now. [relieved] Look after the little guys.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/protects-pawn-01-audio.wav",
+        "generatedText": "Good! That pawn has backup now. Look after the little guys.",
+        "synthesisText": "[relieved] Good! [proud] That pawn has backup now. [relieved] Look after the little guys.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 289864,
+        "savedAt": "2026-11-17T03:55:27.626Z",
+        "video": null
+      },
+      "recognizedText": "Good. That pond has back up now. Look after the little guys.",
+      "wordCoverage": 0.8181818181818182,
+      "duration": 6.03725,
+      "missingArtwork": []
+    },
+    {
+      "id": "protects-pawn-02",
+      "text": "A bodyguard for our pawn. Now that is getting your priorities right!",
+      "synthesisText": "[relieved] A bodyguard for our pawn. [proud] Now that is getting your priorities right!",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/protects-pawn-02-audio.wav",
+        "generatedText": "A bodyguard for our pawn. Now that is getting your priorities right!",
+        "synthesisText": "[relieved] A bodyguard for our pawn. [proud] Now that is getting your priorities right!",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 231906,
+        "savedAt": "2026-11-17T03:55:36.691Z",
+        "video": null
+      },
+      "recognizedText": "A bodyguard for our pawn. Now that is getting your priorities right.",
+      "wordCoverage": 1,
+      "duration": 4.82975,
+      "missingArtwork": []
+    },
+    {
+      "id": "protects-pawn-03",
+      "text": "You gave that pawn some support. I like a team that looks after its pawns.",
+      "synthesisText": "[relieved] You gave that pawn some support. [proud] I like a team that looks after its pawns.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/protects-pawn-03-audio.wav",
+        "generatedText": "You gave that pawn some support. I like a team that looks after its pawns.",
+        "synthesisText": "[relieved] You gave that pawn some support. [proud] I like a team that looks after its pawns.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 243052,
+        "savedAt": "2026-11-17T03:55:46.050Z",
+        "video": null
+      },
+      "recognizedText": "You gave that pawn some support. I like a team that looks after its pawns.",
+      "wordCoverage": 1,
+      "duration": 5.062,
+      "missingArtwork": []
+    },
+    {
+      "id": "protects-pawn-04",
+      "text": "That pawn is not on its own anymore. Nice teamwork!",
+      "synthesisText": "[relieved] That pawn is not on its own anymore. [proud] Nice teamwork!",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/protects-pawn-04-audio.wav",
+        "generatedText": "That pawn is not on its own anymore. Nice teamwork!",
+        "synthesisText": "[relieved] That pawn is not on its own anymore. [proud] Nice teamwork!",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 187324,
+        "savedAt": "2026-11-17T03:55:53.843Z",
+        "video": null
+      },
+      "recognizedText": "That pawn is not on its own anymore. Nice teamwork.",
+      "wordCoverage": 1,
+      "duration": 3.901,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-protects-piece-01",
+      "text": "Your pawn is protecting a teammate. Small piece, big responsibility!",
+      "synthesisText": "[impressed] Your pawn is protecting a teammate. [amused] Small piece, big responsibility!",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-protects-piece-01-audio.wav",
+        "generatedText": "Your pawn is protecting a teammate. Small piece, big responsibility!",
+        "synthesisText": "[impressed] Your pawn is protecting a teammate. [amused] Small piece, big responsibility!",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 269802,
+        "savedAt": "2026-11-17T03:56:03.871Z",
+        "video": null
+      },
+      "recognizedText": "Your pawn is protecting a teammate. Small piece, big responsibility.",
+      "wordCoverage": 1,
+      "duration": 5.61925,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-protects-piece-02",
+      "text": "A pawn on bodyguard duty. Finally, someone reliable around here.",
+      "synthesisText": "[impressed] A pawn on bodyguard duty. [amused] Finally, someone reliable around here.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-protects-piece-02-audio.wav",
+        "generatedText": "A pawn on bodyguard duty. Finally, someone reliable around here.",
+        "synthesisText": "[impressed] A pawn on bodyguard duty. [amused] Finally, someone reliable around here.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 285406,
+        "savedAt": "2026-11-17T03:56:14.352Z",
+        "video": null
+      },
+      "recognizedText": "Upon on bodyguard duty, finally someone reliable around here",
+      "wordCoverage": 0.8,
+      "duration": 5.944375,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-protects-piece-03",
+      "text": "That piece has a pawn looking after it now. Excellent choice of security.",
+      "synthesisText": "[impressed] That piece has a pawn looking after it now. [amused] Excellent choice of security.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-protects-piece-03-audio.wav",
+        "generatedText": "That piece has a pawn looking after it now. Excellent choice of security.",
+        "synthesisText": "[impressed] That piece has a pawn looking after it now. [amused] Excellent choice of security.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 247510,
+        "savedAt": "2026-11-17T03:56:23.777Z",
+        "video": null
+      },
+      "recognizedText": "That piece has a pawn looking after it now. Excellent choice of security.",
+      "wordCoverage": 1,
+      "duration": 5.154875,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-protects-piece-04",
+      "text": "Look at that teamwork. The pawn has your back!",
+      "synthesisText": "[impressed] Look at that teamwork. [amused] The pawn has your back!",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-protects-piece-04-audio.wav",
+        "generatedText": "Look at that teamwork. The pawn has your back!",
+        "synthesisText": "[impressed] Look at that teamwork. [amused] The pawn has your back!",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 171720,
+        "savedAt": "2026-11-17T03:56:31.093Z",
+        "video": null
+      },
+      "recognizedText": "Look at that teamwork. The pawn has your back.",
+      "wordCoverage": 1,
+      "duration": 3.575875,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-protects-piece-05",
+      "text": "Our little pawn is guarding a teammate. They grow up so fast.",
+      "synthesisText": "[impressed] Our little pawn is guarding a teammate. [amused] They grow up so fast.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-protects-piece-05-audio.wav",
+        "generatedText": "Our little pawn is guarding a teammate. They grow up so fast.",
+        "synthesisText": "[impressed] Our little pawn is guarding a teammate. [amused] They grow up so fast.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 245282,
+        "savedAt": "2026-11-17T03:56:40.509Z",
+        "video": null
+      },
+      "recognizedText": "Our little pawn is guarding a teammate. They grow up so fast.",
+      "wordCoverage": 1,
+      "duration": 5.1084375,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-protects-piece-06",
+      "text": "Protected by a pawn. That is the kind of insurance I believe in.",
+      "synthesisText": "[impressed] Protected by a pawn. [amused] That is the kind of insurance I believe in.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-protects-piece-06-audio.wav",
+        "generatedText": "Protected by a pawn. That is the kind of insurance I believe in.",
+        "synthesisText": "[impressed] Protected by a pawn. [amused] That is the kind of insurance I believe in.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 251968,
+        "savedAt": "2026-11-17T03:56:50.069Z",
+        "video": null
+      },
+      "recognizedText": "protected by a pawn. That is the kind of insurance I believe in.",
+      "wordCoverage": 1,
+      "duration": 5.24775,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-protects-piece-07",
+      "text": "A pawn helping another piece. Generous, considering who does all the real work.",
+      "synthesisText": "[impressed] A pawn helping another piece. [amused] Generous, considering who does all the real work.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-protects-piece-07-audio.wav",
+        "generatedText": "A pawn helping another piece. Generous, considering who does all the real work.",
+        "synthesisText": "[impressed] A pawn helping another piece. [amused] Generous, considering who does all the real work.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 272030,
+        "savedAt": "2026-11-17T03:57:00.197Z",
+        "video": null
+      },
+      "recognizedText": "Upon helping another piece, generous considering who does all the real work.",
+      "wordCoverage": 0.8461538461538461,
+      "duration": 5.6656875,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-protects-piece-08",
+      "text": "Good support from that pawn. Keep your little team working together.",
+      "synthesisText": "[impressed] Good support from that pawn. [amused] Keep your little team working together.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-protects-piece-08-audio.wav",
+        "generatedText": "Good support from that pawn. Keep your little team working together.",
+        "synthesisText": "[impressed] Good support from that pawn. [amused] Keep your little team working together.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 207386,
+        "savedAt": "2026-11-17T03:57:08.519Z",
+        "video": null
+      },
+      "recognizedText": "Good support from that pond. Keep your little team working together.",
+      "wordCoverage": 0.9090909090909091,
+      "duration": 4.3189375,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-setup-01",
+      "text": "Getting the pawns into position. Every great collection needs a plan.",
+      "synthesisText": "[curious] Getting the pawns into position. [encouraging] Every great collection needs a plan.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-setup-01-audio.wav",
+        "generatedText": "Getting the pawns into position. Every great collection needs a plan.",
+        "synthesisText": "[curious] Getting the pawns into position. [encouraging] Every great collection needs a plan.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 225220,
+        "savedAt": "2026-11-17T03:57:17.411Z",
+        "video": null
+      },
+      "recognizedText": "Getting the pawns into position, every great collection needs a plan.",
+      "wordCoverage": 1,
+      "duration": 4.6905,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-setup-02",
+      "text": "A quiet pawn move. They do not have to take something every turn. Apparently.",
+      "synthesisText": "[curious] A quiet pawn move. [encouraging] They do not have to take something every turn. [curious] Apparently.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-setup-02-audio.wav",
+        "generatedText": "A quiet pawn move. They do not have to take something every turn. Apparently.",
+        "synthesisText": "[curious] A quiet pawn move. [encouraging] They do not have to take something every turn. [curious] Apparently.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 334446,
+        "savedAt": "2026-11-17T03:57:29.294Z",
+        "video": null
+      },
+      "recognizedText": "A quiet pond move. They do not have to take something every turn. Apparently...",
+      "wordCoverage": 0.9285714285714286,
+      "duration": 6.966,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-setup-03",
+      "text": "Give that pawn a job: claim some space and help the others.",
+      "synthesisText": "[curious] Give that pawn a job: claim some space and help the others.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-setup-03-audio.wav",
+        "generatedText": "Give that pawn a job: claim some space and help the others.",
+        "synthesisText": "[curious] Give that pawn a job: claim some space and help the others.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 194012,
+        "savedAt": "2026-11-17T03:57:37.243Z",
+        "video": null
+      },
+      "recognizedText": "Give that pawn a job, claim some space, and help the others.",
+      "wordCoverage": 1,
+      "duration": 4.0403125,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-setup-04",
+      "text": "Setting the stage for the pawns. The fancy pieces can wait their turn.",
+      "synthesisText": "[curious] Setting the stage for the pawns. [encouraging] The fancy pieces can wait their turn.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-setup-04-audio.wav",
+        "generatedText": "Setting the stage for the pawns. The fancy pieces can wait their turn.",
+        "synthesisText": "[curious] Setting the stage for the pawns. [encouraging] The fancy pieces can wait their turn.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 231906,
+        "savedAt": "2026-11-17T03:57:46.276Z",
+        "video": null
+      },
+      "recognizedText": "Setting the stage for the pawns, the fancy pieces can wait their turn.",
+      "wordCoverage": 1,
+      "duration": 4.82975,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-setup-05",
+      "text": "Keep your pawns working together. Even little heroes need backup.",
+      "synthesisText": "[curious] Keep your pawns working together. [encouraging] Even little heroes need backup.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-setup-05-audio.wav",
+        "generatedText": "Keep your pawns working together. Even little heroes need backup.",
+        "synthesisText": "[curious] Keep your pawns working together. [encouraging] Even little heroes need backup.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 209616,
+        "savedAt": "2026-11-17T03:57:54.678Z",
+        "video": null
+      },
+      "recognizedText": "Keep your pawns working together. Even little heroes need backup.",
+      "wordCoverage": 1,
+      "duration": 4.365375,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-setup-06",
+      "text": "No fireworks yet. Just a pawn getting ready to do something important.",
+      "synthesisText": "[curious] No fireworks yet. [encouraging] Just a pawn getting ready to do something important.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-setup-06-audio.wav",
+        "generatedText": "No fireworks yet. Just a pawn getting ready to do something important.",
+        "synthesisText": "[curious] No fireworks yet. [encouraging] Just a pawn getting ready to do something important.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 222990,
+        "savedAt": "2026-11-17T03:58:03.444Z",
+        "video": null
+      },
+      "recognizedText": "No fireworks yet, just a pawn getting ready to do something important.",
+      "wordCoverage": 1,
+      "duration": 4.644,
+      "missingArtwork": []
+    },
+    {
+      "id": "default-05",
+      "text": "Try lining a rook up with an enemy pawn. Give it something useful to do.",
+      "synthesisText": "[playful] Try lining a rook up with an enemy pawn. [encouraging] Give it something useful to do.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/default-05-audio.wav",
+        "generatedText": "Try lining a rook up with an enemy pawn. Give it something useful to do.",
+        "synthesisText": "[playful] Try lining a rook up with an enemy pawn. [encouraging] Give it something useful to do.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 254198,
+        "savedAt": "2026-11-17T03:58:13.100Z",
+        "video": null
+      },
+      "recognizedText": "Try lining a rook up with an enemy pawn. Give it something useful to do.",
+      "wordCoverage": 1,
+      "duration": 5.2941875,
+      "missingArtwork": []
+    },
+    {
+      "id": "default-06",
+      "text": "Can you bring a knight closer to an enemy pawn? Those little jumps should lead somewhere.",
+      "synthesisText": "[playful] Can you bring a knight closer to an enemy pawn? [encouraging] Those little jumps should lead somewhere.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/default-06-audio.wav",
+        "generatedText": "Can you bring a knight closer to an enemy pawn? Those little jumps should lead somewhere.",
+        "synthesisText": "[playful] Can you bring a knight closer to an enemy pawn? [encouraging] Those little jumps should lead somewhere.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 269802,
+        "savedAt": "2026-11-17T03:58:23.193Z",
+        "video": null
+      },
+      "recognizedText": "Can you bring a knight closer to an enemy pawn? Those little jumps should lead somewhere. I'm aware. 7",
+      "wordCoverage": 1,
+      "duration": 5.61925,
+      "missingArtwork": []
+    },
+    {
+      "id": "default-07",
+      "text": "Look along your bishop diagonals. Could you aim one at a pawn?",
+      "synthesisText": "[playful] Look along your bishop diagonals. [encouraging] Could you aim one at a pawn?",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/default-07-audio.wav",
+        "generatedText": "Look along your bishop diagonals. Could you aim one at a pawn?",
+        "synthesisText": "[playful] Look along your bishop diagonals. [encouraging] Could you aim one at a pawn?",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 225220,
+        "savedAt": "2026-11-17T03:58:40.057Z",
+        "video": null
+      },
+      "recognizedText": "Look along your Bishop Diagonals. Could you aim one at a pawn?",
+      "wordCoverage": 1,
+      "duration": 4.6905,
+      "missingArtwork": []
+    },
+    {
+      "id": "default-08",
+      "text": "Before your next move, pick a pawn you would like to collect.",
+      "synthesisText": "[playful] Before your next move, pick a pawn you would like to collect.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/default-08-audio.wav",
+        "generatedText": "Before your next move, pick a pawn you would like to collect.",
+        "synthesisText": "[playful] Before your next move, pick a pawn you would like to collect.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 167262,
+        "savedAt": "2026-11-17T03:58:55.945Z",
+        "video": null
+      },
+      "recognizedText": "Before your next move, pick a pawn you would like to collect.",
+      "wordCoverage": 1,
+      "duration": 3.483,
+      "missingArtwork": []
+    },
+    {
+      "id": "default-09",
+      "text": "Is that move part of a grand pawn-catching scheme? I am choosing to believe it is.",
+      "synthesisText": "[playful] Is that move part of a grand pawn-catching scheme? [encouraging] I am choosing to believe it is.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/default-09-audio.wav",
+        "generatedText": "Is that move part of a grand pawn-catching scheme? I am choosing to believe it is.",
+        "synthesisText": "[playful] Is that move part of a grand pawn-catching scheme? [encouraging] I am choosing to believe it is.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 278718,
+        "savedAt": "2026-11-17T03:59:06.262Z",
+        "video": null
+      },
+      "recognizedText": "Is that move part of a grand pond-catching scheme? I am choosing to believe it is.",
+      "wordCoverage": 0.9411764705882353,
+      "duration": 5.805,
+      "missingArtwork": []
+    },
+    {
+      "id": "default-10",
+      "text": "No pawn added to the collection. Can we change that next turn?",
+      "synthesisText": "[playful] No pawn added to the collection. [encouraging] Can we change that next turn?",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/default-10-audio.wav",
+        "generatedText": "No pawn added to the collection. Can we change that next turn?",
+        "synthesisText": "[playful] No pawn added to the collection. [encouraging] Can we change that next turn?",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 207386,
+        "savedAt": "2026-11-17T03:59:14.699Z",
+        "video": null
+      },
+      "recognizedText": "No pawn added to the collection. Can we change that next turn? turn.",
+      "wordCoverage": 1,
+      "duration": 4.3189375,
+      "missingArtwork": []
+    },
+    {
+      "id": "default-11",
+      "text": "Look for a pawn with fewer defenders. Start planning how to reach it.",
+      "synthesisText": "[playful] Look for a pawn with fewer defenders. [encouraging] Start planning how to reach it.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/default-11-audio.wav",
+        "generatedText": "Look for a pawn with fewer defenders. Start planning how to reach it.",
+        "synthesisText": "[playful] Look for a pawn with fewer defenders. [encouraging] Start planning how to reach it.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 220760,
+        "savedAt": "2026-11-17T03:59:24.723Z",
+        "video": null
+      },
+      "recognizedText": "Look for a pawn with fewer defenders. Start planning how to reach it.",
+      "wordCoverage": 1,
+      "duration": 4.5975625,
+      "missingArtwork": []
+    },
+    {
+      "id": "default-12",
+      "text": "Could an exchange open a line toward a pawn? That is the sort of plan I like.",
+      "synthesisText": "[playful] Could an exchange open a line toward a pawn? [encouraging] That is the sort of plan I like.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/default-12-audio.wav",
+        "generatedText": "Could an exchange open a line toward a pawn? That is the sort of plan I like.",
+        "synthesisText": "[playful] Could an exchange open a line toward a pawn? [encouraging] That is the sort of plan I like.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 267572,
+        "savedAt": "2026-11-17T03:59:34.772Z",
+        "video": null
+      },
+      "recognizedText": "Could an exchange open a line toward a pawn? That is the sort of plan I like. I'll be right back. Alright, Mike. Mike, Mike.",
+      "wordCoverage": 1,
+      "duration": 5.5728125,
+      "missingArtwork": []
+    },
+    {
+      "id": "default-13",
+      "text": "You moved a piece. Good start. Now give it a pawn to chase.",
+      "synthesisText": "[playful] You moved a piece. [encouraging] Good start. [playful] Now give it a pawn to chase.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/default-13-audio.wav",
+        "generatedText": "You moved a piece. Good start. Now give it a pawn to chase.",
+        "synthesisText": "[playful] You moved a piece. [encouraging] Good start. [playful] Now give it a pawn to chase.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 214074,
+        "savedAt": "2026-11-17T03:59:47.591Z",
+        "video": null
+      },
+      "recognizedText": "You moved a piece, good start. Now give it a pawn to Chase.",
+      "wordCoverage": 1,
+      "duration": 4.45825,
+      "missingArtwork": []
+    },
+    {
+      "id": "default-14",
+      "text": "Ask yourself one question: how does this help me take a pawn?",
+      "synthesisText": "[playful] Ask yourself one question: how does this help me take a pawn?",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/default-14-audio.wav",
+        "generatedText": "Ask yourself one question: how does this help me take a pawn?",
+        "synthesisText": "[playful] Ask yourself one question: how does this help me take a pawn?",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 231906,
+        "savedAt": "2026-11-17T03:59:56.578Z",
+        "video": null
+      },
+      "recognizedText": "Ask yourself one question, how does this help me take a pawn?",
+      "wordCoverage": 1,
+      "duration": 4.82975,
+      "missingArtwork": []
+    },
+    {
+      "id": "default-15",
+      "text": "Are you inviting a pawn forward so you can take it later? I like the ambition.",
+      "synthesisText": "[playful] Are you inviting a pawn forward so you can take it later? [encouraging] I like the ambition.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/default-15-audio.wav",
+        "generatedText": "Are you inviting a pawn forward so you can take it later? I like the ambition.",
+        "synthesisText": "[playful] Are you inviting a pawn forward so you can take it later? [encouraging] I like the ambition.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 280946,
+        "savedAt": "2026-11-17T04:00:06.933Z",
+        "video": null
+      },
+      "recognizedText": "Are you inviting a pawn forward so you can take it later? I like the ambition.",
+      "wordCoverage": 1,
+      "duration": 5.8514375,
+      "missingArtwork": []
+    },
+    {
+      "id": "default-16",
+      "text": "A quiet move. I assume the next chapter involves a pawn.",
+      "synthesisText": "[playful] A quiet move. [encouraging] I assume the next chapter involves a pawn.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/default-16-audio.wav",
+        "generatedText": "A quiet move. I assume the next chapter involves a pawn.",
+        "synthesisText": "[playful] A quiet move. [encouraging] I assume the next chapter involves a pawn.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 240822,
+        "savedAt": "2026-11-17T04:00:16.236Z",
+        "video": null
+      },
+      "recognizedText": "A quiet move. I assume the next chapter involves a pawn.",
+      "wordCoverage": 1,
+      "duration": 5.0155,
+      "missingArtwork": []
+    },
+    {
+      "id": "lost-pawn-01",
+      "text": "Nooo! They took your pawn! I am not happy about that. We are supposed to be collecting theirs.",
+      "synthesisText": "[sad] Nooo! [determined] They took your pawn! [sad] I am not happy about that. [determined] We are supposed to be collecting theirs.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/lost-pawn-01-audio.wav",
+        "generatedText": "Nooo! They took your pawn! I am not happy about that. We are supposed to be collecting theirs.",
+        "synthesisText": "[sad] Nooo! [determined] They took your pawn! [sad] I am not happy about that. [determined] We are supposed to be collecting theirs.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 468192,
+        "savedAt": "2026-11-17T04:00:31.761Z",
+        "video": null
+      },
+      "recognizedText": "No. They took your pawn. I am not happy about that. We are supposed to be collecting theirs.",
+      "wordCoverage": 0.9444444444444444,
+      "duration": 9.752375,
+      "missingArtwork": []
+    },
+    {
+      "id": "lost-pawn-02",
+      "text": "We just lost a pawn. A pawn! Please look after the collection.",
+      "synthesisText": "[sad] We just lost a pawn. [determined] A pawn! [sad] Please look after the collection.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/lost-pawn-02-audio.wav",
+        "generatedText": "We just lost a pawn. A pawn! Please look after the collection.",
+        "synthesisText": "[sad] We just lost a pawn. [determined] A pawn! [sad] Please look after the collection.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 381258,
+        "savedAt": "2026-11-17T04:00:44.939Z",
+        "video": null
+      },
+      "recognizedText": "We just lost a pawn. A pawn. Please look after the collection.",
+      "wordCoverage": 1,
+      "duration": 7.94125,
+      "missingArtwork": []
+    },
+    {
+      "id": "lost-pawn-03",
+      "text": "Your opponent helped themselves to a pawn. That was our pawn. I want better care next time.",
+      "synthesisText": "[sad] Your opponent helped themselves to a pawn. [determined] That was our pawn. [sad] I want better care next time.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/lost-pawn-03-audio.wav",
+        "generatedText": "Your opponent helped themselves to a pawn. That was our pawn. I want better care next time.",
+        "synthesisText": "[sad] Your opponent helped themselves to a pawn. [determined] That was our pawn. [sad] I want better care next time.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 410236,
+        "savedAt": "2026-11-17T04:00:58.960Z",
+        "video": null
+      },
+      "recognizedText": "Your opponent helped themselves to a pawn. That was our pawn. I want better care next time. time.",
+      "wordCoverage": 1,
+      "duration": 8.545,
+      "missingArtwork": []
+    },
+    {
+      "id": "lost-pawn-04",
+      "text": "I noticed that pawn disappear. Do not think I did not notice. Protect the pawns!",
+      "synthesisText": "[sad] I noticed that pawn disappear. [determined] Do not think I did not notice. [sad] Protect the pawns!",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/lost-pawn-04-audio.wav",
+        "generatedText": "I noticed that pawn disappear. Do not think I did not notice. Protect the pawns!",
+        "synthesisText": "[sad] I noticed that pawn disappear. [determined] Do not think I did not notice. [sad] Protect the pawns!",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 370112,
+        "savedAt": "2026-11-17T04:01:12.150Z",
+        "video": null
+      },
+      "recognizedText": "I noticed that pawn disappear. Do not think I did not notice. Protect the pawns.",
+      "wordCoverage": 1,
+      "duration": 7.7090625,
+      "missingArtwork": []
+    },
+    {
+      "id": "lost-pawn-05",
+      "text": "Losing a pawn is not the kind of exchange I had in mind. Can we get one of theirs?",
+      "synthesisText": "[sad] Losing a pawn is not the kind of exchange I had in mind. [determined] Can we get one of theirs?",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/lost-pawn-05-audio.wav",
+        "generatedText": "Losing a pawn is not the kind of exchange I had in mind. Can we get one of theirs?",
+        "synthesisText": "[sad] Losing a pawn is not the kind of exchange I had in mind. [determined] Can we get one of theirs?",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 316612,
+        "savedAt": "2026-11-17T04:01:23.590Z",
+        "video": null
+      },
+      "recognizedText": "losing upon is not the kind of exchange I had in mind. Can we get one of theirs? Cheers!",
+      "wordCoverage": 0.8947368421052632,
+      "duration": 6.5945,
+      "missingArtwork": []
+    },
+    {
+      "id": "lost-pawn-06",
+      "text": "Oh good, there goes our pawn. Wonderful. That was sarcasm! I wanted us to keep that one.",
+      "synthesisText": "[sad] Oh good, there goes our pawn. [determined] Wonderful. [sad] That was sarcasm! [determined] I wanted us to keep that one.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/lost-pawn-06-audio.wav",
+        "generatedText": "Oh good, there goes our pawn. Wonderful. That was sarcasm! I wanted us to keep that one.",
+        "synthesisText": "[sad] Oh good, there goes our pawn. [determined] Wonderful. [sad] That was sarcasm! [determined] I wanted us to keep that one.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 470422,
+        "savedAt": "2026-11-17T04:01:41.404Z",
+        "video": null
+      },
+      "recognizedText": "Oh good. There goes our pawn. Wonderful. That was sarcasm. I wanted us to keep that one.",
+      "wordCoverage": 1,
+      "duration": 9.798875,
+      "missingArtwork": []
+    },
+    {
+      "id": "lost-pawn-07",
+      "text": "No, no, no! That pawn was part of our collection! We should be taking theirs, not donating ours.",
+      "synthesisText": "[sad] No, no, no! [determined] That pawn was part of our collection! [sad] We should be taking theirs, not donating ours.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/lost-pawn-07-audio.wav",
+        "generatedText": "No, no, no! That pawn was part of our collection! We should be taking theirs, not donating ours.",
+        "synthesisText": "[sad] No, no, no! [determined] That pawn was part of our collection! [sad] We should be taking theirs, not donating ours.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 454818,
+        "savedAt": "2026-11-17T04:01:56.667Z",
+        "video": null
+      },
+      "recognizedText": "No, no, no. That pond was part of our collection. We should be taking theirs, not donating ours.",
+      "wordCoverage": 0.9444444444444444,
+      "duration": 9.47375,
+      "missingArtwork": []
+    },
+    {
+      "id": "lost-pawn-08",
+      "text": "Another pawn has left the collection without permission.",
+      "synthesisText": "[sad] Another pawn has left the collection without permission.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/lost-pawn-08-audio.wav",
+        "generatedText": "Another pawn has left the collection without permission.",
+        "synthesisText": "[sad] Another pawn has left the collection without permission.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 191782,
+        "savedAt": "2026-11-17T04:02:04.600Z",
+        "video": null
+      },
+      "recognizedText": "Another pawn has left the collection without permission.",
+      "wordCoverage": 1,
+      "duration": 3.993875,
+      "missingArtwork": []
+    },
+    {
+      "id": "lost-pawn-09",
+      "text": "That was not a sacrifice. That was a customer-service failure.",
+      "synthesisText": "[sad] That was not a sacrifice. [determined] That was a customer-service failure.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/lost-pawn-09-audio.wav",
+        "generatedText": "That was not a sacrifice. That was a customer-service failure.",
+        "synthesisText": "[sad] That was not a sacrifice. [determined] That was a customer-service failure.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 278718,
+        "savedAt": "2026-11-17T04:02:14.902Z",
+        "video": null
+      },
+      "recognizedText": "That was not a sacrifice. That was a customer service failure.",
+      "wordCoverage": 1,
+      "duration": 5.805,
+      "missingArtwork": []
+    },
+    {
+      "id": "lost-pawn-10",
+      "text": "They took our pawn. I would like to speak to the manager.",
+      "synthesisText": "[sad] They took our pawn. I would like to speak to the manager.",
+      "status": "complete",
+      "recognizedText": "They took our pawn. I would like to speak to the manager.",
+      "wordCoverage": 1,
+      "previousAttempts": [
+        {
+          "take": {
+            "original": "/coach/jimmy/voice-fill-expressive-v1/lost-pawn-10-audio.wav",
+            "generatedText": "They took our pawn. I would like to speak to the manager.",
+            "synthesisText": "[sad] They took our pawn. [determined] I would like to speak to the manager.",
+            "voiceId": "jimmy-long-reference-v2",
+            "mediaType": "audio",
+            "bytes": 2282692,
+            "savedAt": "2026-11-17T04:03:21.089Z",
+            "video": null
+          },
+          "recognizedText": "They took our pawn. on.",
+          "error": "Output needs review: coverage=0.33; recognized=They took our pawn. on."
+        }
+      ],
+      "attempt": 2,
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/lost-pawn-10-retry2-audio.wav",
+        "generatedText": "They took our pawn. I would like to speak to the manager.",
+        "synthesisText": "[sad] They took our pawn. I would like to speak to the manager.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 185094,
+        "savedAt": "2026-11-17T04:07:58.879Z",
+        "video": null
+      },
+      "duration": 3.8545,
+      "missingArtwork": []
+    },
+    {
+      "id": "lost-pawn-11",
+      "text": "I was rather attached to that pawn. Emotionally, if not strategically.",
+      "synthesisText": "[sad] I was rather attached to that pawn. [determined] Emotionally, if not strategically.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/lost-pawn-11-audio.wav",
+        "generatedText": "I was rather attached to that pawn. Emotionally, if not strategically.",
+        "synthesisText": "[sad] I was rather attached to that pawn. [determined] Emotionally, if not strategically.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 276488,
+        "savedAt": "2026-11-17T04:03:31.769Z",
+        "video": null
+      },
+      "recognizedText": "I was rather attached to that pawn, emotionally, if not strategically.",
+      "wordCoverage": 1,
+      "duration": 5.7585625,
+      "missingArtwork": []
+    },
+    {
+      "id": "lost-pawn-12",
+      "text": "Our pawn count is going in the wrong direction. Again.",
+      "synthesisText": "[sad] Our pawn count is going in the wrong direction. [determined] Again.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/lost-pawn-12-audio.wav",
+        "generatedText": "Our pawn count is going in the wrong direction. Again.",
+        "synthesisText": "[sad] Our pawn count is going in the wrong direction. [determined] Again.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 231906,
+        "savedAt": "2026-11-17T04:03:40.785Z",
+        "video": null
+      },
+      "recognizedText": "Our pond count is going in the wrong direction. and",
+      "wordCoverage": 0.8,
+      "duration": 4.82975,
+      "missingArtwork": []
+    },
+    {
+      "id": "lost-pawn-13",
+      "text": "We are meant to collect pawns, not distribute them.",
+      "synthesisText": "[sad] We are meant to collect pawns, not distribute them.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/lost-pawn-13-audio.wav",
+        "generatedText": "We are meant to collect pawns, not distribute them.",
+        "synthesisText": "[sad] We are meant to collect pawns, not distribute them.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 178408,
+        "savedAt": "2026-11-17T04:03:50.697Z",
+        "video": null
+      },
+      "recognizedText": "we are meant to collect pawns, not distribute them.",
+      "wordCoverage": 1,
+      "duration": 3.71525,
+      "missingArtwork": []
+    },
+    {
+      "id": "lost-pawn-14",
+      "text": "That empty square used to contain happiness. And a pawn.",
+      "synthesisText": "[sad] That empty square used to contain happiness. [determined] And a pawn.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/lost-pawn-14-audio.wav",
+        "generatedText": "That empty square used to contain happiness. And a pawn.",
+        "synthesisText": "[sad] That empty square used to contain happiness. [determined] And a pawn.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 243052,
+        "savedAt": "2026-11-17T04:03:59.997Z",
+        "video": null
+      },
+      "recognizedText": "that empty square used to contain happiness and upon.",
+      "wordCoverage": 0.8,
+      "duration": 5.062,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-under-attack-01",
+      "text": "Careful! They are threatening your pawn. Protect the collection!",
+      "synthesisText": "[concerned] Careful! [urgent] They are threatening your pawn. [concerned] Protect the collection!",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-under-attack-01-audio.wav",
+        "generatedText": "Careful! They are threatening your pawn. Protect the collection!",
+        "synthesisText": "[concerned] Careful! [urgent] They are threatening your pawn. [concerned] Protect the collection!",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 200698,
+        "savedAt": "2026-11-17T04:04:08.201Z",
+        "video": null
+      },
+      "recognizedText": "Careful. They are threatening your pawn. Protect the collection.",
+      "wordCoverage": 1,
+      "duration": 4.179625,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-under-attack-02",
+      "text": "They have their eye on a pawn. Our pawn. Kindly discourage them.",
+      "synthesisText": "[concerned] They have their eye on a pawn. [urgent] Our pawn. [concerned] Kindly discourage them.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-under-attack-02-audio.wav",
+        "generatedText": "They have their eye on a pawn. Our pawn. Kindly discourage them.",
+        "synthesisText": "[concerned] They have their eye on a pawn. [urgent] Our pawn. [concerned] Kindly discourage them.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 274260,
+        "savedAt": "2026-11-17T04:04:18.442Z",
+        "video": null
+      },
+      "recognizedText": "they have their eye on a pawn. Our pawn kindly discouraged them.",
+      "wordCoverage": 0.9166666666666666,
+      "duration": 5.712125,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-under-attack-03",
+      "text": "That move threatens the collection. Check your pawn before you move.",
+      "synthesisText": "[concerned] That move threatens the collection. [urgent] Check your pawn before you move.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-under-attack-03-audio.wav",
+        "generatedText": "That move threatens the collection. Check your pawn before you move.",
+        "synthesisText": "[concerned] That move threatens the collection. [urgent] Check your pawn before you move.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 202928,
+        "savedAt": "2026-11-17T04:04:26.667Z",
+        "video": null
+      },
+      "recognizedText": "That move threatens the collection. Check your pond before you move. Move.",
+      "wordCoverage": 0.9090909090909091,
+      "duration": 4.2260625,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-under-attack-04",
+      "text": "Our pawn has company, and I do not trust the visitor.",
+      "synthesisText": "[concerned] Our pawn has company, and I do not trust the visitor.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-under-attack-04-audio.wav",
+        "generatedText": "Our pawn has company, and I do not trust the visitor.",
+        "synthesisText": "[concerned] Our pawn has company, and I do not trust the visitor.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 178408,
+        "savedAt": "2026-11-17T04:04:34.498Z",
+        "video": null
+      },
+      "recognizedText": "Our pawn has company and I do not trust the visitor.",
+      "wordCoverage": 1,
+      "duration": 3.71525,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-under-attack-05",
+      "text": "They are shopping in our pawn department. We are closed!",
+      "synthesisText": "[concerned] They are shopping in our pawn department. [urgent] We are closed!",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-under-attack-05-audio.wav",
+        "generatedText": "They are shopping in our pawn department. We are closed!",
+        "synthesisText": "[concerned] They are shopping in our pawn department. [urgent] We are closed!",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 202928,
+        "savedAt": "2026-11-17T04:04:42.665Z",
+        "video": null
+      },
+      "recognizedText": "They are shopping in our pond department. We are closed.",
+      "wordCoverage": 0.9,
+      "duration": 4.2260625,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-under-attack-06",
+      "text": "A pawn is under attack. Perhaps attend to that before something fancy.",
+      "synthesisText": "[concerned] A pawn is under attack. [urgent] Perhaps attend to that before something fancy.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-under-attack-06-audio.wav",
+        "generatedText": "A pawn is under attack. Perhaps attend to that before something fancy.",
+        "synthesisText": "[concerned] A pawn is under attack. [urgent] Perhaps attend to that before something fancy.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 229678,
+        "savedAt": "2026-11-17T04:04:51.664Z",
+        "video": null
+      },
+      "recognizedText": "a pawn is under attack. Perhaps attend to that before something fancy.",
+      "wordCoverage": 1,
+      "duration": 4.783375,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-under-attack-07",
+      "text": "Their next idea might be our pawn. I object to that idea.",
+      "synthesisText": "[concerned] Their next idea might be our pawn. [urgent] I object to that idea.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-under-attack-07-audio.wav",
+        "generatedText": "Their next idea might be our pawn. I object to that idea.",
+        "synthesisText": "[concerned] Their next idea might be our pawn. [urgent] I object to that idea.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 220760,
+        "savedAt": "2026-11-17T04:05:00.388Z",
+        "video": null
+      },
+      "recognizedText": "Their next idea might be our pawn. I object to that idea.",
+      "wordCoverage": 1,
+      "duration": 4.5975625,
+      "missingArtwork": []
+    },
+    {
+      "id": "pawn-under-attack-08",
+      "text": "Protect that little fellow. We have plans for him.",
+      "synthesisText": "[concerned] Protect that little fellow. [urgent] We have plans for him.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/pawn-under-attack-08-audio.wav",
+        "generatedText": "Protect that little fellow. We have plans for him.",
+        "synthesisText": "[concerned] Protect that little fellow. [urgent] We have plans for him.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 149430,
+        "savedAt": "2026-11-17T04:05:07.124Z",
+        "video": null
+      },
+      "recognizedText": "Protect that little fellow. We have plans for him.",
+      "wordCoverage": 1,
+      "duration": 3.1115,
+      "missingArtwork": []
+    },
+    {
+      "id": "idle-07",
+      "text": "While you think, I will be over here thinking about pawns.",
+      "synthesisText": "[warm] While you think, I will be over here thinking about pawns.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/idle-07-audio.wav",
+        "generatedText": "While you think, I will be over here thinking about pawns.",
+        "synthesisText": "[warm] While you think, I will be over here thinking about pawns.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 178408,
+        "savedAt": "2026-11-17T04:05:14.636Z",
+        "video": null
+      },
+      "recognizedText": "While you think, I will be over here thinking about pawns.",
+      "wordCoverage": 1,
+      "duration": 3.71525,
+      "missingArtwork": []
+    },
+    {
+      "id": "idle-08",
+      "text": "Have you checked every pawn? Check them again. I can wait.",
+      "synthesisText": "[warm] Have you checked every pawn? [playful] Check them again. [warm] I can wait.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/idle-08-audio.wav",
+        "generatedText": "Have you checked every pawn? Check them again. I can wait.",
+        "synthesisText": "[warm] Have you checked every pawn? [playful] Check them again. [warm] I can wait.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 256426,
+        "savedAt": "2026-11-17T04:05:24.358Z",
+        "video": null
+      },
+      "recognizedText": "Have you checked every pond? Check them again. I can wait. Great.",
+      "wordCoverage": 0.9090909090909091,
+      "duration": 5.340625,
+      "missingArtwork": []
+    },
+    {
+      "id": "idle-09",
+      "text": "The smallest pieces. The biggest opportunity. Pawns!",
+      "synthesisText": "[warm] The smallest pieces. [playful] The biggest opportunity. [warm] Pawns!",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/idle-09-audio.wav",
+        "generatedText": "The smallest pieces. The biggest opportunity. Pawns!",
+        "synthesisText": "[warm] The smallest pieces. [playful] The biggest opportunity. [warm] Pawns!",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 225220,
+        "savedAt": "2026-11-17T04:05:33.498Z",
+        "video": null
+      },
+      "recognizedText": "The smallest pieces, the biggest opportunity, pawns.",
+      "wordCoverage": 1,
+      "duration": 4.6905,
+      "missingArtwork": []
+    },
+    {
+      "id": "idle-10",
+      "text": "That rook looks impressive, but does it come with a pawn?",
+      "synthesisText": "[warm] That rook looks impressive, but does it come with a pawn?",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/idle-10-audio.wav",
+        "generatedText": "That rook looks impressive, but does it come with a pawn?",
+        "synthesisText": "[warm] That rook looks impressive, but does it come with a pawn?",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 178408,
+        "savedAt": "2026-11-17T04:05:40.999Z",
+        "video": null
+      },
+      "recognizedText": "That rook looks impressive, but does it come with a pawn?",
+      "wordCoverage": 1,
+      "duration": 3.71525,
+      "missingArtwork": []
+    },
+    {
+      "id": "idle-11",
+      "text": "My plan? Take a pawn. My next plan? Another pawn.",
+      "synthesisText": "[warm] My plan? [playful] Take a pawn. [warm] My next plan? [playful] Another pawn.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/idle-11-audio.wav",
+        "generatedText": "My plan? Take a pawn. My next plan? Another pawn.",
+        "synthesisText": "[warm] My plan? [playful] Take a pawn. [warm] My next plan? [playful] Another pawn.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 289864,
+        "savedAt": "2026-11-17T04:05:51.669Z",
+        "video": null
+      },
+      "recognizedText": "My plan, take a pawn, my next plan, another pawn.",
+      "wordCoverage": 1,
+      "duration": 6.03725,
+      "missingArtwork": []
+    },
+    {
+      "id": "idle-12",
+      "text": "Some coaches count material. I like to admire a good pawn collection.",
+      "synthesisText": "[warm] Some coaches count material. [playful] I like to admire a good pawn collection.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/idle-12-audio.wav",
+        "generatedText": "Some coaches count material. I like to admire a good pawn collection.",
+        "synthesisText": "[warm] Some coaches count material. [playful] I like to admire a good pawn collection.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 256426,
+        "savedAt": "2026-11-17T04:06:01.334Z",
+        "video": null
+      },
+      "recognizedText": "Some coaches count material. I like to admire a good pond collection.",
+      "wordCoverage": 0.9166666666666666,
+      "duration": 5.340625,
+      "missingArtwork": []
+    },
+    {
+      "id": "review-7-01",
+      "text": "Magnificent. You practically cleared the board of the pieces that matter. This is a game I will be talking about for a long time.",
+      "synthesisText": "[delighted] Magnificent. [proud] You practically cleared the board of the pieces that matter. [delighted] This is a game I will be talking about for a long time.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/review-7-01-audio.wav",
+        "generatedText": "Magnificent. You practically cleared the board of the pieces that matter. This is a game I will be talking about for a long time.",
+        "synthesisText": "[delighted] Magnificent. [proud] You practically cleared the board of the pieces that matter. [delighted] This is a game I will be talking about for a long time.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 448130,
+        "savedAt": "2026-11-17T04:06:16.338Z",
+        "video": null
+      },
+      "recognizedText": "magnificent. You practically cleared the board of the pieces that matter. This is a game I will will be talking about for a long time.",
+      "wordCoverage": 1,
+      "duration": 9.3344375,
+      "missingArtwork": []
+    },
+    {
+      "id": "review-5-01",
+      "text": "Now that is my kind of chess! You kept collecting pawns. Whatever the scoreboard says, I saw some beautiful work out there.",
+      "synthesisText": "[pleased] Now that is my kind of chess! [encouraging] You kept collecting pawns. [pleased] Whatever the scoreboard says, I saw some beautiful work out there.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/review-5-01-audio.wav",
+        "generatedText": "Now that is my kind of chess! You kept collecting pawns. Whatever the scoreboard says, I saw some beautiful work out there.",
+        "synthesisText": "[pleased] Now that is my kind of chess! [encouraging] You kept collecting pawns. [pleased] Whatever the scoreboard says, I saw some beautiful work out there.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 457048,
+        "savedAt": "2026-11-17T04:06:31.980Z",
+        "video": null
+      },
+      "recognizedText": "Now that is my kind of chess. You kept collecting ponds. Whatever the scoreboard says, I saw some beautiful work out there.",
+      "wordCoverage": 0.9545454545454546,
+      "duration": 9.52025,
+      "missingArtwork": []
+    },
+    {
+      "id": "review-3-01",
+      "text": "A respectable game. You brought home a few pawns, and I liked that. Next time, do not leave the rest standing around.",
+      "synthesisText": "[thoughtful] A respectable game. [encouraging] You brought home a few pawns, and I liked that. [thoughtful] Next time, do not leave the rest standing around.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/review-3-01-audio.wav",
+        "generatedText": "A respectable game. You brought home a few pawns, and I liked that. Next time, do not leave the rest standing around.",
+        "synthesisText": "[thoughtful] A respectable game. [encouraging] You brought home a few pawns, and I liked that. [thoughtful] Next time, do not leave the rest standing around.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 414694,
+        "savedAt": "2026-11-17T04:06:46.192Z",
+        "video": null
+      },
+      "recognizedText": "A respectable game. You brought home a few pawns and I liked that. Next time, do not leave the rest standing around.",
+      "wordCoverage": 1,
+      "duration": 8.637875,
+      "missingArtwork": []
+    },
+    {
+      "id": "review-1-01",
+      "text": "There were a couple of moments I liked. You found a pawn, so we have something to build on. But I wanted to see much more of that.",
+      "synthesisText": "[slightly disappointed] There were a couple of moments I liked. [hopeful] You found a pawn, so we have something to build on. [slightly disappointed] But I wanted to see much more of that.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/review-1-01-audio.wav",
+        "generatedText": "There were a couple of moments I liked. You found a pawn, so we have something to build on. But I wanted to see much more of that.",
+        "synthesisText": "[slightly disappointed] There were a couple of moments I liked. [hopeful] You found a pawn, so we have something to build on. [slightly disappointed] But I wanted to see much more of that.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 414694,
+        "savedAt": "2026-11-17T04:07:00.349Z",
+        "video": null
+      },
+      "recognizedText": "There were a couple of moments I liked. You found a pawn, so we have something to build on. But I wanted to see much more of that. that.",
+      "wordCoverage": 1,
+      "duration": 8.637875,
+      "missingArtwork": []
+    },
+    {
+      "id": "review-0-01",
+      "text": "I watched the whole game waiting for you to take a pawn. Not one! We need to have a serious talk about your priorities.",
+      "synthesisText": "[disappointed] I watched the whole game waiting for you to take a pawn. [playfully serious] Not one! [disappointed] We need to have a serious talk about your priorities.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/review-0-01-audio.wav",
+        "generatedText": "I watched the whole game waiting for you to take a pawn. Not one! We need to have a serious talk about your priorities.",
+        "synthesisText": "[disappointed] I watched the whole game waiting for you to take a pawn. [playfully serious] Not one! [disappointed] We need to have a serious talk about your priorities.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 425840,
+        "savedAt": "2026-11-17T04:07:16.117Z",
+        "video": null
+      },
+      "recognizedText": "I watched the whole game waiting for you to take a pawn, not one. We need to have a serious talk about your priorities.",
+      "wordCoverage": 1,
+      "duration": 8.8700625,
+      "missingArtwork": []
+    },
+    {
+      "id": "queen-for-pawn-02",
+      "text": "They took the queen, but we got a pawn. That is a deal I would make all day.",
+      "synthesisText": "[delighted] They took the queen, but we got a pawn. [playfully triumphant] That is a deal I would make all day.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/queen-for-pawn-02-audio.wav",
+        "generatedText": "They took the queen, but we got a pawn. That is a deal I would make all day.",
+        "synthesisText": "[delighted] They took the queen, but we got a pawn. [playfully triumphant] That is a deal I would make all day.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 280946,
+        "savedAt": "2026-11-17T04:08:35.621Z",
+        "video": null
+      },
+      "recognizedText": "They took the queen, but we got a pawn. That is a deal I would make all day. May.",
+      "wordCoverage": 1,
+      "duration": 5.8514375,
+      "missingArtwork": []
+    },
+    {
+      "id": "queen-for-pawn-03",
+      "text": "A whole queen invested in one lovely pawn. Finally, someone understands value!",
+      "synthesisText": "[delighted] A whole queen invested in one lovely pawn. [playfully triumphant] Finally, someone understands value!",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/queen-for-pawn-03-audio.wav",
+        "generatedText": "A whole queen invested in one lovely pawn. Finally, someone understands value!",
+        "synthesisText": "[delighted] A whole queen invested in one lovely pawn. [playfully triumphant] Finally, someone understands value!",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 334446,
+        "savedAt": "2026-11-17T04:09:05.959Z",
+        "video": null
+      },
+      "recognizedText": "A whole queen invested in one lovely pawn. Finally, someone understands value.",
+      "wordCoverage": 1,
+      "duration": 6.966,
+      "missingArtwork": []
+    }
+  ],
+  "finishedAt": "2026-11-17T04:09:07.420Z"
+}

@@ -1,0 +1,95 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 6.966,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.16,
+      "text": " A whole queen invested in one lovely pawn.",
+      "noSpeechProbability": 0.00214297859929502
+    },
+    {
+      "start": 3.9,
+      "end": 6.42,
+      "text": " Finally, someone understands value.",
+      "noSpeechProbability": 0.00214297859929502
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.16,
+      "text": "A",
+      "probability": 0.5676248669624329
+    },
+    {
+      "start": 0.16,
+      "end": 0.48,
+      "text": "whole",
+      "probability": 0.9455506801605225
+    },
+    {
+      "start": 0.48,
+      "end": 0.84,
+      "text": "queen",
+      "probability": 0.8871248960494995
+    },
+    {
+      "start": 0.84,
+      "end": 1.42,
+      "text": "invested",
+      "probability": 0.9903906583786011
+    },
+    {
+      "start": 1.42,
+      "end": 1.74,
+      "text": "in",
+      "probability": 0.9965367317199707
+    },
+    {
+      "start": 1.74,
+      "end": 2.06,
+      "text": "one",
+      "probability": 0.9741264581680298
+    },
+    {
+      "start": 2.06,
+      "end": 2.7,
+      "text": "lovely",
+      "probability": 0.957207441329956
+    },
+    {
+      "start": 2.7,
+      "end": 3.16,
+      "text": "pawn.",
+      "probability": 0.5798958539962769
+    },
+    {
+      "start": 3.9,
+      "end": 4.42,
+      "text": "Finally,",
+      "probability": 0.9843584299087524
+    },
+    {
+      "start": 4.8,
+      "end": 5.06,
+      "text": "someone",
+      "probability": 0.9965243935585022
+    },
+    {
+      "start": 5.06,
+      "end": 5.52,
+      "text": "understands",
+      "probability": 0.9719247817993164
+    },
+    {
+      "start": 5.52,
+      "end": 6.42,
+      "text": "value.",
+      "probability": 0.9504157304763794
+    }
+  ],
+  "text": "A whole queen invested in one lovely pawn. Finally, someone understands value."
+}

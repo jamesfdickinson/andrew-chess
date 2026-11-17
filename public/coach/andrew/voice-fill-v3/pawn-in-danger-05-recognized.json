@@ -1,0 +1,77 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 3.8545,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.06,
+      "text": " That pond looks a little too available for my liking.",
+      "noSpeechProbability": 0.0003534211136866361
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.22,
+      "text": "That",
+      "probability": 0.8669692277908325
+    },
+    {
+      "start": 0.22,
+      "end": 0.52,
+      "text": "pond",
+      "probability": 0.4725272059440613
+    },
+    {
+      "start": 0.52,
+      "end": 0.84,
+      "text": "looks",
+      "probability": 0.9940005540847778
+    },
+    {
+      "start": 0.84,
+      "end": 1.08,
+      "text": "a",
+      "probability": 0.9937467575073242
+    },
+    {
+      "start": 1.08,
+      "end": 1.28,
+      "text": "little",
+      "probability": 0.9985482096672058
+    },
+    {
+      "start": 1.28,
+      "end": 1.56,
+      "text": "too",
+      "probability": 0.9578667283058167
+    },
+    {
+      "start": 1.56,
+      "end": 1.96,
+      "text": "available",
+      "probability": 0.9924611449241638
+    },
+    {
+      "start": 1.96,
+      "end": 2.48,
+      "text": "for",
+      "probability": 0.9950838685035706
+    },
+    {
+      "start": 2.48,
+      "end": 2.64,
+      "text": "my",
+      "probability": 0.9964497089385986
+    },
+    {
+      "start": 2.64,
+      "end": 3.06,
+      "text": "liking.",
+      "probability": 0.998042106628418
+    }
+  ],
+  "text": "That pond looks a little too available for my liking."
+}

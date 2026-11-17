@@ -1,0 +1,125 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.805,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.72,
+      "text": " Is that move part of a grand pond-catching scheme?",
+      "noSpeechProbability": 0.0019864209461957216
+    },
+    {
+      "start": 3.56,
+      "end": 5.36,
+      "text": " I am choosing to believe it is.",
+      "noSpeechProbability": 0.0019864209461957216
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.16,
+      "text": "Is",
+      "probability": 0.9188616871833801
+    },
+    {
+      "start": 0.16,
+      "end": 0.32,
+      "text": "that",
+      "probability": 0.9890782237052917
+    },
+    {
+      "start": 0.32,
+      "end": 0.56,
+      "text": "move",
+      "probability": 0.972258985042572
+    },
+    {
+      "start": 0.56,
+      "end": 0.9,
+      "text": "part",
+      "probability": 0.9881914258003235
+    },
+    {
+      "start": 0.9,
+      "end": 1.06,
+      "text": "of",
+      "probability": 0.9911296367645264
+    },
+    {
+      "start": 1.06,
+      "end": 1.14,
+      "text": "a",
+      "probability": 0.9816327095031738
+    },
+    {
+      "start": 1.14,
+      "end": 1.48,
+      "text": "grand",
+      "probability": 0.8893553018569946
+    },
+    {
+      "start": 1.48,
+      "end": 1.94,
+      "text": "pond",
+      "probability": 0.4564947485923767
+    },
+    {
+      "start": 1.94,
+      "end": 2.38,
+      "text": "-catching",
+      "probability": 0.7102328389883041
+    },
+    {
+      "start": 2.38,
+      "end": 2.72,
+      "text": "scheme?",
+      "probability": 0.9956806898117065
+    },
+    {
+      "start": 3.56,
+      "end": 3.8,
+      "text": "I",
+      "probability": 0.9925013780593872
+    },
+    {
+      "start": 3.8,
+      "end": 3.94,
+      "text": "am",
+      "probability": 0.9698593020439148
+    },
+    {
+      "start": 3.94,
+      "end": 4.26,
+      "text": "choosing",
+      "probability": 0.9928029179573059
+    },
+    {
+      "start": 4.26,
+      "end": 4.62,
+      "text": "to",
+      "probability": 0.9977400302886963
+    },
+    {
+      "start": 4.62,
+      "end": 4.92,
+      "text": "believe",
+      "probability": 0.9979251623153687
+    },
+    {
+      "start": 4.92,
+      "end": 5.16,
+      "text": "it",
+      "probability": 0.9949356317520142
+    },
+    {
+      "start": 5.16,
+      "end": 5.36,
+      "text": "is.",
+      "probability": 0.9966132044792175
+    }
+  ],
+  "text": "Is that move part of a grand pond-catching scheme? I am choosing to believe it is."
+}

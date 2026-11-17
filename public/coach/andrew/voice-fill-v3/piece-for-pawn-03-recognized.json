@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.4335,
+  "segments": [
+    {
+      "start": 0.05,
+      "end": 4.95,
+      "text": " That piece has served its purpose. It got us upon excellent work.",
+      "noSpeechProbability": 0.0006992677226662636
+    }
+  ],
+  "words": [
+    {
+      "start": 0.05,
+      "end": 0.23,
+      "text": "That",
+      "probability": 0.8731726408004761
+    },
+    {
+      "start": 0.23,
+      "end": 0.49,
+      "text": "piece",
+      "probability": 0.8567075729370117
+    },
+    {
+      "start": 0.49,
+      "end": 0.79,
+      "text": "has",
+      "probability": 0.9970986843109131
+    },
+    {
+      "start": 0.79,
+      "end": 1.11,
+      "text": "served",
+      "probability": 0.996900200843811
+    },
+    {
+      "start": 1.11,
+      "end": 1.35,
+      "text": "its",
+      "probability": 0.9584000110626221
+    },
+    {
+      "start": 1.35,
+      "end": 1.81,
+      "text": "purpose.",
+      "probability": 0.9985107779502869
+    },
+    {
+      "start": 2.49,
+      "end": 2.49,
+      "text": "It",
+      "probability": 0.9944798946380615
+    },
+    {
+      "start": 2.49,
+      "end": 2.71,
+      "text": "got",
+      "probability": 0.9950231313705444
+    },
+    {
+      "start": 2.71,
+      "end": 2.97,
+      "text": "us",
+      "probability": 0.9983416795730591
+    },
+    {
+      "start": 2.97,
+      "end": 3.33,
+      "text": "upon",
+      "probability": 0.9617087841033936
+    },
+    {
+      "start": 3.33,
+      "end": 4.43,
+      "text": "excellent",
+      "probability": 0.6462795734405518
+    },
+    {
+      "start": 4.43,
+      "end": 4.95,
+      "text": "work.",
+      "probability": 0.9992897510528564
+    }
+  ],
+  "text": "That piece has served its purpose. It got us upon excellent work."
+}

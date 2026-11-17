@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.99075,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.22,
+      "text": " Not a single pawn left. I am taking this personally. Get theirs!",
+      "noSpeechProbability": 0.0075128632597625256
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.24,
+      "text": "Not",
+      "probability": 0.7108056545257568
+    },
+    {
+      "start": 0.24,
+      "end": 0.4,
+      "text": "a",
+      "probability": 0.9951537847518921
+    },
+    {
+      "start": 0.4,
+      "end": 0.72,
+      "text": "single",
+      "probability": 0.9874261617660522
+    },
+    {
+      "start": 0.72,
+      "end": 1.2,
+      "text": "pawn",
+      "probability": 0.482665479183197
+    },
+    {
+      "start": 1.2,
+      "end": 1.52,
+      "text": "left.",
+      "probability": 0.9913670420646667
+    },
+    {
+      "start": 2.32,
+      "end": 2.38,
+      "text": "I",
+      "probability": 0.9921595454216003
+    },
+    {
+      "start": 2.38,
+      "end": 2.54,
+      "text": "am",
+      "probability": 0.9496454000473022
+    },
+    {
+      "start": 2.54,
+      "end": 2.88,
+      "text": "taking",
+      "probability": 0.9955483675003052
+    },
+    {
+      "start": 2.88,
+      "end": 3.16,
+      "text": "this",
+      "probability": 0.9949508905410767
+    },
+    {
+      "start": 3.16,
+      "end": 3.8,
+      "text": "personally.",
+      "probability": 0.9832967519760132
+    },
+    {
+      "start": 4.62,
+      "end": 4.68,
+      "text": "Get",
+      "probability": 0.8555563688278198
+    },
+    {
+      "start": 4.68,
+      "end": 5.22,
+      "text": "theirs!",
+      "probability": 0.7988782525062561
+    }
+  ],
+  "text": "Not a single pawn left. I am taking this personally. Get theirs!"
+}

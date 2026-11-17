@@ -1,0 +1,71 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.551125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.7,
+      "text": " Careful! They are threatening your pawn! Protect the collection!",
+      "noSpeechProbability": 0.0029707192443311214
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.48,
+      "text": "Careful!",
+      "probability": 0.9053930640220642
+    },
+    {
+      "start": 0.98,
+      "end": 1.04,
+      "text": "They",
+      "probability": 0.9612968564033508
+    },
+    {
+      "start": 1.04,
+      "end": 1.16,
+      "text": "are",
+      "probability": 0.5139854550361633
+    },
+    {
+      "start": 1.16,
+      "end": 1.54,
+      "text": "threatening",
+      "probability": 0.9885215759277344
+    },
+    {
+      "start": 1.54,
+      "end": 1.82,
+      "text": "your",
+      "probability": 0.9853309392929077
+    },
+    {
+      "start": 1.82,
+      "end": 2.16,
+      "text": "pawn!",
+      "probability": 0.9117096066474915
+    },
+    {
+      "start": 3.06,
+      "end": 3.06,
+      "text": "Protect",
+      "probability": 0.9879171252250671
+    },
+    {
+      "start": 3.06,
+      "end": 3.34,
+      "text": "the",
+      "probability": 0.9969979524612427
+    },
+    {
+      "start": 3.34,
+      "end": 3.7,
+      "text": "collection!",
+      "probability": 0.9714187383651733
+    }
+  ],
+  "text": "Careful! They are threatening your pawn! Protect the collection!"
+}

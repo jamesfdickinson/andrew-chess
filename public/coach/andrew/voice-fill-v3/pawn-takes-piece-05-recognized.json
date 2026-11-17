@@ -1,0 +1,95 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.783375,
+  "segments": [
+    {
+      "start": 0.24,
+      "end": 1.66,
+      "text": " Look what our pond brought home!",
+      "noSpeechProbability": 0.010402044281363487
+    },
+    {
+      "start": 2.4,
+      "end": 4.22,
+      "text": " That little fellow deserves a medal!",
+      "noSpeechProbability": 0.010402044281363487
+    }
+  ],
+  "words": [
+    {
+      "start": 0.24,
+      "end": 0.24,
+      "text": "Look",
+      "probability": 0.5366575717926025
+    },
+    {
+      "start": 0.24,
+      "end": 0.38,
+      "text": "what",
+      "probability": 0.9492241740226746
+    },
+    {
+      "start": 0.38,
+      "end": 0.5,
+      "text": "our",
+      "probability": 0.9910637140274048
+    },
+    {
+      "start": 0.5,
+      "end": 0.76,
+      "text": "pond",
+      "probability": 0.902299702167511
+    },
+    {
+      "start": 0.76,
+      "end": 1.16,
+      "text": "brought",
+      "probability": 0.9846428036689758
+    },
+    {
+      "start": 1.16,
+      "end": 1.66,
+      "text": "home!",
+      "probability": 0.9846740961074829
+    },
+    {
+      "start": 2.4,
+      "end": 2.48,
+      "text": "That",
+      "probability": 0.9763756990432739
+    },
+    {
+      "start": 2.48,
+      "end": 2.78,
+      "text": "little",
+      "probability": 0.9903131723403931
+    },
+    {
+      "start": 2.78,
+      "end": 3.12,
+      "text": "fellow",
+      "probability": 0.981002688407898
+    },
+    {
+      "start": 3.12,
+      "end": 3.48,
+      "text": "deserves",
+      "probability": 0.994125247001648
+    },
+    {
+      "start": 3.48,
+      "end": 3.92,
+      "text": "a",
+      "probability": 0.9920714497566223
+    },
+    {
+      "start": 3.92,
+      "end": 4.22,
+      "text": "medal!",
+      "probability": 0.9722784161567688
+    }
+  ],
+  "text": "Look what our pond brought home! That little fellow deserves a medal!"
+}

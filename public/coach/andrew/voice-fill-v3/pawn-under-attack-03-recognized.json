@@ -1,0 +1,83 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.4118125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.92,
+      "text": " That move threatens the collection. Check your pond before you move.",
+      "noSpeechProbability": 0.003091654507443309
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.22,
+      "text": "That",
+      "probability": 0.8590186834335327
+    },
+    {
+      "start": 0.22,
+      "end": 0.42,
+      "text": "move",
+      "probability": 0.9712622165679932
+    },
+    {
+      "start": 0.42,
+      "end": 0.82,
+      "text": "threatens",
+      "probability": 0.9976505637168884
+    },
+    {
+      "start": 0.82,
+      "end": 1.26,
+      "text": "the",
+      "probability": 0.9954343438148499
+    },
+    {
+      "start": 1.26,
+      "end": 1.64,
+      "text": "collection.",
+      "probability": 0.9796077013015747
+    },
+    {
+      "start": 2.46,
+      "end": 2.46,
+      "text": "Check",
+      "probability": 0.9921256899833679
+    },
+    {
+      "start": 2.46,
+      "end": 2.68,
+      "text": "your",
+      "probability": 0.9966576099395752
+    },
+    {
+      "start": 2.68,
+      "end": 2.94,
+      "text": "pond",
+      "probability": 0.8136637210845947
+    },
+    {
+      "start": 2.94,
+      "end": 3.28,
+      "text": "before",
+      "probability": 0.9901965856552124
+    },
+    {
+      "start": 3.28,
+      "end": 3.6,
+      "text": "you",
+      "probability": 0.9983129501342773
+    },
+    {
+      "start": 3.6,
+      "end": 3.92,
+      "text": "move.",
+      "probability": 0.9978469610214233
+    }
+  ],
+  "text": "That move threatens the collection. Check your pond before you move."
+}

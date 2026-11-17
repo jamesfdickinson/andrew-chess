@@ -1,0 +1,119 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 6.03725,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.28,
+      "text": " Ha ha, a freshly delivered pond.",
+      "noSpeechProbability": 0.003267322201281786
+    },
+    {
+      "start": 3.02,
+      "end": 4.16,
+      "text": " You did not keep it waiting.",
+      "noSpeechProbability": 0.003267322201281786
+    },
+    {
+      "start": 4.78,
+      "end": 5.48,
+      "text": " I like that.",
+      "noSpeechProbability": 0.003267322201281786
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.3,
+      "text": "Ha",
+      "probability": 0.16330428421497345
+    },
+    {
+      "start": 0.3,
+      "end": 0.44,
+      "text": "ha,",
+      "probability": 0.7221916913986206
+    },
+    {
+      "start": 0.84,
+      "end": 0.92,
+      "text": "a",
+      "probability": 0.9520884156227112
+    },
+    {
+      "start": 0.92,
+      "end": 1.38,
+      "text": "freshly",
+      "probability": 0.9985114932060242
+    },
+    {
+      "start": 1.38,
+      "end": 1.92,
+      "text": "delivered",
+      "probability": 0.9406725168228149
+    },
+    {
+      "start": 1.92,
+      "end": 2.28,
+      "text": "pond.",
+      "probability": 0.3454039692878723
+    },
+    {
+      "start": 3.02,
+      "end": 3.02,
+      "text": "You",
+      "probability": 0.9881488680839539
+    },
+    {
+      "start": 3.02,
+      "end": 3.16,
+      "text": "did",
+      "probability": 0.9923216700553894
+    },
+    {
+      "start": 3.16,
+      "end": 3.44,
+      "text": "not",
+      "probability": 0.9905851483345032
+    },
+    {
+      "start": 3.44,
+      "end": 3.76,
+      "text": "keep",
+      "probability": 0.9978468418121338
+    },
+    {
+      "start": 3.76,
+      "end": 3.92,
+      "text": "it",
+      "probability": 0.9871337413787842
+    },
+    {
+      "start": 3.92,
+      "end": 4.16,
+      "text": "waiting.",
+      "probability": 0.9872326850891113
+    },
+    {
+      "start": 4.78,
+      "end": 4.88,
+      "text": "I",
+      "probability": 0.9956117868423462
+    },
+    {
+      "start": 4.88,
+      "end": 5.14,
+      "text": "like",
+      "probability": 0.9690043926239014
+    },
+    {
+      "start": 5.14,
+      "end": 5.48,
+      "text": "that.",
+      "probability": 0.9978939890861511
+    }
+  ],
+  "text": "Ha ha, a freshly delivered pond. You did not keep it waiting. I like that."
+}

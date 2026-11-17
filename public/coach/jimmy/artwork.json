@@ -1,0 +1,16 @@
+{
+  "base": "/coach/jimmy/artwork",
+  "styleImage": "/coach/jimmy/artwork/jimmy-pawn-proud-sheet.png",
+  "sheets": {
+    "base": "jimmy-talking-sheet.png",
+    "positive": "jimmy-positive-sheet.png",
+    "dramatic": "jimmy-dramatic-sheet.png",
+    "pawnProud": "jimmy-pawn-proud-sheet.png",
+    "pawnSad": "jimmy-pawn-sad-sheet.png",
+    "queenNo": "jimmy-queen-no-sheet.png",
+    "silentHead": "jimmy-silent-head-sheet.png",
+    "silentGesture": "jimmy-silent-gesture-sheet.png",
+    "dgxCalm": "jimmy-dgx-calm-sheet.png",
+    "encouragingFrames": "jimmy-encouraging-frames.png"
+  }
+}

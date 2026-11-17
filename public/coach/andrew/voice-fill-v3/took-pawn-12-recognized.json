@@ -1,0 +1,77 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.5975625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.16,
+      "text": " Another pond collected. This is what quality chest looks like.",
+      "noSpeechProbability": 0.0021160885225981474
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.36,
+      "text": "Another",
+      "probability": 0.8599485158920288
+    },
+    {
+      "start": 0.36,
+      "end": 0.64,
+      "text": "pond",
+      "probability": 0.734907865524292
+    },
+    {
+      "start": 0.64,
+      "end": 1.16,
+      "text": "collected.",
+      "probability": 0.99648118019104
+    },
+    {
+      "start": 1.94,
+      "end": 2.06,
+      "text": "This",
+      "probability": 0.9932711720466614
+    },
+    {
+      "start": 2.06,
+      "end": 2.24,
+      "text": "is",
+      "probability": 0.99680495262146
+    },
+    {
+      "start": 2.24,
+      "end": 2.44,
+      "text": "what",
+      "probability": 0.997559666633606
+    },
+    {
+      "start": 2.44,
+      "end": 2.88,
+      "text": "quality",
+      "probability": 0.8757449984550476
+    },
+    {
+      "start": 2.88,
+      "end": 3.36,
+      "text": "chest",
+      "probability": 0.5183071494102478
+    },
+    {
+      "start": 3.36,
+      "end": 3.76,
+      "text": "looks",
+      "probability": 0.9946584105491638
+    },
+    {
+      "start": 3.76,
+      "end": 4.16,
+      "text": "like.",
+      "probability": 0.997437596321106
+    }
+  ],
+  "text": "Another pond collected. This is what quality chest looks like."
+}

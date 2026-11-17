@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.922625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.2,
+      "text": " We collect pawns. We do not leave ours out as free samples.",
+      "noSpeechProbability": 0.0015216547762975097
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.18,
+      "text": "We",
+      "probability": 0.7020673155784607
+    },
+    {
+      "start": 0.18,
+      "end": 0.52,
+      "text": "collect",
+      "probability": 0.9714570045471191
+    },
+    {
+      "start": 0.52,
+      "end": 1.36,
+      "text": "pawns.",
+      "probability": 0.7690216898918152
+    },
+    {
+      "start": 1.76,
+      "end": 1.92,
+      "text": "We",
+      "probability": 0.9942713975906372
+    },
+    {
+      "start": 1.92,
+      "end": 2.04,
+      "text": "do",
+      "probability": 0.9867541193962097
+    },
+    {
+      "start": 2.04,
+      "end": 2.38,
+      "text": "not",
+      "probability": 0.9852898716926575
+    },
+    {
+      "start": 2.38,
+      "end": 2.66,
+      "text": "leave",
+      "probability": 0.9982701539993286
+    },
+    {
+      "start": 2.66,
+      "end": 2.96,
+      "text": "ours",
+      "probability": 0.9611111879348755
+    },
+    {
+      "start": 2.96,
+      "end": 3.32,
+      "text": "out",
+      "probability": 0.9765051603317261
+    },
+    {
+      "start": 3.32,
+      "end": 3.52,
+      "text": "as",
+      "probability": 0.9958914518356323
+    },
+    {
+      "start": 3.52,
+      "end": 3.74,
+      "text": "free",
+      "probability": 0.9883840084075928
+    },
+    {
+      "start": 3.74,
+      "end": 4.2,
+      "text": "samples.",
+      "probability": 0.9953820109367371
+    }
+  ],
+  "text": "We collect pawns. We do not leave ours out as free samples."
+}

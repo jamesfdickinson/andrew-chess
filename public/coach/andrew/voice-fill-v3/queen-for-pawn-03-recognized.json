@@ -1,0 +1,95 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 7.662625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "text": " A whole queen invested in one lovely pawn.",
+      "noSpeechProbability": 0.003763420507311821
+    },
+    {
+      "start": 4.6,
+      "end": 7.06,
+      "text": " Finally, someone understands value.",
+      "noSpeechProbability": 0.003763420507311821
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.16,
+      "text": "A",
+      "probability": 0.6903230547904968
+    },
+    {
+      "start": 0.16,
+      "end": 0.4,
+      "text": "whole",
+      "probability": 0.9800584316253662
+    },
+    {
+      "start": 0.4,
+      "end": 0.78,
+      "text": "queen",
+      "probability": 0.9060817360877991
+    },
+    {
+      "start": 0.78,
+      "end": 1.38,
+      "text": "invested",
+      "probability": 0.9928330183029175
+    },
+    {
+      "start": 1.38,
+      "end": 1.76,
+      "text": "in",
+      "probability": 0.9976735711097717
+    },
+    {
+      "start": 1.76,
+      "end": 2.08,
+      "text": "one",
+      "probability": 0.9792717099189758
+    },
+    {
+      "start": 2.08,
+      "end": 2.82,
+      "text": "lovely",
+      "probability": 0.9849358201026917
+    },
+    {
+      "start": 2.82,
+      "end": 3.2,
+      "text": "pawn.",
+      "probability": 0.599714994430542
+    },
+    {
+      "start": 4.6,
+      "end": 4.6,
+      "text": "Finally,",
+      "probability": 0.9903349280357361
+    },
+    {
+      "start": 4.98,
+      "end": 5.52,
+      "text": "someone",
+      "probability": 0.9938405752182007
+    },
+    {
+      "start": 5.52,
+      "end": 6.24,
+      "text": "understands",
+      "probability": 0.9480977654457092
+    },
+    {
+      "start": 6.24,
+      "end": 7.06,
+      "text": "value.",
+      "probability": 0.9856678247451782
+    }
+  ],
+  "text": "A whole queen invested in one lovely pawn. Finally, someone understands value."
+}

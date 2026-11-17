@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.24775,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.7,
+      "text": " Excellent choice. Upon has left the board and my day has improved.",
+      "noSpeechProbability": 0.007670671679079533
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.46,
+      "text": "Excellent",
+      "probability": 0.9058650135993958
+    },
+    {
+      "start": 0.46,
+      "end": 0.82,
+      "text": "choice.",
+      "probability": 0.9793084263801575
+    },
+    {
+      "start": 1.78,
+      "end": 1.8,
+      "text": "Upon",
+      "probability": 0.8131185173988342
+    },
+    {
+      "start": 1.8,
+      "end": 2.18,
+      "text": "has",
+      "probability": 0.9805692434310913
+    },
+    {
+      "start": 2.18,
+      "end": 2.44,
+      "text": "left",
+      "probability": 0.9981634020805359
+    },
+    {
+      "start": 2.44,
+      "end": 2.66,
+      "text": "the",
+      "probability": 0.9985587000846863
+    },
+    {
+      "start": 2.66,
+      "end": 2.98,
+      "text": "board",
+      "probability": 0.9503771066665649
+    },
+    {
+      "start": 2.98,
+      "end": 3.3,
+      "text": "and",
+      "probability": 0.7745556235313416
+    },
+    {
+      "start": 3.3,
+      "end": 3.54,
+      "text": "my",
+      "probability": 0.9789329767227173
+    },
+    {
+      "start": 3.54,
+      "end": 3.9,
+      "text": "day",
+      "probability": 0.9971768856048584
+    },
+    {
+      "start": 3.9,
+      "end": 4.18,
+      "text": "has",
+      "probability": 0.9936122298240662
+    },
+    {
+      "start": 4.18,
+      "end": 4.7,
+      "text": "improved.",
+      "probability": 0.9970265030860901
+    }
+  ],
+  "text": "Excellent choice. Upon has left the board and my day has improved."
+}

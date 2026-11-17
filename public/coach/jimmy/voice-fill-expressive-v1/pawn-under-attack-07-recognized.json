@@ -1,0 +1,95 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.5975625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": " Their next idea might be our pawn.",
+      "noSpeechProbability": 0.001562835299409926
+    },
+    {
+      "start": 2.72,
+      "end": 4.02,
+      "text": " I object to that idea.",
+      "noSpeechProbability": 0.001562835299409926
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.16,
+      "text": "Their",
+      "probability": 0.7431659698486328
+    },
+    {
+      "start": 0.16,
+      "end": 0.32,
+      "text": "next",
+      "probability": 0.9928887486457825
+    },
+    {
+      "start": 0.32,
+      "end": 0.82,
+      "text": "idea",
+      "probability": 0.9947180151939392
+    },
+    {
+      "start": 0.82,
+      "end": 1.06,
+      "text": "might",
+      "probability": 0.9960895776748657
+    },
+    {
+      "start": 1.06,
+      "end": 1.3,
+      "text": "be",
+      "probability": 0.9987568855285645
+    },
+    {
+      "start": 1.3,
+      "end": 1.44,
+      "text": "our",
+      "probability": 0.9800500273704529
+    },
+    {
+      "start": 1.44,
+      "end": 1.72,
+      "text": "pawn.",
+      "probability": 0.7578698396682739
+    },
+    {
+      "start": 2.72,
+      "end": 2.8,
+      "text": "I",
+      "probability": 0.9886032342910767
+    },
+    {
+      "start": 2.8,
+      "end": 3.1,
+      "text": "object",
+      "probability": 0.9920380115509033
+    },
+    {
+      "start": 3.1,
+      "end": 3.46,
+      "text": "to",
+      "probability": 0.9965116381645203
+    },
+    {
+      "start": 3.46,
+      "end": 3.6,
+      "text": "that",
+      "probability": 0.9954580068588257
+    },
+    {
+      "start": 3.6,
+      "end": 4.02,
+      "text": "idea.",
+      "probability": 0.9979348182678223
+    }
+  ],
+  "text": "Their next idea might be our pawn. I object to that idea."
+}

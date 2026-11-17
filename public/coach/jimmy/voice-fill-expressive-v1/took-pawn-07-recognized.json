@@ -1,0 +1,65 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 3.9474375,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.26,
+      "text": " One pond down, start planning the next collection.",
+      "noSpeechProbability": 0.00849982351064682
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.26,
+      "text": "One",
+      "probability": 0.6125344634056091
+    },
+    {
+      "start": 0.26,
+      "end": 0.54,
+      "text": "pond",
+      "probability": 0.5152156352996826
+    },
+    {
+      "start": 0.54,
+      "end": 1.04,
+      "text": "down,",
+      "probability": 0.9903796911239624
+    },
+    {
+      "start": 1.44,
+      "end": 1.72,
+      "text": "start",
+      "probability": 0.9911782145500183
+    },
+    {
+      "start": 1.72,
+      "end": 2.2,
+      "text": "planning",
+      "probability": 0.8466670513153076
+    },
+    {
+      "start": 2.2,
+      "end": 2.44,
+      "text": "the",
+      "probability": 0.9959062337875366
+    },
+    {
+      "start": 2.44,
+      "end": 2.72,
+      "text": "next",
+      "probability": 0.9952458739280701
+    },
+    {
+      "start": 2.72,
+      "end": 3.26,
+      "text": "collection.",
+      "probability": 0.9915027618408203
+    }
+  ],
+  "text": "One pond down, start planning the next collection."
+}

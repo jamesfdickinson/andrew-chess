@@ -1,0 +1,83 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.2013125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.96,
+      "text": " Their pawn stepped forward and you collected it.",
+      "noSpeechProbability": 0.0013290251372382045
+    },
+    {
+      "start": 3.86,
+      "end": 4.42,
+      "text": " Beautiful timing.",
+      "noSpeechProbability": 0.0013290251372382045
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.16,
+      "text": "Their",
+      "probability": 0.5900059342384338
+    },
+    {
+      "start": 0.16,
+      "end": 0.42,
+      "text": "pawn",
+      "probability": 0.619520902633667
+    },
+    {
+      "start": 0.42,
+      "end": 0.82,
+      "text": "stepped",
+      "probability": 0.9626022577285767
+    },
+    {
+      "start": 0.82,
+      "end": 1.44,
+      "text": "forward",
+      "probability": 0.9985042810440063
+    },
+    {
+      "start": 1.44,
+      "end": 1.94,
+      "text": "and",
+      "probability": 0.7184866666793823
+    },
+    {
+      "start": 1.94,
+      "end": 2.16,
+      "text": "you",
+      "probability": 0.9950017333030701
+    },
+    {
+      "start": 2.16,
+      "end": 2.58,
+      "text": "collected",
+      "probability": 0.9981984496116638
+    },
+    {
+      "start": 2.58,
+      "end": 2.96,
+      "text": "it.",
+      "probability": 0.997271716594696
+    },
+    {
+      "start": 3.86,
+      "end": 3.86,
+      "text": "Beautiful",
+      "probability": 0.9665374159812927
+    },
+    {
+      "start": 3.86,
+      "end": 4.42,
+      "text": "timing.",
+      "probability": 0.9975162744522095
+    }
+  ],
+  "text": "Their pawn stepped forward and you collected it. Beautiful timing."
+}

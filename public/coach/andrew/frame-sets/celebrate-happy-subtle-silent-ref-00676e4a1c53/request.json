@@ -1,0 +1,21 @@
+{
+  "coachId": "andrew",
+  "key": "celebrate-happy-subtle-silent-ref-00676e4a1c53",
+  "performanceId": "celebrate-happy-subtle-silent",
+  "referenceId": "00676e4a1c53",
+  "coreReference": {
+    "id": "00676e4a1c53",
+    "image": "/coach/andrew/references/pixel-v2/core.png",
+    "images": [
+      "/coach/andrew/references/pixel-v2/core.png"
+    ],
+    "styleImage": "/coach/andrew/references/pixel-v2/expression-sheet.png",
+    "name": "Coach Andrew · pixel-art core",
+    "createdAt": "2026-11-17T01:49:54.362Z"
+  },
+  "name": "Quiet celebration · happy · subtle",
+  "speaking": false,
+  "reference": null,
+  "createdAt": "2026-11-17T02:19:53.789Z",
+  "source": "built-in image_gen batch"
+}

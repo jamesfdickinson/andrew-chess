@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 3.808125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.16,
+      "text": " They took our pawn. I would like to speak to the manager.",
+      "noSpeechProbability": 0.001613158849067986
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.14,
+      "text": "They",
+      "probability": 0.8779395818710327
+    },
+    {
+      "start": 0.14,
+      "end": 0.32,
+      "text": "took",
+      "probability": 0.9967756867408752
+    },
+    {
+      "start": 0.32,
+      "end": 0.56,
+      "text": "our",
+      "probability": 0.9910179376602173
+    },
+    {
+      "start": 0.56,
+      "end": 0.82,
+      "text": "pawn.",
+      "probability": 0.5389542579650879
+    },
+    {
+      "start": 1.66,
+      "end": 1.74,
+      "text": "I",
+      "probability": 0.9955686926841736
+    },
+    {
+      "start": 1.74,
+      "end": 1.88,
+      "text": "would",
+      "probability": 0.9948333501815796
+    },
+    {
+      "start": 1.88,
+      "end": 2.08,
+      "text": "like",
+      "probability": 0.9972358345985413
+    },
+    {
+      "start": 2.08,
+      "end": 2.24,
+      "text": "to",
+      "probability": 0.9978795051574707
+    },
+    {
+      "start": 2.24,
+      "end": 2.46,
+      "text": "speak",
+      "probability": 0.998150646686554
+    },
+    {
+      "start": 2.46,
+      "end": 2.7,
+      "text": "to",
+      "probability": 0.9975423812866211
+    },
+    {
+      "start": 2.7,
+      "end": 2.8,
+      "text": "the",
+      "probability": 0.99665367603302
+    },
+    {
+      "start": 2.8,
+      "end": 3.16,
+      "text": "manager.",
+      "probability": 0.9605829119682312
+    }
+  ],
+  "text": "They took our pawn. I would like to speak to the manager."
+}

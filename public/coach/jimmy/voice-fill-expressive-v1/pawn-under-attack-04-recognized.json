@@ -1,0 +1,83 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 3.71525,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.02,
+      "text": " Our pawn has company and I do not trust the visitor.",
+      "noSpeechProbability": 0.002231016056612134
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.2,
+      "text": "Our",
+      "probability": 0.838447630405426
+    },
+    {
+      "start": 0.2,
+      "end": 0.5,
+      "text": "pawn",
+      "probability": 0.6536157727241516
+    },
+    {
+      "start": 0.5,
+      "end": 0.74,
+      "text": "has",
+      "probability": 0.997412383556366
+    },
+    {
+      "start": 0.74,
+      "end": 1.18,
+      "text": "company",
+      "probability": 0.9918674826622009
+    },
+    {
+      "start": 1.18,
+      "end": 1.7,
+      "text": "and",
+      "probability": 0.6790704131126404
+    },
+    {
+      "start": 1.7,
+      "end": 1.8,
+      "text": "I",
+      "probability": 0.980614185333252
+    },
+    {
+      "start": 1.8,
+      "end": 2.0,
+      "text": "do",
+      "probability": 0.9867002964019775
+    },
+    {
+      "start": 2.0,
+      "end": 2.22,
+      "text": "not",
+      "probability": 0.9970282912254333
+    },
+    {
+      "start": 2.22,
+      "end": 2.5,
+      "text": "trust",
+      "probability": 0.9987972974777222
+    },
+    {
+      "start": 2.5,
+      "end": 2.76,
+      "text": "the",
+      "probability": 0.997055172920227
+    },
+    {
+      "start": 2.76,
+      "end": 3.02,
+      "text": "visitor.",
+      "probability": 0.9687336683273315
+    }
+  ],
+  "text": "Our pawn has company and I do not trust the visitor."
+}

@@ -1,0 +1,95 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.6656875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.84,
+      "text": " There was a pond you could take! Check those diagonals and open lines!",
+      "noSpeechProbability": 0.0014453600160777569
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.14,
+      "text": "There",
+      "probability": 0.7491639256477356
+    },
+    {
+      "start": 0.14,
+      "end": 0.32,
+      "text": "was",
+      "probability": 0.9962769150733948
+    },
+    {
+      "start": 0.32,
+      "end": 0.46,
+      "text": "a",
+      "probability": 0.9951192140579224
+    },
+    {
+      "start": 0.46,
+      "end": 0.74,
+      "text": "pond",
+      "probability": 0.6900411248207092
+    },
+    {
+      "start": 0.74,
+      "end": 1.08,
+      "text": "you",
+      "probability": 0.9911472201347351
+    },
+    {
+      "start": 1.08,
+      "end": 1.24,
+      "text": "could",
+      "probability": 0.989993155002594
+    },
+    {
+      "start": 1.24,
+      "end": 1.62,
+      "text": "take!",
+      "probability": 0.9986231327056885
+    },
+    {
+      "start": 2.58,
+      "end": 2.58,
+      "text": "Check",
+      "probability": 0.9811595678329468
+    },
+    {
+      "start": 2.58,
+      "end": 2.86,
+      "text": "those",
+      "probability": 0.984341561794281
+    },
+    {
+      "start": 2.86,
+      "end": 3.8,
+      "text": "diagonals",
+      "probability": 0.9757763346036276
+    },
+    {
+      "start": 3.8,
+      "end": 3.98,
+      "text": "and",
+      "probability": 0.8559818267822266
+    },
+    {
+      "start": 3.98,
+      "end": 4.28,
+      "text": "open",
+      "probability": 0.9911841154098511
+    },
+    {
+      "start": 4.28,
+      "end": 4.84,
+      "text": "lines!",
+      "probability": 0.9436008930206299
+    }
+  ],
+  "text": "There was a pond you could take! Check those diagonals and open lines!"
+}

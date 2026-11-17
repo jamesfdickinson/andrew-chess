@@ -1,0 +1,101 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 6.083625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.12,
+      "text": " one pawn in, one pawn out. This collection is not going to grow itself.",
+      "noSpeechProbability": 0.0024366385769098997
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.24,
+      "text": "one",
+      "probability": 0.3166200518608093
+    },
+    {
+      "start": 0.24,
+      "end": 0.54,
+      "text": "pawn",
+      "probability": 0.8968996405601501
+    },
+    {
+      "start": 0.54,
+      "end": 0.78,
+      "text": "in,",
+      "probability": 0.9727126955986023
+    },
+    {
+      "start": 1.18,
+      "end": 1.42,
+      "text": "one",
+      "probability": 0.9865003228187561
+    },
+    {
+      "start": 1.42,
+      "end": 1.72,
+      "text": "pawn",
+      "probability": 0.9959962368011475
+    },
+    {
+      "start": 1.72,
+      "end": 1.96,
+      "text": "out.",
+      "probability": 0.9981314539909363
+    },
+    {
+      "start": 2.74,
+      "end": 2.88,
+      "text": "This",
+      "probability": 0.9822589159011841
+    },
+    {
+      "start": 2.88,
+      "end": 3.18,
+      "text": "collection",
+      "probability": 0.9950122237205505
+    },
+    {
+      "start": 3.18,
+      "end": 3.7,
+      "text": "is",
+      "probability": 0.9957914352416992
+    },
+    {
+      "start": 3.7,
+      "end": 4.02,
+      "text": "not",
+      "probability": 0.989297091960907
+    },
+    {
+      "start": 4.02,
+      "end": 4.36,
+      "text": "going",
+      "probability": 0.9984616041183472
+    },
+    {
+      "start": 4.36,
+      "end": 4.5,
+      "text": "to",
+      "probability": 0.9995229244232178
+    },
+    {
+      "start": 4.5,
+      "end": 4.66,
+      "text": "grow",
+      "probability": 0.9984351992607117
+    },
+    {
+      "start": 4.66,
+      "end": 5.12,
+      "text": "itself.",
+      "probability": 0.9990059733390808
+    }
+  ],
+  "text": "one pawn in, one pawn out. This collection is not going to grow itself."
+}

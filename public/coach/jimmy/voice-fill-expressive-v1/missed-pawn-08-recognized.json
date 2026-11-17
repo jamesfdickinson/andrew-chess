@@ -1,0 +1,113 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.6905,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": " There was a pawn you could take.",
+      "noSpeechProbability": 0.003109603887423873
+    },
+    {
+      "start": 2.08,
+      "end": 4.02,
+      "text": " Check those diagonals and open lines.",
+      "noSpeechProbability": 0.003109603887423873
+    },
+    {
+      "start": 4.02,
+      "end": 4.38,
+      "text": " signs.",
+      "noSpeechProbability": 0.3891751170158386
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.12,
+      "text": "There",
+      "probability": 0.6847380995750427
+    },
+    {
+      "start": 0.12,
+      "end": 0.24,
+      "text": "was",
+      "probability": 0.9964486360549927
+    },
+    {
+      "start": 0.24,
+      "end": 0.34,
+      "text": "a",
+      "probability": 0.9962024092674255
+    },
+    {
+      "start": 0.34,
+      "end": 0.64,
+      "text": "pawn",
+      "probability": 0.7184749841690063
+    },
+    {
+      "start": 0.64,
+      "end": 0.88,
+      "text": "you",
+      "probability": 0.9875699877738953
+    },
+    {
+      "start": 0.88,
+      "end": 1.02,
+      "text": "could",
+      "probability": 0.9817199110984802
+    },
+    {
+      "start": 1.02,
+      "end": 1.32,
+      "text": "take.",
+      "probability": 0.999468982219696
+    },
+    {
+      "start": 2.08,
+      "end": 2.26,
+      "text": "Check",
+      "probability": 0.9943344593048096
+    },
+    {
+      "start": 2.26,
+      "end": 2.48,
+      "text": "those",
+      "probability": 0.9844607710838318
+    },
+    {
+      "start": 2.48,
+      "end": 3.18,
+      "text": "diagonals",
+      "probability": 0.9923548301060995
+    },
+    {
+      "start": 3.18,
+      "end": 3.34,
+      "text": "and",
+      "probability": 0.7755497097969055
+    },
+    {
+      "start": 3.34,
+      "end": 3.6,
+      "text": "open",
+      "probability": 0.9966722726821899
+    },
+    {
+      "start": 3.6,
+      "end": 4.02,
+      "text": "lines.",
+      "probability": 0.9769425392150879
+    },
+    {
+      "start": 4.02,
+      "end": 4.38,
+      "text": "signs.",
+      "probability": 0.22534461319446564
+    }
+  ],
+  "text": "There was a pawn you could take. Check those diagonals and open lines. signs."
+}

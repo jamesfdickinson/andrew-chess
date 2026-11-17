@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.87625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.26,
+      "text": " We collect ponds. We do not leave ours out as free samples.",
+      "noSpeechProbability": 0.004013760481029749
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.18,
+      "text": "We",
+      "probability": 0.8242753148078918
+    },
+    {
+      "start": 0.18,
+      "end": 0.5,
+      "text": "collect",
+      "probability": 0.9860155582427979
+    },
+    {
+      "start": 0.5,
+      "end": 1.02,
+      "text": "ponds.",
+      "probability": 0.7454245090484619
+    },
+    {
+      "start": 1.86,
+      "end": 1.86,
+      "text": "We",
+      "probability": 0.9935346841812134
+    },
+    {
+      "start": 1.86,
+      "end": 2.02,
+      "text": "do",
+      "probability": 0.9948044419288635
+    },
+    {
+      "start": 2.02,
+      "end": 2.26,
+      "text": "not",
+      "probability": 0.996356725692749
+    },
+    {
+      "start": 2.26,
+      "end": 2.62,
+      "text": "leave",
+      "probability": 0.9942225813865662
+    },
+    {
+      "start": 2.62,
+      "end": 2.86,
+      "text": "ours",
+      "probability": 0.9677737951278687
+    },
+    {
+      "start": 2.86,
+      "end": 3.2,
+      "text": "out",
+      "probability": 0.9479162096977234
+    },
+    {
+      "start": 3.2,
+      "end": 3.4,
+      "text": "as",
+      "probability": 0.9928416013717651
+    },
+    {
+      "start": 3.4,
+      "end": 3.66,
+      "text": "free",
+      "probability": 0.9870320558547974
+    },
+    {
+      "start": 3.66,
+      "end": 4.26,
+      "text": "samples.",
+      "probability": 0.9933214783668518
+    }
+  ],
+  "text": "We collect ponds. We do not leave ours out as free samples."
+}

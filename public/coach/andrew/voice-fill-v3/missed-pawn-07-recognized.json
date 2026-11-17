@@ -1,0 +1,95 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.4118125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.92,
+      "text": " Before you move again, check whether there is a pawn you can take.",
+      "noSpeechProbability": 0.0023218882270157337
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.3,
+      "text": "Before",
+      "probability": 0.8582366108894348
+    },
+    {
+      "start": 0.3,
+      "end": 0.56,
+      "text": "you",
+      "probability": 0.9960481524467468
+    },
+    {
+      "start": 0.56,
+      "end": 0.74,
+      "text": "move",
+      "probability": 0.9980327486991882
+    },
+    {
+      "start": 0.74,
+      "end": 1.22,
+      "text": "again,",
+      "probability": 0.9868153929710388
+    },
+    {
+      "start": 1.68,
+      "end": 1.94,
+      "text": "check",
+      "probability": 0.9950864911079407
+    },
+    {
+      "start": 1.94,
+      "end": 2.28,
+      "text": "whether",
+      "probability": 0.9841617345809937
+    },
+    {
+      "start": 2.28,
+      "end": 2.6,
+      "text": "there",
+      "probability": 0.9951128363609314
+    },
+    {
+      "start": 2.6,
+      "end": 2.8,
+      "text": "is",
+      "probability": 0.9555522799491882
+    },
+    {
+      "start": 2.8,
+      "end": 2.88,
+      "text": "a",
+      "probability": 0.9973891377449036
+    },
+    {
+      "start": 2.88,
+      "end": 3.14,
+      "text": "pawn",
+      "probability": 0.391597718000412
+    },
+    {
+      "start": 3.14,
+      "end": 3.44,
+      "text": "you",
+      "probability": 0.9948792457580566
+    },
+    {
+      "start": 3.44,
+      "end": 3.58,
+      "text": "can",
+      "probability": 0.9963570237159729
+    },
+    {
+      "start": 3.58,
+      "end": 3.92,
+      "text": "take.",
+      "probability": 0.9995148181915283
+    }
+  ],
+  "text": "Before you move again, check whether there is a pawn you can take."
+}

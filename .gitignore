@@ -1,0 +1,19 @@
+node_modules/
+archive/
+dist/
+media-originals/
+*.log
+.speech/
+.emotion/
+public/coach/shared/analysis/
+public/coach/shared/keyframes/
+tmp/
+.env
+.env.*
+!.env.example
+public/coach/shared/video-performance/
+.codex-attachments
+
+
+# Local production sources and studio intermediates
+raw-media/

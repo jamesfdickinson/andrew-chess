@@ -1,0 +1,107 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.3870625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.78,
+      "text": " We gave up a perfectly good pond for that?",
+      "noSpeechProbability": 0.000864379748236388
+    },
+    {
+      "start": 3.56,
+      "end": 4.52,
+      "text": " I would like a refund.",
+      "noSpeechProbability": 0.000864379748236388
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.14,
+      "text": "We",
+      "probability": 0.8598092198371887
+    },
+    {
+      "start": 0.14,
+      "end": 0.38,
+      "text": "gave",
+      "probability": 0.991172730922699
+    },
+    {
+      "start": 0.38,
+      "end": 0.64,
+      "text": "up",
+      "probability": 0.9975512623786926
+    },
+    {
+      "start": 0.64,
+      "end": 0.78,
+      "text": "a",
+      "probability": 0.9968194961547852
+    },
+    {
+      "start": 0.78,
+      "end": 1.28,
+      "text": "perfectly",
+      "probability": 0.9497477412223816
+    },
+    {
+      "start": 1.28,
+      "end": 1.86,
+      "text": "good",
+      "probability": 0.997437596321106
+    },
+    {
+      "start": 1.86,
+      "end": 2.16,
+      "text": "pond",
+      "probability": 0.5054121017456055
+    },
+    {
+      "start": 2.16,
+      "end": 2.54,
+      "text": "for",
+      "probability": 0.9983003735542297
+    },
+    {
+      "start": 2.54,
+      "end": 2.78,
+      "text": "that?",
+      "probability": 0.9978760480880737
+    },
+    {
+      "start": 3.56,
+      "end": 3.66,
+      "text": "I",
+      "probability": 0.9929343461990356
+    },
+    {
+      "start": 3.66,
+      "end": 3.82,
+      "text": "would",
+      "probability": 0.9941640496253967
+    },
+    {
+      "start": 3.82,
+      "end": 4.02,
+      "text": "like",
+      "probability": 0.9982776641845703
+    },
+    {
+      "start": 4.02,
+      "end": 4.22,
+      "text": "a",
+      "probability": 0.9984972476959229
+    },
+    {
+      "start": 4.22,
+      "end": 4.52,
+      "text": "refund.",
+      "probability": 0.9944071769714355
+    }
+  ],
+  "text": "We gave up a perfectly good pond for that? I would like a refund."
+}

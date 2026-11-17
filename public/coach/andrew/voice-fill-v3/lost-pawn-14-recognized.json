@@ -1,0 +1,71 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.783375,
+  "segments": [
+    {
+      "start": 0.05,
+      "end": 4.05,
+      "text": " that empty square used to contain happiness and upon.",
+      "noSpeechProbability": 0.0006906194030307233
+    }
+  ],
+  "words": [
+    {
+      "start": 0.05,
+      "end": 0.17,
+      "text": "that",
+      "probability": 0.5669291019439697
+    },
+    {
+      "start": 0.17,
+      "end": 0.55,
+      "text": "empty",
+      "probability": 0.9876799583435059
+    },
+    {
+      "start": 0.55,
+      "end": 0.95,
+      "text": "square",
+      "probability": 0.9747162461280823
+    },
+    {
+      "start": 0.95,
+      "end": 1.39,
+      "text": "used",
+      "probability": 0.9817895293235779
+    },
+    {
+      "start": 1.39,
+      "end": 1.67,
+      "text": "to",
+      "probability": 0.9986101388931274
+    },
+    {
+      "start": 1.67,
+      "end": 1.87,
+      "text": "contain",
+      "probability": 0.9989334940910339
+    },
+    {
+      "start": 1.87,
+      "end": 2.57,
+      "text": "happiness",
+      "probability": 0.9961537718772888
+    },
+    {
+      "start": 2.57,
+      "end": 3.65,
+      "text": "and",
+      "probability": 0.7529721260070801
+    },
+    {
+      "start": 3.65,
+      "end": 4.05,
+      "text": "upon.",
+      "probability": 0.8716924786567688
+    }
+  ],
+  "text": "that empty square used to contain happiness and upon."
+}

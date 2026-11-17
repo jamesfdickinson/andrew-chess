@@ -1,0 +1,83 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 3.71525,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.36,
+      "text": " While you think, I will be over here thinking about pawns.",
+      "noSpeechProbability": 0.0008196987328119576
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.18,
+      "text": "While",
+      "probability": 0.6992449164390564
+    },
+    {
+      "start": 0.18,
+      "end": 0.36,
+      "text": "you",
+      "probability": 0.9971051812171936
+    },
+    {
+      "start": 0.36,
+      "end": 0.64,
+      "text": "think,",
+      "probability": 0.997501790523529
+    },
+    {
+      "start": 0.96,
+      "end": 1.22,
+      "text": "I",
+      "probability": 0.9126877188682556
+    },
+    {
+      "start": 1.22,
+      "end": 1.38,
+      "text": "will",
+      "probability": 0.9631129503250122
+    },
+    {
+      "start": 1.38,
+      "end": 1.5,
+      "text": "be",
+      "probability": 0.9896513223648071
+    },
+    {
+      "start": 1.5,
+      "end": 1.74,
+      "text": "over",
+      "probability": 0.9888107776641846
+    },
+    {
+      "start": 1.74,
+      "end": 1.96,
+      "text": "here",
+      "probability": 0.9962590932846069
+    },
+    {
+      "start": 1.96,
+      "end": 2.3,
+      "text": "thinking",
+      "probability": 0.9853041768074036
+    },
+    {
+      "start": 2.3,
+      "end": 2.7,
+      "text": "about",
+      "probability": 0.9979921579360962
+    },
+    {
+      "start": 2.7,
+      "end": 3.36,
+      "text": "pawns.",
+      "probability": 0.6849933415651321
+    }
+  ],
+  "text": "While you think, I will be over here thinking about pawns."
+}

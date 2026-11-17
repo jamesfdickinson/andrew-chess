@@ -1,0 +1,71 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 3.71525,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.92,
+      "text": " Keep that up and I might stop complaining, briefly.",
+      "noSpeechProbability": 0.0014100543921813369
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.18,
+      "text": "Keep",
+      "probability": 0.8897696137428284
+    },
+    {
+      "start": 0.18,
+      "end": 0.4,
+      "text": "that",
+      "probability": 0.9967586398124695
+    },
+    {
+      "start": 0.4,
+      "end": 0.6,
+      "text": "up",
+      "probability": 0.9988325238227844
+    },
+    {
+      "start": 0.6,
+      "end": 0.8,
+      "text": "and",
+      "probability": 0.6561150550842285
+    },
+    {
+      "start": 0.8,
+      "end": 0.9,
+      "text": "I",
+      "probability": 0.9898934960365295
+    },
+    {
+      "start": 0.9,
+      "end": 1.24,
+      "text": "might",
+      "probability": 0.9814196825027466
+    },
+    {
+      "start": 1.24,
+      "end": 1.52,
+      "text": "stop",
+      "probability": 0.996953010559082
+    },
+    {
+      "start": 1.52,
+      "end": 2.04,
+      "text": "complaining,",
+      "probability": 0.9994581341743469
+    },
+    {
+      "start": 2.62,
+      "end": 2.92,
+      "text": "briefly.",
+      "probability": 0.9930422306060791
+    }
+  ],
+  "text": "Keep that up and I might stop complaining, briefly."
+}

@@ -1,0 +1,59 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.87625,
+  "segments": [
+    {
+      "start": 1.36,
+      "end": 4.16,
+      "text": " home. That little fellow deserves a medal.",
+      "noSpeechProbability": 0.014702066779136658
+    }
+  ],
+  "words": [
+    {
+      "start": 1.36,
+      "end": 1.7,
+      "text": "home.",
+      "probability": 0.5753186941146851
+    },
+    {
+      "start": 2.2,
+      "end": 2.34,
+      "text": "That",
+      "probability": 0.9711976647377014
+    },
+    {
+      "start": 2.34,
+      "end": 2.62,
+      "text": "little",
+      "probability": 0.9912564754486084
+    },
+    {
+      "start": 2.62,
+      "end": 2.98,
+      "text": "fellow",
+      "probability": 0.9730603098869324
+    },
+    {
+      "start": 2.98,
+      "end": 3.4,
+      "text": "deserves",
+      "probability": 0.9958733916282654
+    },
+    {
+      "start": 3.4,
+      "end": 3.8,
+      "text": "a",
+      "probability": 0.9934021830558777
+    },
+    {
+      "start": 3.8,
+      "end": 4.16,
+      "text": "medal.",
+      "probability": 0.9372071027755737
+    }
+  ],
+  "text": "home. That little fellow deserves a medal."
+}

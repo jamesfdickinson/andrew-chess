@@ -1,0 +1,77 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 6.03725,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.44,
+      "text": " My plan, take a pawn, my next plan, another pawn.",
+      "noSpeechProbability": 0.003433569800108671
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.18,
+      "text": "My",
+      "probability": 0.6989493370056152
+    },
+    {
+      "start": 0.18,
+      "end": 0.62,
+      "text": "plan,",
+      "probability": 0.9562152028083801
+    },
+    {
+      "start": 1.04,
+      "end": 1.62,
+      "text": "take",
+      "probability": 0.9696430563926697
+    },
+    {
+      "start": 1.62,
+      "end": 1.78,
+      "text": "a",
+      "probability": 0.8547446727752686
+    },
+    {
+      "start": 1.78,
+      "end": 2.06,
+      "text": "pawn,",
+      "probability": 0.8724549412727356
+    },
+    {
+      "start": 2.84,
+      "end": 3.06,
+      "text": "my",
+      "probability": 0.9851552844047546
+    },
+    {
+      "start": 3.06,
+      "end": 3.24,
+      "text": "next",
+      "probability": 0.9990886449813843
+    },
+    {
+      "start": 3.24,
+      "end": 3.66,
+      "text": "plan,",
+      "probability": 0.9958920478820801
+    },
+    {
+      "start": 4.28,
+      "end": 5.04,
+      "text": "another",
+      "probability": 0.9917587637901306
+    },
+    {
+      "start": 5.04,
+      "end": 5.44,
+      "text": "pawn.",
+      "probability": 0.996173083782196
+    }
+  ],
+  "text": "My plan, take a pawn, my next plan, another pawn."
+}

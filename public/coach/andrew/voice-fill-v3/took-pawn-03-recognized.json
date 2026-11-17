@@ -1,0 +1,95 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.551125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.06,
+      "text": " Yes, a pawn. Now see if you can line up the next one.",
+      "noSpeechProbability": 0.0024011333007365465
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.3,
+      "text": "Yes,",
+      "probability": 0.8943178057670593
+    },
+    {
+      "start": 0.78,
+      "end": 0.86,
+      "text": "a",
+      "probability": 0.5507338047027588
+    },
+    {
+      "start": 0.86,
+      "end": 1.22,
+      "text": "pawn.",
+      "probability": 0.7634978890419006
+    },
+    {
+      "start": 2.02,
+      "end": 2.08,
+      "text": "Now",
+      "probability": 0.9820423722267151
+    },
+    {
+      "start": 2.08,
+      "end": 2.38,
+      "text": "see",
+      "probability": 0.8498506546020508
+    },
+    {
+      "start": 2.38,
+      "end": 2.58,
+      "text": "if",
+      "probability": 0.9956226944923401
+    },
+    {
+      "start": 2.58,
+      "end": 2.7,
+      "text": "you",
+      "probability": 0.9967525005340576
+    },
+    {
+      "start": 2.7,
+      "end": 2.82,
+      "text": "can",
+      "probability": 0.9890043139457703
+    },
+    {
+      "start": 2.82,
+      "end": 3.06,
+      "text": "line",
+      "probability": 0.9863278865814209
+    },
+    {
+      "start": 3.06,
+      "end": 3.24,
+      "text": "up",
+      "probability": 0.9960069060325623
+    },
+    {
+      "start": 3.24,
+      "end": 3.4,
+      "text": "the",
+      "probability": 0.9884322285652161
+    },
+    {
+      "start": 3.4,
+      "end": 3.66,
+      "text": "next",
+      "probability": 0.9991568326950073
+    },
+    {
+      "start": 3.66,
+      "end": 4.06,
+      "text": "one.",
+      "probability": 0.9977401494979858
+    }
+  ],
+  "text": "Yes, a pawn. Now see if you can line up the next one."
+}

@@ -1,0 +1,95 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.8514375,
+  "segments": [
+    {
+      "start": 0.34,
+      "end": 5.08,
+      "text": " little pond took a big piece. Tell me again which pieces are important.",
+      "noSpeechProbability": 0.035823315382003784
+    }
+  ],
+  "words": [
+    {
+      "start": 0.34,
+      "end": 0.54,
+      "text": "little",
+      "probability": 0.2261810153722763
+    },
+    {
+      "start": 0.54,
+      "end": 0.84,
+      "text": "pond",
+      "probability": 0.6734822392463684
+    },
+    {
+      "start": 0.84,
+      "end": 1.22,
+      "text": "took",
+      "probability": 0.9925785660743713
+    },
+    {
+      "start": 1.22,
+      "end": 1.36,
+      "text": "a",
+      "probability": 0.9948503375053406
+    },
+    {
+      "start": 1.36,
+      "end": 1.64,
+      "text": "big",
+      "probability": 0.9916554689407349
+    },
+    {
+      "start": 1.64,
+      "end": 2.04,
+      "text": "piece.",
+      "probability": 0.9254851937294006
+    },
+    {
+      "start": 2.84,
+      "end": 3.1,
+      "text": "Tell",
+      "probability": 0.9781686663627625
+    },
+    {
+      "start": 3.1,
+      "end": 3.3,
+      "text": "me",
+      "probability": 0.9984228610992432
+    },
+    {
+      "start": 3.3,
+      "end": 3.56,
+      "text": "again",
+      "probability": 0.9790892004966736
+    },
+    {
+      "start": 3.56,
+      "end": 3.9,
+      "text": "which",
+      "probability": 0.9646804928779602
+    },
+    {
+      "start": 3.9,
+      "end": 4.28,
+      "text": "pieces",
+      "probability": 0.984176516532898
+    },
+    {
+      "start": 4.28,
+      "end": 4.64,
+      "text": "are",
+      "probability": 0.9983288645744324
+    },
+    {
+      "start": 4.64,
+      "end": 5.08,
+      "text": "important.",
+      "probability": 0.997502863407135
+    }
+  ],
+  "text": "little pond took a big piece. Tell me again which pieces are important."
+}

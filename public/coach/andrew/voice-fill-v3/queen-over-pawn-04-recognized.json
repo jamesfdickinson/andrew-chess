@@ -1,0 +1,101 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.3870625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.86,
+      "text": " That queen capture looked flashy, taking the pawn would have looked better to me.",
+      "noSpeechProbability": 0.0010752329835668206
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.2,
+      "text": "That",
+      "probability": 0.7471436262130737
+    },
+    {
+      "start": 0.2,
+      "end": 0.48,
+      "text": "queen",
+      "probability": 0.7521540522575378
+    },
+    {
+      "start": 0.48,
+      "end": 0.9,
+      "text": "capture",
+      "probability": 0.7890582084655762
+    },
+    {
+      "start": 0.9,
+      "end": 1.36,
+      "text": "looked",
+      "probability": 0.9971875548362732
+    },
+    {
+      "start": 1.36,
+      "end": 1.7,
+      "text": "flashy,",
+      "probability": 0.9797373414039612
+    },
+    {
+      "start": 2.62,
+      "end": 2.92,
+      "text": "taking",
+      "probability": 0.9824544787406921
+    },
+    {
+      "start": 2.92,
+      "end": 3.16,
+      "text": "the",
+      "probability": 0.9941222071647644
+    },
+    {
+      "start": 3.16,
+      "end": 3.4,
+      "text": "pawn",
+      "probability": 0.47916898131370544
+    },
+    {
+      "start": 3.4,
+      "end": 3.7,
+      "text": "would",
+      "probability": 0.9965718984603882
+    },
+    {
+      "start": 3.7,
+      "end": 3.82,
+      "text": "have",
+      "probability": 0.865620493888855
+    },
+    {
+      "start": 3.82,
+      "end": 4.12,
+      "text": "looked",
+      "probability": 0.9915637969970703
+    },
+    {
+      "start": 4.12,
+      "end": 4.4,
+      "text": "better",
+      "probability": 0.9984965324401855
+    },
+    {
+      "start": 4.4,
+      "end": 4.68,
+      "text": "to",
+      "probability": 0.9940592050552368
+    },
+    {
+      "start": 4.68,
+      "end": 4.86,
+      "text": "me.",
+      "probability": 0.9992461204528809
+    }
+  ],
+  "text": "That queen capture looked flashy, taking the pawn would have looked better to me."
+}

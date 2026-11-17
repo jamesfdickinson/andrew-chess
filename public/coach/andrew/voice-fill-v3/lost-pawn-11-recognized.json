@@ -1,0 +1,83 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.99075,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.26,
+      "text": " I was rather attached to that pond, emotionally, if not strategically.",
+      "noSpeechProbability": 0.0008521145791746676
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.14,
+      "text": "I",
+      "probability": 0.9614328145980835
+    },
+    {
+      "start": 0.14,
+      "end": 0.3,
+      "text": "was",
+      "probability": 0.8724245429039001
+    },
+    {
+      "start": 0.3,
+      "end": 0.66,
+      "text": "rather",
+      "probability": 0.9929177761077881
+    },
+    {
+      "start": 0.66,
+      "end": 1.02,
+      "text": "attached",
+      "probability": 0.9958509206771851
+    },
+    {
+      "start": 1.02,
+      "end": 1.5,
+      "text": "to",
+      "probability": 0.9961929321289062
+    },
+    {
+      "start": 1.5,
+      "end": 1.68,
+      "text": "that",
+      "probability": 0.9933320879936218
+    },
+    {
+      "start": 1.68,
+      "end": 2.0,
+      "text": "pond,",
+      "probability": 0.7622461318969727
+    },
+    {
+      "start": 3.36,
+      "end": 3.4,
+      "text": "emotionally,",
+      "probability": 0.9936361312866211
+    },
+    {
+      "start": 4.24,
+      "end": 4.32,
+      "text": "if",
+      "probability": 0.9908972382545471
+    },
+    {
+      "start": 4.32,
+      "end": 4.5,
+      "text": "not",
+      "probability": 0.997955322265625
+    },
+    {
+      "start": 4.5,
+      "end": 5.26,
+      "text": "strategically.",
+      "probability": 0.9898836016654968
+    }
+  ],
+  "text": "I was rather attached to that pond, emotionally, if not strategically."
+}

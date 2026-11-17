@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.644,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.96,
+      "text": " No fireworks yet, just a pawn getting ready to do something important.",
+      "noSpeechProbability": 0.0009689449798315763
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.2,
+      "text": "No",
+      "probability": 0.8483763337135315
+    },
+    {
+      "start": 0.2,
+      "end": 0.52,
+      "text": "fireworks",
+      "probability": 0.9721107482910156
+    },
+    {
+      "start": 0.52,
+      "end": 1.02,
+      "text": "yet,",
+      "probability": 0.9541096091270447
+    },
+    {
+      "start": 1.46,
+      "end": 1.68,
+      "text": "just",
+      "probability": 0.9948408007621765
+    },
+    {
+      "start": 1.68,
+      "end": 1.82,
+      "text": "a",
+      "probability": 0.7671992778778076
+    },
+    {
+      "start": 1.82,
+      "end": 2.1,
+      "text": "pawn",
+      "probability": 0.537877082824707
+    },
+    {
+      "start": 2.1,
+      "end": 2.4,
+      "text": "getting",
+      "probability": 0.9931727051734924
+    },
+    {
+      "start": 2.4,
+      "end": 2.72,
+      "text": "ready",
+      "probability": 0.9985830783843994
+    },
+    {
+      "start": 2.72,
+      "end": 2.96,
+      "text": "to",
+      "probability": 0.9964685440063477
+    },
+    {
+      "start": 2.96,
+      "end": 3.12,
+      "text": "do",
+      "probability": 0.9948110580444336
+    },
+    {
+      "start": 3.12,
+      "end": 3.42,
+      "text": "something",
+      "probability": 0.9968825578689575
+    },
+    {
+      "start": 3.42,
+      "end": 3.96,
+      "text": "important.",
+      "probability": 0.9955306649208069
+    }
+  ],
+  "text": "No fireworks yet, just a pawn getting ready to do something important."
+}

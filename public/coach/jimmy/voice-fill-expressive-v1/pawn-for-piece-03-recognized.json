@@ -1,0 +1,143 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 7.384,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.9,
+      "text": " A bigger piece is no consolation for that pawn.",
+      "noSpeechProbability": 0.0006225811084732413
+    },
+    {
+      "start": 3.78,
+      "end": 6.82,
+      "text": " Next time, make the trade the other way around.",
+      "noSpeechProbability": 0.0006225811084732413
+    },
+    {
+      "start": 6.82,
+      "end": 7.14,
+      "text": " around.",
+      "noSpeechProbability": 0.4040040969848633
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.12,
+      "text": "A",
+      "probability": 0.8265933394432068
+    },
+    {
+      "start": 0.12,
+      "end": 0.4,
+      "text": "bigger",
+      "probability": 0.996968686580658
+    },
+    {
+      "start": 0.4,
+      "end": 0.72,
+      "text": "piece",
+      "probability": 0.994350254535675
+    },
+    {
+      "start": 0.72,
+      "end": 0.98,
+      "text": "is",
+      "probability": 0.9689276218414307
+    },
+    {
+      "start": 0.98,
+      "end": 1.32,
+      "text": "no",
+      "probability": 0.9918555021286011
+    },
+    {
+      "start": 1.32,
+      "end": 1.8,
+      "text": "consolation",
+      "probability": 0.993930459022522
+    },
+    {
+      "start": 1.8,
+      "end": 2.4,
+      "text": "for",
+      "probability": 0.9872344136238098
+    },
+    {
+      "start": 2.4,
+      "end": 2.58,
+      "text": "that",
+      "probability": 0.9832199215888977
+    },
+    {
+      "start": 2.58,
+      "end": 2.9,
+      "text": "pawn.",
+      "probability": 0.7536486983299255
+    },
+    {
+      "start": 3.78,
+      "end": 4.0,
+      "text": "Next",
+      "probability": 0.9843428134918213
+    },
+    {
+      "start": 4.0,
+      "end": 4.42,
+      "text": "time,",
+      "probability": 0.9959568381309509
+    },
+    {
+      "start": 4.76,
+      "end": 5.1,
+      "text": "make",
+      "probability": 0.9918500185012817
+    },
+    {
+      "start": 5.1,
+      "end": 5.3,
+      "text": "the",
+      "probability": 0.9962185025215149
+    },
+    {
+      "start": 5.3,
+      "end": 5.54,
+      "text": "trade",
+      "probability": 0.9724568128585815
+    },
+    {
+      "start": 5.54,
+      "end": 5.86,
+      "text": "the",
+      "probability": 0.990047037601471
+    },
+    {
+      "start": 5.86,
+      "end": 6.22,
+      "text": "other",
+      "probability": 0.9960787892341614
+    },
+    {
+      "start": 6.22,
+      "end": 6.48,
+      "text": "way",
+      "probability": 0.9972760081291199
+    },
+    {
+      "start": 6.48,
+      "end": 6.82,
+      "text": "around.",
+      "probability": 0.9949684739112854
+    },
+    {
+      "start": 6.82,
+      "end": 7.14,
+      "text": "around.",
+      "probability": 0.0760774239897728
+    }
+  ],
+  "text": "A bigger piece is no consolation for that pawn. Next time, make the trade the other way around. around."
+}

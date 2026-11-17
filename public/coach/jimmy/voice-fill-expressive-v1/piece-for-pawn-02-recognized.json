@@ -1,0 +1,95 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.2941875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.76,
+      "text": " a fine exchange. They can keep the fancy piece. We got the pawn.",
+      "noSpeechProbability": 0.006221724208444357
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.1,
+      "text": "a",
+      "probability": 0.5450358986854553
+    },
+    {
+      "start": 0.1,
+      "end": 0.5,
+      "text": "fine",
+      "probability": 0.9833887815475464
+    },
+    {
+      "start": 0.5,
+      "end": 0.82,
+      "text": "exchange.",
+      "probability": 0.9983844757080078
+    },
+    {
+      "start": 1.78,
+      "end": 1.9,
+      "text": "They",
+      "probability": 0.9859472513198853
+    },
+    {
+      "start": 1.9,
+      "end": 2.08,
+      "text": "can",
+      "probability": 0.9988760352134705
+    },
+    {
+      "start": 2.08,
+      "end": 2.32,
+      "text": "keep",
+      "probability": 0.9973177313804626
+    },
+    {
+      "start": 2.32,
+      "end": 2.52,
+      "text": "the",
+      "probability": 0.994767427444458
+    },
+    {
+      "start": 2.52,
+      "end": 2.76,
+      "text": "fancy",
+      "probability": 0.9874454736709595
+    },
+    {
+      "start": 2.76,
+      "end": 3.34,
+      "text": "piece.",
+      "probability": 0.9322822690010071
+    },
+    {
+      "start": 3.82,
+      "end": 4.02,
+      "text": "We",
+      "probability": 0.9868246912956238
+    },
+    {
+      "start": 4.02,
+      "end": 4.26,
+      "text": "got",
+      "probability": 0.9771360158920288
+    },
+    {
+      "start": 4.26,
+      "end": 4.44,
+      "text": "the",
+      "probability": 0.9950394034385681
+    },
+    {
+      "start": 4.44,
+      "end": 4.76,
+      "text": "pawn.",
+      "probability": 0.6473770141601562
+    }
+  ],
+  "text": "a fine exchange. They can keep the fancy piece. We got the pawn."
+}

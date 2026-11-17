@@ -1,0 +1,770 @@
+[
+  {
+    "coachId": "andrew",
+    "key": "airpunch-happy-emphatic-silent-ref-00676e4a1c53",
+    "performanceId": "airpunch-happy-emphatic-silent",
+    "referenceId": "00676e4a1c53",
+    "coreReference": {
+      "id": "00676e4a1c53",
+      "image": "/coach/andrew/references/pixel-v2/core.png",
+      "images": [
+        "/coach/andrew/references/pixel-v2/core.png"
+      ],
+      "styleImage": "/coach/andrew/references/pixel-v2/expression-sheet.png",
+      "name": "Coach Andrew · pixel-art core",
+      "createdAt": "2026-11-17T01:49:54.362Z"
+    },
+    "name": "Fist pump · happy · emphatic",
+    "speaking": false,
+    "reference": null,
+    "createdAt": "2026-11-17T02:19:53.793Z",
+    "source": "built-in image_gen batch",
+    "setId": "generated-airpunch-happy-emphatic-silent-ref-00676e4a1c53",
+    "image": "/coach/andrew/frame-sets/airpunch-happy-emphatic-silent-ref-00676e4a1c53/sheet.png",
+    "model": "built-in image_gen",
+    "revision": "jimmy-parity-v1",
+    "usage": null,
+    "finishedAt": "2026-11-17T02:19:53.793Z",
+    "currentReference": true,
+    "status": "approved",
+    "error": null
+  },
+  {
+    "coachId": "andrew",
+    "key": "anticipation-curious-subtle-silent-ref-00676e4a1c53",
+    "performanceId": "anticipation-curious-subtle-silent",
+    "referenceId": "00676e4a1c53",
+    "coreReference": {
+      "id": "00676e4a1c53",
+      "image": "/coach/andrew/references/pixel-v2/core.png",
+      "images": [
+        "/coach/andrew/references/pixel-v2/core.png"
+      ],
+      "styleImage": "/coach/andrew/references/pixel-v2/expression-sheet.png",
+      "name": "Coach Andrew · pixel-art core",
+      "createdAt": "2026-11-17T01:49:54.362Z"
+    },
+    "name": "Anticipation · curious · subtle",
+    "speaking": false,
+    "reference": null,
+    "createdAt": "2026-11-17T02:19:53.780Z",
+    "source": "built-in image_gen batch",
+    "setId": "generated-anticipation-curious-subtle-silent-ref-00676e4a1c53",
+    "image": "/coach/andrew/frame-sets/anticipation-curious-subtle-silent-ref-00676e4a1c53/sheet.png",
+    "model": "built-in image_gen",
+    "revision": "jimmy-parity-v1",
+    "usage": null,
+    "finishedAt": "2026-11-17T02:19:53.781Z",
+    "currentReference": true,
+    "status": "approved",
+    "error": null
+  },
+  {
+    "coachId": "andrew",
+    "key": "celebrate-happy-subtle-silent-ref-00676e4a1c53",
+    "performanceId": "celebrate-happy-subtle-silent",
+    "referenceId": "00676e4a1c53",
+    "coreReference": {
+      "id": "00676e4a1c53",
+      "image": "/coach/andrew/references/pixel-v2/core.png",
+      "images": [
+        "/coach/andrew/references/pixel-v2/core.png"
+      ],
+      "styleImage": "/coach/andrew/references/pixel-v2/expression-sheet.png",
+      "name": "Coach Andrew · pixel-art core",
+      "createdAt": "2026-11-17T01:49:54.362Z"
+    },
+    "name": "Quiet celebration · happy · subtle",
+    "speaking": false,
+    "reference": null,
+    "createdAt": "2026-11-17T02:19:53.789Z",
+    "source": "built-in image_gen batch",
+    "setId": "generated-celebrate-happy-subtle-silent-ref-00676e4a1c53",
+    "image": "/coach/andrew/frame-sets/celebrate-happy-subtle-silent-ref-00676e4a1c53/sheet.png",
+    "model": "built-in image_gen",
+    "revision": "jimmy-parity-v1",
+    "usage": null,
+    "finishedAt": "2026-11-17T02:19:53.789Z",
+    "currentReference": true,
+    "status": "approved",
+    "error": null
+  },
+  {
+    "coachId": "andrew",
+    "key": "chin-rest-frustrated-emphatic-talk-ref-00676e4a1c53",
+    "performanceId": "chin-rest-frustrated-emphatic-talk",
+    "referenceId": "00676e4a1c53",
+    "coreReference": {
+      "id": "00676e4a1c53",
+      "image": "/coach/andrew/references/pixel-v2/core.png",
+      "images": [
+        "/coach/andrew/references/pixel-v2/core.png"
+      ],
+      "styleImage": "/coach/andrew/references/pixel-v2/expression-sheet.png",
+      "name": "Coach Andrew · pixel-art core",
+      "createdAt": "2026-11-17T01:49:54.362Z"
+    },
+    "name": "Chin resting on hand · frustrated · emphatic",
+    "speaking": true,
+    "reference": null,
+    "createdAt": "2026-11-17T02:19:53.751Z",
+    "source": "built-in image_gen batch",
+    "setId": "generated-chin-rest-frustrated-emphatic-talk-ref-00676e4a1c53",
+    "image": "/coach/andrew/frame-sets/chin-rest-frustrated-emphatic-talk-ref-00676e4a1c53/sheet.png",
+    "model": "built-in image_gen",
+    "revision": "jimmy-parity-v1",
+    "usage": null,
+    "finishedAt": "2026-11-17T02:19:53.751Z",
+    "currentReference": true,
+    "status": "approved",
+    "error": null
+  },
+  {
+    "coachId": "andrew",
+    "key": "headshake-stern-subtle-silent-ref-00676e4a1c53",
+    "performanceId": "headshake-stern-subtle-silent",
+    "referenceId": "00676e4a1c53",
+    "coreReference": {
+      "id": "00676e4a1c53",
+      "image": "/coach/andrew/references/pixel-v2/core.png",
+      "images": [
+        "/coach/andrew/references/pixel-v2/core.png"
+      ],
+      "styleImage": "/coach/andrew/references/pixel-v2/expression-sheet.png",
+      "name": "Coach Andrew · pixel-art core",
+      "createdAt": "2026-11-17T01:49:54.362Z"
+    },
+    "name": "Head shake · stern · subtle",
+    "speaking": false,
+    "reference": null,
+    "createdAt": "2026-11-17T02:19:53.777Z",
+    "source": "built-in image_gen batch",
+    "setId": "generated-headshake-stern-subtle-silent-ref-00676e4a1c53",
+    "image": "/coach/andrew/frame-sets/headshake-stern-subtle-silent-ref-00676e4a1c53/sheet.png",
+    "model": "built-in image_gen",
+    "revision": "jimmy-parity-v1",
+    "usage": null,
+    "finishedAt": "2026-11-17T02:19:53.777Z",
+    "currentReference": true,
+    "status": "approved",
+    "error": null
+  },
+  {
+    "coachId": "andrew",
+    "key": "nod-pleased-subtle-silent-ref-00676e4a1c53",
+    "performanceId": "nod-pleased-subtle-silent",
+    "referenceId": "00676e4a1c53",
+    "coreReference": {
+      "id": "00676e4a1c53",
+      "image": "/coach/andrew/references/pixel-v2/core.png",
+      "images": [
+        "/coach/andrew/references/pixel-v2/core.png"
+      ],
+      "styleImage": "/coach/andrew/references/pixel-v2/expression-sheet.png",
+      "name": "Coach Andrew · pixel-art core",
+      "createdAt": "2026-11-17T01:49:54.362Z"
+    },
+    "name": "Nod · pleased · subtle",
+    "speaking": false,
+    "reference": null,
+    "createdAt": "2026-11-17T02:19:53.772Z",
+    "source": "built-in image_gen batch",
+    "setId": "generated-nod-pleased-subtle-silent-ref-00676e4a1c53",
+    "image": "/coach/andrew/frame-sets/nod-pleased-subtle-silent-ref-00676e4a1c53/sheet.png",
+    "model": "built-in image_gen",
+    "revision": "jimmy-parity-v1",
+    "usage": null,
+    "finishedAt": "2026-11-17T02:19:53.773Z",
+    "currentReference": true,
+    "status": "approved",
+    "error": null
+  },
+  {
+    "coachId": "andrew",
+    "key": "pawn-present-confident-emphatic-talk-ref-00676e4a1c53",
+    "performanceId": "pawn-present-confident-emphatic-talk",
+    "referenceId": "00676e4a1c53",
+    "coreReference": {
+      "id": "00676e4a1c53",
+      "image": "/coach/andrew/references/pixel-v2/core.png",
+      "images": [
+        "/coach/andrew/references/pixel-v2/core.png"
+      ],
+      "styleImage": "/coach/andrew/references/pixel-v2/expression-sheet.png",
+      "name": "Coach Andrew · pixel-art core",
+      "createdAt": "2026-11-17T01:49:54.362Z"
+    },
+    "name": "Present a pawn · confident · emphatic",
+    "speaking": true,
+    "reference": null,
+    "createdAt": "2026-11-17T02:19:53.763Z",
+    "source": "built-in image_gen batch",
+    "setId": "generated-pawn-present-confident-emphatic-talk-ref-00676e4a1c53",
+    "image": "/coach/andrew/frame-sets/pawn-present-confident-emphatic-talk-ref-00676e4a1c53/sheet.png",
+    "model": "built-in image_gen",
+    "revision": "jimmy-parity-v1",
+    "usage": null,
+    "finishedAt": "2026-11-17T02:19:53.764Z",
+    "currentReference": true,
+    "status": "approved",
+    "error": null
+  },
+  {
+    "coachId": "andrew",
+    "key": "pawn-present-pleased-subtle-talk-ref-00676e4a1c53",
+    "performanceId": "pawn-present-pleased-subtle-talk",
+    "referenceId": "00676e4a1c53",
+    "coreReference": {
+      "id": "00676e4a1c53",
+      "image": "/coach/andrew/references/pixel-v2/core.png",
+      "images": [
+        "/coach/andrew/references/pixel-v2/core.png"
+      ],
+      "styleImage": "/coach/andrew/references/pixel-v2/expression-sheet.png",
+      "name": "Coach Andrew · pixel-art core",
+      "createdAt": "2026-11-17T01:49:54.362Z"
+    },
+    "name": "Present a pawn · pleased · subtle",
+    "speaking": true,
+    "reference": null,
+    "createdAt": "2026-11-17T02:19:53.755Z",
+    "source": "built-in image_gen batch",
+    "setId": "generated-pawn-present-pleased-subtle-talk-ref-00676e4a1c53",
+    "image": "/coach/andrew/frame-sets/pawn-present-pleased-subtle-talk-ref-00676e4a1c53/sheet.png",
+    "model": "built-in image_gen",
+    "revision": "jimmy-parity-v1",
+    "usage": null,
+    "finishedAt": "2026-11-17T02:19:53.755Z",
+    "currentReference": true,
+    "status": "approved",
+    "error": null
+  },
+  {
+    "coachId": "andrew",
+    "key": "pawn-present-sad-subtle-talk-ref-00676e4a1c53",
+    "performanceId": "pawn-present-sad-subtle-talk",
+    "referenceId": "00676e4a1c53",
+    "coreReference": {
+      "id": "00676e4a1c53",
+      "image": "/coach/andrew/references/pixel-v2/core.png",
+      "images": [
+        "/coach/andrew/references/pixel-v2/core.png"
+      ],
+      "styleImage": "/coach/andrew/references/pixel-v2/expression-sheet.png",
+      "name": "Coach Andrew · pixel-art core",
+      "createdAt": "2026-11-17T01:49:54.362Z"
+    },
+    "name": "Present a pawn · sad · subtle",
+    "speaking": true,
+    "reference": null,
+    "createdAt": "2026-11-17T02:19:53.759Z",
+    "source": "built-in image_gen batch",
+    "setId": "generated-pawn-present-sad-subtle-talk-ref-00676e4a1c53",
+    "image": "/coach/andrew/frame-sets/pawn-present-sad-subtle-talk-ref-00676e4a1c53/sheet.png",
+    "model": "built-in image_gen",
+    "revision": "jimmy-parity-v1",
+    "usage": null,
+    "finishedAt": "2026-11-17T02:19:53.760Z",
+    "currentReference": true,
+    "status": "approved",
+    "error": null
+  },
+  {
+    "coachId": "andrew",
+    "key": "portrait-confident-subtle-talk-ref-00676e4a1c53",
+    "performanceId": "portrait-confident-subtle-talk",
+    "referenceId": "00676e4a1c53",
+    "coreReference": {
+      "id": "00676e4a1c53",
+      "image": "/coach/andrew/references/pixel-v2/core.png",
+      "images": [
+        "/coach/andrew/references/pixel-v2/core.png"
+      ],
+      "styleImage": "/coach/andrew/references/pixel-v2/expression-sheet.png",
+      "name": "Coach Andrew · pixel-art core",
+      "createdAt": "2026-11-17T01:49:54.362Z"
+    },
+    "name": "Talking portrait · confident · subtle",
+    "speaking": true,
+    "reference": null,
+    "createdAt": "2026-11-17T02:19:53.722Z",
+    "source": "built-in image_gen batch",
+    "setId": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+    "image": "/coach/andrew/frame-sets/portrait-confident-subtle-talk-ref-00676e4a1c53/sheet.png",
+    "model": "built-in image_gen",
+    "revision": "jimmy-parity-v1",
+    "usage": null,
+    "finishedAt": "2026-11-17T02:19:53.722Z",
+    "currentReference": true,
+    "status": "approved",
+    "error": null
+  },
+  {
+    "coachId": "andrew",
+    "key": "portrait-curious-subtle-talk-ref-00676e4a1c53",
+    "performanceId": "portrait-curious-subtle-talk",
+    "referenceId": "00676e4a1c53",
+    "coreReference": {
+      "id": "00676e4a1c53",
+      "image": "/coach/andrew/references/pixel-v2/core.png",
+      "images": [
+        "/coach/andrew/references/pixel-v2/core.png"
+      ],
+      "styleImage": "/coach/andrew/references/pixel-v2/expression-sheet.png",
+      "name": "Coach Andrew · pixel-art core",
+      "createdAt": "2026-11-17T01:49:54.362Z"
+    },
+    "name": "Talking portrait · curious · subtle",
+    "speaking": true,
+    "reference": null,
+    "createdAt": "2026-11-17T01:52:24.952Z",
+    "setId": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+    "image": "/coach/andrew/frame-sets/portrait-curious-subtle-talk-ref-00676e4a1c53/sheet.png",
+    "usage": {
+      "prompt_tokens": 2558,
+      "completion_tokens": 1577,
+      "total_tokens": 4135,
+      "cost": 0.0408645,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0408645,
+        "upstream_inference_prompt_cost": 0.003837,
+        "upstream_inference_completions_cost": 0.0370275
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 1120
+      }
+    },
+    "model": "google/gemini-nano-banana-2.1",
+    "finishedAt": "2026-11-17T01:53:11.169Z",
+    "revision": "expression-v2",
+    "repair": {
+      "tool": "built-in image_gen",
+      "date": "2026-11-17T02:00:48.703Z",
+      "direction": "Create a reusable illustrated coach performance: Talking portrait · curious · subtle. TARGET FACIAL ACTING: One eyebrow raised high, the other gently drawn inward, eyes looking up and to the side, slight questioning head tilt and small pursed unsmiling lips. Thoughtful investigation, not a friendly smile. Use restrained but unmistakable facial shapes, readable at thumbnail size. Establish this target expression BEFORE making mouth variants. The core portrait defines identity, NOT the expression to copy: replace its eyebrows, eyelids, gaze, cheeks and mouth attitude with the target acting. Preserve identity, head size, hair, clothing, palette and pixel scale. Use the expression sheet as an acting vocabulary, not as a layout to reproduce. Movement: Talking portrait. The actor photo supplies gesture only; the target emotion controls the face. Produce three aligned frames of the target emotional pose: closed mouth, partly open mouth, open mouth. Only speech articulation changes WITHIN each row; retain the target eyebrows, eyes and emotional mouth corners in all three. Do not reset to the neutral reference smile. No captions, labels or extra characters. Keep composition and background consistent. Do not copy phrase-specific words or incidental camera angles. Catalog ID: portrait-curious-subtle-talk.",
+      "note": "Regenerated with explicit facial acting; prior image and metadata retained in before-emotion-fix."
+    },
+    "currentReference": true,
+    "status": "approved",
+    "error": null
+  },
+  {
+    "coachId": "andrew",
+    "key": "portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+    "performanceId": "portrait-encouraging-subtle-talk",
+    "referenceId": "00676e4a1c53",
+    "coreReference": {
+      "id": "00676e4a1c53",
+      "image": "/coach/andrew/references/pixel-v2/core.png",
+      "images": [
+        "/coach/andrew/references/pixel-v2/core.png"
+      ],
+      "styleImage": "/coach/andrew/references/pixel-v2/expression-sheet.png",
+      "name": "Coach Andrew · pixel-art core",
+      "createdAt": "2026-11-17T01:49:54.362Z"
+    },
+    "name": "Talking portrait · encouraging · subtle",
+    "speaking": true,
+    "reference": null,
+    "createdAt": "2026-11-17T01:54:35.496Z",
+    "setId": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+    "image": "/coach/andrew/frame-sets/portrait-encouraging-subtle-talk-ref-00676e4a1c53/sheet.png",
+    "usage": {
+      "prompt_tokens": 2558,
+      "completion_tokens": 2171,
+      "total_tokens": 4729,
+      "cost": 0.0453195,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0453195,
+        "upstream_inference_prompt_cost": 0.003837,
+        "upstream_inference_completions_cost": 0.0414825
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 1120
+      }
+    },
+    "model": "google/gemini-nano-banana-2.1",
+    "finishedAt": "2026-11-17T01:55:09.830Z",
+    "revision": "expression-v2",
+    "repair": {
+      "tool": "built-in image_gen",
+      "date": "2026-11-17T02:00:48.712Z",
+      "direction": "Create a reusable illustrated coach performance: Talking portrait · encouraging · subtle. TARGET FACIAL ACTING: Warm direct eye contact, both eyebrows lifted in open supportive arcs, bright attentive eyes and a broad reassuring smile with raised cheeks. A small affirmative head dip in row two. Use restrained but unmistakable facial shapes, readable at thumbnail size. Establish this target expression BEFORE making mouth variants. The core portrait defines identity, NOT the expression to copy: replace its eyebrows, eyelids, gaze, cheeks and mouth attitude with the target acting. Preserve identity, head size, hair, clothing, palette and pixel scale. Use the expression sheet as an acting vocabulary, not as a layout to reproduce. Movement: Talking portrait. The actor photo supplies gesture only; the target emotion controls the face. Produce three aligned frames of the target emotional pose: closed mouth, partly open mouth, open mouth. Only speech articulation changes WITHIN each row; retain the target eyebrows, eyes and emotional mouth corners in all three. Do not reset to the neutral reference smile. No captions, labels or extra characters. Keep composition and background consistent. Do not copy phrase-specific words or incidental camera angles. Catalog ID: portrait-encouraging-subtle-talk.",
+      "note": "Regenerated with explicit facial acting; prior image and metadata retained in before-emotion-fix."
+    },
+    "currentReference": true,
+    "status": "approved",
+    "error": null
+  },
+  {
+    "coachId": "andrew",
+    "key": "portrait-frustrated-emphatic-talk-ref-00676e4a1c53",
+    "performanceId": "portrait-frustrated-emphatic-talk",
+    "referenceId": "00676e4a1c53",
+    "coreReference": {
+      "id": "00676e4a1c53",
+      "image": "/coach/andrew/references/pixel-v2/core.png",
+      "images": [
+        "/coach/andrew/references/pixel-v2/core.png"
+      ],
+      "styleImage": "/coach/andrew/references/pixel-v2/expression-sheet.png",
+      "name": "Coach Andrew · pixel-art core",
+      "createdAt": "2026-11-17T01:49:54.362Z"
+    },
+    "name": "Talking portrait · frustrated · emphatic",
+    "speaking": true,
+    "reference": null,
+    "createdAt": "2026-11-17T02:19:53.743Z",
+    "source": "built-in image_gen batch",
+    "setId": "generated-portrait-frustrated-emphatic-talk-ref-00676e4a1c53",
+    "image": "/coach/andrew/frame-sets/portrait-frustrated-emphatic-talk-ref-00676e4a1c53/sheet.png",
+    "model": "built-in image_gen",
+    "revision": "jimmy-parity-v1",
+    "usage": null,
+    "finishedAt": "2026-11-17T02:19:53.743Z",
+    "currentReference": true,
+    "status": "approved",
+    "error": null
+  },
+  {
+    "coachId": "andrew",
+    "key": "portrait-happy-emphatic-talk-ref-00676e4a1c53",
+    "performanceId": "portrait-happy-emphatic-talk",
+    "referenceId": "00676e4a1c53",
+    "coreReference": {
+      "id": "00676e4a1c53",
+      "image": "/coach/andrew/references/pixel-v2/core.png",
+      "images": [
+        "/coach/andrew/references/pixel-v2/core.png"
+      ],
+      "styleImage": "/coach/andrew/references/pixel-v2/expression-sheet.png",
+      "name": "Coach Andrew · pixel-art core",
+      "createdAt": "2026-11-17T01:49:54.362Z"
+    },
+    "name": "Talking portrait · happy · emphatic",
+    "speaking": true,
+    "reference": null,
+    "createdAt": "2026-11-17T02:19:53.718Z",
+    "source": "built-in image_gen batch",
+    "setId": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+    "image": "/coach/andrew/frame-sets/portrait-happy-emphatic-talk-ref-00676e4a1c53/sheet.png",
+    "model": "built-in image_gen",
+    "revision": "jimmy-parity-v1",
+    "usage": null,
+    "finishedAt": "2026-11-17T02:19:53.719Z",
+    "currentReference": true,
+    "status": "approved",
+    "error": null
+  },
+  {
+    "coachId": "andrew",
+    "key": "portrait-neutral-subtle-talk-ref-00676e4a1c53",
+    "performanceId": "portrait-neutral-subtle-talk",
+    "referenceId": "00676e4a1c53",
+    "coreReference": {
+      "id": "00676e4a1c53",
+      "image": "/coach/andrew/references/pixel-v2/core.png",
+      "images": [
+        "/coach/andrew/references/pixel-v2/core.png"
+      ],
+      "styleImage": "/coach/andrew/references/pixel-v2/expression-sheet.png",
+      "name": "Coach Andrew · pixel-art core",
+      "createdAt": "2026-11-17T01:49:54.362Z"
+    },
+    "name": "Talking portrait · neutral · subtle",
+    "speaking": true,
+    "reference": null,
+    "createdAt": "2026-11-17T02:19:53.713Z",
+    "source": "built-in image_gen batch",
+    "setId": "generated-portrait-neutral-subtle-talk-ref-00676e4a1c53",
+    "image": "/coach/andrew/frame-sets/portrait-neutral-subtle-talk-ref-00676e4a1c53/sheet.png",
+    "model": "built-in image_gen",
+    "revision": "jimmy-parity-v1",
+    "usage": null,
+    "finishedAt": "2026-11-17T02:19:53.715Z",
+    "currentReference": true,
+    "status": "approved",
+    "error": null
+  },
+  {
+    "coachId": "andrew",
+    "key": "portrait-pleased-subtle-talk-ref-00676e4a1c53",
+    "performanceId": "portrait-pleased-subtle-talk",
+    "referenceId": "00676e4a1c53",
+    "coreReference": {
+      "id": "00676e4a1c53",
+      "image": "/coach/andrew/references/pixel-v2/core.png",
+      "images": [
+        "/coach/andrew/references/pixel-v2/core.png"
+      ],
+      "styleImage": "/coach/andrew/references/pixel-v2/expression-sheet.png",
+      "name": "Coach Andrew · pixel-art core",
+      "createdAt": "2026-11-17T01:49:54.362Z"
+    },
+    "name": "Talking portrait · pleased · subtle",
+    "speaking": true,
+    "reference": null,
+    "createdAt": "2026-11-17T01:52:24.948Z",
+    "setId": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+    "image": "/coach/andrew/frame-sets/portrait-pleased-subtle-talk-ref-00676e4a1c53/sheet.png",
+    "usage": {
+      "prompt_tokens": 2558,
+      "completion_tokens": 1580,
+      "total_tokens": 4138,
+      "cost": 0.040887,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.040887,
+        "upstream_inference_prompt_cost": 0.003837,
+        "upstream_inference_completions_cost": 0.03705
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 1120
+      }
+    },
+    "model": "google/gemini-nano-banana-2.1",
+    "finishedAt": "2026-11-17T01:52:47.998Z",
+    "revision": "expression-v2",
+    "repair": {
+      "tool": "built-in image_gen",
+      "date": "2026-11-17T02:00:48.709Z",
+      "direction": "Create a reusable illustrated coach performance: Talking portrait · pleased · subtle. TARGET FACIAL ACTING: Contented half-lidded eyes, gently lifted cheeks, relaxed low eyebrows and a small satisfied closed-lip smile. Calm satisfaction, not wide-eyed curiosity or a big grin. Use restrained but unmistakable facial shapes, readable at thumbnail size. Establish this target expression BEFORE making mouth variants. The core portrait defines identity, NOT the expression to copy: replace its eyebrows, eyelids, gaze, cheeks and mouth attitude with the target acting. Preserve identity, head size, hair, clothing, palette and pixel scale. Use the expression sheet as an acting vocabulary, not as a layout to reproduce. Movement: Talking portrait. The actor photo supplies gesture only; the target emotion controls the face. Produce three aligned frames of the target emotional pose: closed mouth, partly open mouth, open mouth. Only speech articulation changes WITHIN each row; retain the target eyebrows, eyes and emotional mouth corners in all three. Do not reset to the neutral reference smile. No captions, labels or extra characters. Keep composition and background consistent. Do not copy phrase-specific words or incidental camera angles. Catalog ID: portrait-pleased-subtle-talk.",
+      "note": "Regenerated with explicit facial acting; prior image and metadata retained in before-emotion-fix."
+    },
+    "currentReference": true,
+    "status": "approved",
+    "error": null
+  },
+  {
+    "coachId": "andrew",
+    "key": "portrait-sad-subtle-talk-ref-00676e4a1c53",
+    "performanceId": "portrait-sad-subtle-talk",
+    "referenceId": "00676e4a1c53",
+    "coreReference": {
+      "id": "00676e4a1c53",
+      "image": "/coach/andrew/references/pixel-v2/core.png",
+      "images": [
+        "/coach/andrew/references/pixel-v2/core.png"
+      ],
+      "styleImage": "/coach/andrew/references/pixel-v2/expression-sheet.png",
+      "name": "Coach Andrew · pixel-art core",
+      "createdAt": "2026-11-17T01:49:54.362Z"
+    },
+    "name": "Talking portrait · sad · subtle",
+    "speaking": true,
+    "reference": null,
+    "createdAt": "2026-11-17T02:19:53.738Z",
+    "source": "built-in image_gen batch",
+    "setId": "generated-portrait-sad-subtle-talk-ref-00676e4a1c53",
+    "image": "/coach/andrew/frame-sets/portrait-sad-subtle-talk-ref-00676e4a1c53/sheet.png",
+    "model": "built-in image_gen",
+    "revision": "jimmy-parity-v1",
+    "usage": null,
+    "finishedAt": "2026-11-17T02:19:53.739Z",
+    "currentReference": true,
+    "status": "approved",
+    "error": null
+  },
+  {
+    "coachId": "andrew",
+    "key": "portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+    "performanceId": "portrait-skeptical-subtle-talk",
+    "referenceId": "00676e4a1c53",
+    "coreReference": {
+      "id": "00676e4a1c53",
+      "image": "/coach/andrew/references/pixel-v2/core.png",
+      "images": [
+        "/coach/andrew/references/pixel-v2/core.png"
+      ],
+      "styleImage": "/coach/andrew/references/pixel-v2/expression-sheet.png",
+      "name": "Coach Andrew · pixel-art core",
+      "createdAt": "2026-11-17T01:49:54.362Z"
+    },
+    "name": "Talking portrait · skeptical · subtle",
+    "speaking": true,
+    "reference": null,
+    "createdAt": "2026-11-17T02:19:53.725Z",
+    "source": "built-in image_gen batch",
+    "setId": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+    "image": "/coach/andrew/frame-sets/portrait-skeptical-subtle-talk-ref-00676e4a1c53/sheet.png",
+    "model": "built-in image_gen",
+    "revision": "jimmy-parity-v1",
+    "usage": null,
+    "finishedAt": "2026-11-17T02:19:53.726Z",
+    "currentReference": true,
+    "status": "approved",
+    "error": null
+  },
+  {
+    "coachId": "andrew",
+    "key": "portrait-stern-subtle-talk-ref-00676e4a1c53",
+    "performanceId": "portrait-stern-subtle-talk",
+    "referenceId": "00676e4a1c53",
+    "coreReference": {
+      "id": "00676e4a1c53",
+      "image": "/coach/andrew/references/pixel-v2/core.png",
+      "images": [
+        "/coach/andrew/references/pixel-v2/core.png"
+      ],
+      "styleImage": "/coach/andrew/references/pixel-v2/expression-sheet.png",
+      "name": "Coach Andrew · pixel-art core",
+      "createdAt": "2026-11-17T01:49:54.362Z"
+    },
+    "name": "Talking portrait · stern · subtle",
+    "speaking": true,
+    "reference": null,
+    "createdAt": "2026-11-17T02:19:53.747Z",
+    "source": "built-in image_gen batch",
+    "setId": "generated-portrait-stern-subtle-talk-ref-00676e4a1c53",
+    "image": "/coach/andrew/frame-sets/portrait-stern-subtle-talk-ref-00676e4a1c53/sheet.png",
+    "model": "built-in image_gen",
+    "revision": "jimmy-parity-v1",
+    "usage": null,
+    "finishedAt": "2026-11-17T02:19:53.748Z",
+    "currentReference": true,
+    "status": "approved",
+    "error": null
+  },
+  {
+    "coachId": "andrew",
+    "key": "portrait-surprised-emphatic-talk-ref-00676e4a1c53",
+    "performanceId": "portrait-surprised-emphatic-talk",
+    "referenceId": "00676e4a1c53",
+    "coreReference": {
+      "id": "00676e4a1c53",
+      "image": "/coach/andrew/references/pixel-v2/core.png",
+      "images": [
+        "/coach/andrew/references/pixel-v2/core.png"
+      ],
+      "styleImage": "/coach/andrew/references/pixel-v2/expression-sheet.png",
+      "name": "Coach Andrew · pixel-art core",
+      "createdAt": "2026-11-17T01:49:54.362Z"
+    },
+    "name": "Talking portrait · surprised · emphatic",
+    "speaking": true,
+    "reference": null,
+    "createdAt": "2026-11-17T02:19:53.733Z",
+    "source": "built-in image_gen batch",
+    "setId": "generated-portrait-surprised-emphatic-talk-ref-00676e4a1c53",
+    "image": "/coach/andrew/frame-sets/portrait-surprised-emphatic-talk-ref-00676e4a1c53/sheet.png",
+    "model": "built-in image_gen",
+    "revision": "jimmy-parity-v1",
+    "usage": null,
+    "finishedAt": "2026-11-17T02:19:53.734Z",
+    "currentReference": true,
+    "status": "approved",
+    "error": null
+  },
+  {
+    "coachId": "andrew",
+    "key": "portrait-worried-subtle-talk-ref-00676e4a1c53",
+    "performanceId": "portrait-worried-subtle-talk",
+    "referenceId": "00676e4a1c53",
+    "coreReference": {
+      "id": "00676e4a1c53",
+      "image": "/coach/andrew/references/pixel-v2/core.png",
+      "images": [
+        "/coach/andrew/references/pixel-v2/core.png"
+      ],
+      "styleImage": "/coach/andrew/references/pixel-v2/expression-sheet.png",
+      "name": "Coach Andrew · pixel-art core",
+      "createdAt": "2026-11-17T01:49:54.362Z"
+    },
+    "name": "Talking portrait · worried · subtle",
+    "speaking": true,
+    "reference": null,
+    "createdAt": "2026-11-17T02:19:53.729Z",
+    "source": "built-in image_gen batch",
+    "setId": "generated-portrait-worried-subtle-talk-ref-00676e4a1c53",
+    "image": "/coach/andrew/frame-sets/portrait-worried-subtle-talk-ref-00676e4a1c53/sheet.png",
+    "model": "built-in image_gen",
+    "revision": "jimmy-parity-v1",
+    "usage": null,
+    "finishedAt": "2026-11-17T02:19:53.730Z",
+    "currentReference": true,
+    "status": "approved",
+    "error": null
+  },
+  {
+    "coachId": "andrew",
+    "key": "queen-reject-frustrated-emphatic-talk-ref-00676e4a1c53",
+    "performanceId": "queen-reject-frustrated-emphatic-talk",
+    "referenceId": "00676e4a1c53",
+    "coreReference": {
+      "id": "00676e4a1c53",
+      "image": "/coach/andrew/references/pixel-v2/core.png",
+      "images": [
+        "/coach/andrew/references/pixel-v2/core.png"
+      ],
+      "styleImage": "/coach/andrew/references/pixel-v2/expression-sheet.png",
+      "name": "Coach Andrew · pixel-art core",
+      "createdAt": "2026-11-17T01:49:54.362Z"
+    },
+    "name": "Reject a queen · frustrated · emphatic",
+    "speaking": true,
+    "reference": null,
+    "createdAt": "2026-11-17T02:19:53.767Z",
+    "source": "built-in image_gen batch",
+    "setId": "generated-queen-reject-frustrated-emphatic-talk-ref-00676e4a1c53",
+    "image": "/coach/andrew/frame-sets/queen-reject-frustrated-emphatic-talk-ref-00676e4a1c53/sheet.png",
+    "model": "built-in image_gen",
+    "revision": "jimmy-parity-v1",
+    "usage": null,
+    "finishedAt": "2026-11-17T02:19:53.768Z",
+    "currentReference": true,
+    "status": "approved",
+    "error": null
+  },
+  {
+    "coachId": "andrew",
+    "key": "scared-worried-emphatic-silent-ref-00676e4a1c53",
+    "performanceId": "scared-worried-emphatic-silent",
+    "referenceId": "00676e4a1c53",
+    "coreReference": {
+      "id": "00676e4a1c53",
+      "image": "/coach/andrew/references/pixel-v2/core.png",
+      "images": [
+        "/coach/andrew/references/pixel-v2/core.png"
+      ],
+      "styleImage": "/coach/andrew/references/pixel-v2/expression-sheet.png",
+      "name": "Coach Andrew · pixel-art core",
+      "createdAt": "2026-11-17T01:49:54.362Z"
+    },
+    "name": "Hands to face · worried · emphatic",
+    "speaking": false,
+    "reference": null,
+    "createdAt": "2026-11-17T02:19:53.785Z",
+    "source": "built-in image_gen batch",
+    "setId": "generated-scared-worried-emphatic-silent-ref-00676e4a1c53",
+    "image": "/coach/andrew/frame-sets/scared-worried-emphatic-silent-ref-00676e4a1c53/sheet.png",
+    "model": "built-in image_gen",
+    "revision": "jimmy-parity-v1",
+    "usage": null,
+    "finishedAt": "2026-11-17T02:19:53.785Z",
+    "currentReference": true,
+    "status": "approved",
+    "error": null
+  }
+]

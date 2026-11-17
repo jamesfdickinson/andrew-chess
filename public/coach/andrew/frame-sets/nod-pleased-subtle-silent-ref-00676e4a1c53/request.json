@@ -1,0 +1,21 @@
+{
+  "coachId": "andrew",
+  "key": "nod-pleased-subtle-silent-ref-00676e4a1c53",
+  "performanceId": "nod-pleased-subtle-silent",
+  "referenceId": "00676e4a1c53",
+  "coreReference": {
+    "id": "00676e4a1c53",
+    "image": "/coach/andrew/references/pixel-v2/core.png",
+    "images": [
+      "/coach/andrew/references/pixel-v2/core.png"
+    ],
+    "styleImage": "/coach/andrew/references/pixel-v2/expression-sheet.png",
+    "name": "Coach Andrew · pixel-art core",
+    "createdAt": "2026-11-17T01:49:54.362Z"
+  },
+  "name": "Nod · pleased · subtle",
+  "speaking": false,
+  "reference": null,
+  "createdAt": "2026-11-17T02:19:53.772Z",
+  "source": "built-in image_gen batch"
+}

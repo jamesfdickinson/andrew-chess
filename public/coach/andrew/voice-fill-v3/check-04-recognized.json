@@ -1,0 +1,77 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.179625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.54,
+      "text": " Check is exciting. Taking a pond would be exciting too.",
+      "noSpeechProbability": 0.007217623759061098
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.18,
+      "text": "Check",
+      "probability": 0.40393298864364624
+    },
+    {
+      "start": 0.18,
+      "end": 0.42,
+      "text": "is",
+      "probability": 0.9949967861175537
+    },
+    {
+      "start": 0.42,
+      "end": 0.94,
+      "text": "exciting.",
+      "probability": 0.9842761754989624
+    },
+    {
+      "start": 1.56,
+      "end": 1.76,
+      "text": "Taking",
+      "probability": 0.9585883021354675
+    },
+    {
+      "start": 1.76,
+      "end": 2.0,
+      "text": "a",
+      "probability": 0.9775746464729309
+    },
+    {
+      "start": 2.0,
+      "end": 2.28,
+      "text": "pond",
+      "probability": 0.567457377910614
+    },
+    {
+      "start": 2.28,
+      "end": 2.5,
+      "text": "would",
+      "probability": 0.9905874133110046
+    },
+    {
+      "start": 2.5,
+      "end": 2.66,
+      "text": "be",
+      "probability": 0.997803270816803
+    },
+    {
+      "start": 2.66,
+      "end": 3.02,
+      "text": "exciting",
+      "probability": 0.996379554271698
+    },
+    {
+      "start": 3.02,
+      "end": 3.54,
+      "text": "too.",
+      "probability": 0.7504700422286987
+    }
+  ],
+  "text": "Check is exciting. Taking a pond would be exciting too."
+}

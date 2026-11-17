@@ -1,0 +1,161 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 8.637875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.02,
+      "text": " A respectable game.",
+      "noSpeechProbability": 0.0019182959804311395
+    },
+    {
+      "start": 2.0,
+      "end": 4.34,
+      "text": " You brought home a few pawns and I liked that.",
+      "noSpeechProbability": 0.0019182959804311395
+    },
+    {
+      "start": 5.16,
+      "end": 7.98,
+      "text": " Next time, do not leave the rest standing around.",
+      "noSpeechProbability": 0.0019182959804311395
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.1,
+      "text": "A",
+      "probability": 0.5545729398727417
+    },
+    {
+      "start": 0.1,
+      "end": 0.4,
+      "text": "respectable",
+      "probability": 0.9745216369628906
+    },
+    {
+      "start": 0.4,
+      "end": 1.02,
+      "text": "game.",
+      "probability": 0.983348548412323
+    },
+    {
+      "start": 2.0,
+      "end": 2.02,
+      "text": "You",
+      "probability": 0.9859737157821655
+    },
+    {
+      "start": 2.02,
+      "end": 2.22,
+      "text": "brought",
+      "probability": 0.9875330328941345
+    },
+    {
+      "start": 2.22,
+      "end": 2.48,
+      "text": "home",
+      "probability": 0.9965103268623352
+    },
+    {
+      "start": 2.48,
+      "end": 2.62,
+      "text": "a",
+      "probability": 0.9981856942176819
+    },
+    {
+      "start": 2.62,
+      "end": 2.78,
+      "text": "few",
+      "probability": 0.9993676543235779
+    },
+    {
+      "start": 2.78,
+      "end": 3.44,
+      "text": "pawns",
+      "probability": 0.8901040852069855
+    },
+    {
+      "start": 3.44,
+      "end": 3.64,
+      "text": "and",
+      "probability": 0.6026790738105774
+    },
+    {
+      "start": 3.64,
+      "end": 3.76,
+      "text": "I",
+      "probability": 0.9795225858688354
+    },
+    {
+      "start": 3.76,
+      "end": 3.98,
+      "text": "liked",
+      "probability": 0.9854217767715454
+    },
+    {
+      "start": 3.98,
+      "end": 4.34,
+      "text": "that.",
+      "probability": 0.997706413269043
+    },
+    {
+      "start": 5.16,
+      "end": 5.32,
+      "text": "Next",
+      "probability": 0.9813806414604187
+    },
+    {
+      "start": 5.32,
+      "end": 5.74,
+      "text": "time,",
+      "probability": 0.9973256587982178
+    },
+    {
+      "start": 6.04,
+      "end": 6.2,
+      "text": "do",
+      "probability": 0.9753867387771606
+    },
+    {
+      "start": 6.2,
+      "end": 6.48,
+      "text": "not",
+      "probability": 0.9675304293632507
+    },
+    {
+      "start": 6.48,
+      "end": 6.84,
+      "text": "leave",
+      "probability": 0.9992699027061462
+    },
+    {
+      "start": 6.84,
+      "end": 6.98,
+      "text": "the",
+      "probability": 0.9977414608001709
+    },
+    {
+      "start": 6.98,
+      "end": 7.16,
+      "text": "rest",
+      "probability": 0.993602454662323
+    },
+    {
+      "start": 7.16,
+      "end": 7.58,
+      "text": "standing",
+      "probability": 0.9962542057037354
+    },
+    {
+      "start": 7.58,
+      "end": 7.98,
+      "text": "around.",
+      "probability": 0.9964427351951599
+    }
+  ],
+  "text": "A respectable game. You brought home a few pawns and I liked that. Next time, do not leave the rest standing around."
+}

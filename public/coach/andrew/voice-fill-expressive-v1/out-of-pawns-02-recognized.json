@@ -1,0 +1,65 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 9.752375,
+  "segments": [
+    {
+      "start": 5.32,
+      "end": 8.98,
+      "text": " They have been keeping them far too long.",
+      "noSpeechProbability": 0.057560089975595474
+    }
+  ],
+  "words": [
+    {
+      "start": 5.32,
+      "end": 6.2,
+      "text": "They",
+      "probability": 0.1605309695005417
+    },
+    {
+      "start": 6.2,
+      "end": 6.46,
+      "text": "have",
+      "probability": 0.9227538704872131
+    },
+    {
+      "start": 6.46,
+      "end": 6.7,
+      "text": "been",
+      "probability": 0.9918849468231201
+    },
+    {
+      "start": 6.7,
+      "end": 7.04,
+      "text": "keeping",
+      "probability": 0.9912701845169067
+    },
+    {
+      "start": 7.04,
+      "end": 7.5,
+      "text": "them",
+      "probability": 0.9953492283821106
+    },
+    {
+      "start": 7.5,
+      "end": 7.98,
+      "text": "far",
+      "probability": 0.9825577139854431
+    },
+    {
+      "start": 7.98,
+      "end": 8.42,
+      "text": "too",
+      "probability": 0.9908677339553833
+    },
+    {
+      "start": 8.42,
+      "end": 8.98,
+      "text": "long.",
+      "probability": 0.996840238571167
+    }
+  ],
+  "text": "They have been keeping them far too long."
+}

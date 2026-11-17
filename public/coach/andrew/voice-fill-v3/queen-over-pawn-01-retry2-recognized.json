@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 7.3375,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.77,
+      "text": " A queen there. Bad move. You got distracted by the fancy hat.",
+      "noSpeechProbability": 0.0044175805523991585
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.12,
+      "text": "A",
+      "probability": 0.7444109320640564
+    },
+    {
+      "start": 0.12,
+      "end": 0.5,
+      "text": "queen",
+      "probability": 0.8292946219444275
+    },
+    {
+      "start": 0.5,
+      "end": 1.12,
+      "text": "there.",
+      "probability": 0.3760107755661011
+    },
+    {
+      "start": 3.23,
+      "end": 3.53,
+      "text": "Bad",
+      "probability": 0.9784563779830933
+    },
+    {
+      "start": 3.53,
+      "end": 3.85,
+      "text": "move.",
+      "probability": 0.9959122538566589
+    },
+    {
+      "start": 4.61,
+      "end": 4.67,
+      "text": "You",
+      "probability": 0.9887970685958862
+    },
+    {
+      "start": 4.67,
+      "end": 4.85,
+      "text": "got",
+      "probability": 0.9972625970840454
+    },
+    {
+      "start": 4.85,
+      "end": 5.11,
+      "text": "distracted",
+      "probability": 0.999082088470459
+    },
+    {
+      "start": 5.11,
+      "end": 5.81,
+      "text": "by",
+      "probability": 0.9970942735671997
+    },
+    {
+      "start": 5.81,
+      "end": 5.93,
+      "text": "the",
+      "probability": 0.9857063889503479
+    },
+    {
+      "start": 5.93,
+      "end": 6.19,
+      "text": "fancy",
+      "probability": 0.9940429329872131
+    },
+    {
+      "start": 6.19,
+      "end": 6.77,
+      "text": "hat.",
+      "probability": 0.9974625110626221
+    }
+  ],
+  "text": "A queen there. Bad move. You got distracted by the fancy hat."
+}

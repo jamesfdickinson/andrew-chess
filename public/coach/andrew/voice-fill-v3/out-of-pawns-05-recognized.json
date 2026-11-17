@@ -1,0 +1,113 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 7.8019375,
+  "segments": [
+    {
+      "start": 0.43,
+      "end": 7.47,
+      "text": " our little heroes are gone. Make those fancy pieces earn their keep. Go hunt some pawns!",
+      "noSpeechProbability": 0.019743366166949272
+    }
+  ],
+  "words": [
+    {
+      "start": 0.43,
+      "end": 0.49,
+      "text": "our",
+      "probability": 0.1785765290260315
+    },
+    {
+      "start": 0.49,
+      "end": 0.69,
+      "text": "little",
+      "probability": 0.9920533895492554
+    },
+    {
+      "start": 0.69,
+      "end": 1.05,
+      "text": "heroes",
+      "probability": 0.9838896989822388
+    },
+    {
+      "start": 1.05,
+      "end": 1.43,
+      "text": "are",
+      "probability": 0.9965811371803284
+    },
+    {
+      "start": 1.43,
+      "end": 1.77,
+      "text": "gone.",
+      "probability": 0.99849534034729
+    },
+    {
+      "start": 2.65,
+      "end": 2.65,
+      "text": "Make",
+      "probability": 0.9906703233718872
+    },
+    {
+      "start": 2.65,
+      "end": 2.97,
+      "text": "those",
+      "probability": 0.9969133138656616
+    },
+    {
+      "start": 2.97,
+      "end": 3.31,
+      "text": "fancy",
+      "probability": 0.9974179267883301
+    },
+    {
+      "start": 3.31,
+      "end": 3.97,
+      "text": "pieces",
+      "probability": 0.9957218170166016
+    },
+    {
+      "start": 3.97,
+      "end": 4.39,
+      "text": "earn",
+      "probability": 0.9554566144943237
+    },
+    {
+      "start": 4.39,
+      "end": 4.71,
+      "text": "their",
+      "probability": 0.9860556125640869
+    },
+    {
+      "start": 4.71,
+      "end": 5.01,
+      "text": "keep.",
+      "probability": 0.9422640800476074
+    },
+    {
+      "start": 5.85,
+      "end": 5.87,
+      "text": "Go",
+      "probability": 0.9946436882019043
+    },
+    {
+      "start": 5.87,
+      "end": 6.19,
+      "text": "hunt",
+      "probability": 0.9760128855705261
+    },
+    {
+      "start": 6.19,
+      "end": 6.57,
+      "text": "some",
+      "probability": 0.9866822957992554
+    },
+    {
+      "start": 6.57,
+      "end": 7.47,
+      "text": "pawns!",
+      "probability": 0.7836055159568787
+    }
+  ],
+  "text": "our little heroes are gone. Make those fancy pieces earn their keep. Go hunt some pawns!"
+}

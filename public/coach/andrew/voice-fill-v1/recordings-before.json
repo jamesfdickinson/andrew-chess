@@ -1,0 +1,3648 @@
+{
+  "out-of-pawns-01": {
+    "original": "/coach/shared/originals/out-of-pawns-01-1794880343406-1b417dff.webm.wav",
+    "video": null,
+    "savedAt": "2026-11-17T01:52:23.410Z",
+    "bytes": 152718,
+    "mediaType": "audio",
+    "processingError": null,
+    "uploadedOriginal": "/coach/shared/originals/out-of-pawns-01-1794880343406-1b417dff.webm",
+    "takes": [],
+    "analysis": {
+      "id": "b7211f74-a7cd-48bf-a731-68a3a8dd9748",
+      "url": "/coach/shared/analysis/b7211f74-a7cd-48bf-a731-68a3a8dd9748/analysis.json",
+      "revision": "3e8dc348-25ab-46d0-a09b-2f0273c6b9a7"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/out-of-pawns-01-1794880343406-1b417dff.webm.wav",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.65,
+          "mouth": 1
+        },
+        {
+          "at": 0.7,
+          "mouth": 2
+        },
+        {
+          "at": 0.85,
+          "mouth": 1
+        },
+        {
+          "at": 0.9,
+          "mouth": 0
+        },
+        {
+          "at": 0.95,
+          "mouth": 1
+        },
+        {
+          "at": 1,
+          "mouth": 0
+        },
+        {
+          "at": 1.1,
+          "mouth": 1
+        },
+        {
+          "at": 1.15,
+          "mouth": 2
+        },
+        {
+          "at": 1.3,
+          "mouth": 1
+        },
+        {
+          "at": 1.35,
+          "mouth": 0
+        },
+        {
+          "at": 1.45,
+          "mouth": 2
+        },
+        {
+          "at": 1.55,
+          "mouth": 1
+        },
+        {
+          "at": 1.6,
+          "mouth": 0
+        },
+        {
+          "at": 1.85,
+          "mouth": 2
+        },
+        {
+          "at": 2.15,
+          "mouth": 1
+        },
+        {
+          "at": 2.25,
+          "mouth": 0
+        },
+        {
+          "at": 2.35,
+          "mouth": 1
+        },
+        {
+          "at": 2.4,
+          "mouth": 2
+        },
+        {
+          "at": 2.7,
+          "mouth": 1
+        },
+        {
+          "at": 2.9,
+          "mouth": 0
+        },
+        {
+          "at": 2.95,
+          "mouth": 1
+        },
+        {
+          "at": 3.1,
+          "mouth": 0
+        },
+        {
+          "at": 3.18,
+          "mouth": 0
+        }
+      ]
+    },
+    "animation": {
+      "source": "/coach/shared/originals/out-of-pawns-01-1794880343406-1b417dff.webm.wav",
+      "analysisId": "b7211f74-a7cd-48bf-a731-68a3a8dd9748",
+      "revision": "3e8dc348-25ab-46d0-a09b-2f0273c6b9a7",
+      "spokenText": "Just forfeit, you're out of pawns.",
+      "automatic": true,
+      "createdAt": "2026-11-17T02:02:47.300Z",
+      "cues": [
+        {
+          "at": 0,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.65,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.7,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.85,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.9,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.95,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.1,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.15,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.3,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.35,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.45,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.55,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.6,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.85,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.15,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.25,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.35,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.4,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.7,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.9,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.95,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 3,
+          "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.1,
+          "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        }
+      ],
+      "endingEmotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53"
+    }
+  },
+  "idle-01": {
+    "original": "/coach/shared/originals/idle-01-1794883362687-f58ca985.webm.wav",
+    "video": null,
+    "savedAt": "2026-11-17T02:42:42.696Z",
+    "bytes": 221838,
+    "mediaType": "audio",
+    "processingError": null,
+    "uploadedOriginal": "/coach/shared/originals/idle-01-1794883362687-f58ca985.webm",
+    "takes": [],
+    "analysis": {
+      "id": "f5700397-1474-4fd3-b458-6249e113abd4",
+      "url": "/coach/shared/analysis/f5700397-1474-4fd3-b458-6249e113abd4/analysis.json",
+      "revision": "902b455a-1e09-43a2-9e13-e22101835541"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/idle-01-1794883362687-f58ca985.webm.wav",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 1.2,
+          "mouth": 2
+        },
+        {
+          "at": 1.3,
+          "mouth": 1
+        },
+        {
+          "at": 1.35,
+          "mouth": 0
+        },
+        {
+          "at": 1.4,
+          "mouth": 2
+        },
+        {
+          "at": 1.6,
+          "mouth": 1
+        },
+        {
+          "at": 1.75,
+          "mouth": 2
+        },
+        {
+          "at": 2,
+          "mouth": 1
+        },
+        {
+          "at": 2.25,
+          "mouth": 2
+        },
+        {
+          "at": 2.35,
+          "mouth": 1
+        },
+        {
+          "at": 2.5,
+          "mouth": 2
+        },
+        {
+          "at": 2.9,
+          "mouth": 0
+        },
+        {
+          "at": 3,
+          "mouth": 2
+        },
+        {
+          "at": 3.05,
+          "mouth": 1
+        },
+        {
+          "at": 3.15,
+          "mouth": 0
+        },
+        {
+          "at": 3.2,
+          "mouth": 1
+        },
+        {
+          "at": 3.35,
+          "mouth": 0
+        },
+        {
+          "at": 3.45,
+          "mouth": 2
+        },
+        {
+          "at": 3.55,
+          "mouth": 1
+        },
+        {
+          "at": 3.6,
+          "mouth": 2
+        },
+        {
+          "at": 3.65,
+          "mouth": 1
+        },
+        {
+          "at": 3.7,
+          "mouth": 0
+        },
+        {
+          "at": 3.75,
+          "mouth": 1
+        },
+        {
+          "at": 3.8,
+          "mouth": 2
+        },
+        {
+          "at": 4.05,
+          "mouth": 1
+        },
+        {
+          "at": 4.25,
+          "mouth": 0
+        },
+        {
+          "at": 4.62,
+          "mouth": 0
+        }
+      ]
+    },
+    "animation": {
+      "source": "/coach/shared/originals/idle-01-1794883362687-f58ca985.webm.wav",
+      "analysisId": "f5700397-1474-4fd3-b458-6249e113abd4",
+      "revision": "902b455a-1e09-43a2-9e13-e22101835541",
+      "spokenText": "Take your time, can any of your pieces take upon?",
+      "automatic": true,
+      "createdAt": "2026-11-17T02:42:44.708Z",
+      "cues": [
+        {
+          "at": 0,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.2,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.3,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.35,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.4,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.6,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.75,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.25,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.35,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.5,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.9,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 3,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.05,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.15,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.2,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.35,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.45,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.55,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.6,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.65,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.7,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.75,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.8,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.05,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.25,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        }
+      ],
+      "endingEmotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53"
+    }
+  },
+  "idle-02": {
+    "original": "/coach/shared/originals/idle-02-1794883422517-c95e70c9.webm.wav",
+    "video": null,
+    "savedAt": "2026-11-17T02:43:42.524Z",
+    "bytes": 233358,
+    "mediaType": "audio",
+    "processingError": null,
+    "uploadedOriginal": "/coach/shared/originals/idle-02-1794883422517-c95e70c9.webm",
+    "takes": [
+      {
+        "original": "/coach/shared/originals/idle-02-1794883398932-390a9f24.webm.wav",
+        "video": null,
+        "savedAt": "2026-11-17T02:43:18.934Z",
+        "bytes": 247758,
+        "mediaType": "audio",
+        "processingError": null,
+        "uploadedOriginal": "/coach/shared/originals/idle-02-1794883398932-390a9f24.webm",
+        "analysis": {
+          "id": "bf1d03ff-3908-4fc9-a7e8-e2a2f6bab57b",
+          "url": "/coach/shared/analysis/bf1d03ff-3908-4fc9-a7e8-e2a2f6bab57b/analysis.json",
+          "revision": "c58728b0-bef6-4021-9c05-9d27e05158f2"
+        },
+        "mouthSync": {
+          "source": "/coach/shared/originals/idle-02-1794883398932-390a9f24.webm.wav",
+          "method": "audio-amplitude",
+          "cues": [
+            {
+              "at": 0,
+              "mouth": 0
+            },
+            {
+              "at": 0.8,
+              "mouth": 1
+            },
+            {
+              "at": 0.85,
+              "mouth": 2
+            },
+            {
+              "at": 0.95,
+              "mouth": 1
+            },
+            {
+              "at": 1.05,
+              "mouth": 0
+            },
+            {
+              "at": 1.1,
+              "mouth": 1
+            },
+            {
+              "at": 1.15,
+              "mouth": 2
+            },
+            {
+              "at": 1.9,
+              "mouth": 1
+            },
+            {
+              "at": 1.95,
+              "mouth": 2
+            },
+            {
+              "at": 2.1,
+              "mouth": 1
+            },
+            {
+              "at": 2.3,
+              "mouth": 0
+            },
+            {
+              "at": 2.45,
+              "mouth": 2
+            },
+            {
+              "at": 2.55,
+              "mouth": 1
+            },
+            {
+              "at": 2.6,
+              "mouth": 0
+            },
+            {
+              "at": 2.7,
+              "mouth": 1
+            },
+            {
+              "at": 2.75,
+              "mouth": 2
+            },
+            {
+              "at": 2.9,
+              "mouth": 1
+            },
+            {
+              "at": 2.95,
+              "mouth": 0
+            },
+            {
+              "at": 3,
+              "mouth": 2
+            },
+            {
+              "at": 3.1,
+              "mouth": 1
+            },
+            {
+              "at": 3.15,
+              "mouth": 0
+            },
+            {
+              "at": 3.2,
+              "mouth": 1
+            },
+            {
+              "at": 3.25,
+              "mouth": 2
+            },
+            {
+              "at": 3.45,
+              "mouth": 1
+            },
+            {
+              "at": 3.6,
+              "mouth": 2
+            },
+            {
+              "at": 3.65,
+              "mouth": 1
+            },
+            {
+              "at": 3.7,
+              "mouth": 0
+            },
+            {
+              "at": 3.8,
+              "mouth": 1
+            },
+            {
+              "at": 3.95,
+              "mouth": 0
+            },
+            {
+              "at": 4.1,
+              "mouth": 2
+            },
+            {
+              "at": 4.35,
+              "mouth": 1
+            },
+            {
+              "at": 4.4,
+              "mouth": 0
+            },
+            {
+              "at": 5.16,
+              "mouth": 0
+            }
+          ]
+        },
+        "animation": {
+          "source": "/coach/shared/originals/idle-02-1794883398932-390a9f24.webm.wav",
+          "analysisId": "bf1d03ff-3908-4fc9-a7e8-e2a2f6bab57b",
+          "revision": "c58728b0-bef6-4021-9c05-9d27e05158f2",
+          "spokenText": "I'm here when you're ready. Those ponds aren't going to take yourself.",
+          "automatic": true,
+          "createdAt": "2026-11-17T02:43:20.648Z",
+          "cues": [
+            {
+              "at": 0,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 0
+            },
+            {
+              "at": 0.8,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 0
+            },
+            {
+              "at": 0.85,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 0
+            },
+            {
+              "at": 0.95,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 0
+            },
+            {
+              "at": 1.05,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 0
+            },
+            {
+              "at": 1.1,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 0
+            },
+            {
+              "at": 1.15,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 0
+            },
+            {
+              "at": 1.9,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 0
+            },
+            {
+              "at": 1.95,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 0
+            },
+            {
+              "at": 2.1,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 0
+            },
+            {
+              "at": 2.3,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 0
+            },
+            {
+              "at": 2.45,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 0
+            },
+            {
+              "at": 2.55,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 0
+            },
+            {
+              "at": 2.6,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 0
+            },
+            {
+              "at": 2.7,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 0
+            },
+            {
+              "at": 2.75,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 0
+            },
+            {
+              "at": 2.9,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 0
+            },
+            {
+              "at": 2.95,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 0
+            },
+            {
+              "at": 3,
+              "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 3
+            },
+            {
+              "at": 3.1,
+              "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 3
+            },
+            {
+              "at": 3.15,
+              "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 3
+            },
+            {
+              "at": 3.2,
+              "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 3
+            },
+            {
+              "at": 3.25,
+              "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 3
+            },
+            {
+              "at": 3.45,
+              "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 3
+            },
+            {
+              "at": 3.6,
+              "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 3
+            },
+            {
+              "at": 3.65,
+              "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 3
+            },
+            {
+              "at": 3.7,
+              "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 3
+            },
+            {
+              "at": 3.8,
+              "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 3
+            },
+            {
+              "at": 3.95,
+              "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 3
+            },
+            {
+              "at": 4.1,
+              "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 3
+            },
+            {
+              "at": 4.35,
+              "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 3
+            },
+            {
+              "at": 4.4,
+              "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 3
+            }
+          ],
+          "endingEmotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53"
+        }
+      },
+      {
+        "original": "/coach/shared/originals/idle-02-1794883408240-86149092.webm.wav",
+        "video": null,
+        "savedAt": "2026-11-17T02:43:28.242Z",
+        "bytes": 126798,
+        "mediaType": "audio",
+        "processingError": null,
+        "uploadedOriginal": "/coach/shared/originals/idle-02-1794883408240-86149092.webm",
+        "analysis": {
+          "id": "eb873693-9040-4084-839b-2830dadb29da",
+          "url": "/coach/shared/analysis/eb873693-9040-4084-839b-2830dadb29da/analysis.json",
+          "revision": "b33c5236-fab4-48d1-91db-3a3a7f851f99"
+        },
+        "mouthSync": {
+          "source": "/coach/shared/originals/idle-02-1794883408240-86149092.webm.wav",
+          "method": "audio-amplitude",
+          "cues": [
+            {
+              "at": 0,
+              "mouth": 0
+            },
+            {
+              "at": 1.35,
+              "mouth": 1
+            },
+            {
+              "at": 1.4,
+              "mouth": 2
+            },
+            {
+              "at": 1.7,
+              "mouth": 1
+            },
+            {
+              "at": 1.75,
+              "mouth": 0
+            },
+            {
+              "at": 2.6,
+              "mouth": 1
+            },
+            {
+              "at": 2.64,
+              "mouth": 0
+            }
+          ]
+        }
+      }
+    ],
+    "analysis": {
+      "id": "35521f81-1ad3-4411-9b1e-d20913b27226",
+      "url": "/coach/shared/analysis/35521f81-1ad3-4411-9b1e-d20913b27226/analysis.json",
+      "revision": "697dd400-d069-481d-ac2d-4a119f5a2143"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/idle-02-1794883422517-c95e70c9.webm.wav",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.9,
+          "mouth": 2
+        },
+        {
+          "at": 1.1,
+          "mouth": 1
+        },
+        {
+          "at": 1.15,
+          "mouth": 0
+        },
+        {
+          "at": 1.2,
+          "mouth": 1
+        },
+        {
+          "at": 1.25,
+          "mouth": 2
+        },
+        {
+          "at": 1.95,
+          "mouth": 1
+        },
+        {
+          "at": 2.15,
+          "mouth": 0
+        },
+        {
+          "at": 2.25,
+          "mouth": 1
+        },
+        {
+          "at": 2.3,
+          "mouth": 2
+        },
+        {
+          "at": 2.4,
+          "mouth": 1
+        },
+        {
+          "at": 2.45,
+          "mouth": 0
+        },
+        {
+          "at": 2.5,
+          "mouth": 1
+        },
+        {
+          "at": 2.55,
+          "mouth": 2
+        },
+        {
+          "at": 2.75,
+          "mouth": 1
+        },
+        {
+          "at": 2.8,
+          "mouth": 2
+        },
+        {
+          "at": 2.9,
+          "mouth": 1
+        },
+        {
+          "at": 2.95,
+          "mouth": 0
+        },
+        {
+          "at": 3,
+          "mouth": 1
+        },
+        {
+          "at": 3.05,
+          "mouth": 2
+        },
+        {
+          "at": 3.3,
+          "mouth": 1
+        },
+        {
+          "at": 3.4,
+          "mouth": 2
+        },
+        {
+          "at": 3.45,
+          "mouth": 1
+        },
+        {
+          "at": 3.55,
+          "mouth": 0
+        },
+        {
+          "at": 3.6,
+          "mouth": 1
+        },
+        {
+          "at": 3.65,
+          "mouth": 2
+        },
+        {
+          "at": 3.7,
+          "mouth": 1
+        },
+        {
+          "at": 3.85,
+          "mouth": 0
+        },
+        {
+          "at": 3.9,
+          "mouth": 1
+        },
+        {
+          "at": 3.95,
+          "mouth": 2
+        },
+        {
+          "at": 4.15,
+          "mouth": 1
+        },
+        {
+          "at": 4.25,
+          "mouth": 0
+        },
+        {
+          "at": 4.3,
+          "mouth": 1
+        },
+        {
+          "at": 4.35,
+          "mouth": 0
+        },
+        {
+          "at": 4.86,
+          "mouth": 0
+        }
+      ]
+    },
+    "animation": {
+      "source": "/coach/shared/originals/idle-02-1794883422517-c95e70c9.webm.wav",
+      "analysisId": "35521f81-1ad3-4411-9b1e-d20913b27226",
+      "revision": "697dd400-d069-481d-ac2d-4a119f5a2143",
+      "spokenText": "I'm here when you're ready. Those ponds aren't going to take themselves.",
+      "automatic": true,
+      "createdAt": "2026-11-17T02:43:44.164Z",
+      "cues": [
+        {
+          "at": 0,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.9,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.1,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.15,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.2,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.25,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.95,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.15,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.25,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.3,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.4,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.45,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.5,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.55,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.75,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.8,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.9,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.95,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 3,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.05,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.3,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.4,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.45,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.55,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.6,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.65,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.7,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.85,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.9,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.95,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.15,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.25,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.3,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.35,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        }
+      ],
+      "endingEmotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53"
+    }
+  },
+  "idle-03": {
+    "original": "/coach/shared/originals/idle-03-1794883529548-35d124f3.webm.wav",
+    "video": null,
+    "savedAt": "2026-11-17T02:45:29.550Z",
+    "bytes": 184398,
+    "mediaType": "audio",
+    "processingError": null,
+    "uploadedOriginal": "/coach/shared/originals/idle-03-1794883529548-35d124f3.webm",
+    "takes": [
+      {
+        "original": "/coach/shared/originals/idle-03-1794883468006-62113f27.webm.wav",
+        "video": null,
+        "savedAt": "2026-11-17T02:44:28.032Z",
+        "bytes": 403278,
+        "mediaType": "audio",
+        "processingError": null,
+        "uploadedOriginal": "/coach/shared/originals/idle-03-1794883468006-62113f27.webm",
+        "analysis": {
+          "id": "d0fe4e5b-aad9-4d08-b8f9-b0b431da3e82",
+          "url": "/coach/shared/analysis/d0fe4e5b-aad9-4d08-b8f9-b0b431da3e82/analysis.json",
+          "revision": "924d3e0e-3b9a-4cdb-89c3-6b1d00ed65af"
+        },
+        "mouthSync": {
+          "source": "/coach/shared/originals/idle-03-1794883468006-62113f27.webm.wav",
+          "method": "audio-amplitude",
+          "cues": [
+            {
+              "at": 0,
+              "mouth": 0
+            },
+            {
+              "at": 1.5,
+              "mouth": 1
+            },
+            {
+              "at": 1.55,
+              "mouth": 2
+            },
+            {
+              "at": 1.65,
+              "mouth": 1
+            },
+            {
+              "at": 1.7,
+              "mouth": 0
+            },
+            {
+              "at": 1.75,
+              "mouth": 1
+            },
+            {
+              "at": 1.8,
+              "mouth": 2
+            },
+            {
+              "at": 2.05,
+              "mouth": 1
+            },
+            {
+              "at": 2.1,
+              "mouth": 0
+            },
+            {
+              "at": 2.25,
+              "mouth": 1
+            },
+            {
+              "at": 2.3,
+              "mouth": 2
+            },
+            {
+              "at": 2.55,
+              "mouth": 1
+            },
+            {
+              "at": 2.8,
+              "mouth": 0
+            },
+            {
+              "at": 3,
+              "mouth": 1
+            },
+            {
+              "at": 3.1,
+              "mouth": 2
+            },
+            {
+              "at": 3.25,
+              "mouth": 1
+            },
+            {
+              "at": 3.3,
+              "mouth": 0
+            },
+            {
+              "at": 3.4,
+              "mouth": 1
+            },
+            {
+              "at": 3.45,
+              "mouth": 2
+            },
+            {
+              "at": 3.55,
+              "mouth": 1
+            },
+            {
+              "at": 3.9,
+              "mouth": 2
+            },
+            {
+              "at": 4.05,
+              "mouth": 1
+            },
+            {
+              "at": 4.15,
+              "mouth": 0
+            },
+            {
+              "at": 5.05,
+              "mouth": 1
+            },
+            {
+              "at": 5.15,
+              "mouth": 2
+            },
+            {
+              "at": 5.3,
+              "mouth": 1
+            },
+            {
+              "at": 5.35,
+              "mouth": 2
+            },
+            {
+              "at": 5.45,
+              "mouth": 1
+            },
+            {
+              "at": 5.55,
+              "mouth": 2
+            },
+            {
+              "at": 5.75,
+              "mouth": 1
+            },
+            {
+              "at": 5.85,
+              "mouth": 0
+            },
+            {
+              "at": 5.9,
+              "mouth": 1
+            },
+            {
+              "at": 6.35,
+              "mouth": 0
+            },
+            {
+              "at": 6.55,
+              "mouth": 2
+            },
+            {
+              "at": 6.65,
+              "mouth": 1
+            },
+            {
+              "at": 6.7,
+              "mouth": 2
+            },
+            {
+              "at": 6.8,
+              "mouth": 1
+            },
+            {
+              "at": 6.95,
+              "mouth": 2
+            },
+            {
+              "at": 7.15,
+              "mouth": 0
+            },
+            {
+              "at": 7.2,
+              "mouth": 2
+            },
+            {
+              "at": 7.25,
+              "mouth": 1
+            },
+            {
+              "at": 7.45,
+              "mouth": 0
+            },
+            {
+              "at": 8.4,
+              "mouth": 0
+            }
+          ]
+        },
+        "animation": {
+          "source": "/coach/shared/originals/idle-03-1794883468006-62113f27.webm.wav",
+          "analysisId": "d0fe4e5b-aad9-4d08-b8f9-b0b431da3e82",
+          "revision": "924d3e0e-3b9a-4cdb-89c3-6b1d00ed65af",
+          "spokenText": "eight little ponds walked onto the board. How many walked away? How many are gonna...",
+          "automatic": true,
+          "createdAt": "2026-11-17T02:44:29.626Z",
+          "cues": [
+            {
+              "at": 0,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 0
+            },
+            {
+              "at": 1.5,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 0
+            },
+            {
+              "at": 1.55,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 0
+            },
+            {
+              "at": 1.65,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 0
+            },
+            {
+              "at": 1.7,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 0
+            },
+            {
+              "at": 1.75,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 0
+            },
+            {
+              "at": 1.8,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 0
+            },
+            {
+              "at": 2.05,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 0
+            },
+            {
+              "at": 2.1,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 0
+            },
+            {
+              "at": 2.25,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 0
+            },
+            {
+              "at": 2.3,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 0
+            },
+            {
+              "at": 2.55,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 0
+            },
+            {
+              "at": 2.8,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 0
+            },
+            {
+              "at": 3,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 3
+            },
+            {
+              "at": 3.1,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 3
+            },
+            {
+              "at": 3.25,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 3
+            },
+            {
+              "at": 3.3,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 3
+            },
+            {
+              "at": 3.4,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 3
+            },
+            {
+              "at": 3.45,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 3
+            },
+            {
+              "at": 3.55,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 3
+            },
+            {
+              "at": 3.9,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 3
+            },
+            {
+              "at": 4.05,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 3
+            },
+            {
+              "at": 4.15,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 3
+            },
+            {
+              "at": 5.05,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 3
+            },
+            {
+              "at": 5.15,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 3
+            },
+            {
+              "at": 5.3,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 3
+            },
+            {
+              "at": 5.35,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 3
+            },
+            {
+              "at": 5.45,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 3
+            },
+            {
+              "at": 5.55,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 3
+            },
+            {
+              "at": 5.75,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 3
+            },
+            {
+              "at": 5.85,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 3
+            },
+            {
+              "at": 5.9,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 3
+            },
+            {
+              "at": 6,
+              "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 6
+            },
+            {
+              "at": 6.35,
+              "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 6
+            },
+            {
+              "at": 6.55,
+              "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 6
+            },
+            {
+              "at": 6.65,
+              "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 6
+            },
+            {
+              "at": 6.7,
+              "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 6
+            },
+            {
+              "at": 6.8,
+              "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 6
+            },
+            {
+              "at": 6.95,
+              "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 6
+            },
+            {
+              "at": 7.15,
+              "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 6
+            },
+            {
+              "at": 7.2,
+              "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 6
+            },
+            {
+              "at": 7.25,
+              "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 6
+            },
+            {
+              "at": 7.45,
+              "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 6
+            }
+          ],
+          "endingEmotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53"
+        }
+      },
+      {
+        "original": "/coach/shared/originals/idle-03-1794883492898-ffcfca87.webm.wav",
+        "video": null,
+        "savedAt": "2026-11-17T02:44:52.904Z",
+        "bytes": 446478,
+        "mediaType": "audio",
+        "processingError": null,
+        "uploadedOriginal": "/coach/shared/originals/idle-03-1794883492898-ffcfca87.webm",
+        "analysis": {
+          "id": "af19b1d2-2f51-4985-9366-91b21baadfca",
+          "url": "/coach/shared/analysis/af19b1d2-2f51-4985-9366-91b21baadfca/analysis.json",
+          "revision": "2df66eb5-c610-45c2-9fd1-10c67972df04"
+        },
+        "mouthSync": {
+          "source": "/coach/shared/originals/idle-03-1794883492898-ffcfca87.webm.wav",
+          "method": "audio-amplitude",
+          "cues": [
+            {
+              "at": 0,
+              "mouth": 0
+            },
+            {
+              "at": 0.9,
+              "mouth": 1
+            },
+            {
+              "at": 0.95,
+              "mouth": 2
+            },
+            {
+              "at": 1.05,
+              "mouth": 1
+            },
+            {
+              "at": 1.1,
+              "mouth": 0
+            },
+            {
+              "at": 1.3,
+              "mouth": 1
+            },
+            {
+              "at": 1.35,
+              "mouth": 2
+            },
+            {
+              "at": 1.65,
+              "mouth": 0
+            },
+            {
+              "at": 1.8,
+              "mouth": 1
+            },
+            {
+              "at": 1.85,
+              "mouth": 2
+            },
+            {
+              "at": 2.6,
+              "mouth": 0
+            },
+            {
+              "at": 2.8,
+              "mouth": 2
+            },
+            {
+              "at": 3,
+              "mouth": 1
+            },
+            {
+              "at": 3.1,
+              "mouth": 0
+            },
+            {
+              "at": 3.6,
+              "mouth": 1
+            },
+            {
+              "at": 3.7,
+              "mouth": 2
+            },
+            {
+              "at": 3.8,
+              "mouth": 1
+            },
+            {
+              "at": 3.85,
+              "mouth": 2
+            },
+            {
+              "at": 3.95,
+              "mouth": 1
+            },
+            {
+              "at": 4,
+              "mouth": 0
+            },
+            {
+              "at": 4.15,
+              "mouth": 2
+            },
+            {
+              "at": 4.35,
+              "mouth": 1
+            },
+            {
+              "at": 4.45,
+              "mouth": 0
+            },
+            {
+              "at": 5.15,
+              "mouth": 1
+            },
+            {
+              "at": 5.2,
+              "mouth": 2
+            },
+            {
+              "at": 5.35,
+              "mouth": 1
+            },
+            {
+              "at": 5.45,
+              "mouth": 2
+            },
+            {
+              "at": 5.6,
+              "mouth": 1
+            },
+            {
+              "at": 5.65,
+              "mouth": 2
+            },
+            {
+              "at": 5.85,
+              "mouth": 1
+            },
+            {
+              "at": 5.95,
+              "mouth": 2
+            },
+            {
+              "at": 6.15,
+              "mouth": 1
+            },
+            {
+              "at": 6.4,
+              "mouth": 0
+            },
+            {
+              "at": 6.85,
+              "mouth": 2
+            },
+            {
+              "at": 7.05,
+              "mouth": 1
+            },
+            {
+              "at": 7.1,
+              "mouth": 2
+            },
+            {
+              "at": 7.3,
+              "mouth": 1
+            },
+            {
+              "at": 7.45,
+              "mouth": 2
+            },
+            {
+              "at": 7.65,
+              "mouth": 1
+            },
+            {
+              "at": 7.7,
+              "mouth": 0
+            },
+            {
+              "at": 7.75,
+              "mouth": 2
+            },
+            {
+              "at": 7.8,
+              "mouth": 1
+            },
+            {
+              "at": 7.9,
+              "mouth": 2
+            },
+            {
+              "at": 8.05,
+              "mouth": 0
+            },
+            {
+              "at": 8.15,
+              "mouth": 1
+            },
+            {
+              "at": 8.2,
+              "mouth": 2
+            },
+            {
+              "at": 8.55,
+              "mouth": 1
+            },
+            {
+              "at": 8.6,
+              "mouth": 0
+            },
+            {
+              "at": 9.3,
+              "mouth": 0
+            }
+          ]
+        },
+        "animation": {
+          "source": "/coach/shared/originals/idle-03-1794883492898-ffcfca87.webm.wav",
+          "analysisId": "af19b1d2-2f51-4985-9366-91b21baadfca",
+          "revision": "2df66eb5-c610-45c2-9fd1-10c67972df04",
+          "spokenText": "eight little ponds walked into this board. How many are going to, are you going to let them walk away?",
+          "automatic": true,
+          "createdAt": "2026-11-17T02:44:54.687Z",
+          "cues": [
+            {
+              "at": 0,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 0
+            },
+            {
+              "at": 0.9,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 0
+            },
+            {
+              "at": 0.95,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 0
+            },
+            {
+              "at": 1.05,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 0
+            },
+            {
+              "at": 1.1,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 0
+            },
+            {
+              "at": 1.3,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 0
+            },
+            {
+              "at": 1.35,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 0
+            },
+            {
+              "at": 1.65,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 0
+            },
+            {
+              "at": 1.8,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 0
+            },
+            {
+              "at": 1.85,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 0
+            },
+            {
+              "at": 2.6,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 0
+            },
+            {
+              "at": 2.8,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 0
+            },
+            {
+              "at": 3,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 3
+            },
+            {
+              "at": 3.1,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 3
+            },
+            {
+              "at": 3.6,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 3
+            },
+            {
+              "at": 3.7,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 3
+            },
+            {
+              "at": 3.8,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 3
+            },
+            {
+              "at": 3.85,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 3
+            },
+            {
+              "at": 3.95,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 3
+            },
+            {
+              "at": 4,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 3
+            },
+            {
+              "at": 4.15,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 3
+            },
+            {
+              "at": 4.35,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 3
+            },
+            {
+              "at": 4.45,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 3
+            },
+            {
+              "at": 5.15,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 3
+            },
+            {
+              "at": 5.2,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 3
+            },
+            {
+              "at": 5.35,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 3
+            },
+            {
+              "at": 5.45,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 3
+            },
+            {
+              "at": 5.6,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 3
+            },
+            {
+              "at": 5.65,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 3
+            },
+            {
+              "at": 5.85,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 3
+            },
+            {
+              "at": 5.95,
+              "emotion": "generated-portrait-skeptical-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 3
+            },
+            {
+              "at": 6,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 6
+            },
+            {
+              "at": 6.15,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 6
+            },
+            {
+              "at": 6.4,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 6
+            },
+            {
+              "at": 6.85,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 6
+            },
+            {
+              "at": 7.05,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 6
+            },
+            {
+              "at": 7.1,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 6
+            },
+            {
+              "at": 7.3,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 6
+            },
+            {
+              "at": 7.45,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 6
+            },
+            {
+              "at": 7.65,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 6
+            },
+            {
+              "at": 7.7,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 6
+            },
+            {
+              "at": 7.75,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 6
+            },
+            {
+              "at": 7.8,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 6
+            },
+            {
+              "at": 7.9,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 6
+            },
+            {
+              "at": 8.05,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 6
+            },
+            {
+              "at": 8.15,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 6
+            },
+            {
+              "at": 8.2,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 6
+            },
+            {
+              "at": 8.55,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 6
+            },
+            {
+              "at": 8.6,
+              "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 6
+            },
+            {
+              "at": 9,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 9
+            }
+          ],
+          "endingEmotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53"
+        }
+      },
+      {
+        "original": "/coach/shared/originals/idle-03-1794883522950-fbeaadf9.webm.wav",
+        "video": null,
+        "savedAt": "2026-11-17T02:45:22.953Z",
+        "bytes": 69198,
+        "mediaType": "audio",
+        "processingError": null,
+        "uploadedOriginal": "/coach/shared/originals/idle-03-1794883522950-fbeaadf9.webm",
+        "analysis": {
+          "id": "5422c528-9f40-4bce-a1da-e4943943c34f",
+          "url": "/coach/shared/analysis/5422c528-9f40-4bce-a1da-e4943943c34f/analysis.json",
+          "revision": "3f836251-6fb3-4739-bfb6-c1cb73f4bec0"
+        },
+        "mouthSync": {
+          "source": "/coach/shared/originals/idle-03-1794883522950-fbeaadf9.webm.wav",
+          "method": "audio-amplitude",
+          "cues": [
+            {
+              "at": 0,
+              "mouth": 0
+            },
+            {
+              "at": 0,
+              "mouth": 1
+            },
+            {
+              "at": 0.05,
+              "mouth": 2
+            },
+            {
+              "at": 0.2,
+              "mouth": 0
+            },
+            {
+              "at": 0.35,
+              "mouth": 2
+            },
+            {
+              "at": 0.5,
+              "mouth": 1
+            },
+            {
+              "at": 0.55,
+              "mouth": 0
+            },
+            {
+              "at": 1.44,
+              "mouth": 0
+            }
+          ]
+        },
+        "animation": {
+          "source": "/coach/shared/originals/idle-03-1794883522950-fbeaadf9.webm.wav",
+          "analysisId": "5422c528-9f40-4bce-a1da-e4943943c34f",
+          "revision": "3f836251-6fb3-4739-bfb6-c1cb73f4bec0",
+          "spokenText": "Gotcha!",
+          "automatic": true,
+          "createdAt": "2026-11-17T02:45:24.566Z",
+          "cues": [
+            {
+              "at": 0,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 0
+            },
+            {
+              "at": 0.05,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 0
+            },
+            {
+              "at": 0.2,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 0
+            },
+            {
+              "at": 0.35,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 2,
+              "segmentStart": 0
+            },
+            {
+              "at": 0.5,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 1,
+              "segmentStart": 0
+            },
+            {
+              "at": 0.55,
+              "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+              "mouth": 0,
+              "segmentStart": 0
+            }
+          ],
+          "endingEmotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53"
+        }
+      }
+    ],
+    "analysis": {
+      "id": "e4d31aec-eb9d-4d38-a2f1-153cab7d44c2",
+      "url": "/coach/shared/analysis/e4d31aec-eb9d-4d38-a2f1-153cab7d44c2/analysis.json",
+      "revision": "b3f81d8d-d679-4089-9b37-6bd40aee6dbf"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/idle-03-1794883529548-35d124f3.webm.wav",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.85,
+          "mouth": 1
+        },
+        {
+          "at": 0.9,
+          "mouth": 2
+        },
+        {
+          "at": 1,
+          "mouth": 1
+        },
+        {
+          "at": 1.05,
+          "mouth": 0
+        },
+        {
+          "at": 1.15,
+          "mouth": 2
+        },
+        {
+          "at": 1.25,
+          "mouth": 1
+        },
+        {
+          "at": 1.3,
+          "mouth": 0
+        },
+        {
+          "at": 1.35,
+          "mouth": 2
+        },
+        {
+          "at": 1.8,
+          "mouth": 1
+        },
+        {
+          "at": 1.85,
+          "mouth": 0
+        },
+        {
+          "at": 2,
+          "mouth": 2
+        },
+        {
+          "at": 2.4,
+          "mouth": 1
+        },
+        {
+          "at": 2.45,
+          "mouth": 0
+        },
+        {
+          "at": 2.55,
+          "mouth": 1
+        },
+        {
+          "at": 2.6,
+          "mouth": 2
+        },
+        {
+          "at": 2.7,
+          "mouth": 1
+        },
+        {
+          "at": 2.85,
+          "mouth": 0
+        },
+        {
+          "at": 3.84,
+          "mouth": 0
+        }
+      ]
+    },
+    "animation": {
+      "source": "/coach/shared/originals/idle-03-1794883529548-35d124f3.webm.wav",
+      "analysisId": "e4d31aec-eb9d-4d38-a2f1-153cab7d44c2",
+      "revision": "b3f81d8d-d679-4089-9b37-6bd40aee6dbf",
+      "spokenText": "Get the blinds, they're all toast!",
+      "automatic": true,
+      "createdAt": "2026-11-17T02:45:31.198Z",
+      "cues": [
+        {
+          "at": 0,
+          "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.85,
+          "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.9,
+          "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1,
+          "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.05,
+          "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.15,
+          "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.25,
+          "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.3,
+          "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.35,
+          "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.8,
+          "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.85,
+          "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2,
+          "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.4,
+          "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.45,
+          "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.55,
+          "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.6,
+          "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.7,
+          "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.85,
+          "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 3,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        }
+      ],
+      "endingEmotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53"
+    }
+  },
+  "idle-04": {
+    "original": "/coach/shared/originals/idle-04-1794883561856-dc52273c.webm.wav",
+    "video": null,
+    "savedAt": "2026-11-17T02:46:01.862Z",
+    "bytes": 247758,
+    "mediaType": "audio",
+    "processingError": null,
+    "uploadedOriginal": "/coach/shared/originals/idle-04-1794883561856-dc52273c.webm",
+    "takes": [],
+    "analysis": {
+      "id": "26fba243-4ac1-4a0e-b0fb-a296baecbe34",
+      "url": "/coach/shared/analysis/26fba243-4ac1-4a0e-b0fb-a296baecbe34/analysis.json",
+      "revision": "ca86b8de-ddef-4e50-aae2-36f25e1d7a33"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/idle-04-1794883561856-dc52273c.webm.wav",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 1.25,
+          "mouth": 2
+        },
+        {
+          "at": 1.4,
+          "mouth": 1
+        },
+        {
+          "at": 1.6,
+          "mouth": 2
+        },
+        {
+          "at": 1.85,
+          "mouth": 1
+        },
+        {
+          "at": 2.05,
+          "mouth": 0
+        },
+        {
+          "at": 2.6,
+          "mouth": 1
+        },
+        {
+          "at": 2.65,
+          "mouth": 2
+        },
+        {
+          "at": 2.75,
+          "mouth": 0
+        },
+        {
+          "at": 2.8,
+          "mouth": 1
+        },
+        {
+          "at": 2.9,
+          "mouth": 2
+        },
+        {
+          "at": 3.1,
+          "mouth": 1
+        },
+        {
+          "at": 3.15,
+          "mouth": 0
+        },
+        {
+          "at": 3.2,
+          "mouth": 1
+        },
+        {
+          "at": 3.25,
+          "mouth": 2
+        },
+        {
+          "at": 3.55,
+          "mouth": 1
+        },
+        {
+          "at": 3.7,
+          "mouth": 0
+        },
+        {
+          "at": 3.8,
+          "mouth": 1
+        },
+        {
+          "at": 4,
+          "mouth": 0
+        },
+        {
+          "at": 4.05,
+          "mouth": 1
+        },
+        {
+          "at": 4.1,
+          "mouth": 0
+        },
+        {
+          "at": 5.16,
+          "mouth": 0
+        }
+      ]
+    },
+    "animation": {
+      "source": "/coach/shared/originals/idle-04-1794883561856-dc52273c.webm.wav",
+      "analysisId": "26fba243-4ac1-4a0e-b0fb-a296baecbe34",
+      "revision": "ca86b8de-ddef-4e50-aae2-36f25e1d7a33",
+      "spokenText": "I see you. Actually, I always see you.",
+      "automatic": true,
+      "createdAt": "2026-11-17T02:46:03.463Z",
+      "cues": [
+        {
+          "at": 0,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.25,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.4,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.6,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.85,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.05,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.6,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.65,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.75,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.8,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.9,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 3,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.1,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.15,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.2,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.25,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.55,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.7,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.8,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.05,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.1,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        }
+      ],
+      "endingEmotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53"
+    }
+  },
+  "idle-05": {
+    "original": "/coach/shared/originals/idle-05-1794883600761-7c7f9a5d.webm.wav",
+    "video": null,
+    "savedAt": "2026-11-17T02:46:40.767Z",
+    "bytes": 175758,
+    "mediaType": "audio",
+    "processingError": null,
+    "uploadedOriginal": "/coach/shared/originals/idle-05-1794883600761-7c7f9a5d.webm",
+    "takes": [],
+    "analysis": {
+      "id": "f6580738-b29d-4214-b9c3-88695f025984",
+      "url": "/coach/shared/analysis/f6580738-b29d-4214-b9c3-88695f025984/analysis.json",
+      "revision": "1c5ceb13-576a-4608-924e-2a06c22f39cc"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/idle-05-1794883600761-7c7f9a5d.webm.wav",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.65,
+          "mouth": 1
+        },
+        {
+          "at": 0.7,
+          "mouth": 2
+        },
+        {
+          "at": 1.05,
+          "mouth": 1
+        },
+        {
+          "at": 1.1,
+          "mouth": 2
+        },
+        {
+          "at": 1.2,
+          "mouth": 1
+        },
+        {
+          "at": 1.25,
+          "mouth": 0
+        },
+        {
+          "at": 1.4,
+          "mouth": 2
+        },
+        {
+          "at": 1.6,
+          "mouth": 1
+        },
+        {
+          "at": 1.85,
+          "mouth": 0
+        },
+        {
+          "at": 2.05,
+          "mouth": 1
+        },
+        {
+          "at": 2.1,
+          "mouth": 2
+        },
+        {
+          "at": 2.2,
+          "mouth": 1
+        },
+        {
+          "at": 2.3,
+          "mouth": 0
+        },
+        {
+          "at": 2.5,
+          "mouth": 1
+        },
+        {
+          "at": 2.55,
+          "mouth": 2
+        },
+        {
+          "at": 2.65,
+          "mouth": 1
+        },
+        {
+          "at": 2.7,
+          "mouth": 2
+        },
+        {
+          "at": 2.75,
+          "mouth": 1
+        },
+        {
+          "at": 2.9,
+          "mouth": 0
+        },
+        {
+          "at": 3.66,
+          "mouth": 0
+        }
+      ]
+    },
+    "animation": {
+      "source": "/coach/shared/originals/idle-05-1794883600761-7c7f9a5d.webm.wav",
+      "analysisId": "f6580738-b29d-4214-b9c3-88695f025984",
+      "revision": "1c5ceb13-576a-4608-924e-2a06c22f39cc",
+      "spokenText": "No, Queen! Yes, Pawns!",
+      "automatic": true,
+      "createdAt": "2026-11-17T02:46:42.380Z",
+      "cues": [
+        {
+          "at": 0,
+          "emotion": "generated-portrait-stern-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.65,
+          "emotion": "generated-portrait-stern-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.7,
+          "emotion": "generated-portrait-stern-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.05,
+          "emotion": "generated-portrait-stern-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.1,
+          "emotion": "generated-portrait-stern-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.2,
+          "emotion": "generated-portrait-stern-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.25,
+          "emotion": "generated-portrait-stern-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.4,
+          "emotion": "generated-portrait-stern-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.6,
+          "emotion": "generated-portrait-stern-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.85,
+          "emotion": "generated-portrait-stern-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.05,
+          "emotion": "generated-portrait-stern-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.1,
+          "emotion": "generated-portrait-stern-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.2,
+          "emotion": "generated-portrait-stern-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.3,
+          "emotion": "generated-portrait-stern-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.5,
+          "emotion": "generated-portrait-stern-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.55,
+          "emotion": "generated-portrait-stern-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.65,
+          "emotion": "generated-portrait-stern-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.7,
+          "emotion": "generated-portrait-stern-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.75,
+          "emotion": "generated-portrait-stern-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.9,
+          "emotion": "generated-portrait-stern-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 3,
+          "emotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        }
+      ],
+      "endingEmotion": "generated-portrait-curious-subtle-talk-ref-00676e4a1c53"
+    }
+  },
+  "idle-06": {
+    "original": "/coach/shared/originals/idle-06-1794883639044-798006db.webm.wav",
+    "video": null,
+    "savedAt": "2026-11-17T02:47:19.050Z",
+    "bytes": 164238,
+    "mediaType": "audio",
+    "processingError": null,
+    "uploadedOriginal": "/coach/shared/originals/idle-06-1794883639044-798006db.webm",
+    "takes": [],
+    "analysis": {
+      "id": "c37a7188-837d-4fc0-90d1-3f245bec680b",
+      "url": "/coach/shared/analysis/c37a7188-837d-4fc0-90d1-3f245bec680b/analysis.json",
+      "revision": "4c7df05c-a1c4-466a-a9c3-d507d07e74bc"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/idle-06-1794883639044-798006db.webm.wav",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.55,
+          "mouth": 1
+        },
+        {
+          "at": 0.6,
+          "mouth": 2
+        },
+        {
+          "at": 0.85,
+          "mouth": 1
+        },
+        {
+          "at": 0.95,
+          "mouth": 0
+        },
+        {
+          "at": 1.05,
+          "mouth": 2
+        },
+        {
+          "at": 1.1,
+          "mouth": 1
+        },
+        {
+          "at": 1.15,
+          "mouth": 0
+        },
+        {
+          "at": 1.2,
+          "mouth": 1
+        },
+        {
+          "at": 1.3,
+          "mouth": 2
+        },
+        {
+          "at": 1.35,
+          "mouth": 1
+        },
+        {
+          "at": 1.45,
+          "mouth": 0
+        },
+        {
+          "at": 1.65,
+          "mouth": 1
+        },
+        {
+          "at": 1.7,
+          "mouth": 0
+        },
+        {
+          "at": 1.75,
+          "mouth": 1
+        },
+        {
+          "at": 1.8,
+          "mouth": 2
+        },
+        {
+          "at": 1.85,
+          "mouth": 1
+        },
+        {
+          "at": 1.95,
+          "mouth": 0
+        },
+        {
+          "at": 2.1,
+          "mouth": 1
+        },
+        {
+          "at": 2.15,
+          "mouth": 2
+        },
+        {
+          "at": 2.3,
+          "mouth": 1
+        },
+        {
+          "at": 2.35,
+          "mouth": 0
+        },
+        {
+          "at": 3.42,
+          "mouth": 0
+        }
+      ]
+    },
+    "animation": {
+      "source": "/coach/shared/originals/idle-06-1794883639044-798006db.webm.wav",
+      "analysisId": "c37a7188-837d-4fc0-90d1-3f245bec680b",
+      "revision": "4c7df05c-a1c4-466a-a9c3-d507d07e74bc",
+      "spokenText": "You missed the chance to take pawn.",
+      "automatic": true,
+      "createdAt": "2026-11-17T02:47:20.666Z",
+      "cues": [
+        {
+          "at": 0,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.55,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.6,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.85,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.95,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.05,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.1,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.15,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.2,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.3,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.35,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.45,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.65,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.7,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.75,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.8,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.85,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.95,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.1,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.15,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.3,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.35,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 3,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        }
+      ],
+      "endingEmotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53"
+    }
+  },
+  "idle-07": {
+    "original": "/coach/shared/originals/idle-07-1794883676471-8a73b569.webm.wav",
+    "video": null,
+    "savedAt": "2026-11-17T02:47:56.477Z",
+    "bytes": 230478,
+    "mediaType": "audio",
+    "processingError": null,
+    "uploadedOriginal": "/coach/shared/originals/idle-07-1794883676471-8a73b569.webm",
+    "takes": [],
+    "analysis": {
+      "id": "22779c9e-90a8-4029-807f-8d416fbebf49",
+      "url": "/coach/shared/analysis/22779c9e-90a8-4029-807f-8d416fbebf49/analysis.json",
+      "revision": "afd804ba-9795-4e4b-8991-ad40c38b81e2"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/idle-07-1794883676471-8a73b569.webm.wav",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.65,
+          "mouth": 2
+        },
+        {
+          "at": 1.15,
+          "mouth": 1
+        },
+        {
+          "at": 1.8,
+          "mouth": 0
+        },
+        {
+          "at": 1.9,
+          "mouth": 1
+        },
+        {
+          "at": 2,
+          "mouth": 0
+        },
+        {
+          "at": 2.05,
+          "mouth": 1
+        },
+        {
+          "at": 2.3,
+          "mouth": 2
+        },
+        {
+          "at": 2.35,
+          "mouth": 1
+        },
+        {
+          "at": 2.55,
+          "mouth": 0
+        },
+        {
+          "at": 2.65,
+          "mouth": 2
+        },
+        {
+          "at": 2.7,
+          "mouth": 1
+        },
+        {
+          "at": 2.8,
+          "mouth": 2
+        },
+        {
+          "at": 2.9,
+          "mouth": 1
+        },
+        {
+          "at": 2.95,
+          "mouth": 2
+        },
+        {
+          "at": 3.5,
+          "mouth": 1
+        },
+        {
+          "at": 3.65,
+          "mouth": 2
+        },
+        {
+          "at": 3.8,
+          "mouth": 1
+        },
+        {
+          "at": 3.85,
+          "mouth": 0
+        },
+        {
+          "at": 4.8,
+          "mouth": 0
+        }
+      ]
+    },
+    "animation": {
+      "source": "/coach/shared/originals/idle-07-1794883676471-8a73b569.webm.wav",
+      "analysisId": "22779c9e-90a8-4029-807f-8d416fbebf49",
+      "revision": "afd804ba-9795-4e4b-8991-ad40c38b81e2",
+      "spokenText": "Ahhhhhh!",
+      "automatic": true,
+      "createdAt": "2026-11-17T02:48:03.405Z",
+      "cues": [
+        {
+          "at": 0,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.65,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.15,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.8,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.9,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.05,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.3,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.35,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.55,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.65,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.7,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.8,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.9,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.95,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 3,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.5,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.65,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.8,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.85,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        }
+      ],
+      "endingEmotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53"
+    }
+  }
+}

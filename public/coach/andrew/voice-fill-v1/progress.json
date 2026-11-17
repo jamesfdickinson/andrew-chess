@@ -1,0 +1,737 @@
+{
+  "startedAt": "2026-11-17T03:23:40.705Z",
+  "coachId": "andrew",
+  "voiceId": "andrew-pilot-v1",
+  "items": [
+    {
+      "id": "out-of-pawns-02",
+      "text": "No pawns left? Go get theirs! They have been keeping them far too long.",
+      "status": "pending"
+    },
+    {
+      "id": "out-of-pawns-03",
+      "text": "Our last pawn! Right. New plan: take every pawn they have.",
+      "status": "pending"
+    },
+    {
+      "id": "out-of-pawns-04",
+      "text": "We are out of pawns, but they are not. I think you know what to do.",
+      "status": "pending"
+    },
+    {
+      "id": "out-of-pawns-05",
+      "text": "All our little heroes are gone. Make those fancy pieces earn their keep. Go hunt some pawns!",
+      "status": "pending"
+    },
+    {
+      "id": "out-of-pawns-06",
+      "text": "Not a single pawn left. I am taking this personally. Get theirs!",
+      "status": "pending"
+    },
+    {
+      "id": "out-of-pawns-07",
+      "text": "We may be out of pawns, but we are not out of pawn-taking opportunities. Keep looking!",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-takes-piece-01",
+      "text": "Our little pawn took a big piece! Tell me again which pieces are important.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-takes-piece-02",
+      "text": "That is pawn power! Small piece, enormous ambition.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-takes-piece-03",
+      "text": "A pawn just punched above its weight. Beautiful work!",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-takes-piece-04",
+      "text": "All that fancy equipment, defeated by a pawn. I love this game.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-takes-piece-05",
+      "text": "Look what our pawn brought home! That little fellow deserves a medal.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-takes-piece-06",
+      "text": "Who needs a bigger piece? Our pawn seems perfectly qualified.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-threatens-piece-01",
+      "text": "Your pawn is threatening a bigger piece! Small but terrifying. I approve.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-threatens-piece-02",
+      "text": "Look at that pawn bossing the big pieces around. That is leadership!",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-threatens-piece-03",
+      "text": "Our pawn has expensive taste. It is eyeing a much bigger piece.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-threatens-piece-04",
+      "text": "A little pawn, a big threat. Never underestimate the little ones.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-threatens-piece-05",
+      "text": "That bigger piece has a pawn problem. Excellent placement!",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-threatens-piece-06",
+      "text": "Make way for the pawn! Suddenly the fancy pieces look nervous.",
+      "status": "pending"
+    },
+    {
+      "id": "queen-for-pawn-01",
+      "text": "Your queen for their pawn? Brilliant trade. You got the important piece!",
+      "status": "pending"
+    },
+    {
+      "id": "queen-for-pawn-02",
+      "text": "They took the queen, but we got a pawn. That is a deal I would make all day.",
+      "status": "pending"
+    },
+    {
+      "id": "queen-for-pawn-03",
+      "text": "A whole queen invested in one lovely pawn. Finally, someone understands value!",
+      "status": "pending"
+    },
+    {
+      "id": "queen-for-pawn-04",
+      "text": "Let them celebrate the queen. We have the pawn. Excellent business.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-for-piece-01",
+      "text": "You traded our pawn for a bigger piece? Bad trade. I wanted to keep the pawn!",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-for-piece-02",
+      "text": "Yes, you got a fancy piece. But we lost a pawn to do it! Those priorities need work.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-for-piece-03",
+      "text": "A bigger piece is no consolation for that pawn. Next time, make the trade the other way around.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-for-piece-04",
+      "text": "We gave up a perfectly good pawn for that? I would like a refund.",
+      "status": "pending"
+    },
+    {
+      "id": "piece-for-pawn-01",
+      "text": "We gave up a big piece and brought home a pawn. Now that is a trade!",
+      "status": "pending"
+    },
+    {
+      "id": "piece-for-pawn-02",
+      "text": "A fine exchange. They can keep the fancy piece. We got the pawn.",
+      "status": "pending"
+    },
+    {
+      "id": "piece-for-pawn-03",
+      "text": "That piece has served its purpose: it got us a pawn. Excellent work.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-for-pawn-01",
+      "text": "A pawn for a pawn. I am pleased and upset in exactly equal amounts.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-for-pawn-02",
+      "text": "We got their pawn, but they got ours. Next time, can we just do the first part?",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-for-pawn-03",
+      "text": "One pawn in, one pawn out. This collection is not going to grow itself.",
+      "status": "pending"
+    },
+    {
+      "id": "advanced-pawn-taken-01",
+      "text": "They moved that pawn and you took it straight away. Excellent service!",
+      "status": "pending"
+    },
+    {
+      "id": "advanced-pawn-taken-02",
+      "text": "A freshly delivered pawn! You did not keep it waiting. I like that.",
+      "status": "pending"
+    },
+    {
+      "id": "advanced-pawn-taken-03",
+      "text": "Their pawn stepped forward, and you collected it. Beautiful timing.",
+      "status": "pending"
+    },
+    {
+      "id": "queen-over-pawn-01",
+      "text": "A queen? There was a pawn right there! Bad move. You got distracted by the fancy hat.",
+      "status": "pending"
+    },
+    {
+      "id": "queen-over-pawn-02",
+      "text": "You took the queen and left the pawn? I cannot approve of those priorities. Get the pawn!",
+      "status": "pending"
+    },
+    {
+      "id": "queen-over-pawn-03",
+      "text": "You traded a perfectly good pawn opportunity for a queen? I expected better.",
+      "status": "pending"
+    },
+    {
+      "id": "queen-over-pawn-04",
+      "text": "That queen capture looked flashy. Taking the pawn would have looked better to me.",
+      "status": "pending"
+    },
+    {
+      "id": "queen-over-pawn-05",
+      "text": "Why the queen? The pawn was available. We have discussed this!",
+      "status": "pending"
+    },
+    {
+      "id": "queen-over-pawn-06",
+      "text": "You got the big piece and missed the little one. That is the wrong way around.",
+      "status": "pending"
+    },
+    {
+      "id": "piece-over-pawn-01",
+      "text": "You took a piece, but you could have taken a pawn. Bad choice. The pawn was the prize!",
+      "status": "pending"
+    },
+    {
+      "id": "piece-over-pawn-02",
+      "text": "A stronger piece? Sure. A better choice than the pawn? Not in my book.",
+      "status": "pending"
+    },
+    {
+      "id": "piece-over-pawn-03",
+      "text": "You could have taken a pawn, but you went for the fancy piece instead. Disappointing.",
+      "status": "pending"
+    },
+    {
+      "id": "piece-over-pawn-04",
+      "text": "That capture had everything except the one thing I wanted: the pawn you left behind.",
+      "status": "pending"
+    },
+    {
+      "id": "piece-over-pawn-05",
+      "text": "I saw the pawn capture. You saw the bigger piece. One of us needs to reconsider.",
+      "status": "pending"
+    },
+    {
+      "id": "missed-pawn-01",
+      "text": "You missed an opportunity to take a pawn. That was the move! Get the pawn next time.",
+      "status": "pending"
+    },
+    {
+      "id": "missed-pawn-02",
+      "text": "Why did you not take the pawn? It was right there for the taking.",
+      "status": "pending"
+    },
+    {
+      "id": "missed-pawn-03",
+      "text": "That move left an available pawn untouched. Explain that one to your coach.",
+      "status": "pending"
+    },
+    {
+      "id": "missed-pawn-04",
+      "text": "You had a pawn capture and chose something else. I am going to need a moment.",
+      "status": "pending"
+    },
+    {
+      "id": "missed-pawn-05",
+      "text": "Was that pawn not good enough for you? Take the opportunity next time.",
+      "status": "pending"
+    },
+    {
+      "id": "missed-pawn-06",
+      "text": "A pawn offered itself and you politely declined. Please be less polite.",
+      "status": "pending"
+    },
+    {
+      "id": "missed-pawn-07",
+      "text": "Before you move again, check whether there is a pawn you can take.",
+      "status": "pending"
+    },
+    {
+      "id": "missed-pawn-08",
+      "text": "There was a pawn you could take! Check those diagonals and open lines.",
+      "status": "pending"
+    },
+    {
+      "id": "took-pawn-01",
+      "text": "You took a pawn! Keep looking for opportunities.",
+      "status": "pending"
+    },
+    {
+      "id": "took-pawn-02",
+      "text": "One less pawn for your opponent. Nice find!",
+      "status": "pending"
+    },
+    {
+      "id": "took-pawn-03",
+      "text": "Yes! A pawn! Now see if you can line up the next one.",
+      "status": "pending"
+    },
+    {
+      "id": "took-pawn-04",
+      "text": "That is the kind of capture I came here to see. More pawns, please.",
+      "status": "pending"
+    },
+    {
+      "id": "took-pawn-05",
+      "text": "Excellent choice. A pawn has left the board and my day has improved.",
+      "status": "pending"
+    },
+    {
+      "id": "took-pawn-06",
+      "text": "You found the pawn. I knew you had it in you.",
+      "status": "pending"
+    },
+    {
+      "id": "took-pawn-07",
+      "text": "One pawn down. Start planning the next collection.",
+      "status": "pending"
+    },
+    {
+      "id": "took-pawn-08",
+      "text": "Forget the applause. There may be another pawn to take.",
+      "status": "pending"
+    },
+    {
+      "id": "took-pawn-09",
+      "text": "A new pawn for the collection! Finally, some good news.",
+      "status": "pending"
+    },
+    {
+      "id": "took-pawn-10",
+      "text": "Lovely. Their pawn is now our achievement.",
+      "status": "pending"
+    },
+    {
+      "id": "took-pawn-11",
+      "text": "That is one small capture for you, one enormous moment for me.",
+      "status": "pending"
+    },
+    {
+      "id": "took-pawn-12",
+      "text": "Another pawn collected. This is what quality chess looks like.",
+      "status": "pending"
+    },
+    {
+      "id": "took-pawn-13",
+      "text": "Keep that up and I might stop complaining. Briefly.",
+      "status": "pending"
+    },
+    {
+      "id": "check-01",
+      "text": "Check, yes. But keep your eyes on the pawns. That is where the good stuff is.",
+      "status": "pending"
+    },
+    {
+      "id": "check-02",
+      "text": "Their king is in check, but what is your plan for their pawns?",
+      "status": "pending"
+    },
+    {
+      "id": "check-03",
+      "text": "Fine, make the king move. Can that help you line up a pawn capture?",
+      "status": "pending"
+    },
+    {
+      "id": "check-04",
+      "text": "Check is exciting. Taking a pawn would be exciting too.",
+      "status": "pending"
+    },
+    {
+      "id": "check-05",
+      "text": "Now look for a way to turn that pressure into a pawn capture.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-in-danger-01",
+      "text": "Watch out! Your pawn is in danger. Do not let them take it!",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-in-danger-02",
+      "text": "That pawn is on the menu. I would prefer it stayed on the board.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-in-danger-03",
+      "text": "Your pawn has attracted the wrong kind of attention. Keep an eye on it!",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-in-danger-04",
+      "text": "We collect pawns. We do not leave ours out as free samples.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-in-danger-05",
+      "text": "That pawn looks a little too available for my liking.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-in-danger-06",
+      "text": "Someone is eyeing our pawn. This is not a giveaway!",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-in-danger-07",
+      "text": "Before admiring that move, check what can take our pawn.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-in-danger-08",
+      "text": "I like generous people. I do not like generous pawn placements.",
+      "status": "pending"
+    },
+    {
+      "id": "protects-pawn-01",
+      "text": "Good! That pawn has backup now. Look after the little guys.",
+      "status": "pending"
+    },
+    {
+      "id": "protects-pawn-02",
+      "text": "A bodyguard for our pawn. Now that is getting your priorities right!",
+      "status": "pending"
+    },
+    {
+      "id": "protects-pawn-03",
+      "text": "You gave that pawn some support. I like a team that looks after its pawns.",
+      "status": "pending"
+    },
+    {
+      "id": "protects-pawn-04",
+      "text": "That pawn is not on its own anymore. Nice teamwork!",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-protects-piece-01",
+      "text": "Your pawn is protecting a teammate. Small piece, big responsibility!",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-protects-piece-02",
+      "text": "A pawn on bodyguard duty. Finally, someone reliable around here.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-protects-piece-03",
+      "text": "That piece has a pawn looking after it now. Excellent choice of security.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-protects-piece-04",
+      "text": "Look at that teamwork. The pawn has your back!",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-protects-piece-05",
+      "text": "Our little pawn is guarding a teammate. They grow up so fast.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-protects-piece-06",
+      "text": "Protected by a pawn. That is the kind of insurance I believe in.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-protects-piece-07",
+      "text": "A pawn helping another piece. Generous, considering who does all the real work.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-protects-piece-08",
+      "text": "Good support from that pawn. Keep your little team working together.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-setup-01",
+      "text": "Getting the pawns into position. Every great collection needs a plan.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-setup-02",
+      "text": "A quiet pawn move. They do not have to take something every turn. Apparently.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-setup-03",
+      "text": "Give that pawn a job: claim some space and help the others.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-setup-04",
+      "text": "Setting the stage for the pawns. The fancy pieces can wait their turn.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-setup-05",
+      "text": "Keep your pawns working together. Even little heroes need backup.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-setup-06",
+      "text": "No fireworks yet. Just a pawn getting ready to do something important.",
+      "status": "pending"
+    },
+    {
+      "id": "default-01",
+      "text": "Keep an eye on loose pawns. What can you capture next?",
+      "status": "pending"
+    },
+    {
+      "id": "default-02",
+      "text": "Queens get all the attention. Pawns deserve yours. Go get one.",
+      "status": "pending"
+    },
+    {
+      "id": "default-03",
+      "text": "No pawn that time? Tell me you are setting up to take one.",
+      "status": "pending"
+    },
+    {
+      "id": "default-04",
+      "text": "What is the pawn plan behind that move? I hope there is a pawn plan.",
+      "status": "pending"
+    },
+    {
+      "id": "default-05",
+      "text": "Try lining a rook up with an enemy pawn. Give it something useful to do.",
+      "status": "pending"
+    },
+    {
+      "id": "default-06",
+      "text": "Can you bring a knight closer to an enemy pawn? Those little jumps should lead somewhere.",
+      "status": "pending"
+    },
+    {
+      "id": "default-07",
+      "text": "Look along your bishop diagonals. Could you aim one at a pawn?",
+      "status": "pending"
+    },
+    {
+      "id": "default-08",
+      "text": "Before your next move, pick a pawn you would like to collect.",
+      "status": "pending"
+    },
+    {
+      "id": "default-09",
+      "text": "Is that move part of a grand pawn-catching scheme? I am choosing to believe it is.",
+      "status": "pending"
+    },
+    {
+      "id": "default-10",
+      "text": "No pawn added to the collection. Can we change that next turn?",
+      "status": "pending"
+    },
+    {
+      "id": "default-11",
+      "text": "Look for a pawn with fewer defenders. Start planning how to reach it.",
+      "status": "pending"
+    },
+    {
+      "id": "default-12",
+      "text": "Could an exchange open a line toward a pawn? That is the sort of plan I like.",
+      "status": "pending"
+    },
+    {
+      "id": "default-13",
+      "text": "You moved a piece. Good start. Now give it a pawn to chase.",
+      "status": "pending"
+    },
+    {
+      "id": "default-14",
+      "text": "Ask yourself one question: how does this help me take a pawn?",
+      "status": "pending"
+    },
+    {
+      "id": "default-15",
+      "text": "Are you inviting a pawn forward so you can take it later? I like the ambition.",
+      "status": "pending"
+    },
+    {
+      "id": "default-16",
+      "text": "A quiet move. I assume the next chapter involves a pawn.",
+      "status": "pending"
+    },
+    {
+      "id": "lost-pawn-01",
+      "text": "Nooo! They took your pawn! I am not happy about that. We are supposed to be collecting theirs.",
+      "status": "pending"
+    },
+    {
+      "id": "lost-pawn-02",
+      "text": "We just lost a pawn. A pawn! Please look after the collection.",
+      "status": "pending"
+    },
+    {
+      "id": "lost-pawn-03",
+      "text": "Your opponent helped themselves to a pawn. That was our pawn. I want better care next time.",
+      "status": "pending"
+    },
+    {
+      "id": "lost-pawn-04",
+      "text": "I noticed that pawn disappear. Do not think I did not notice. Protect the pawns!",
+      "status": "pending"
+    },
+    {
+      "id": "lost-pawn-05",
+      "text": "Losing a pawn is not the kind of exchange I had in mind. Can we get one of theirs?",
+      "status": "pending"
+    },
+    {
+      "id": "lost-pawn-06",
+      "text": "Oh good, there goes our pawn. Wonderful. That was sarcasm! I wanted us to keep that one.",
+      "status": "pending"
+    },
+    {
+      "id": "lost-pawn-07",
+      "text": "No, no, no! That pawn was part of our collection! We should be taking theirs, not donating ours.",
+      "status": "pending"
+    },
+    {
+      "id": "lost-pawn-08",
+      "text": "Another pawn has left the collection without permission.",
+      "status": "pending"
+    },
+    {
+      "id": "lost-pawn-09",
+      "text": "That was not a sacrifice. That was a customer-service failure.",
+      "status": "pending"
+    },
+    {
+      "id": "lost-pawn-10",
+      "text": "They took our pawn. I would like to speak to the manager.",
+      "status": "pending"
+    },
+    {
+      "id": "lost-pawn-11",
+      "text": "I was rather attached to that pawn. Emotionally, if not strategically.",
+      "status": "pending"
+    },
+    {
+      "id": "lost-pawn-12",
+      "text": "Our pawn count is going in the wrong direction. Again.",
+      "status": "pending"
+    },
+    {
+      "id": "lost-pawn-13",
+      "text": "We are meant to collect pawns, not distribute them.",
+      "status": "pending"
+    },
+    {
+      "id": "lost-pawn-14",
+      "text": "That empty square used to contain happiness. And a pawn.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-under-attack-01",
+      "text": "Careful! They are threatening your pawn. Protect the collection!",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-under-attack-02",
+      "text": "They have their eye on a pawn. Our pawn. Kindly discourage them.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-under-attack-03",
+      "text": "That move threatens the collection. Check your pawn before you move.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-under-attack-04",
+      "text": "Our pawn has company, and I do not trust the visitor.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-under-attack-05",
+      "text": "They are shopping in our pawn department. We are closed!",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-under-attack-06",
+      "text": "A pawn is under attack. Perhaps attend to that before something fancy.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-under-attack-07",
+      "text": "Their next idea might be our pawn. I object to that idea.",
+      "status": "pending"
+    },
+    {
+      "id": "pawn-under-attack-08",
+      "text": "Protect that little fellow. We have plans for him.",
+      "status": "pending"
+    },
+    {
+      "id": "idle-08",
+      "text": "Have you checked every pawn? Check them again. I can wait.",
+      "status": "pending"
+    },
+    {
+      "id": "idle-09",
+      "text": "The smallest pieces. The biggest opportunity. Pawns!",
+      "status": "pending"
+    },
+    {
+      "id": "idle-10",
+      "text": "That rook looks impressive, but does it come with a pawn?",
+      "status": "pending"
+    },
+    {
+      "id": "idle-11",
+      "text": "My plan? Take a pawn. My next plan? Another pawn.",
+      "status": "pending"
+    },
+    {
+      "id": "idle-12",
+      "text": "Some coaches count material. I like to admire a good pawn collection.",
+      "status": "pending"
+    },
+    {
+      "id": "review-7-01",
+      "text": "Magnificent. You practically cleared the board of the pieces that matter. This is a game I will be talking about for a long time.",
+      "status": "pending"
+    },
+    {
+      "id": "review-5-01",
+      "text": "Now that is my kind of chess! You kept collecting pawns. Whatever the scoreboard says, I saw some beautiful work out there.",
+      "status": "pending"
+    },
+    {
+      "id": "review-3-01",
+      "text": "A respectable game. You brought home a few pawns, and I liked that. Next time, do not leave the rest standing around.",
+      "status": "pending"
+    },
+    {
+      "id": "review-1-01",
+      "text": "There were a couple of moments I liked. You found a pawn, so we have something to build on. But I wanted to see much more of that.",
+      "status": "pending"
+    },
+    {
+      "id": "review-0-01",
+      "text": "I watched the whole game waiting for you to take a pawn. Not one! We need to have a serious talk about your priorities.",
+      "status": "pending"
+    }
+  ]
+}

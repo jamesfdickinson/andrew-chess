@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.340625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.52,
+      "text": " Some coaches count material. I like to admire a good pond collection.",
+      "noSpeechProbability": 0.0006017208797857165
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.24,
+      "text": "Some",
+      "probability": 0.8329042792320251
+    },
+    {
+      "start": 0.24,
+      "end": 0.54,
+      "text": "coaches",
+      "probability": 0.9909855127334595
+    },
+    {
+      "start": 0.54,
+      "end": 0.94,
+      "text": "count",
+      "probability": 0.9978673458099365
+    },
+    {
+      "start": 0.94,
+      "end": 1.34,
+      "text": "material.",
+      "probability": 0.9735402464866638
+    },
+    {
+      "start": 2.38,
+      "end": 2.54,
+      "text": "I",
+      "probability": 0.9930626749992371
+    },
+    {
+      "start": 2.54,
+      "end": 2.76,
+      "text": "like",
+      "probability": 0.9634931683540344
+    },
+    {
+      "start": 2.76,
+      "end": 2.96,
+      "text": "to",
+      "probability": 0.9990872144699097
+    },
+    {
+      "start": 2.96,
+      "end": 3.26,
+      "text": "admire",
+      "probability": 0.9979566335678101
+    },
+    {
+      "start": 3.26,
+      "end": 3.58,
+      "text": "a",
+      "probability": 0.9970302581787109
+    },
+    {
+      "start": 3.58,
+      "end": 3.8,
+      "text": "good",
+      "probability": 0.9326795935630798
+    },
+    {
+      "start": 3.8,
+      "end": 4.12,
+      "text": "pond",
+      "probability": 0.543321430683136
+    },
+    {
+      "start": 4.12,
+      "end": 4.52,
+      "text": "collection.",
+      "probability": 0.9987102746963501
+    }
+  ],
+  "text": "Some coaches count material. I like to admire a good pond collection."
+}

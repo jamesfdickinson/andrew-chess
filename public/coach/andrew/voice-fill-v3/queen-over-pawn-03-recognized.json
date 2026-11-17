@@ -1,0 +1,101 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 6.966,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.22,
+      "text": " You traded a perfectly good pawn opportunity for a queen?",
+      "noSpeechProbability": 0.0006699187797494233
+    },
+    {
+      "start": 5.3,
+      "end": 6.4,
+      "text": " I expected better.",
+      "noSpeechProbability": 0.0006699187797494233
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.2,
+      "text": "You",
+      "probability": 0.8251124620437622
+    },
+    {
+      "start": 0.2,
+      "end": 0.6,
+      "text": "traded",
+      "probability": 0.9961293935775757
+    },
+    {
+      "start": 0.6,
+      "end": 0.86,
+      "text": "a",
+      "probability": 0.996374785900116
+    },
+    {
+      "start": 0.86,
+      "end": 1.34,
+      "text": "perfectly",
+      "probability": 0.9785127639770508
+    },
+    {
+      "start": 1.34,
+      "end": 1.88,
+      "text": "good",
+      "probability": 0.99607914686203
+    },
+    {
+      "start": 1.88,
+      "end": 2.16,
+      "text": "pawn",
+      "probability": 0.7872013449668884
+    },
+    {
+      "start": 2.16,
+      "end": 2.72,
+      "text": "opportunity",
+      "probability": 0.997308611869812
+    },
+    {
+      "start": 2.72,
+      "end": 3.7,
+      "text": "for",
+      "probability": 0.9417859315872192
+    },
+    {
+      "start": 3.7,
+      "end": 3.84,
+      "text": "a",
+      "probability": 0.9969024062156677
+    },
+    {
+      "start": 3.84,
+      "end": 4.22,
+      "text": "queen?",
+      "probability": 0.881247878074646
+    },
+    {
+      "start": 5.3,
+      "end": 5.38,
+      "text": "I",
+      "probability": 0.9915237426757812
+    },
+    {
+      "start": 5.38,
+      "end": 5.84,
+      "text": "expected",
+      "probability": 0.9739804267883301
+    },
+    {
+      "start": 5.84,
+      "end": 6.4,
+      "text": "better.",
+      "probability": 0.9968861937522888
+    }
+  ],
+  "text": "You traded a perfectly good pawn opportunity for a queen? I expected better."
+}

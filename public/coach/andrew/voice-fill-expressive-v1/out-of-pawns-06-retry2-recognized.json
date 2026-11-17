@@ -1,0 +1,77 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 6.8266875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.98,
+      "text": " Not a single. I am taking this personally. Get theirs!",
+      "noSpeechProbability": 0.005216268356889486
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.28,
+      "text": "Not",
+      "probability": 0.6466701626777649
+    },
+    {
+      "start": 0.28,
+      "end": 0.42,
+      "text": "a",
+      "probability": 0.9485248923301697
+    },
+    {
+      "start": 0.42,
+      "end": 0.88,
+      "text": "single.",
+      "probability": 0.9825066328048706
+    },
+    {
+      "start": 2.86,
+      "end": 2.96,
+      "text": "I",
+      "probability": 0.9851245880126953
+    },
+    {
+      "start": 2.96,
+      "end": 3.08,
+      "text": "am",
+      "probability": 0.9472849369049072
+    },
+    {
+      "start": 3.08,
+      "end": 3.54,
+      "text": "taking",
+      "probability": 0.9923557043075562
+    },
+    {
+      "start": 3.54,
+      "end": 3.82,
+      "text": "this",
+      "probability": 0.9945380091667175
+    },
+    {
+      "start": 3.82,
+      "end": 4.5,
+      "text": "personally.",
+      "probability": 0.9590139389038086
+    },
+    {
+      "start": 5.44,
+      "end": 5.48,
+      "text": "Get",
+      "probability": 0.9131042957305908
+    },
+    {
+      "start": 5.48,
+      "end": 5.98,
+      "text": "theirs!",
+      "probability": 0.5483283400535583
+    }
+  ],
+  "text": "Not a single. I am taking this personally. Get theirs!"
+}

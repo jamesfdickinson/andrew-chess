@@ -1,0 +1,65 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 3.901,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.36,
+      "text": " One pawn down. Start planning the next collection.",
+      "noSpeechProbability": 0.005214823875576258
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.22,
+      "text": "One",
+      "probability": 0.7715219259262085
+    },
+    {
+      "start": 0.22,
+      "end": 0.5,
+      "text": "pawn",
+      "probability": 0.45369547605514526
+    },
+    {
+      "start": 0.5,
+      "end": 0.96,
+      "text": "down.",
+      "probability": 0.989843487739563
+    },
+    {
+      "start": 1.54,
+      "end": 1.7,
+      "text": "Start",
+      "probability": 0.9879355430603027
+    },
+    {
+      "start": 1.7,
+      "end": 2.18,
+      "text": "planning",
+      "probability": 0.9543656706809998
+    },
+    {
+      "start": 2.18,
+      "end": 2.42,
+      "text": "the",
+      "probability": 0.9971616268157959
+    },
+    {
+      "start": 2.42,
+      "end": 2.64,
+      "text": "next",
+      "probability": 0.997753918170929
+    },
+    {
+      "start": 2.64,
+      "end": 3.36,
+      "text": "collection.",
+      "probability": 0.9924882650375366
+    }
+  ],
+  "text": "One pawn down. Start planning the next collection."
+}

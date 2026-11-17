@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.712125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.18,
+      "text": " they have their eye on a pawn. Our pawn kindly discouraged them.",
+      "noSpeechProbability": 0.0024966744240373373
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.12,
+      "text": "they",
+      "probability": 0.3377162218093872
+    },
+    {
+      "start": 0.12,
+      "end": 0.36,
+      "text": "have",
+      "probability": 0.9979076385498047
+    },
+    {
+      "start": 0.36,
+      "end": 0.52,
+      "text": "their",
+      "probability": 0.995313286781311
+    },
+    {
+      "start": 0.52,
+      "end": 0.78,
+      "text": "eye",
+      "probability": 0.967755913734436
+    },
+    {
+      "start": 0.78,
+      "end": 0.98,
+      "text": "on",
+      "probability": 0.986626923084259
+    },
+    {
+      "start": 0.98,
+      "end": 1.04,
+      "text": "a",
+      "probability": 0.9664974212646484
+    },
+    {
+      "start": 1.04,
+      "end": 1.38,
+      "text": "pawn.",
+      "probability": 0.5985832810401917
+    },
+    {
+      "start": 2.24,
+      "end": 2.62,
+      "text": "Our",
+      "probability": 0.9361807107925415
+    },
+    {
+      "start": 2.62,
+      "end": 3.02,
+      "text": "pawn",
+      "probability": 0.945584237575531
+    },
+    {
+      "start": 3.02,
+      "end": 4.28,
+      "text": "kindly",
+      "probability": 0.877905011177063
+    },
+    {
+      "start": 4.28,
+      "end": 4.66,
+      "text": "discouraged",
+      "probability": 0.8979036211967468
+    },
+    {
+      "start": 4.66,
+      "end": 5.18,
+      "text": "them.",
+      "probability": 0.9977542757987976
+    }
+  ],
+  "text": "they have their eye on a pawn. Our pawn kindly discouraged them."
+}

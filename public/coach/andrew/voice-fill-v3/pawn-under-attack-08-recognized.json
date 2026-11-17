@@ -1,0 +1,71 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 3.2508125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.9,
+      "text": " Protect that little fellow. We have plans for him.",
+      "noSpeechProbability": 0.002031614538282156
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.28,
+      "text": "Protect",
+      "probability": 0.8699146509170532
+    },
+    {
+      "start": 0.28,
+      "end": 0.62,
+      "text": "that",
+      "probability": 0.9910653233528137
+    },
+    {
+      "start": 0.62,
+      "end": 0.84,
+      "text": "little",
+      "probability": 0.99257892370224
+    },
+    {
+      "start": 0.84,
+      "end": 1.24,
+      "text": "fellow.",
+      "probability": 0.9925855994224548
+    },
+    {
+      "start": 1.72,
+      "end": 1.82,
+      "text": "We",
+      "probability": 0.9917216897010803
+    },
+    {
+      "start": 1.82,
+      "end": 1.98,
+      "text": "have",
+      "probability": 0.9975570440292358
+    },
+    {
+      "start": 1.98,
+      "end": 2.28,
+      "text": "plans",
+      "probability": 0.9976086616516113
+    },
+    {
+      "start": 2.28,
+      "end": 2.66,
+      "text": "for",
+      "probability": 0.9987708926200867
+    },
+    {
+      "start": 2.66,
+      "end": 2.9,
+      "text": "him.",
+      "probability": 0.9962643980979919
+    }
+  ],
+  "text": "Protect that little fellow. We have plans for him."
+}

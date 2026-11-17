@@ -1,0 +1,95 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.2013125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": " Their pawn stepped forward and you collected it.",
+      "noSpeechProbability": 0.000618467282038182
+    },
+    {
+      "start": 3.62,
+      "end": 4.52,
+      "text": " Beautiful timing.",
+      "noSpeechProbability": 0.000618467282038182
+    },
+    {
+      "start": 4.52,
+      "end": 4.68,
+      "text": " timing.",
+      "noSpeechProbability": 0.46308434009552
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.26,
+      "text": "Their",
+      "probability": 0.6329787969589233
+    },
+    {
+      "start": 0.26,
+      "end": 0.56,
+      "text": "pawn",
+      "probability": 0.7052778005599976
+    },
+    {
+      "start": 0.56,
+      "end": 0.96,
+      "text": "stepped",
+      "probability": 0.9793684482574463
+    },
+    {
+      "start": 0.96,
+      "end": 1.5,
+      "text": "forward",
+      "probability": 0.9973868727684021
+    },
+    {
+      "start": 1.5,
+      "end": 2.06,
+      "text": "and",
+      "probability": 0.8189813494682312
+    },
+    {
+      "start": 2.06,
+      "end": 2.32,
+      "text": "you",
+      "probability": 0.9886001944541931
+    },
+    {
+      "start": 2.32,
+      "end": 2.78,
+      "text": "collected",
+      "probability": 0.9975305199623108
+    },
+    {
+      "start": 2.78,
+      "end": 3.12,
+      "text": "it.",
+      "probability": 0.9965092539787292
+    },
+    {
+      "start": 3.62,
+      "end": 3.88,
+      "text": "Beautiful",
+      "probability": 0.9850643277168274
+    },
+    {
+      "start": 3.88,
+      "end": 4.52,
+      "text": "timing.",
+      "probability": 0.9983333945274353
+    },
+    {
+      "start": 4.52,
+      "end": 4.68,
+      "text": "timing.",
+      "probability": 0.07740531116724014
+    }
+  ],
+  "text": "Their pawn stepped forward and you collected it. Beautiful timing. timing."
+}

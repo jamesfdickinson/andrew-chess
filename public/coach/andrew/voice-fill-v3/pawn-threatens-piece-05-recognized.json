@@ -1,0 +1,77 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.45825,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.24,
+      "text": " That bigger piece has a pawn problem.",
+      "noSpeechProbability": 0.001099364715628326
+    },
+    {
+      "start": 2.8,
+      "end": 3.8,
+      "text": " Excellent placement.",
+      "noSpeechProbability": 0.001099364715628326
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.2,
+      "text": "That",
+      "probability": 0.7008774876594543
+    },
+    {
+      "start": 0.2,
+      "end": 0.44,
+      "text": "bigger",
+      "probability": 0.8772335648536682
+    },
+    {
+      "start": 0.44,
+      "end": 0.84,
+      "text": "piece",
+      "probability": 0.9806771278381348
+    },
+    {
+      "start": 0.84,
+      "end": 1.22,
+      "text": "has",
+      "probability": 0.9969184398651123
+    },
+    {
+      "start": 1.22,
+      "end": 1.4,
+      "text": "a",
+      "probability": 0.9921120405197144
+    },
+    {
+      "start": 1.4,
+      "end": 1.68,
+      "text": "pawn",
+      "probability": 0.48346829414367676
+    },
+    {
+      "start": 1.68,
+      "end": 2.24,
+      "text": "problem.",
+      "probability": 0.9957838654518127
+    },
+    {
+      "start": 2.8,
+      "end": 3.24,
+      "text": "Excellent",
+      "probability": 0.9787341356277466
+    },
+    {
+      "start": 3.24,
+      "end": 3.8,
+      "text": "placement.",
+      "probability": 0.9780513048171997
+    }
+  ],
+  "text": "That bigger piece has a pawn problem. Excellent placement."
+}

@@ -1,0 +1,95 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.712125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.3,
+      "text": " A freshly delivered pond. You did not keep it waiting. I like that.",
+      "noSpeechProbability": 0.0025257638189941645
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.14,
+      "text": "A",
+      "probability": 0.745373010635376
+    },
+    {
+      "start": 0.14,
+      "end": 0.56,
+      "text": "freshly",
+      "probability": 0.9942995309829712
+    },
+    {
+      "start": 0.56,
+      "end": 1.1,
+      "text": "delivered",
+      "probability": 0.9513340592384338
+    },
+    {
+      "start": 1.1,
+      "end": 1.5,
+      "text": "pond.",
+      "probability": 0.596185028553009
+    },
+    {
+      "start": 2.42,
+      "end": 2.46,
+      "text": "You",
+      "probability": 0.9837069511413574
+    },
+    {
+      "start": 2.46,
+      "end": 2.62,
+      "text": "did",
+      "probability": 0.9876714944839478
+    },
+    {
+      "start": 2.62,
+      "end": 2.94,
+      "text": "not",
+      "probability": 0.9878507256507874
+    },
+    {
+      "start": 2.94,
+      "end": 3.28,
+      "text": "keep",
+      "probability": 0.9982125759124756
+    },
+    {
+      "start": 3.28,
+      "end": 3.46,
+      "text": "it",
+      "probability": 0.9899212121963501
+    },
+    {
+      "start": 3.46,
+      "end": 3.78,
+      "text": "waiting.",
+      "probability": 0.9887403845787048
+    },
+    {
+      "start": 4.38,
+      "end": 4.6,
+      "text": "I",
+      "probability": 0.995911717414856
+    },
+    {
+      "start": 4.6,
+      "end": 4.9,
+      "text": "like",
+      "probability": 0.9470310807228088
+    },
+    {
+      "start": 4.9,
+      "end": 5.3,
+      "text": "that.",
+      "probability": 0.9980712532997131
+    }
+  ],
+  "text": "A freshly delivered pond. You did not keep it waiting. I like that."
+}

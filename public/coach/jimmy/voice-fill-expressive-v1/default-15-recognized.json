@@ -1,0 +1,119 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.8514375,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.8,
+      "text": " Are you inviting a pawn forward so you can take it later?",
+      "noSpeechProbability": 0.0010052463039755821
+    },
+    {
+      "start": 4.0,
+      "end": 4.96,
+      "text": " I like the ambition.",
+      "noSpeechProbability": 0.0010052463039755821
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.16,
+      "text": "Are",
+      "probability": 0.9224891662597656
+    },
+    {
+      "start": 0.16,
+      "end": 0.3,
+      "text": "you",
+      "probability": 0.9952806830406189
+    },
+    {
+      "start": 0.3,
+      "end": 0.66,
+      "text": "inviting",
+      "probability": 0.9940245747566223
+    },
+    {
+      "start": 0.66,
+      "end": 0.86,
+      "text": "a",
+      "probability": 0.9878509640693665
+    },
+    {
+      "start": 0.86,
+      "end": 1.14,
+      "text": "pawn",
+      "probability": 0.8995662331581116
+    },
+    {
+      "start": 1.14,
+      "end": 1.54,
+      "text": "forward",
+      "probability": 0.9956259727478027
+    },
+    {
+      "start": 1.54,
+      "end": 1.92,
+      "text": "so",
+      "probability": 0.9190338253974915
+    },
+    {
+      "start": 1.92,
+      "end": 2.06,
+      "text": "you",
+      "probability": 0.9904841184616089
+    },
+    {
+      "start": 2.06,
+      "end": 2.2,
+      "text": "can",
+      "probability": 0.9948834776878357
+    },
+    {
+      "start": 2.2,
+      "end": 2.44,
+      "text": "take",
+      "probability": 0.9989252686500549
+    },
+    {
+      "start": 2.44,
+      "end": 2.56,
+      "text": "it",
+      "probability": 0.9982870221138
+    },
+    {
+      "start": 2.56,
+      "end": 2.8,
+      "text": "later?",
+      "probability": 0.9982838034629822
+    },
+    {
+      "start": 4.0,
+      "end": 4.06,
+      "text": "I",
+      "probability": 0.9870089888572693
+    },
+    {
+      "start": 4.06,
+      "end": 4.28,
+      "text": "like",
+      "probability": 0.966362476348877
+    },
+    {
+      "start": 4.28,
+      "end": 4.54,
+      "text": "the",
+      "probability": 0.9909552931785583
+    },
+    {
+      "start": 4.54,
+      "end": 4.96,
+      "text": "ambition.",
+      "probability": 0.994617760181427
+    }
+  ],
+  "text": "Are you inviting a pawn forward so you can take it later? I like the ambition."
+}

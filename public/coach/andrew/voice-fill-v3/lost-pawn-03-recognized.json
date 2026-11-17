@@ -1,0 +1,131 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 6.8266875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": " Your opponent helped themselves to a pawn.",
+      "noSpeechProbability": 0.002147058490663767
+    },
+    {
+      "start": 2.98,
+      "end": 3.84,
+      "text": " That was our pawn.",
+      "noSpeechProbability": 0.002147058490663767
+    },
+    {
+      "start": 4.56,
+      "end": 6.4,
+      "text": " I want better care next time.",
+      "noSpeechProbability": 0.002147058490663767
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.16,
+      "text": "Your",
+      "probability": 0.8170269131660461
+    },
+    {
+      "start": 0.16,
+      "end": 0.6,
+      "text": "opponent",
+      "probability": 0.9700722098350525
+    },
+    {
+      "start": 0.6,
+      "end": 0.94,
+      "text": "helped",
+      "probability": 0.988450288772583
+    },
+    {
+      "start": 0.94,
+      "end": 1.54,
+      "text": "themselves",
+      "probability": 0.9524110555648804
+    },
+    {
+      "start": 1.54,
+      "end": 1.82,
+      "text": "to",
+      "probability": 0.98876953125
+    },
+    {
+      "start": 1.82,
+      "end": 1.92,
+      "text": "a",
+      "probability": 0.8525010943412781
+    },
+    {
+      "start": 1.92,
+      "end": 2.16,
+      "text": "pawn.",
+      "probability": 0.9623771905899048
+    },
+    {
+      "start": 2.98,
+      "end": 3.06,
+      "text": "That",
+      "probability": 0.9870137572288513
+    },
+    {
+      "start": 3.06,
+      "end": 3.28,
+      "text": "was",
+      "probability": 0.9981117248535156
+    },
+    {
+      "start": 3.28,
+      "end": 3.5,
+      "text": "our",
+      "probability": 0.9925792813301086
+    },
+    {
+      "start": 3.5,
+      "end": 3.84,
+      "text": "pawn.",
+      "probability": 0.9965795874595642
+    },
+    {
+      "start": 4.56,
+      "end": 4.72,
+      "text": "I",
+      "probability": 0.9938340187072754
+    },
+    {
+      "start": 4.72,
+      "end": 4.92,
+      "text": "want",
+      "probability": 0.9959271550178528
+    },
+    {
+      "start": 4.92,
+      "end": 5.26,
+      "text": "better",
+      "probability": 0.9966637492179871
+    },
+    {
+      "start": 5.26,
+      "end": 5.64,
+      "text": "care",
+      "probability": 0.9976196885108948
+    },
+    {
+      "start": 5.64,
+      "end": 5.92,
+      "text": "next",
+      "probability": 0.9942644238471985
+    },
+    {
+      "start": 5.92,
+      "end": 6.4,
+      "text": "time.",
+      "probability": 0.9989770650863647
+    }
+  ],
+  "text": "Your opponent helped themselves to a pawn. That was our pawn. I want better care next time."
+}

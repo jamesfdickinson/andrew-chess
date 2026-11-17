@@ -1,0 +1,6813 @@
+{
+  "out-of-pawns-01": {
+    "original": "/coach/shared/originals/out-of-pawns-01-1794863129589-992e8774.webm",
+    "savedAt": "2026-11-16T21:05:29.589Z",
+    "bytes": 633385,
+    "processingError": null,
+    "video": "/coach/shared/styled/out-of-pawns-01-1794863129589-992e8774-200x200-ea8fd53b-f28980d0.mp4",
+    "style": {
+      "size": 200,
+      "pixelSize": 200,
+      "fps": 12,
+      "saturation": 1.1,
+      "contrast": 1.05,
+      "crf": 26
+    },
+    "styleId": "ea8fd53b",
+    "styledBytes": 49082,
+    "processedAt": "2026-11-16T21:20:24.096Z",
+    "variants": {
+      "pixel50": {
+        "video": "/coach/shared/styled/out-of-pawns-01-1794863129589-992e8774-50x50-528559cf-0d233f29.mp4",
+        "style": {
+          "size": 50,
+          "pixelSize": 50,
+          "fps": 12,
+          "saturation": 1.1,
+          "contrast": 1.05,
+          "crf": 26
+        },
+        "styleId": "528559cf",
+        "styledBytes": 31761,
+        "processedAt": "2026-11-16T21:20:24.266Z"
+      },
+      "natural100": {
+        "video": "/coach/shared/styled/out-of-pawns-01-1794863129589-992e8774-100x100-960aa03f-654ac88e.mp4",
+        "style": {
+          "size": 100,
+          "pixelSize": 100,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "960aa03f",
+        "styledBytes": 48602,
+        "processedAt": "2026-11-16T21:20:24.436Z"
+      },
+      "pixel32": {
+        "video": "/coach/shared/styled/out-of-pawns-01-1794863129589-992e8774-32x32-1b4370fc-473e95ec.mp4",
+        "style": {
+          "size": 32,
+          "pixelSize": 32,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "1b4370fc",
+        "styledBytes": 32312,
+        "processedAt": "2026-11-16T21:20:24.594Z"
+      }
+    },
+    "analysis": {
+      "id": "577f20ba-c99a-4e90-bb34-145f50ec3a3f",
+      "url": "/coach/shared/analysis/577f20ba-c99a-4e90-bb34-145f50ec3a3f/analysis.json",
+      "revision": "d7dbf32e-88d6-4d26-94de-84c5b761d647"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/out-of-pawns-01-1794863129589-992e8774.webm",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.95,
+          "mouth": 1
+        },
+        {
+          "at": 1,
+          "mouth": 2
+        },
+        {
+          "at": 1.1,
+          "mouth": 1
+        },
+        {
+          "at": 1.2,
+          "mouth": 0
+        },
+        {
+          "at": 1.25,
+          "mouth": 2
+        },
+        {
+          "at": 1.4,
+          "mouth": 1
+        },
+        {
+          "at": 1.45,
+          "mouth": 0
+        },
+        {
+          "at": 1.5,
+          "mouth": 2
+        },
+        {
+          "at": 1.55,
+          "mouth": 1
+        },
+        {
+          "at": 1.65,
+          "mouth": 0
+        },
+        {
+          "at": 1.95,
+          "mouth": 1
+        },
+        {
+          "at": 2.05,
+          "mouth": 2
+        },
+        {
+          "at": 2.2,
+          "mouth": 1
+        },
+        {
+          "at": 2.3,
+          "mouth": 0
+        },
+        {
+          "at": 2.4,
+          "mouth": 2
+        },
+        {
+          "at": 2.6,
+          "mouth": 1
+        },
+        {
+          "at": 2.65,
+          "mouth": 0
+        },
+        {
+          "at": 2.8,
+          "mouth": 1
+        },
+        {
+          "at": 2.85,
+          "mouth": 0
+        },
+        {
+          "at": 3.06,
+          "mouth": 0
+        }
+      ]
+    },
+    "videoPerformance": {
+      "id": "433524ae-739e-4e28-8c28-d843505860ab",
+      "source": "/coach/shared/originals/out-of-pawns-01-1794863129589-992e8774.webm",
+      "url": "/coach/shared/video-performance/433524ae-739e-4e28-8c28-d843505860ab/plan.json"
+    }
+  },
+  "queen-for-pawn-01": {
+    "original": "/coach/shared/originals/queen-for-pawn-01-1794862740481-c8afc562.webm",
+    "savedAt": "2026-11-16T20:59:00.481Z",
+    "bytes": 925840,
+    "processingError": null,
+    "video": "/coach/shared/styled/queen-for-pawn-01-1794862740481-c8afc562-200x200-ea8fd53b-95844abd.mp4",
+    "style": {
+      "size": 200,
+      "pixelSize": 200,
+      "fps": 12,
+      "saturation": 1.1,
+      "contrast": 1.05,
+      "crf": 26
+    },
+    "styleId": "ea8fd53b",
+    "styledBytes": 62631,
+    "processedAt": "2026-11-16T21:20:25.716Z",
+    "variants": {
+      "pixel50": {
+        "video": "/coach/shared/styled/queen-for-pawn-01-1794862740481-c8afc562-50x50-528559cf-b46fb19d.mp4",
+        "style": {
+          "size": 50,
+          "pixelSize": 50,
+          "fps": 12,
+          "saturation": 1.1,
+          "contrast": 1.05,
+          "crf": 26
+        },
+        "styleId": "528559cf",
+        "styledBytes": 44342,
+        "processedAt": "2026-11-16T21:20:25.919Z"
+      },
+      "natural100": {
+        "video": "/coach/shared/styled/queen-for-pawn-01-1794862740481-c8afc562-100x100-960aa03f-c8f850bf.mp4",
+        "style": {
+          "size": 100,
+          "pixelSize": 100,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "960aa03f",
+        "styledBytes": 61485,
+        "processedAt": "2026-11-16T21:20:26.136Z"
+      },
+      "pixel32": {
+        "video": "/coach/shared/styled/queen-for-pawn-01-1794862740481-c8afc562-32x32-1b4370fc-32406fc8.mp4",
+        "style": {
+          "size": 32,
+          "pixelSize": 32,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "1b4370fc",
+        "styledBytes": 43944,
+        "processedAt": "2026-11-16T21:20:26.353Z"
+      }
+    },
+    "analysis": {
+      "id": "485ec463-451b-46f9-9b64-494d48f964cd",
+      "url": "/coach/shared/analysis/485ec463-451b-46f9-9b64-494d48f964cd/analysis.json",
+      "revision": "7f7a9450-48d0-4146-aa02-dd055d6990ae"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/queen-for-pawn-01-1794862740481-c8afc562.webm",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.25,
+          "mouth": 1
+        },
+        {
+          "at": 0.4,
+          "mouth": 0
+        },
+        {
+          "at": 0.55,
+          "mouth": 1
+        },
+        {
+          "at": 0.6,
+          "mouth": 2
+        },
+        {
+          "at": 0.85,
+          "mouth": 0
+        },
+        {
+          "at": 0.9,
+          "mouth": 1
+        },
+        {
+          "at": 0.95,
+          "mouth": 2
+        },
+        {
+          "at": 1,
+          "mouth": 1
+        },
+        {
+          "at": 1.05,
+          "mouth": 2
+        },
+        {
+          "at": 1.2,
+          "mouth": 1
+        },
+        {
+          "at": 1.25,
+          "mouth": 0
+        },
+        {
+          "at": 1.3,
+          "mouth": 1
+        },
+        {
+          "at": 1.6,
+          "mouth": 0
+        },
+        {
+          "at": 1.75,
+          "mouth": 1
+        },
+        {
+          "at": 1.8,
+          "mouth": 2
+        },
+        {
+          "at": 2.05,
+          "mouth": 1
+        },
+        {
+          "at": 2.25,
+          "mouth": 2
+        },
+        {
+          "at": 2.3,
+          "mouth": 1
+        },
+        {
+          "at": 2.45,
+          "mouth": 0
+        },
+        {
+          "at": 2.85,
+          "mouth": 1
+        },
+        {
+          "at": 2.9,
+          "mouth": 2
+        },
+        {
+          "at": 2.95,
+          "mouth": 1
+        },
+        {
+          "at": 3.05,
+          "mouth": 2
+        },
+        {
+          "at": 3.15,
+          "mouth": 1
+        },
+        {
+          "at": 3.2,
+          "mouth": 0
+        },
+        {
+          "at": 3.25,
+          "mouth": 2
+        },
+        {
+          "at": 3.4,
+          "mouth": 1
+        },
+        {
+          "at": 3.5,
+          "mouth": 2
+        },
+        {
+          "at": 3.55,
+          "mouth": 1
+        },
+        {
+          "at": 3.7,
+          "mouth": 0
+        },
+        {
+          "at": 3.95,
+          "mouth": 1
+        },
+        {
+          "at": 4.05,
+          "mouth": 0
+        },
+        {
+          "at": 4.5,
+          "mouth": 0
+        }
+      ]
+    }
+  },
+  "queen-for-pawn-02": {
+    "original": "/coach/shared/originals/queen-for-pawn-02-1794812937129-6004f818.webm",
+    "video": "/coach/shared/styled/queen-for-pawn-02-1794812937129-6004f818-200x200-ea8fd53b-77202839.mp4",
+    "savedAt": "2026-11-16T07:08:57.134Z",
+    "bytes": 675005,
+    "processingError": null,
+    "style": {
+      "size": 200,
+      "pixelSize": 200,
+      "fps": 12,
+      "saturation": 1.1,
+      "contrast": 1.05,
+      "crf": 26
+    },
+    "styleId": "ea8fd53b",
+    "styledBytes": 57359,
+    "processedAt": "2026-11-16T07:19:44.211Z",
+    "variants": {
+      "pixel50": {
+        "video": "/coach/shared/styled/queen-for-pawn-02-1794812937129-6004f818-50x50-528559cf-b0c7a7fd.mp4",
+        "style": {
+          "size": 50,
+          "pixelSize": 50,
+          "fps": 12,
+          "saturation": 1.1,
+          "contrast": 1.05,
+          "crf": 26
+        },
+        "styleId": "528559cf",
+        "styledBytes": 41196,
+        "processedAt": "2026-11-16T07:19:44.532Z"
+      },
+      "natural100": {
+        "video": "/coach/shared/styled/queen-for-pawn-02-1794812937129-6004f818-100x100-960aa03f-1f04ca24.mp4",
+        "style": {
+          "size": 100,
+          "pixelSize": 100,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "960aa03f",
+        "styledBytes": 58120,
+        "processedAt": "2026-11-16T07:19:44.806Z"
+      },
+      "pixel32": {
+        "video": "/coach/shared/styled/queen-for-pawn-02-1794812937129-6004f818-32x32-1b4370fc-131d479d.mp4",
+        "style": {
+          "size": 32,
+          "pixelSize": 32,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "1b4370fc",
+        "styledBytes": 41116,
+        "processedAt": "2026-11-16T07:27:07.357Z"
+      }
+    },
+    "analysis": {
+      "id": "50994635-a7bc-4b2d-83fa-576d2e9a9b12",
+      "url": "/coach/shared/analysis/50994635-a7bc-4b2d-83fa-576d2e9a9b12/analysis.json",
+      "revision": "4331f698-1ae5-4da1-a9a1-1c98fc24fc02"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/queen-for-pawn-02-1794812937129-6004f818.webm",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 4.08,
+          "mouth": 0
+        }
+      ]
+    }
+  },
+  "queen-for-pawn-03": {
+    "original": "/coach/shared/originals/queen-for-pawn-03-1794813938761-04036ad4.webm",
+    "video": "/coach/shared/styled/queen-for-pawn-03-1794813938761-04036ad4-200x200-ea8fd53b-8517ce46.mp4",
+    "savedAt": "2026-11-16T07:25:38.772Z",
+    "bytes": 461667,
+    "processingError": null,
+    "style": {
+      "size": 200,
+      "pixelSize": 200,
+      "fps": 12,
+      "saturation": 1.1,
+      "contrast": 1.05,
+      "crf": 26
+    },
+    "styleId": "ea8fd53b",
+    "styledBytes": 42837,
+    "processedAt": "2026-11-16T07:25:39.406Z",
+    "variants": {
+      "pixel50": {
+        "video": "/coach/shared/styled/queen-for-pawn-03-1794813938761-04036ad4-50x50-528559cf-5b4cb7a0.mp4",
+        "style": {
+          "size": 50,
+          "pixelSize": 50,
+          "fps": 12,
+          "saturation": 1.1,
+          "contrast": 1.05,
+          "crf": 26
+        },
+        "styleId": "528559cf",
+        "styledBytes": 29302,
+        "processedAt": "2026-11-16T07:25:39.926Z"
+      },
+      "natural100": {
+        "video": "/coach/shared/styled/queen-for-pawn-03-1794813938761-04036ad4-100x100-960aa03f-17eb27f0.mp4",
+        "style": {
+          "size": 100,
+          "pixelSize": 100,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "960aa03f",
+        "styledBytes": 42791,
+        "processedAt": "2026-11-16T07:25:40.485Z"
+      },
+      "pixel32": {
+        "video": "/coach/shared/styled/queen-for-pawn-03-1794813938761-04036ad4-32x32-1b4370fc-3c6366b1.mp4",
+        "style": {
+          "size": 32,
+          "pixelSize": 32,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "1b4370fc",
+        "styledBytes": 29168,
+        "processedAt": "2026-11-16T07:27:07.652Z"
+      }
+    },
+    "analysis": {
+      "id": "8a661697-0c12-4af4-a949-8e13189f30ed",
+      "url": "/coach/shared/analysis/8a661697-0c12-4af4-a949-8e13189f30ed/analysis.json",
+      "revision": "08de54a4-430b-4b1e-afe7-6db654f03a9f"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/queen-for-pawn-03-1794813938761-04036ad4.webm",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 2.3,
+          "mouth": 2
+        },
+        {
+          "at": 2.35,
+          "mouth": 0
+        },
+        {
+          "at": 2.55,
+          "mouth": 2
+        },
+        {
+          "at": 2.6,
+          "mouth": 0
+        },
+        {
+          "at": 2.76,
+          "mouth": 0
+        }
+      ]
+    }
+  },
+  "out-of-pawns-02": {
+    "original": "/coach/shared/originals/out-of-pawns-02-1794866974779-0d8efbdf.webm",
+    "video": "/coach/shared/styled/out-of-pawns-02-1794866974779-0d8efbdf-200x200-ea8fd53b-c2b24574.mp4",
+    "savedAt": "2026-11-16T22:09:34.813Z",
+    "bytes": 1277173,
+    "processingError": null,
+    "style": {
+      "size": 200,
+      "pixelSize": 200,
+      "fps": 12,
+      "saturation": 1.1,
+      "contrast": 1.05,
+      "crf": 26
+    },
+    "styleId": "ea8fd53b",
+    "styledBytes": 105545,
+    "processedAt": "2026-11-16T22:09:35.192Z",
+    "variants": {
+      "pixel50": {
+        "video": "/coach/shared/styled/out-of-pawns-02-1794866974779-0d8efbdf-50x50-528559cf-6d891ef5.mp4",
+        "style": {
+          "size": 50,
+          "pixelSize": 50,
+          "fps": 12,
+          "saturation": 1.1,
+          "contrast": 1.05,
+          "crf": 26
+        },
+        "styleId": "528559cf",
+        "styledBytes": 64202,
+        "processedAt": "2026-11-16T22:09:35.509Z"
+      },
+      "natural100": {
+        "video": "/coach/shared/styled/out-of-pawns-02-1794866974779-0d8efbdf-100x100-960aa03f-cf99a970.mp4",
+        "style": {
+          "size": 100,
+          "pixelSize": 100,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "960aa03f",
+        "styledBytes": 109626,
+        "processedAt": "2026-11-16T22:09:35.787Z"
+      },
+      "pixel32": {
+        "video": "/coach/shared/styled/out-of-pawns-02-1794866974779-0d8efbdf-32x32-1b4370fc-d56b3ffa.mp4",
+        "style": {
+          "size": 32,
+          "pixelSize": 32,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "1b4370fc",
+        "styledBytes": 63992,
+        "processedAt": "2026-11-16T22:09:36.028Z"
+      }
+    },
+    "analysis": {
+      "id": "ccffaacd-783d-4a72-97b9-0eff15d5822a",
+      "url": "/coach/shared/analysis/ccffaacd-783d-4a72-97b9-0eff15d5822a/analysis.json",
+      "revision": "5427a579-2144-41c2-8e31-096b29034314"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/out-of-pawns-02-1794866974779-0d8efbdf.webm",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.9,
+          "mouth": 1
+        },
+        {
+          "at": 0.95,
+          "mouth": 2
+        },
+        {
+          "at": 1.05,
+          "mouth": 1
+        },
+        {
+          "at": 1.15,
+          "mouth": 2
+        },
+        {
+          "at": 1.3,
+          "mouth": 1
+        },
+        {
+          "at": 1.35,
+          "mouth": 2
+        },
+        {
+          "at": 1.55,
+          "mouth": 0
+        },
+        {
+          "at": 1.95,
+          "mouth": 1
+        },
+        {
+          "at": 2.1,
+          "mouth": 2
+        },
+        {
+          "at": 2.15,
+          "mouth": 1
+        },
+        {
+          "at": 2.2,
+          "mouth": 0
+        },
+        {
+          "at": 2.25,
+          "mouth": 1
+        },
+        {
+          "at": 2.3,
+          "mouth": 2
+        },
+        {
+          "at": 2.5,
+          "mouth": 1
+        },
+        {
+          "at": 2.55,
+          "mouth": 0
+        },
+        {
+          "at": 3,
+          "mouth": 1
+        },
+        {
+          "at": 3.35,
+          "mouth": 0
+        },
+        {
+          "at": 3.45,
+          "mouth": 2
+        },
+        {
+          "at": 3.5,
+          "mouth": 1
+        },
+        {
+          "at": 3.9,
+          "mouth": 2
+        },
+        {
+          "at": 3.95,
+          "mouth": 1
+        },
+        {
+          "at": 4,
+          "mouth": 0
+        },
+        {
+          "at": 4.3,
+          "mouth": 1
+        },
+        {
+          "at": 4.35,
+          "mouth": 0
+        },
+        {
+          "at": 4.5,
+          "mouth": 1
+        },
+        {
+          "at": 4.7,
+          "mouth": 0
+        },
+        {
+          "at": 4.75,
+          "mouth": 1
+        },
+        {
+          "at": 5.3,
+          "mouth": 0
+        },
+        {
+          "at": 6.18,
+          "mouth": 0
+        }
+      ]
+    },
+    "videoPerformance": {
+      "id": "43417560-11da-46f2-ad7c-0bbcedebe5a4",
+      "source": "/coach/shared/originals/out-of-pawns-02-1794866974779-0d8efbdf.webm",
+      "url": "/coach/shared/video-performance/43417560-11da-46f2-ad7c-0bbcedebe5a4/plan.json"
+    }
+  },
+  "default-01": {
+    "original": "/coach/shared/originals/default-01-1794861325175-cb84d7ca.webm",
+    "video": "/coach/shared/styled/default-01-1794861325175-cb84d7ca-200x200-ea8fd53b-73af341c.mp4",
+    "savedAt": "2026-11-16T20:35:25.183Z",
+    "bytes": 974097,
+    "processingError": null,
+    "style": {
+      "size": 200,
+      "pixelSize": 200,
+      "fps": 12,
+      "saturation": 1.1,
+      "contrast": 1.05,
+      "crf": 26
+    },
+    "styleId": "ea8fd53b",
+    "styledBytes": 64646,
+    "processedAt": "2026-11-16T20:35:25.447Z",
+    "variants": {
+      "pixel50": {
+        "video": "/coach/shared/styled/default-01-1794861325175-cb84d7ca-50x50-528559cf-b25ae100.mp4",
+        "style": {
+          "size": 50,
+          "pixelSize": 50,
+          "fps": 12,
+          "saturation": 1.1,
+          "contrast": 1.05,
+          "crf": 26
+        },
+        "styleId": "528559cf",
+        "styledBytes": 46567,
+        "processedAt": "2026-11-16T20:35:25.667Z"
+      },
+      "natural100": {
+        "video": "/coach/shared/styled/default-01-1794861325175-cb84d7ca-100x100-960aa03f-9ecd0c9c.mp4",
+        "style": {
+          "size": 100,
+          "pixelSize": 100,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "960aa03f",
+        "styledBytes": 68261,
+        "processedAt": "2026-11-16T20:35:25.894Z"
+      },
+      "pixel32": {
+        "video": "/coach/shared/styled/default-01-1794861325175-cb84d7ca-32x32-1b4370fc-22fae7f9.mp4",
+        "style": {
+          "size": 32,
+          "pixelSize": 32,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "1b4370fc",
+        "styledBytes": 46042,
+        "processedAt": "2026-11-16T20:35:26.129Z"
+      }
+    },
+    "analysis": {
+      "id": "0237b1e6-0925-46f3-a47f-5ae40641fb50",
+      "url": "/coach/shared/analysis/0237b1e6-0925-46f3-a47f-5ae40641fb50/revision-972c7ce8-9b2b-4026-a15d-754e786dd337.json",
+      "revision": "972c7ce8-9b2b-4026-a15d-754e786dd337"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/default-01-1794861325175-cb84d7ca.webm",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 1.35,
+          "mouth": 1
+        },
+        {
+          "at": 1.45,
+          "mouth": 0
+        },
+        {
+          "at": 1.5,
+          "mouth": 1
+        },
+        {
+          "at": 1.6,
+          "mouth": 2
+        },
+        {
+          "at": 1.8,
+          "mouth": 1
+        },
+        {
+          "at": 1.95,
+          "mouth": 2
+        },
+        {
+          "at": 2,
+          "mouth": 1
+        },
+        {
+          "at": 2.1,
+          "mouth": 0
+        },
+        {
+          "at": 2.2,
+          "mouth": 2
+        },
+        {
+          "at": 2.4,
+          "mouth": 1
+        },
+        {
+          "at": 2.55,
+          "mouth": 0
+        },
+        {
+          "at": 3.05,
+          "mouth": 1
+        },
+        {
+          "at": 3.15,
+          "mouth": 0
+        },
+        {
+          "at": 3.2,
+          "mouth": 1
+        },
+        {
+          "at": 3.3,
+          "mouth": 2
+        },
+        {
+          "at": 3.4,
+          "mouth": 1
+        },
+        {
+          "at": 3.55,
+          "mouth": 2
+        },
+        {
+          "at": 3.6,
+          "mouth": 1
+        },
+        {
+          "at": 3.65,
+          "mouth": 0
+        },
+        {
+          "at": 3.7,
+          "mouth": 1
+        },
+        {
+          "at": 3.85,
+          "mouth": 2
+        },
+        {
+          "at": 4,
+          "mouth": 1
+        },
+        {
+          "at": 4.05,
+          "mouth": 0
+        },
+        {
+          "at": 4.1,
+          "mouth": 1
+        },
+        {
+          "at": 4.2,
+          "mouth": 0
+        },
+        {
+          "at": 4.74,
+          "mouth": 0
+        }
+      ]
+    }
+  },
+  "default-02": {
+    "original": "/coach/shared/originals/default-02-1794861356892-35b1a754.webm",
+    "video": "/coach/shared/styled/default-02-1794861356892-35b1a754-200x200-ea8fd53b-59f334a2.mp4",
+    "savedAt": "2026-11-16T20:35:56.899Z",
+    "bytes": 944572,
+    "processingError": null,
+    "style": {
+      "size": 200,
+      "pixelSize": 200,
+      "fps": 12,
+      "saturation": 1.1,
+      "contrast": 1.05,
+      "crf": 26
+    },
+    "styleId": "ea8fd53b",
+    "styledBytes": 82585,
+    "processedAt": "2026-11-16T20:35:57.138Z",
+    "variants": {
+      "pixel50": {
+        "video": "/coach/shared/styled/default-02-1794861356892-35b1a754-50x50-528559cf-f6efc541.mp4",
+        "style": {
+          "size": 50,
+          "pixelSize": 50,
+          "fps": 12,
+          "saturation": 1.1,
+          "contrast": 1.05,
+          "crf": 26
+        },
+        "styleId": "528559cf",
+        "styledBytes": 48377,
+        "processedAt": "2026-11-16T20:35:57.359Z"
+      },
+      "natural100": {
+        "video": "/coach/shared/styled/default-02-1794861356892-35b1a754-100x100-960aa03f-345c626e.mp4",
+        "style": {
+          "size": 100,
+          "pixelSize": 100,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "960aa03f",
+        "styledBytes": 84579,
+        "processedAt": "2026-11-16T20:35:57.583Z"
+      },
+      "pixel32": {
+        "video": "/coach/shared/styled/default-02-1794861356892-35b1a754-32x32-1b4370fc-954cabc0.mp4",
+        "style": {
+          "size": 32,
+          "pixelSize": 32,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "1b4370fc",
+        "styledBytes": 48962,
+        "processedAt": "2026-11-16T20:35:57.817Z"
+      }
+    },
+    "analysis": {
+      "id": "4599976e-1003-4c7a-a27e-8f53f6286308",
+      "url": "/coach/shared/analysis/4599976e-1003-4c7a-a27e-8f53f6286308/revision-1a8e76ee-a34e-4982-be9b-e2e63ee9f97f.json",
+      "revision": "1a8e76ee-a34e-4982-be9b-e2e63ee9f97f"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/default-02-1794861356892-35b1a754.webm",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.7,
+          "mouth": 1
+        },
+        {
+          "at": 0.75,
+          "mouth": 2
+        },
+        {
+          "at": 0.9,
+          "mouth": 1
+        },
+        {
+          "at": 1.4,
+          "mouth": 0
+        },
+        {
+          "at": 1.45,
+          "mouth": 1
+        },
+        {
+          "at": 1.75,
+          "mouth": 0
+        },
+        {
+          "at": 2.1,
+          "mouth": 1
+        },
+        {
+          "at": 2.15,
+          "mouth": 2
+        },
+        {
+          "at": 2.35,
+          "mouth": 1
+        },
+        {
+          "at": 2.45,
+          "mouth": 0
+        },
+        {
+          "at": 2.5,
+          "mouth": 1
+        },
+        {
+          "at": 2.7,
+          "mouth": 2
+        },
+        {
+          "at": 2.75,
+          "mouth": 1
+        },
+        {
+          "at": 2.9,
+          "mouth": 0
+        },
+        {
+          "at": 2.95,
+          "mouth": 1
+        },
+        {
+          "at": 3.2,
+          "mouth": 0
+        },
+        {
+          "at": 3.55,
+          "mouth": 2
+        },
+        {
+          "at": 3.65,
+          "mouth": 1
+        },
+        {
+          "at": 3.7,
+          "mouth": 2
+        },
+        {
+          "at": 3.8,
+          "mouth": 1
+        },
+        {
+          "at": 3.95,
+          "mouth": 0
+        },
+        {
+          "at": 4.62,
+          "mouth": 0
+        }
+      ]
+    }
+  },
+  "default-03": {
+    "original": "/coach/shared/originals/default-03-1794861389597-3f2cdf42.webm",
+    "video": "/coach/shared/styled/default-03-1794861389597-3f2cdf42-200x200-ea8fd53b-d2944d5d.mp4",
+    "savedAt": "2026-11-16T20:36:29.604Z",
+    "bytes": 1072924,
+    "processingError": null,
+    "style": {
+      "size": 200,
+      "pixelSize": 200,
+      "fps": 12,
+      "saturation": 1.1,
+      "contrast": 1.05,
+      "crf": 26
+    },
+    "styleId": "ea8fd53b",
+    "styledBytes": 76385,
+    "processedAt": "2026-11-16T20:36:29.868Z",
+    "variants": {
+      "pixel50": {
+        "video": "/coach/shared/styled/default-03-1794861389597-3f2cdf42-50x50-528559cf-9e8e95ba.mp4",
+        "style": {
+          "size": 50,
+          "pixelSize": 50,
+          "fps": 12,
+          "saturation": 1.1,
+          "contrast": 1.05,
+          "crf": 26
+        },
+        "styleId": "528559cf",
+        "styledBytes": 51649,
+        "processedAt": "2026-11-16T20:36:30.123Z"
+      },
+      "natural100": {
+        "video": "/coach/shared/styled/default-03-1794861389597-3f2cdf42-100x100-960aa03f-67125eca.mp4",
+        "style": {
+          "size": 100,
+          "pixelSize": 100,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "960aa03f",
+        "styledBytes": 79037,
+        "processedAt": "2026-11-16T20:36:30.366Z"
+      },
+      "pixel32": {
+        "video": "/coach/shared/styled/default-03-1794861389597-3f2cdf42-32x32-1b4370fc-57af1ddd.mp4",
+        "style": {
+          "size": 32,
+          "pixelSize": 32,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "1b4370fc",
+        "styledBytes": 51504,
+        "processedAt": "2026-11-16T20:36:30.638Z"
+      }
+    },
+    "analysis": {
+      "id": "73201831-87d6-44af-af78-036070932060",
+      "url": "/coach/shared/analysis/73201831-87d6-44af-af78-036070932060/revision-ff5400b7-3ad2-4936-9299-52fcd37e5881.json",
+      "revision": "ff5400b7-3ad2-4936-9299-52fcd37e5881"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/default-03-1794861389597-3f2cdf42.webm",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.65,
+          "mouth": 1
+        },
+        {
+          "at": 0.8,
+          "mouth": 0
+        },
+        {
+          "at": 0.9,
+          "mouth": 2
+        },
+        {
+          "at": 1.2,
+          "mouth": 1
+        },
+        {
+          "at": 1.25,
+          "mouth": 0
+        },
+        {
+          "at": 1.3,
+          "mouth": 1
+        },
+        {
+          "at": 1.35,
+          "mouth": 2
+        },
+        {
+          "at": 1.55,
+          "mouth": 1
+        },
+        {
+          "at": 1.6,
+          "mouth": 0
+        },
+        {
+          "at": 2.1,
+          "mouth": 2
+        },
+        {
+          "at": 2.3,
+          "mouth": 1
+        },
+        {
+          "at": 2.6,
+          "mouth": 2
+        },
+        {
+          "at": 2.65,
+          "mouth": 1
+        },
+        {
+          "at": 2.95,
+          "mouth": 0
+        },
+        {
+          "at": 3,
+          "mouth": 1
+        },
+        {
+          "at": 3.05,
+          "mouth": 0
+        },
+        {
+          "at": 3.15,
+          "mouth": 1
+        },
+        {
+          "at": 3.3,
+          "mouth": 0
+        },
+        {
+          "at": 3.4,
+          "mouth": 1
+        },
+        {
+          "at": 3.6,
+          "mouth": 0
+        },
+        {
+          "at": 4.5,
+          "mouth": 1
+        },
+        {
+          "at": 4.6,
+          "mouth": 0
+        },
+        {
+          "at": 5.16,
+          "mouth": 0
+        }
+      ]
+    }
+  },
+  "default-04": {
+    "original": "/coach/shared/originals/default-04-1794861996652-47d49e42.webm",
+    "video": "/coach/shared/styled/default-04-1794861996652-47d49e42-200x200-ea8fd53b-d9ab7901.mp4",
+    "savedAt": "2026-11-16T20:46:36.658Z",
+    "bytes": 1372586,
+    "processingError": null,
+    "style": {
+      "size": 200,
+      "pixelSize": 200,
+      "fps": 12,
+      "saturation": 1.1,
+      "contrast": 1.05,
+      "crf": 26
+    },
+    "styleId": "ea8fd53b",
+    "styledBytes": 112604,
+    "processedAt": "2026-11-16T20:46:37.019Z",
+    "variants": {
+      "pixel50": {
+        "video": "/coach/shared/styled/default-04-1794861996652-47d49e42-50x50-528559cf-8dea0293.mp4",
+        "style": {
+          "size": 50,
+          "pixelSize": 50,
+          "fps": 12,
+          "saturation": 1.1,
+          "contrast": 1.05,
+          "crf": 26
+        },
+        "styleId": "528559cf",
+        "styledBytes": 69535,
+        "processedAt": "2026-11-16T20:46:37.309Z"
+      },
+      "natural100": {
+        "video": "/coach/shared/styled/default-04-1794861996652-47d49e42-100x100-960aa03f-71f102f9.mp4",
+        "style": {
+          "size": 100,
+          "pixelSize": 100,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "960aa03f",
+        "styledBytes": 119853,
+        "processedAt": "2026-11-16T20:46:37.628Z"
+      },
+      "pixel32": {
+        "video": "/coach/shared/styled/default-04-1794861996652-47d49e42-32x32-1b4370fc-cb76fe2d.mp4",
+        "style": {
+          "size": 32,
+          "pixelSize": 32,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "1b4370fc",
+        "styledBytes": 69223,
+        "processedAt": "2026-11-16T20:46:37.922Z"
+      }
+    },
+    "analysis": {
+      "id": "637749e6-f3b1-41d6-9a44-08ef0c5a36d2",
+      "url": "/coach/shared/analysis/637749e6-f3b1-41d6-9a44-08ef0c5a36d2/revision-29839e9f-9c83-4ef9-afb8-e2f68b68fbc0.json",
+      "revision": "29839e9f-9c83-4ef9-afb8-e2f68b68fbc0"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/default-04-1794861996652-47d49e42.webm",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.9,
+          "mouth": 1
+        },
+        {
+          "at": 1,
+          "mouth": 0
+        },
+        {
+          "at": 1.05,
+          "mouth": 1
+        },
+        {
+          "at": 1.4,
+          "mouth": 0
+        },
+        {
+          "at": 1.45,
+          "mouth": 1
+        },
+        {
+          "at": 1.55,
+          "mouth": 0
+        },
+        {
+          "at": 1.7,
+          "mouth": 1
+        },
+        {
+          "at": 1.9,
+          "mouth": 0
+        },
+        {
+          "at": 2,
+          "mouth": 1
+        },
+        {
+          "at": 2.2,
+          "mouth": 0
+        },
+        {
+          "at": 2.35,
+          "mouth": 1
+        },
+        {
+          "at": 2.6,
+          "mouth": 0
+        },
+        {
+          "at": 2.7,
+          "mouth": 1
+        },
+        {
+          "at": 2.85,
+          "mouth": 0
+        },
+        {
+          "at": 3.4,
+          "mouth": 1
+        },
+        {
+          "at": 3.5,
+          "mouth": 0
+        },
+        {
+          "at": 3.55,
+          "mouth": 1
+        },
+        {
+          "at": 3.6,
+          "mouth": 2
+        },
+        {
+          "at": 3.7,
+          "mouth": 1
+        },
+        {
+          "at": 3.75,
+          "mouth": 0
+        },
+        {
+          "at": 3.8,
+          "mouth": 1
+        },
+        {
+          "at": 3.85,
+          "mouth": 2
+        },
+        {
+          "at": 4.05,
+          "mouth": 1
+        },
+        {
+          "at": 4.15,
+          "mouth": 2
+        },
+        {
+          "at": 4.25,
+          "mouth": 1
+        },
+        {
+          "at": 4.3,
+          "mouth": 0
+        },
+        {
+          "at": 4.7,
+          "mouth": 1
+        },
+        {
+          "at": 4.9,
+          "mouth": 0
+        },
+        {
+          "at": 5.05,
+          "mouth": 1
+        },
+        {
+          "at": 5.1,
+          "mouth": 2
+        },
+        {
+          "at": 5.3,
+          "mouth": 1
+        },
+        {
+          "at": 5.65,
+          "mouth": 0
+        },
+        {
+          "at": 6.72,
+          "mouth": 0
+        }
+      ]
+    }
+  },
+  "idle-01": {
+    "original": "/coach/shared/originals/idle-01-1794862047668-def5e104.webm",
+    "video": "/coach/shared/styled/idle-01-1794862047668-def5e104-200x200-ea8fd53b-1876135e.mp4",
+    "savedAt": "2026-11-16T20:47:27.675Z",
+    "bytes": 934238,
+    "processingError": null,
+    "style": {
+      "size": 200,
+      "pixelSize": 200,
+      "fps": 12,
+      "saturation": 1.1,
+      "contrast": 1.05,
+      "crf": 26
+    },
+    "styleId": "ea8fd53b",
+    "styledBytes": 63144,
+    "processedAt": "2026-11-16T20:47:27.918Z",
+    "variants": {
+      "pixel50": {
+        "video": "/coach/shared/styled/idle-01-1794862047668-def5e104-50x50-528559cf-84669294.mp4",
+        "style": {
+          "size": 50,
+          "pixelSize": 50,
+          "fps": 12,
+          "saturation": 1.1,
+          "contrast": 1.05,
+          "crf": 26
+        },
+        "styleId": "528559cf",
+        "styledBytes": 44900,
+        "processedAt": "2026-11-16T20:47:28.135Z"
+      },
+      "natural100": {
+        "video": "/coach/shared/styled/idle-01-1794862047668-def5e104-100x100-960aa03f-ed247ce1.mp4",
+        "style": {
+          "size": 100,
+          "pixelSize": 100,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "960aa03f",
+        "styledBytes": 64110,
+        "processedAt": "2026-11-16T20:47:28.379Z"
+      },
+      "pixel32": {
+        "video": "/coach/shared/styled/idle-01-1794862047668-def5e104-32x32-1b4370fc-b72df571.mp4",
+        "style": {
+          "size": 32,
+          "pixelSize": 32,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "1b4370fc",
+        "styledBytes": 44412,
+        "processedAt": "2026-11-16T20:47:28.639Z"
+      }
+    },
+    "analysis": {
+      "id": "058d0975-3fe4-4cbc-ac26-4fee08252414",
+      "url": "/coach/shared/analysis/058d0975-3fe4-4cbc-ac26-4fee08252414/revision-ffbbcac6-e5ff-4092-a18b-e06a4e7a8b0c.json",
+      "revision": "ffbbcac6-e5ff-4092-a18b-e06a4e7a8b0c"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/idle-01-1794862047668-def5e104.webm",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.6,
+          "mouth": 1
+        },
+        {
+          "at": 0.7,
+          "mouth": 0
+        },
+        {
+          "at": 0.75,
+          "mouth": 1
+        },
+        {
+          "at": 0.85,
+          "mouth": 0
+        },
+        {
+          "at": 0.9,
+          "mouth": 1
+        },
+        {
+          "at": 1.3,
+          "mouth": 0
+        },
+        {
+          "at": 2.1,
+          "mouth": 1
+        },
+        {
+          "at": 2.4,
+          "mouth": 2
+        },
+        {
+          "at": 2.5,
+          "mouth": 1
+        },
+        {
+          "at": 2.55,
+          "mouth": 2
+        },
+        {
+          "at": 2.6,
+          "mouth": 1
+        },
+        {
+          "at": 2.65,
+          "mouth": 0
+        },
+        {
+          "at": 2.7,
+          "mouth": 1
+        },
+        {
+          "at": 2.75,
+          "mouth": 2
+        },
+        {
+          "at": 2.8,
+          "mouth": 1
+        },
+        {
+          "at": 2.9,
+          "mouth": 2
+        },
+        {
+          "at": 2.95,
+          "mouth": 1
+        },
+        {
+          "at": 3,
+          "mouth": 0
+        },
+        {
+          "at": 3.05,
+          "mouth": 1
+        },
+        {
+          "at": 3.1,
+          "mouth": 2
+        },
+        {
+          "at": 3.15,
+          "mouth": 1
+        },
+        {
+          "at": 3.2,
+          "mouth": 2
+        },
+        {
+          "at": 3.25,
+          "mouth": 1
+        },
+        {
+          "at": 3.3,
+          "mouth": 0
+        },
+        {
+          "at": 3.35,
+          "mouth": 2
+        },
+        {
+          "at": 3.55,
+          "mouth": 1
+        },
+        {
+          "at": 3.7,
+          "mouth": 0
+        },
+        {
+          "at": 4.56,
+          "mouth": 0
+        }
+      ]
+    }
+  },
+  "idle-02": {
+    "original": "/coach/shared/originals/idle-02-1794862078699-819ef55b.webm",
+    "video": "/coach/shared/styled/idle-02-1794862078699-819ef55b-200x200-ea8fd53b-0e3ac1ef.mp4",
+    "savedAt": "2026-11-16T20:47:58.705Z",
+    "bytes": 924015,
+    "processingError": null,
+    "style": {
+      "size": 200,
+      "pixelSize": 200,
+      "fps": 12,
+      "saturation": 1.1,
+      "contrast": 1.05,
+      "crf": 26
+    },
+    "styleId": "ea8fd53b",
+    "styledBytes": 64771,
+    "processedAt": "2026-11-16T20:47:58.944Z",
+    "variants": {
+      "pixel50": {
+        "video": "/coach/shared/styled/idle-02-1794862078699-819ef55b-50x50-528559cf-5d6a88b7.mp4",
+        "style": {
+          "size": 50,
+          "pixelSize": 50,
+          "fps": 12,
+          "saturation": 1.1,
+          "contrast": 1.05,
+          "crf": 26
+        },
+        "styleId": "528559cf",
+        "styledBytes": 44545,
+        "processedAt": "2026-11-16T20:47:59.173Z"
+      },
+      "natural100": {
+        "video": "/coach/shared/styled/idle-02-1794862078699-819ef55b-100x100-960aa03f-c78166be.mp4",
+        "style": {
+          "size": 100,
+          "pixelSize": 100,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "960aa03f",
+        "styledBytes": 67605,
+        "processedAt": "2026-11-16T20:47:59.395Z"
+      },
+      "pixel32": {
+        "video": "/coach/shared/styled/idle-02-1794862078699-819ef55b-32x32-1b4370fc-556ee092.mp4",
+        "style": {
+          "size": 32,
+          "pixelSize": 32,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "1b4370fc",
+        "styledBytes": 44262,
+        "processedAt": "2026-11-16T20:47:59.654Z"
+      }
+    },
+    "analysis": {
+      "id": "3cf9afa3-da13-43e3-b5cb-ea955ad04056",
+      "url": "/coach/shared/analysis/3cf9afa3-da13-43e3-b5cb-ea955ad04056/revision-b12da66c-ecdf-4347-88d6-45ec0c7314e9.json",
+      "revision": "b12da66c-ecdf-4347-88d6-45ec0c7314e9"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/idle-02-1794862078699-819ef55b.webm",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.75,
+          "mouth": 1
+        },
+        {
+          "at": 0.85,
+          "mouth": 0
+        },
+        {
+          "at": 0.95,
+          "mouth": 1
+        },
+        {
+          "at": 1,
+          "mouth": 2
+        },
+        {
+          "at": 1.6,
+          "mouth": 1
+        },
+        {
+          "at": 1.7,
+          "mouth": 0
+        },
+        {
+          "at": 1.85,
+          "mouth": 1
+        },
+        {
+          "at": 1.95,
+          "mouth": 0
+        },
+        {
+          "at": 2.1,
+          "mouth": 1
+        },
+        {
+          "at": 2.15,
+          "mouth": 2
+        },
+        {
+          "at": 2.25,
+          "mouth": 1
+        },
+        {
+          "at": 2.5,
+          "mouth": 2
+        },
+        {
+          "at": 2.6,
+          "mouth": 1
+        },
+        {
+          "at": 2.75,
+          "mouth": 2
+        },
+        {
+          "at": 2.85,
+          "mouth": 1
+        },
+        {
+          "at": 3.05,
+          "mouth": 2
+        },
+        {
+          "at": 3.15,
+          "mouth": 1
+        },
+        {
+          "at": 3.2,
+          "mouth": 0
+        },
+        {
+          "at": 3.25,
+          "mouth": 2
+        },
+        {
+          "at": 3.35,
+          "mouth": 1
+        },
+        {
+          "at": 3.45,
+          "mouth": 2
+        },
+        {
+          "at": 3.65,
+          "mouth": 1
+        },
+        {
+          "at": 3.75,
+          "mouth": 0
+        },
+        {
+          "at": 4.38,
+          "mouth": 0
+        }
+      ]
+    }
+  },
+  "idle-03": {
+    "original": "/coach/shared/originals/idle-03-1794862109876-cb245822.webm",
+    "video": "/coach/shared/styled/idle-03-1794862109876-cb245822-200x200-ea8fd53b-7fa7966b.mp4",
+    "savedAt": "2026-11-16T20:48:29.885Z",
+    "bytes": 1414795,
+    "processingError": null,
+    "style": {
+      "size": 200,
+      "pixelSize": 200,
+      "fps": 12,
+      "saturation": 1.1,
+      "contrast": 1.05,
+      "crf": 26
+    },
+    "styleId": "ea8fd53b",
+    "styledBytes": 102908,
+    "processedAt": "2026-11-16T20:48:30.212Z",
+    "variants": {
+      "pixel50": {
+        "video": "/coach/shared/styled/idle-03-1794862109876-cb245822-50x50-528559cf-6fe95a86.mp4",
+        "style": {
+          "size": 50,
+          "pixelSize": 50,
+          "fps": 12,
+          "saturation": 1.1,
+          "contrast": 1.05,
+          "crf": 26
+        },
+        "styleId": "528559cf",
+        "styledBytes": 68545,
+        "processedAt": "2026-11-16T20:48:30.528Z"
+      },
+      "natural100": {
+        "video": "/coach/shared/styled/idle-03-1794862109876-cb245822-100x100-960aa03f-bc0eadf0.mp4",
+        "style": {
+          "size": 100,
+          "pixelSize": 100,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "960aa03f",
+        "styledBytes": 109659,
+        "processedAt": "2026-11-16T20:48:30.908Z"
+      },
+      "pixel32": {
+        "video": "/coach/shared/styled/idle-03-1794862109876-cb245822-32x32-1b4370fc-3ca1c5f6.mp4",
+        "style": {
+          "size": 32,
+          "pixelSize": 32,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "1b4370fc",
+        "styledBytes": 69496,
+        "processedAt": "2026-11-16T20:48:31.314Z"
+      }
+    },
+    "analysis": {
+      "id": "d97d39bb-720d-4a90-bbed-98e7fbf4ba4d",
+      "url": "/coach/shared/analysis/d97d39bb-720d-4a90-bbed-98e7fbf4ba4d/revision-9a02a286-1114-439f-bff8-0b0d571d66c0.json",
+      "revision": "9a02a286-1114-439f-bff8-0b0d571d66c0"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/idle-03-1794862109876-cb245822.webm",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.7,
+          "mouth": 1
+        },
+        {
+          "at": 0.75,
+          "mouth": 2
+        },
+        {
+          "at": 0.8,
+          "mouth": 1
+        },
+        {
+          "at": 0.9,
+          "mouth": 2
+        },
+        {
+          "at": 1,
+          "mouth": 1
+        },
+        {
+          "at": 1.05,
+          "mouth": 0
+        },
+        {
+          "at": 1.1,
+          "mouth": 1
+        },
+        {
+          "at": 1.15,
+          "mouth": 2
+        },
+        {
+          "at": 1.3,
+          "mouth": 1
+        },
+        {
+          "at": 1.4,
+          "mouth": 0
+        },
+        {
+          "at": 1.45,
+          "mouth": 1
+        },
+        {
+          "at": 1.5,
+          "mouth": 2
+        },
+        {
+          "at": 1.6,
+          "mouth": 1
+        },
+        {
+          "at": 1.65,
+          "mouth": 0
+        },
+        {
+          "at": 1.7,
+          "mouth": 1
+        },
+        {
+          "at": 1.85,
+          "mouth": 0
+        },
+        {
+          "at": 2.65,
+          "mouth": 1
+        },
+        {
+          "at": 2.85,
+          "mouth": 2
+        },
+        {
+          "at": 2.9,
+          "mouth": 1
+        },
+        {
+          "at": 3,
+          "mouth": 0
+        },
+        {
+          "at": 3.05,
+          "mouth": 2
+        },
+        {
+          "at": 3.3,
+          "mouth": 1
+        },
+        {
+          "at": 3.35,
+          "mouth": 0
+        },
+        {
+          "at": 4.2,
+          "mouth": 1
+        },
+        {
+          "at": 4.25,
+          "mouth": 2
+        },
+        {
+          "at": 4.65,
+          "mouth": 1
+        },
+        {
+          "at": 4.8,
+          "mouth": 2
+        },
+        {
+          "at": 4.95,
+          "mouth": 1
+        },
+        {
+          "at": 5,
+          "mouth": 2
+        },
+        {
+          "at": 5.1,
+          "mouth": 1
+        },
+        {
+          "at": 5.2,
+          "mouth": 0
+        },
+        {
+          "at": 5.35,
+          "mouth": 1
+        },
+        {
+          "at": 5.4,
+          "mouth": 0
+        },
+        {
+          "at": 5.5,
+          "mouth": 1
+        },
+        {
+          "at": 5.6,
+          "mouth": 2
+        },
+        {
+          "at": 5.8,
+          "mouth": 1
+        },
+        {
+          "at": 5.85,
+          "mouth": 2
+        },
+        {
+          "at": 5.9,
+          "mouth": 1
+        },
+        {
+          "at": 6,
+          "mouth": 0
+        },
+        {
+          "at": 6.05,
+          "mouth": 1
+        },
+        {
+          "at": 6.3,
+          "mouth": 0
+        },
+        {
+          "at": 6.84,
+          "mouth": 0
+        }
+      ]
+    }
+  },
+  "missed-pawn-01": {
+    "original": "/coach/shared/originals/missed-pawn-01-1794863961450-1daaaf7a.webm",
+    "video": "/coach/shared/styled/missed-pawn-01-1794863961450-1daaaf7a-200x200-ea8fd53b-3cb186cd.mp4",
+    "savedAt": "2026-11-16T21:19:21.461Z",
+    "bytes": 1558947,
+    "processingError": null,
+    "style": {
+      "size": 200,
+      "pixelSize": 200,
+      "fps": 12,
+      "saturation": 1.1,
+      "contrast": 1.05,
+      "crf": 26
+    },
+    "styleId": "ea8fd53b",
+    "styledBytes": 122069,
+    "processedAt": "2026-11-16T21:19:21.819Z",
+    "variants": {
+      "pixel50": {
+        "video": "/coach/shared/styled/missed-pawn-01-1794863961450-1daaaf7a-50x50-528559cf-4e15a8a6.mp4",
+        "style": {
+          "size": 50,
+          "pixelSize": 50,
+          "fps": 12,
+          "saturation": 1.1,
+          "contrast": 1.05,
+          "crf": 26
+        },
+        "styleId": "528559cf",
+        "styledBytes": 77817,
+        "processedAt": "2026-11-16T21:19:22.173Z"
+      },
+      "natural100": {
+        "video": "/coach/shared/styled/missed-pawn-01-1794863961450-1daaaf7a-100x100-960aa03f-d7b6b1d2.mp4",
+        "style": {
+          "size": 100,
+          "pixelSize": 100,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "960aa03f",
+        "styledBytes": 128724,
+        "processedAt": "2026-11-16T21:19:22.529Z"
+      },
+      "pixel32": {
+        "video": "/coach/shared/styled/missed-pawn-01-1794863961450-1daaaf7a-32x32-1b4370fc-7b86ac7f.mp4",
+        "style": {
+          "size": 32,
+          "pixelSize": 32,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "1b4370fc",
+        "styledBytes": 78864,
+        "processedAt": "2026-11-16T21:19:22.854Z"
+      }
+    },
+    "analysis": {
+      "id": "05a7d2df-9418-487e-8338-117c1c038967",
+      "url": "/coach/shared/analysis/05a7d2df-9418-487e-8338-117c1c038967/analysis.json",
+      "revision": "758f3dd6-0f6d-438b-a1d9-6537dc12af5c"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/missed-pawn-01-1794863961450-1daaaf7a.webm",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.95,
+          "mouth": 1
+        },
+        {
+          "at": 1.05,
+          "mouth": 2
+        },
+        {
+          "at": 1.2,
+          "mouth": 1
+        },
+        {
+          "at": 1.25,
+          "mouth": 0
+        },
+        {
+          "at": 1.3,
+          "mouth": 2
+        },
+        {
+          "at": 1.45,
+          "mouth": 1
+        },
+        {
+          "at": 1.5,
+          "mouth": 0
+        },
+        {
+          "at": 1.55,
+          "mouth": 1
+        },
+        {
+          "at": 1.7,
+          "mouth": 2
+        },
+        {
+          "at": 1.9,
+          "mouth": 1
+        },
+        {
+          "at": 1.95,
+          "mouth": 2
+        },
+        {
+          "at": 2.1,
+          "mouth": 1
+        },
+        {
+          "at": 2.15,
+          "mouth": 0
+        },
+        {
+          "at": 2.2,
+          "mouth": 1
+        },
+        {
+          "at": 2.25,
+          "mouth": 2
+        },
+        {
+          "at": 2.3,
+          "mouth": 1
+        },
+        {
+          "at": 2.4,
+          "mouth": 0
+        },
+        {
+          "at": 2.5,
+          "mouth": 2
+        },
+        {
+          "at": 2.65,
+          "mouth": 1
+        },
+        {
+          "at": 2.85,
+          "mouth": 0
+        },
+        {
+          "at": 3.3,
+          "mouth": 1
+        },
+        {
+          "at": 3.35,
+          "mouth": 2
+        },
+        {
+          "at": 3.4,
+          "mouth": 1
+        },
+        {
+          "at": 3.45,
+          "mouth": 0
+        },
+        {
+          "at": 3.5,
+          "mouth": 1
+        },
+        {
+          "at": 3.7,
+          "mouth": 0
+        },
+        {
+          "at": 3.75,
+          "mouth": 2
+        },
+        {
+          "at": 4.2,
+          "mouth": 1
+        },
+        {
+          "at": 4.25,
+          "mouth": 0
+        },
+        {
+          "at": 4.9,
+          "mouth": 1
+        },
+        {
+          "at": 5,
+          "mouth": 0
+        },
+        {
+          "at": 5.1,
+          "mouth": 1
+        },
+        {
+          "at": 5.4,
+          "mouth": 0
+        },
+        {
+          "at": 5.5,
+          "mouth": 1
+        },
+        {
+          "at": 5.85,
+          "mouth": 0
+        },
+        {
+          "at": 6.55,
+          "mouth": 1
+        },
+        {
+          "at": 6.75,
+          "mouth": 0
+        },
+        {
+          "at": 7.62,
+          "mouth": 0
+        }
+      ]
+    }
+  },
+  "idle-04": {
+    "original": "/coach/shared/originals/idle-04-1794862960103-550a9e24.webm",
+    "savedAt": "2026-11-16T21:02:40.103Z",
+    "bytes": 1093365,
+    "processingError": null,
+    "video": "/coach/shared/styled/idle-04-1794862960103-550a9e24-200x200-ea8fd53b-01cdfbf1.mp4",
+    "style": {
+      "size": 200,
+      "pixelSize": 200,
+      "fps": 12,
+      "saturation": 1.1,
+      "contrast": 1.05,
+      "crf": 26
+    },
+    "styleId": "ea8fd53b",
+    "styledBytes": 83550,
+    "processedAt": "2026-11-16T21:20:24.837Z",
+    "variants": {
+      "pixel50": {
+        "video": "/coach/shared/styled/idle-04-1794862960103-550a9e24-50x50-528559cf-3cc4b97d.mp4",
+        "style": {
+          "size": 50,
+          "pixelSize": 50,
+          "fps": 12,
+          "saturation": 1.1,
+          "contrast": 1.05,
+          "crf": 26
+        },
+        "styleId": "528559cf",
+        "styledBytes": 52893,
+        "processedAt": "2026-11-16T21:20:25.058Z"
+      },
+      "natural100": {
+        "video": "/coach/shared/styled/idle-04-1794862960103-550a9e24-100x100-960aa03f-cbc02a1d.mp4",
+        "style": {
+          "size": 100,
+          "pixelSize": 100,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "960aa03f",
+        "styledBytes": 86126,
+        "processedAt": "2026-11-16T21:20:25.289Z"
+      },
+      "pixel32": {
+        "video": "/coach/shared/styled/idle-04-1794862960103-550a9e24-32x32-1b4370fc-78a893c0.mp4",
+        "style": {
+          "size": 32,
+          "pixelSize": 32,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "1b4370fc",
+        "styledBytes": 53461,
+        "processedAt": "2026-11-16T21:20:25.505Z"
+      }
+    },
+    "analysis": {
+      "id": "8f1717d0-ed0a-49d0-9338-e084f76017f9",
+      "url": "/coach/shared/analysis/8f1717d0-ed0a-49d0-9338-e084f76017f9/analysis.json",
+      "revision": "1b6e1d30-e3a8-4058-aed1-46e936071d16"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/idle-04-1794862960103-550a9e24.webm",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.4,
+          "mouth": 1
+        },
+        {
+          "at": 0.55,
+          "mouth": 2
+        },
+        {
+          "at": 0.75,
+          "mouth": 1
+        },
+        {
+          "at": 0.9,
+          "mouth": 0
+        },
+        {
+          "at": 1,
+          "mouth": 1
+        },
+        {
+          "at": 1.3,
+          "mouth": 0
+        },
+        {
+          "at": 1.4,
+          "mouth": 1
+        },
+        {
+          "at": 1.7,
+          "mouth": 0
+        },
+        {
+          "at": 2.1,
+          "mouth": 1
+        },
+        {
+          "at": 2.15,
+          "mouth": 2
+        },
+        {
+          "at": 2.25,
+          "mouth": 1
+        },
+        {
+          "at": 2.6,
+          "mouth": 0
+        },
+        {
+          "at": 2.9,
+          "mouth": 1
+        },
+        {
+          "at": 2.95,
+          "mouth": 2
+        },
+        {
+          "at": 3.25,
+          "mouth": 1
+        },
+        {
+          "at": 3.35,
+          "mouth": 2
+        },
+        {
+          "at": 3.4,
+          "mouth": 1
+        },
+        {
+          "at": 3.55,
+          "mouth": 0
+        },
+        {
+          "at": 3.6,
+          "mouth": 1
+        },
+        {
+          "at": 3.8,
+          "mouth": 0
+        },
+        {
+          "at": 3.85,
+          "mouth": 1
+        },
+        {
+          "at": 4.2,
+          "mouth": 0
+        },
+        {
+          "at": 5.22,
+          "mouth": 0
+        }
+      ]
+    }
+  },
+  "out-of-pawns-03": {
+    "original": "/coach/shared/originals/out-of-pawns-03-1794864026752-9a08ab43.webm",
+    "video": "/coach/shared/styled/out-of-pawns-03-1794864026752-9a08ab43-200x200-ea8fd53b-35d05590.mp4",
+    "savedAt": "2026-11-16T21:20:27.339Z",
+    "bytes": 1340002,
+    "processingError": null,
+    "style": {
+      "size": 200,
+      "pixelSize": 200,
+      "fps": 12,
+      "saturation": 1.1,
+      "contrast": 1.05,
+      "crf": 26
+    },
+    "styleId": "ea8fd53b",
+    "styledBytes": 97328,
+    "processedAt": "2026-11-16T21:21:19.404Z",
+    "variants": {
+      "pixel50": {
+        "video": "/coach/shared/styled/out-of-pawns-03-1794864026752-9a08ab43-50x50-528559cf-fd26a2a0.mp4",
+        "style": {
+          "size": 50,
+          "pixelSize": 50,
+          "fps": 12,
+          "saturation": 1.1,
+          "contrast": 1.05,
+          "crf": 26
+        },
+        "styleId": "528559cf",
+        "styledBytes": 65844,
+        "processedAt": "2026-11-16T21:21:27.792Z"
+      },
+      "natural100": {
+        "video": "/coach/shared/styled/out-of-pawns-03-1794864026752-9a08ab43-100x100-960aa03f-4f187b32.mp4",
+        "style": {
+          "size": 100,
+          "pixelSize": 100,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "960aa03f",
+        "styledBytes": 100297,
+        "processedAt": "2026-11-16T21:21:34.261Z"
+      },
+      "pixel32": {
+        "video": "/coach/shared/styled/out-of-pawns-03-1794864026752-9a08ab43-32x32-1b4370fc-b9934fb9.mp4",
+        "style": {
+          "size": 32,
+          "pixelSize": 32,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "1b4370fc",
+        "styledBytes": 65393,
+        "processedAt": "2026-11-16T21:21:34.803Z"
+      }
+    },
+    "analysis": {
+      "id": "a96c18da-b997-489b-9d93-c02f4907635f",
+      "url": "/coach/shared/analysis/a96c18da-b997-489b-9d93-c02f4907635f/revision-23047210-ecf7-4e21-839d-6d75f1f4af2a.json",
+      "revision": "23047210-ecf7-4e21-839d-6d75f1f4af2a"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/out-of-pawns-03-1794864026752-9a08ab43.webm",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 1.45,
+          "mouth": 1
+        },
+        {
+          "at": 1.65,
+          "mouth": 2
+        },
+        {
+          "at": 1.75,
+          "mouth": 1
+        },
+        {
+          "at": 1.85,
+          "mouth": 0
+        },
+        {
+          "at": 1.95,
+          "mouth": 2
+        },
+        {
+          "at": 2.2,
+          "mouth": 1
+        },
+        {
+          "at": 2.3,
+          "mouth": 0
+        },
+        {
+          "at": 2.5,
+          "mouth": 1
+        },
+        {
+          "at": 2.6,
+          "mouth": 2
+        },
+        {
+          "at": 2.7,
+          "mouth": 1
+        },
+        {
+          "at": 2.8,
+          "mouth": 0
+        },
+        {
+          "at": 3.15,
+          "mouth": 1
+        },
+        {
+          "at": 3.2,
+          "mouth": 2
+        },
+        {
+          "at": 3.3,
+          "mouth": 1
+        },
+        {
+          "at": 3.35,
+          "mouth": 0
+        },
+        {
+          "at": 3.4,
+          "mouth": 1
+        },
+        {
+          "at": 3.7,
+          "mouth": 0
+        },
+        {
+          "at": 4.15,
+          "mouth": 1
+        },
+        {
+          "at": 4.2,
+          "mouth": 2
+        },
+        {
+          "at": 4.3,
+          "mouth": 1
+        },
+        {
+          "at": 4.35,
+          "mouth": 2
+        },
+        {
+          "at": 4.45,
+          "mouth": 1
+        },
+        {
+          "at": 4.5,
+          "mouth": 2
+        },
+        {
+          "at": 4.55,
+          "mouth": 1
+        },
+        {
+          "at": 4.6,
+          "mouth": 0
+        },
+        {
+          "at": 4.65,
+          "mouth": 1
+        },
+        {
+          "at": 4.7,
+          "mouth": 2
+        },
+        {
+          "at": 4.8,
+          "mouth": 1
+        },
+        {
+          "at": 5.25,
+          "mouth": 0
+        },
+        {
+          "at": 6.54,
+          "mouth": 0
+        }
+      ]
+    },
+    "videoPerformance": {
+      "id": "c75273b0-2365-4f73-840a-c6865f18d2c7",
+      "source": "/coach/shared/originals/out-of-pawns-03-1794864026752-9a08ab43.webm",
+      "url": "/coach/shared/video-performance/c75273b0-2365-4f73-840a-c6865f18d2c7/plan.json"
+    }
+  },
+  "idle-05": {
+    "original": "/coach/shared/originals/idle-05-1794867114943-5153af96.webm",
+    "video": "/coach/shared/styled/idle-05-1794867114943-5153af96-200x200-ea8fd53b-f15dbcc0.mp4",
+    "savedAt": "2026-11-16T22:11:54.953Z",
+    "bytes": 923913,
+    "processingError": null,
+    "style": {
+      "size": 200,
+      "pixelSize": 200,
+      "fps": 12,
+      "saturation": 1.1,
+      "contrast": 1.05,
+      "crf": 26
+    },
+    "styleId": "ea8fd53b",
+    "styledBytes": 74101,
+    "processedAt": "2026-11-16T22:11:55.220Z",
+    "variants": {
+      "pixel50": {
+        "video": "/coach/shared/styled/idle-05-1794867114943-5153af96-50x50-528559cf-95313f55.mp4",
+        "style": {
+          "size": 50,
+          "pixelSize": 50,
+          "fps": 12,
+          "saturation": 1.1,
+          "contrast": 1.05,
+          "crf": 26
+        },
+        "styleId": "528559cf",
+        "styledBytes": 46709,
+        "processedAt": "2026-11-16T22:11:55.454Z"
+      },
+      "natural100": {
+        "video": "/coach/shared/styled/idle-05-1794867114943-5153af96-100x100-960aa03f-136e2412.mp4",
+        "style": {
+          "size": 100,
+          "pixelSize": 100,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "960aa03f",
+        "styledBytes": 76953,
+        "processedAt": "2026-11-16T22:11:55.685Z"
+      },
+      "pixel32": {
+        "video": "/coach/shared/styled/idle-05-1794867114943-5153af96-32x32-1b4370fc-c03adf10.mp4",
+        "style": {
+          "size": 32,
+          "pixelSize": 32,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "1b4370fc",
+        "styledBytes": 46879,
+        "processedAt": "2026-11-16T22:11:55.903Z"
+      }
+    },
+    "analysis": {
+      "id": "c3b24676-8e50-4ae4-b1f8-a23dd8e4ef52",
+      "url": "/coach/shared/analysis/c3b24676-8e50-4ae4-b1f8-a23dd8e4ef52/analysis.json",
+      "revision": "ad5e5be9-3939-4818-9fa6-5a2f4a9983b8"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/idle-05-1794867114943-5153af96.webm",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.75,
+          "mouth": 1
+        },
+        {
+          "at": 0.95,
+          "mouth": 0
+        },
+        {
+          "at": 1,
+          "mouth": 1
+        },
+        {
+          "at": 1.15,
+          "mouth": 0
+        },
+        {
+          "at": 1.25,
+          "mouth": 1
+        },
+        {
+          "at": 1.35,
+          "mouth": 0
+        },
+        {
+          "at": 1.5,
+          "mouth": 2
+        },
+        {
+          "at": 1.7,
+          "mouth": 1
+        },
+        {
+          "at": 1.85,
+          "mouth": 0
+        },
+        {
+          "at": 1.9,
+          "mouth": 2
+        },
+        {
+          "at": 2,
+          "mouth": 1
+        },
+        {
+          "at": 2.05,
+          "mouth": 0
+        },
+        {
+          "at": 2.2,
+          "mouth": 1
+        },
+        {
+          "at": 2.35,
+          "mouth": 0
+        },
+        {
+          "at": 2.7,
+          "mouth": 1
+        },
+        {
+          "at": 2.95,
+          "mouth": 2
+        },
+        {
+          "at": 3.05,
+          "mouth": 0
+        },
+        {
+          "at": 3.1,
+          "mouth": 1
+        },
+        {
+          "at": 3.15,
+          "mouth": 0
+        },
+        {
+          "at": 3.25,
+          "mouth": 2
+        },
+        {
+          "at": 3.45,
+          "mouth": 1
+        },
+        {
+          "at": 3.6,
+          "mouth": 0
+        },
+        {
+          "at": 4.5,
+          "mouth": 0
+        }
+      ]
+    }
+  },
+  "idle-06": {
+    "original": "/coach/shared/originals/idle-06-1794869100318-55f43f06.webm",
+    "video": "/coach/shared/styled/idle-06-1794869100318-55f43f06-200x200-ea8fd53b-1b124c6e.mp4",
+    "savedAt": "2026-11-16T22:45:00.332Z",
+    "bytes": 1330204,
+    "processingError": null,
+    "style": {
+      "size": 200,
+      "pixelSize": 200,
+      "fps": 12,
+      "saturation": 1.1,
+      "contrast": 1.05,
+      "crf": 26
+    },
+    "styleId": "ea8fd53b",
+    "styledBytes": 95919,
+    "processedAt": "2026-11-16T22:45:00.664Z",
+    "variants": {
+      "pixel50": {
+        "video": "/coach/shared/styled/idle-06-1794869100318-55f43f06-50x50-528559cf-a7a27d70.mp4",
+        "style": {
+          "size": 50,
+          "pixelSize": 50,
+          "fps": 12,
+          "saturation": 1.1,
+          "contrast": 1.05,
+          "crf": 26
+        },
+        "styleId": "528559cf",
+        "styledBytes": 64876,
+        "processedAt": "2026-11-16T22:45:00.935Z"
+      },
+      "natural100": {
+        "video": "/coach/shared/styled/idle-06-1794869100318-55f43f06-100x100-960aa03f-be0b8224.mp4",
+        "style": {
+          "size": 100,
+          "pixelSize": 100,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "960aa03f",
+        "styledBytes": 100821,
+        "processedAt": "2026-11-16T22:45:01.205Z"
+      },
+      "pixel32": {
+        "video": "/coach/shared/styled/idle-06-1794869100318-55f43f06-32x32-1b4370fc-151010ab.mp4",
+        "style": {
+          "size": 32,
+          "pixelSize": 32,
+          "fps": 12,
+          "saturation": 1,
+          "contrast": 1.03,
+          "crf": 18
+        },
+        "styleId": "1b4370fc",
+        "styledBytes": 65306,
+        "processedAt": "2026-11-16T22:45:01.519Z"
+      }
+    },
+    "analysis": {
+      "id": "bf10f59d-950c-4de3-9466-6c71affebcca",
+      "url": "/coach/shared/analysis/bf10f59d-950c-4de3-9466-6c71affebcca/analysis.json",
+      "revision": "84633837-4850-4254-9d2b-6d10daa7987d"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/idle-06-1794869100318-55f43f06.webm",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 1.35,
+          "mouth": 1
+        },
+        {
+          "at": 1.45,
+          "mouth": 0
+        },
+        {
+          "at": 1.55,
+          "mouth": 1
+        },
+        {
+          "at": 1.6,
+          "mouth": 2
+        },
+        {
+          "at": 1.8,
+          "mouth": 1
+        },
+        {
+          "at": 2.1,
+          "mouth": 0
+        },
+        {
+          "at": 2.15,
+          "mouth": 1
+        },
+        {
+          "at": 2.4,
+          "mouth": 0
+        },
+        {
+          "at": 2.5,
+          "mouth": 1
+        },
+        {
+          "at": 2.6,
+          "mouth": 2
+        },
+        {
+          "at": 2.65,
+          "mouth": 1
+        },
+        {
+          "at": 2.7,
+          "mouth": 0
+        },
+        {
+          "at": 2.75,
+          "mouth": 1
+        },
+        {
+          "at": 3.05,
+          "mouth": 0
+        },
+        {
+          "at": 3.15,
+          "mouth": 2
+        },
+        {
+          "at": 3.25,
+          "mouth": 1
+        },
+        {
+          "at": 3.35,
+          "mouth": 2
+        },
+        {
+          "at": 3.45,
+          "mouth": 1
+        },
+        {
+          "at": 3.5,
+          "mouth": 2
+        },
+        {
+          "at": 3.6,
+          "mouth": 1
+        },
+        {
+          "at": 3.8,
+          "mouth": 2
+        },
+        {
+          "at": 4.05,
+          "mouth": 1
+        },
+        {
+          "at": 4.2,
+          "mouth": 0
+        },
+        {
+          "at": 4.3,
+          "mouth": 1
+        },
+        {
+          "at": 4.45,
+          "mouth": 2
+        },
+        {
+          "at": 4.5,
+          "mouth": 1
+        },
+        {
+          "at": 4.55,
+          "mouth": 0
+        },
+        {
+          "at": 4.6,
+          "mouth": 1
+        },
+        {
+          "at": 4.65,
+          "mouth": 2
+        },
+        {
+          "at": 4.75,
+          "mouth": 1
+        },
+        {
+          "at": 4.8,
+          "mouth": 0
+        },
+        {
+          "at": 4.85,
+          "mouth": 1
+        },
+        {
+          "at": 5,
+          "mouth": 0
+        },
+        {
+          "at": 6.48,
+          "mouth": 0
+        }
+      ]
+    },
+    "videoPerformance": {
+      "id": "59f29d95-a017-4281-91b2-6066fc81796f",
+      "source": "/coach/shared/originals/idle-06-1794869100318-55f43f06.webm",
+      "url": "/coach/shared/video-performance/59f29d95-a017-4281-91b2-6066fc81796f/plan.json"
+    }
+  },
+  "out-of-pawns-04": {
+    "original": "/coach/shared/originals/out-of-pawns-04-1794877652232-c984af6d.webm.wav",
+    "video": null,
+    "savedAt": "2026-11-17T01:07:32.236Z",
+    "bytes": 285198,
+    "mediaType": "audio",
+    "processingError": null,
+    "uploadedOriginal": "/coach/shared/originals/out-of-pawns-04-1794877652232-c984af6d.webm",
+    "takes": [
+      {
+        "original": "/coach/shared/originals/out-of-pawns-04-1794871385888-ba025a64.webm",
+        "video": null,
+        "savedAt": "2026-11-16T23:23:06.389Z",
+        "bytes": 1316532,
+        "processingError": null
+      }
+    ],
+    "analysis": {
+      "id": "1ab6cf78-bb71-4d01-a641-a4d8037c2b0c",
+      "url": "/coach/shared/analysis/1ab6cf78-bb71-4d01-a641-a4d8037c2b0c/analysis.json",
+      "revision": "4eb3227c-c069-447b-963a-141f72e6e738"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/out-of-pawns-04-1794877652232-c984af6d.webm.wav",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 1.2,
+          "mouth": 2
+        },
+        {
+          "at": 1.45,
+          "mouth": 1
+        },
+        {
+          "at": 1.5,
+          "mouth": 2
+        },
+        {
+          "at": 1.55,
+          "mouth": 0
+        },
+        {
+          "at": 1.65,
+          "mouth": 2
+        },
+        {
+          "at": 1.95,
+          "mouth": 1
+        },
+        {
+          "at": 2.1,
+          "mouth": 0
+        },
+        {
+          "at": 2.65,
+          "mouth": 1
+        },
+        {
+          "at": 2.75,
+          "mouth": 0
+        },
+        {
+          "at": 2.9,
+          "mouth": 2
+        },
+        {
+          "at": 3.25,
+          "mouth": 1
+        },
+        {
+          "at": 3.3,
+          "mouth": 2
+        },
+        {
+          "at": 3.4,
+          "mouth": 1
+        },
+        {
+          "at": 3.45,
+          "mouth": 0
+        },
+        {
+          "at": 4.4,
+          "mouth": 2
+        },
+        {
+          "at": 4.5,
+          "mouth": 1
+        },
+        {
+          "at": 4.55,
+          "mouth": 0
+        },
+        {
+          "at": 4.6,
+          "mouth": 2
+        },
+        {
+          "at": 4.65,
+          "mouth": 1
+        },
+        {
+          "at": 4.7,
+          "mouth": 0
+        },
+        {
+          "at": 4.75,
+          "mouth": 1
+        },
+        {
+          "at": 4.95,
+          "mouth": 2
+        },
+        {
+          "at": 5.05,
+          "mouth": 1
+        },
+        {
+          "at": 5.1,
+          "mouth": 0
+        },
+        {
+          "at": 5.25,
+          "mouth": 1
+        },
+        {
+          "at": 5.5,
+          "mouth": 0
+        },
+        {
+          "at": 5.94,
+          "mouth": 0
+        }
+      ]
+    },
+    "animation": {
+      "source": "/coach/shared/originals/out-of-pawns-04-1794877652232-c984af6d.webm.wav",
+      "analysisId": "1ab6cf78-bb71-4d01-a641-a4d8037c2b0c",
+      "revision": "4eb3227c-c069-447b-963a-141f72e6e738",
+      "spokenText": "We're out of pawns, but they are not. I think you know what to do",
+      "automatic": true,
+      "createdAt": "2026-11-17T01:07:35.514Z",
+      "cues": [
+        {
+          "at": 0,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.2,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.45,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.5,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.55,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.65,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.95,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.1,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.65,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.75,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.9,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 3,
+          "emotion": "curious",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.25,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.3,
+          "emotion": "curious",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.4,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.45,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.4,
+          "emotion": "curious",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.5,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.55,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.6,
+          "emotion": "curious",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.65,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.7,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.75,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.95,
+          "emotion": "curious",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.05,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.1,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.25,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.5,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 3
+        }
+      ],
+      "endingEmotion": "curious"
+    }
+  },
+  "out-of-pawns-05": {
+    "original": "/coach/shared/originals/out-of-pawns-05-1794871679639-07a7abc4.webm",
+    "video": null,
+    "savedAt": "2026-11-16T23:28:00.493Z",
+    "bytes": 1906310,
+    "processingError": null
+  },
+  "out-of-pawns-06": {
+    "original": "/coach/shared/originals/out-of-pawns-06-1794871775742-311b0921.webm",
+    "video": null,
+    "savedAt": "2026-11-16T23:29:36.194Z",
+    "bytes": 1273966,
+    "processingError": null,
+    "analysis": {
+      "id": "f38ba96e-7b55-4a81-b57a-897192d621cf",
+      "url": "/coach/shared/analysis/f38ba96e-7b55-4a81-b57a-897192d621cf/analysis.json",
+      "revision": "523d1240-a510-41f2-a073-778129f287ea"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/out-of-pawns-06-1794871775742-311b0921.webm",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 1.6,
+          "mouth": 1
+        },
+        {
+          "at": 1.9,
+          "mouth": 0
+        },
+        {
+          "at": 1.95,
+          "mouth": 1
+        },
+        {
+          "at": 2,
+          "mouth": 2
+        },
+        {
+          "at": 2.15,
+          "mouth": 1
+        },
+        {
+          "at": 2.2,
+          "mouth": 0
+        },
+        {
+          "at": 2.25,
+          "mouth": 1
+        },
+        {
+          "at": 2.3,
+          "mouth": 2
+        },
+        {
+          "at": 2.6,
+          "mouth": 1
+        },
+        {
+          "at": 2.75,
+          "mouth": 0
+        },
+        {
+          "at": 3.4,
+          "mouth": 2
+        },
+        {
+          "at": 3.6,
+          "mouth": 1
+        },
+        {
+          "at": 3.65,
+          "mouth": 2
+        },
+        {
+          "at": 3.75,
+          "mouth": 1
+        },
+        {
+          "at": 3.85,
+          "mouth": 2
+        },
+        {
+          "at": 4,
+          "mouth": 1
+        },
+        {
+          "at": 4.1,
+          "mouth": 0
+        },
+        {
+          "at": 4.2,
+          "mouth": 1
+        },
+        {
+          "at": 4.25,
+          "mouth": 2
+        },
+        {
+          "at": 4.3,
+          "mouth": 1
+        },
+        {
+          "at": 4.7,
+          "mouth": 0
+        },
+        {
+          "at": 5.05,
+          "mouth": 2
+        },
+        {
+          "at": 5.15,
+          "mouth": 1
+        },
+        {
+          "at": 5.2,
+          "mouth": 0
+        },
+        {
+          "at": 5.25,
+          "mouth": 2
+        },
+        {
+          "at": 5.5,
+          "mouth": 1
+        },
+        {
+          "at": 5.65,
+          "mouth": 0
+        },
+        {
+          "at": 6.1,
+          "mouth": 1
+        },
+        {
+          "at": 6.18,
+          "mouth": 0
+        }
+      ]
+    },
+    "animation": {
+      "source": "/coach/shared/originals/out-of-pawns-06-1794871775742-311b0921.webm",
+      "analysisId": "f38ba96e-7b55-4a81-b57a-897192d621cf",
+      "revision": "523d1240-a510-41f2-a073-778129f287ea",
+      "spokenText": "Not a single pawn left. I'm taking this personally get theirs",
+      "automatic": true,
+      "createdAt": "2026-11-16T23:31:26.535Z",
+      "cues": [
+        {
+          "at": 0,
+          "emotion": "disappointed",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.6,
+          "emotion": "disappointed",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.9,
+          "emotion": "disappointed",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.95,
+          "emotion": "disappointed",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2,
+          "emotion": "disappointed",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.15,
+          "emotion": "disappointed",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.2,
+          "emotion": "disappointed",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.25,
+          "emotion": "disappointed",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.3,
+          "emotion": "disappointed",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.6,
+          "emotion": "disappointed",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.75,
+          "emotion": "disappointed",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 3,
+          "emotion": "delighted",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.4,
+          "emotion": "delighted",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.6,
+          "emotion": "delighted",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.65,
+          "emotion": "delighted",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.75,
+          "emotion": "delighted",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.85,
+          "emotion": "delighted",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 4,
+          "emotion": "delighted",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.1,
+          "emotion": "delighted",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.2,
+          "emotion": "delighted",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.25,
+          "emotion": "delighted",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.3,
+          "emotion": "delighted",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.7,
+          "emotion": "delighted",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.05,
+          "emotion": "delighted",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.15,
+          "emotion": "delighted",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.2,
+          "emotion": "delighted",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.25,
+          "emotion": "delighted",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.5,
+          "emotion": "delighted",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.65,
+          "emotion": "delighted",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 6,
+          "emotion": "pawn-sad",
+          "mouth": 0,
+          "segmentStart": 6
+        },
+        {
+          "at": 6.1,
+          "emotion": "pawn-sad",
+          "mouth": 1,
+          "segmentStart": 6
+        },
+        {
+          "at": 6.18,
+          "emotion": "pawn-sad",
+          "mouth": 0,
+          "segmentStart": 6
+        }
+      ],
+      "endingEmotion": "pawn-sad"
+    }
+  },
+  "out-of-pawns-07": {
+    "original": "/coach/shared/originals/out-of-pawns-07-1794872700402-65f41832.webm",
+    "video": null,
+    "savedAt": "2026-11-16T23:45:00.416Z",
+    "bytes": 1167167,
+    "processingError": null,
+    "analysis": {
+      "id": "ef4a000d-dee7-4ced-bbff-192eb26d101f",
+      "url": "/coach/shared/analysis/ef4a000d-dee7-4ced-bbff-192eb26d101f/analysis.json",
+      "revision": "afa1b25d-d25b-4727-a1a4-b6b8496926ed"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/out-of-pawns-07-1794872700402-65f41832.webm",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.9,
+          "mouth": 1
+        },
+        {
+          "at": 1.1,
+          "mouth": 2
+        },
+        {
+          "at": 1.5,
+          "mouth": 1
+        },
+        {
+          "at": 1.55,
+          "mouth": 0
+        },
+        {
+          "at": 1.6,
+          "mouth": 2
+        },
+        {
+          "at": 1.8,
+          "mouth": 1
+        },
+        {
+          "at": 1.95,
+          "mouth": 0
+        },
+        {
+          "at": 2.8,
+          "mouth": 1
+        },
+        {
+          "at": 2.95,
+          "mouth": 0
+        },
+        {
+          "at": 3.05,
+          "mouth": 1
+        },
+        {
+          "at": 3.15,
+          "mouth": 0
+        },
+        {
+          "at": 3.3,
+          "mouth": 1
+        },
+        {
+          "at": 3.55,
+          "mouth": 0
+        },
+        {
+          "at": 3.6,
+          "mouth": 1
+        },
+        {
+          "at": 3.75,
+          "mouth": 0
+        },
+        {
+          "at": 3.8,
+          "mouth": 1
+        },
+        {
+          "at": 4,
+          "mouth": 0
+        },
+        {
+          "at": 4.05,
+          "mouth": 1
+        },
+        {
+          "at": 4.1,
+          "mouth": 0
+        },
+        {
+          "at": 4.2,
+          "mouth": 1
+        },
+        {
+          "at": 4.4,
+          "mouth": 0
+        },
+        {
+          "at": 4.45,
+          "mouth": 1
+        },
+        {
+          "at": 4.55,
+          "mouth": 0
+        },
+        {
+          "at": 4.75,
+          "mouth": 1
+        },
+        {
+          "at": 4.85,
+          "mouth": 0
+        },
+        {
+          "at": 4.95,
+          "mouth": 1
+        },
+        {
+          "at": 5,
+          "mouth": 0
+        },
+        {
+          "at": 5.7,
+          "mouth": 0
+        }
+      ]
+    },
+    "animation": {
+      "source": "/coach/shared/originals/out-of-pawns-07-1794872700402-65f41832.webm",
+      "analysisId": "ef4a000d-dee7-4ced-bbff-192eb26d101f",
+      "revision": "afa1b25d-d25b-4727-a1a4-b6b8496926ed",
+      "spokenText": "We may be out of pawns, but we are not out of pawn taking opportunities. Keep looking",
+      "automatic": true,
+      "createdAt": "2026-11-16T23:45:02.675Z",
+      "cues": [
+        {
+          "at": 0,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.9,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.1,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.5,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.55,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.6,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.8,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.95,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.8,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.95,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 3,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.05,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.15,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.3,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.55,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.6,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.75,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.8,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.05,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.1,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.2,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.4,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.45,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.55,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.75,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.85,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.95,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 5,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 3
+        }
+      ],
+      "endingEmotion": "curious"
+    }
+  },
+  "pawn-takes-piece-01": {
+    "original": "/coach/shared/originals/pawn-takes-piece-01-1794872973787-d57282f5.webm",
+    "video": null,
+    "savedAt": "2026-11-16T23:49:33.805Z",
+    "bytes": 1038317,
+    "processingError": null,
+    "analysis": {
+      "id": "21d07277-ec2a-41aa-9432-4f172db28f06",
+      "url": "/coach/shared/analysis/21d07277-ec2a-41aa-9432-4f172db28f06/analysis.json",
+      "revision": "72c868db-87e7-4e36-82fa-a80beae14b5e"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/pawn-takes-piece-01-1794872973787-d57282f5.webm",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.5,
+          "mouth": 1
+        },
+        {
+          "at": 0.85,
+          "mouth": 2
+        },
+        {
+          "at": 0.95,
+          "mouth": 0
+        },
+        {
+          "at": 1.05,
+          "mouth": 2
+        },
+        {
+          "at": 1.35,
+          "mouth": 1
+        },
+        {
+          "at": 1.4,
+          "mouth": 0
+        },
+        {
+          "at": 1.45,
+          "mouth": 1
+        },
+        {
+          "at": 1.5,
+          "mouth": 0
+        },
+        {
+          "at": 1.55,
+          "mouth": 1
+        },
+        {
+          "at": 1.6,
+          "mouth": 0
+        },
+        {
+          "at": 1.7,
+          "mouth": 2
+        },
+        {
+          "at": 1.8,
+          "mouth": 1
+        },
+        {
+          "at": 1.85,
+          "mouth": 0
+        },
+        {
+          "at": 1.9,
+          "mouth": 1
+        },
+        {
+          "at": 1.95,
+          "mouth": 2
+        },
+        {
+          "at": 2.05,
+          "mouth": 1
+        },
+        {
+          "at": 2.25,
+          "mouth": 0
+        },
+        {
+          "at": 2.75,
+          "mouth": 1
+        },
+        {
+          "at": 2.9,
+          "mouth": 2
+        },
+        {
+          "at": 3,
+          "mouth": 1
+        },
+        {
+          "at": 3.25,
+          "mouth": 0
+        },
+        {
+          "at": 3.3,
+          "mouth": 1
+        },
+        {
+          "at": 3.35,
+          "mouth": 0
+        },
+        {
+          "at": 3.45,
+          "mouth": 1
+        },
+        {
+          "at": 3.55,
+          "mouth": 0
+        },
+        {
+          "at": 3.75,
+          "mouth": 1
+        },
+        {
+          "at": 4.05,
+          "mouth": 0
+        },
+        {
+          "at": 4.1,
+          "mouth": 1
+        },
+        {
+          "at": 4.25,
+          "mouth": 0
+        },
+        {
+          "at": 4.3,
+          "mouth": 1
+        },
+        {
+          "at": 4.4,
+          "mouth": 0
+        },
+        {
+          "at": 5.04,
+          "mouth": 0
+        }
+      ]
+    },
+    "animation": {
+      "source": "/coach/shared/originals/pawn-takes-piece-01-1794872973787-d57282f5.webm",
+      "analysisId": "21d07277-ec2a-41aa-9432-4f172db28f06",
+      "revision": "72c868db-87e7-4e36-82fa-a80beae14b5e",
+      "spokenText": "Our little pond took a big piece. Tell me which pieces are important.",
+      "automatic": true,
+      "createdAt": "2026-11-16T23:49:36.065Z",
+      "cues": [
+        {
+          "at": 0,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.5,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.85,
+          "emotion": "curious",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.95,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.05,
+          "emotion": "curious",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.35,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.4,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.45,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.5,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.55,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.6,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.7,
+          "emotion": "curious",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.8,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.85,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.9,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.95,
+          "emotion": "curious",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.05,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.25,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.75,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.9,
+          "emotion": "curious",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 3,
+          "emotion": "encouraging",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.25,
+          "emotion": "encouraging",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.3,
+          "emotion": "encouraging",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.35,
+          "emotion": "encouraging",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.45,
+          "emotion": "encouraging",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.55,
+          "emotion": "encouraging",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.75,
+          "emotion": "encouraging",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.05,
+          "emotion": "encouraging",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.1,
+          "emotion": "encouraging",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.25,
+          "emotion": "encouraging",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.3,
+          "emotion": "encouraging",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.4,
+          "emotion": "encouraging",
+          "mouth": 0,
+          "segmentStart": 3
+        }
+      ],
+      "endingEmotion": "encouraging"
+    }
+  },
+  "pawn-takes-piece-03": {
+    "original": "/coach/shared/originals/pawn-takes-piece-03-1794874365760-4ea7ccec.webm",
+    "video": null,
+    "savedAt": "2026-11-17T00:12:45.775Z",
+    "bytes": 1074278,
+    "processingError": null,
+    "analysis": {
+      "id": "92c77f12-8142-46ea-bbbe-c09b249e2d11",
+      "url": "/coach/shared/analysis/92c77f12-8142-46ea-bbbe-c09b249e2d11/analysis.json",
+      "revision": "4cedeebd-ea9a-4a46-b691-c33938a42d43"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/pawn-takes-piece-03-1794874365760-4ea7ccec.webm",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.6,
+          "mouth": 1
+        },
+        {
+          "at": 0.65,
+          "mouth": 0
+        },
+        {
+          "at": 0.75,
+          "mouth": 1
+        },
+        {
+          "at": 0.8,
+          "mouth": 2
+        },
+        {
+          "at": 1.05,
+          "mouth": 1
+        },
+        {
+          "at": 1.1,
+          "mouth": 2
+        },
+        {
+          "at": 1.2,
+          "mouth": 1
+        },
+        {
+          "at": 1.25,
+          "mouth": 0
+        },
+        {
+          "at": 1.4,
+          "mouth": 2
+        },
+        {
+          "at": 1.55,
+          "mouth": 1
+        },
+        {
+          "at": 1.65,
+          "mouth": 0
+        },
+        {
+          "at": 1.7,
+          "mouth": 1
+        },
+        {
+          "at": 1.75,
+          "mouth": 0
+        },
+        {
+          "at": 1.8,
+          "mouth": 2
+        },
+        {
+          "at": 1.9,
+          "mouth": 1
+        },
+        {
+          "at": 2.05,
+          "mouth": 0
+        },
+        {
+          "at": 2.2,
+          "mouth": 1
+        },
+        {
+          "at": 2.35,
+          "mouth": 0
+        },
+        {
+          "at": 2.95,
+          "mouth": 1
+        },
+        {
+          "at": 3,
+          "mouth": 2
+        },
+        {
+          "at": 3.1,
+          "mouth": 1
+        },
+        {
+          "at": 3.15,
+          "mouth": 0
+        },
+        {
+          "at": 3.2,
+          "mouth": 1
+        },
+        {
+          "at": 3.5,
+          "mouth": 0
+        },
+        {
+          "at": 5.16,
+          "mouth": 0
+        }
+      ]
+    },
+    "animation": {
+      "source": "/coach/shared/originals/pawn-takes-piece-03-1794874365760-4ea7ccec.webm",
+      "analysisId": "92c77f12-8142-46ea-bbbe-c09b249e2d11",
+      "revision": "4cedeebd-ea9a-4a46-b691-c33938a42d43",
+      "spokenText": "A pond just punched above his weight. Beautiful work.",
+      "automatic": true,
+      "createdAt": "2026-11-17T00:12:47.561Z",
+      "cues": [
+        {
+          "at": 0,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.6,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.65,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.75,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.8,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.05,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.1,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.2,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.25,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.4,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.55,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.65,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.7,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.75,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.8,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.9,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.05,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.2,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.35,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.95,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 3,
+          "emotion": "encouraging",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.1,
+          "emotion": "encouraging",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.15,
+          "emotion": "encouraging",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.2,
+          "emotion": "encouraging",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.5,
+          "emotion": "encouraging",
+          "mouth": 0,
+          "segmentStart": 3
+        }
+      ],
+      "endingEmotion": "encouraging"
+    }
+  },
+  "pawn-takes-piece-04": {
+    "original": "/coach/shared/originals/pawn-takes-piece-04-1794874428022-b2a0b9a7.webm",
+    "video": null,
+    "savedAt": "2026-11-17T00:13:48.038Z",
+    "bytes": 1213539,
+    "processingError": null,
+    "analysis": {
+      "id": "4668c5b8-12c6-45f4-a68b-8c63f3ff551b",
+      "url": "/coach/shared/analysis/4668c5b8-12c6-45f4-a68b-8c63f3ff551b/analysis.json",
+      "revision": "db768207-7356-4e56-a69f-f899ae83f1ba"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/pawn-takes-piece-04-1794874428022-b2a0b9a7.webm",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.55,
+          "mouth": 1
+        },
+        {
+          "at": 0.65,
+          "mouth": 0
+        },
+        {
+          "at": 0.75,
+          "mouth": 1
+        },
+        {
+          "at": 0.9,
+          "mouth": 2
+        },
+        {
+          "at": 1,
+          "mouth": 1
+        },
+        {
+          "at": 1.05,
+          "mouth": 0
+        },
+        {
+          "at": 1.15,
+          "mouth": 2
+        },
+        {
+          "at": 1.3,
+          "mouth": 1
+        },
+        {
+          "at": 1.4,
+          "mouth": 2
+        },
+        {
+          "at": 1.5,
+          "mouth": 1
+        },
+        {
+          "at": 1.55,
+          "mouth": 0
+        },
+        {
+          "at": 1.6,
+          "mouth": 1
+        },
+        {
+          "at": 1.65,
+          "mouth": 2
+        },
+        {
+          "at": 1.75,
+          "mouth": 1
+        },
+        {
+          "at": 1.8,
+          "mouth": 2
+        },
+        {
+          "at": 1.95,
+          "mouth": 1
+        },
+        {
+          "at": 2,
+          "mouth": 0
+        },
+        {
+          "at": 2.55,
+          "mouth": 1
+        },
+        {
+          "at": 2.6,
+          "mouth": 0
+        },
+        {
+          "at": 2.7,
+          "mouth": 1
+        },
+        {
+          "at": 2.75,
+          "mouth": 2
+        },
+        {
+          "at": 2.9,
+          "mouth": 1
+        },
+        {
+          "at": 3,
+          "mouth": 0
+        },
+        {
+          "at": 3.05,
+          "mouth": 1
+        },
+        {
+          "at": 3.2,
+          "mouth": 2
+        },
+        {
+          "at": 3.25,
+          "mouth": 1
+        },
+        {
+          "at": 3.3,
+          "mouth": 0
+        },
+        {
+          "at": 3.45,
+          "mouth": 1
+        },
+        {
+          "at": 3.85,
+          "mouth": 0
+        },
+        {
+          "at": 4.15,
+          "mouth": 1
+        },
+        {
+          "at": 4.2,
+          "mouth": 2
+        },
+        {
+          "at": 4.4,
+          "mouth": 1
+        },
+        {
+          "at": 4.5,
+          "mouth": 2
+        },
+        {
+          "at": 4.55,
+          "mouth": 1
+        },
+        {
+          "at": 4.65,
+          "mouth": 0
+        },
+        {
+          "at": 4.7,
+          "mouth": 1
+        },
+        {
+          "at": 4.75,
+          "mouth": 2
+        },
+        {
+          "at": 4.9,
+          "mouth": 1
+        },
+        {
+          "at": 4.95,
+          "mouth": 0
+        },
+        {
+          "at": 5.94,
+          "mouth": 0
+        }
+      ]
+    },
+    "animation": {
+      "source": "/coach/shared/originals/pawn-takes-piece-04-1794874428022-b2a0b9a7.webm",
+      "analysisId": "4668c5b8-12c6-45f4-a68b-8c63f3ff551b",
+      "revision": "db768207-7356-4e56-a69f-f899ae83f1ba",
+      "spokenText": "All that fancy equipment defeated by a pawn. I love this game",
+      "automatic": true,
+      "createdAt": "2026-11-17T00:13:49.915Z",
+      "cues": [
+        {
+          "at": 0,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.55,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.65,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.75,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.9,
+          "emotion": "curious",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.05,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.15,
+          "emotion": "curious",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.3,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.4,
+          "emotion": "curious",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.5,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.55,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.6,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.65,
+          "emotion": "curious",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.75,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.8,
+          "emotion": "curious",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.95,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.55,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.6,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.7,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.75,
+          "emotion": "curious",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.9,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 3,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.05,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.2,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.25,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.3,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.45,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.85,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.15,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.2,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.4,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.5,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.55,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.65,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.7,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.75,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.9,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.95,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 3
+        }
+      ],
+      "endingEmotion": "pleased"
+    }
+  },
+  "pawn-takes-piece-02": {
+    "original": "/coach/shared/originals/pawn-takes-piece-02-1794876131948-04cccd53.webm.wav",
+    "video": null,
+    "savedAt": "2026-11-17T00:42:11.950Z",
+    "bytes": 195918,
+    "mediaType": "audio",
+    "processingError": null,
+    "uploadedOriginal": "/coach/shared/originals/pawn-takes-piece-02-1794876131948-04cccd53.webm",
+    "takes": [],
+    "analysis": {
+      "id": "5a02f0c7-7b92-475e-bebd-e1cd7ef66065",
+      "url": "/coach/shared/analysis/5a02f0c7-7b92-475e-bebd-e1cd7ef66065/analysis.json",
+      "revision": "22bbf818-75cd-44af-b00e-85a726bcdba9"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/pawn-takes-piece-02-1794876131948-04cccd53.webm.wav",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 1.05,
+          "mouth": 1
+        },
+        {
+          "at": 1.15,
+          "mouth": 2
+        },
+        {
+          "at": 1.65,
+          "mouth": 1
+        },
+        {
+          "at": 1.75,
+          "mouth": 0
+        },
+        {
+          "at": 4.08,
+          "mouth": 0
+        }
+      ]
+    },
+    "animation": {
+      "source": "/coach/shared/originals/pawn-takes-piece-02-1794876131948-04cccd53.webm.wav",
+      "analysisId": "5a02f0c7-7b92-475e-bebd-e1cd7ef66065",
+      "revision": "22bbf818-75cd-44af-b00e-85a726bcdba9",
+      "spokenText": "Hello",
+      "automatic": true,
+      "createdAt": "2026-11-17T00:50:52.203Z",
+      "cues": [
+        {
+          "at": 0,
+          "emotion": "encouraging",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.05,
+          "emotion": "encouraging",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.15,
+          "emotion": "encouraging",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.65,
+          "emotion": "encouraging",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.75,
+          "emotion": "encouraging",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 3,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 3
+        }
+      ],
+      "endingEmotion": "pleased"
+    }
+  },
+  "pawn-takes-piece-05": {
+    "original": "/coach/shared/originals/pawn-takes-piece-05-1794876363022-95ea7861.webm.wav",
+    "video": null,
+    "savedAt": "2026-11-17T00:46:03.034Z",
+    "bytes": 296718,
+    "mediaType": "audio",
+    "processingError": null,
+    "uploadedOriginal": "/coach/shared/originals/pawn-takes-piece-05-1794876363022-95ea7861.webm",
+    "takes": [],
+    "analysis": {
+      "id": "c06718e8-9b9c-4fcb-8af0-96fcf91487ff",
+      "url": "/coach/shared/analysis/c06718e8-9b9c-4fcb-8af0-96fcf91487ff/analysis.json",
+      "revision": "fa9d377e-23f6-4c1c-8e96-8bfe562622fe"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/pawn-takes-piece-05-1794876363022-95ea7861.webm.wav",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 2.3,
+          "mouth": 2
+        },
+        {
+          "at": 2.4,
+          "mouth": 1
+        },
+        {
+          "at": 2.45,
+          "mouth": 0
+        },
+        {
+          "at": 2.55,
+          "mouth": 2
+        },
+        {
+          "at": 2.75,
+          "mouth": 1
+        },
+        {
+          "at": 2.8,
+          "mouth": 0
+        },
+        {
+          "at": 2.85,
+          "mouth": 1
+        },
+        {
+          "at": 2.9,
+          "mouth": 2
+        },
+        {
+          "at": 3.05,
+          "mouth": 1
+        },
+        {
+          "at": 3.35,
+          "mouth": 0
+        },
+        {
+          "at": 3.45,
+          "mouth": 1
+        },
+        {
+          "at": 3.6,
+          "mouth": 0
+        },
+        {
+          "at": 3.9,
+          "mouth": 1
+        },
+        {
+          "at": 4.2,
+          "mouth": 0
+        },
+        {
+          "at": 4.35,
+          "mouth": 1
+        },
+        {
+          "at": 4.85,
+          "mouth": 2
+        },
+        {
+          "at": 4.95,
+          "mouth": 1
+        },
+        {
+          "at": 5.05,
+          "mouth": 2
+        },
+        {
+          "at": 5.1,
+          "mouth": 1
+        },
+        {
+          "at": 5.15,
+          "mouth": 2
+        },
+        {
+          "at": 5.25,
+          "mouth": 1
+        },
+        {
+          "at": 5.4,
+          "mouth": 0
+        },
+        {
+          "at": 6.18,
+          "mouth": 0
+        }
+      ]
+    },
+    "animation": {
+      "source": "/coach/shared/originals/pawn-takes-piece-05-1794876363022-95ea7861.webm.wav",
+      "analysisId": "c06718e8-9b9c-4fcb-8af0-96fcf91487ff",
+      "revision": "fa9d377e-23f6-4c1c-8e96-8bfe562622fe",
+      "spokenText": "Look what our pond brought home. That little fellow deserves a medal.",
+      "automatic": true,
+      "createdAt": "2026-11-17T00:46:05.133Z",
+      "cues": [
+        {
+          "at": 0,
+          "emotion": "skeptical",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.3,
+          "emotion": "skeptical",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.4,
+          "emotion": "skeptical",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.45,
+          "emotion": "skeptical",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.55,
+          "emotion": "skeptical",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.75,
+          "emotion": "skeptical",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.8,
+          "emotion": "skeptical",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.85,
+          "emotion": "skeptical",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.9,
+          "emotion": "skeptical",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 3,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.05,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.35,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.45,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.6,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.9,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.2,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.35,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.85,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.95,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.05,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.1,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.15,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.25,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.4,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 6,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 6
+        }
+      ],
+      "endingEmotion": "curious"
+    }
+  },
+  "pawn-takes-piece-06": {
+    "original": "/coach/shared/originals/pawn-takes-piece-06-1794876700814-bac17d12.webm.wav",
+    "video": null,
+    "savedAt": "2026-11-17T00:51:40.815Z",
+    "bytes": 273678,
+    "mediaType": "audio",
+    "processingError": null,
+    "uploadedOriginal": "/coach/shared/originals/pawn-takes-piece-06-1794876700814-bac17d12.webm",
+    "takes": [
+      {
+        "original": "/coach/shared/originals/pawn-takes-piece-06-1794876694056-2f60f346.webm.wav",
+        "video": null,
+        "savedAt": "2026-11-17T00:51:34.058Z",
+        "bytes": 149838,
+        "mediaType": "audio",
+        "processingError": null,
+        "uploadedOriginal": "/coach/shared/originals/pawn-takes-piece-06-1794876694056-2f60f346.webm",
+        "analysis": {
+          "id": "34622590-6d98-44c3-bf45-948c4f28d3a3",
+          "url": "/coach/shared/analysis/34622590-6d98-44c3-bf45-948c4f28d3a3/analysis.json",
+          "revision": "97b56d93-b2a2-43a3-9971-481df538fa59"
+        },
+        "mouthSync": {
+          "source": "/coach/shared/originals/pawn-takes-piece-06-1794876694056-2f60f346.webm.wav",
+          "method": "audio-amplitude",
+          "cues": [
+            {
+              "at": 0,
+              "mouth": 0
+            },
+            {
+              "at": 0,
+              "mouth": 2
+            },
+            {
+              "at": 0.1,
+              "mouth": 0
+            },
+            {
+              "at": 3.1,
+              "mouth": 2
+            },
+            {
+              "at": 3.12,
+              "mouth": 0
+            }
+          ]
+        }
+      }
+    ],
+    "analysis": {
+      "id": "4227a672-0d1c-4ffe-842d-17d750d7021f",
+      "url": "/coach/shared/analysis/4227a672-0d1c-4ffe-842d-17d750d7021f/analysis.json",
+      "revision": "016f903a-774a-47a0-85aa-feb95e898408"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/pawn-takes-piece-06-1794876700814-bac17d12.webm.wav",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.6,
+          "mouth": 2
+        },
+        {
+          "at": 0.9,
+          "mouth": 1
+        },
+        {
+          "at": 1,
+          "mouth": 0
+        },
+        {
+          "at": 1.15,
+          "mouth": 1
+        },
+        {
+          "at": 1.25,
+          "mouth": 0
+        },
+        {
+          "at": 1.7,
+          "mouth": 1
+        },
+        {
+          "at": 1.8,
+          "mouth": 0
+        },
+        {
+          "at": 1.85,
+          "mouth": 1
+        },
+        {
+          "at": 1.95,
+          "mouth": 0
+        },
+        {
+          "at": 2.15,
+          "mouth": 1
+        },
+        {
+          "at": 2.25,
+          "mouth": 0
+        },
+        {
+          "at": 2.6,
+          "mouth": 1
+        },
+        {
+          "at": 2.65,
+          "mouth": 2
+        },
+        {
+          "at": 2.75,
+          "mouth": 1
+        },
+        {
+          "at": 2.8,
+          "mouth": 0
+        },
+        {
+          "at": 2.9,
+          "mouth": 1
+        },
+        {
+          "at": 2.95,
+          "mouth": 2
+        },
+        {
+          "at": 3,
+          "mouth": 1
+        },
+        {
+          "at": 3.2,
+          "mouth": 0
+        },
+        {
+          "at": 3.25,
+          "mouth": 1
+        },
+        {
+          "at": 3.5,
+          "mouth": 0
+        },
+        {
+          "at": 3.65,
+          "mouth": 1
+        },
+        {
+          "at": 3.7,
+          "mouth": 2
+        },
+        {
+          "at": 3.75,
+          "mouth": 1
+        },
+        {
+          "at": 3.9,
+          "mouth": 0
+        },
+        {
+          "at": 3.95,
+          "mouth": 1
+        },
+        {
+          "at": 4,
+          "mouth": 2
+        },
+        {
+          "at": 4.05,
+          "mouth": 1
+        },
+        {
+          "at": 4.1,
+          "mouth": 0
+        },
+        {
+          "at": 4.2,
+          "mouth": 1
+        },
+        {
+          "at": 4.25,
+          "mouth": 2
+        },
+        {
+          "at": 4.35,
+          "mouth": 1
+        },
+        {
+          "at": 4.45,
+          "mouth": 0
+        },
+        {
+          "at": 4.5,
+          "mouth": 1
+        },
+        {
+          "at": 4.7,
+          "mouth": 0
+        },
+        {
+          "at": 5.7,
+          "mouth": 0
+        }
+      ]
+    },
+    "animation": {
+      "source": "/coach/shared/originals/pawn-takes-piece-06-1794876700814-bac17d12.webm.wav",
+      "analysisId": "4227a672-0d1c-4ffe-842d-17d750d7021f",
+      "revision": "016f903a-774a-47a0-85aa-feb95e898408",
+      "spokenText": "Who needs a bigger piece? Our pawn seems perfectly qualified.",
+      "automatic": true,
+      "createdAt": "2026-11-17T00:51:42.457Z",
+      "cues": [
+        {
+          "at": 0,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.6,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.9,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.15,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.25,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.7,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.8,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.85,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.95,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.15,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.25,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.6,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.65,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.75,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.8,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.9,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.95,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 3,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.2,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.25,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.5,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.65,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.7,
+          "emotion": "curious",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.75,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.9,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.95,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4,
+          "emotion": "curious",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.05,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.1,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.2,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.25,
+          "emotion": "curious",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.35,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.45,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.5,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.7,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 3
+        }
+      ],
+      "endingEmotion": "curious"
+    }
+  },
+  "pawn-threatens-piece-01": {
+    "original": "/coach/shared/originals/pawn-threatens-piece-01-1794877673155-6910e7d5.webm.wav",
+    "video": null,
+    "savedAt": "2026-11-17T01:07:53.157Z",
+    "bytes": 362958,
+    "mediaType": "audio",
+    "processingError": null,
+    "uploadedOriginal": "/coach/shared/originals/pawn-threatens-piece-01-1794877673155-6910e7d5.webm",
+    "takes": [],
+    "analysis": {
+      "id": "ff00d40f-657b-4ffb-9497-9ad8766d60e0",
+      "url": "/coach/shared/analysis/ff00d40f-657b-4ffb-9497-9ad8766d60e0/analysis.json",
+      "revision": "e68ec2dd-10b4-4a46-afc0-8cc553cb0b23"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/pawn-threatens-piece-01-1794877673155-6910e7d5.webm.wav",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 1.7,
+          "mouth": 1
+        },
+        {
+          "at": 1.75,
+          "mouth": 2
+        },
+        {
+          "at": 1.85,
+          "mouth": 1
+        },
+        {
+          "at": 1.9,
+          "mouth": 0
+        },
+        {
+          "at": 1.95,
+          "mouth": 1
+        },
+        {
+          "at": 2,
+          "mouth": 2
+        },
+        {
+          "at": 2.25,
+          "mouth": 1
+        },
+        {
+          "at": 2.5,
+          "mouth": 0
+        },
+        {
+          "at": 2.6,
+          "mouth": 1
+        },
+        {
+          "at": 2.65,
+          "mouth": 2
+        },
+        {
+          "at": 2.75,
+          "mouth": 1
+        },
+        {
+          "at": 2.85,
+          "mouth": 2
+        },
+        {
+          "at": 3.1,
+          "mouth": 1
+        },
+        {
+          "at": 3.15,
+          "mouth": 0
+        },
+        {
+          "at": 3.2,
+          "mouth": 1
+        },
+        {
+          "at": 3.25,
+          "mouth": 2
+        },
+        {
+          "at": 3.3,
+          "mouth": 1
+        },
+        {
+          "at": 3.35,
+          "mouth": 2
+        },
+        {
+          "at": 3.4,
+          "mouth": 1
+        },
+        {
+          "at": 3.45,
+          "mouth": 0
+        },
+        {
+          "at": 3.5,
+          "mouth": 1
+        },
+        {
+          "at": 3.6,
+          "mouth": 0
+        },
+        {
+          "at": 4,
+          "mouth": 1
+        },
+        {
+          "at": 4.05,
+          "mouth": 0
+        },
+        {
+          "at": 4.85,
+          "mouth": 1
+        },
+        {
+          "at": 4.9,
+          "mouth": 2
+        },
+        {
+          "at": 5.05,
+          "mouth": 0
+        },
+        {
+          "at": 5.1,
+          "mouth": 2
+        },
+        {
+          "at": 5.15,
+          "mouth": 1
+        },
+        {
+          "at": 5.2,
+          "mouth": 0
+        },
+        {
+          "at": 5.3,
+          "mouth": 2
+        },
+        {
+          "at": 5.45,
+          "mouth": 1
+        },
+        {
+          "at": 5.5,
+          "mouth": 0
+        },
+        {
+          "at": 5.55,
+          "mouth": 1
+        },
+        {
+          "at": 5.6,
+          "mouth": 2
+        },
+        {
+          "at": 5.65,
+          "mouth": 1
+        },
+        {
+          "at": 5.85,
+          "mouth": 0
+        },
+        {
+          "at": 6.1,
+          "mouth": 1
+        },
+        {
+          "at": 6.15,
+          "mouth": 2
+        },
+        {
+          "at": 6.3,
+          "mouth": 1
+        },
+        {
+          "at": 6.35,
+          "mouth": 0
+        },
+        {
+          "at": 6.4,
+          "mouth": 2
+        },
+        {
+          "at": 6.6,
+          "mouth": 1
+        },
+        {
+          "at": 6.65,
+          "mouth": 0
+        },
+        {
+          "at": 6.9,
+          "mouth": 1
+        },
+        {
+          "at": 7.05,
+          "mouth": 0
+        },
+        {
+          "at": 7.56,
+          "mouth": 0
+        }
+      ]
+    },
+    "animation": {
+      "source": "/coach/shared/originals/pawn-threatens-piece-01-1794877673155-6910e7d5.webm.wav",
+      "analysisId": "ff00d40f-657b-4ffb-9497-9ad8766d60e0",
+      "revision": "e68ec2dd-10b4-4a46-afc0-8cc553cb0b23",
+      "spokenText": "Your pawn is threatening a bigger piece. Small but terrifying. I approve.",
+      "automatic": true,
+      "createdAt": "2026-11-17T01:07:54.661Z",
+      "cues": [
+        {
+          "at": 0,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.7,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.75,
+          "emotion": "curious",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.85,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.9,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.95,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2,
+          "emotion": "curious",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.25,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.5,
+          "emotion": "curious",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.6,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.65,
+          "emotion": "curious",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.75,
+          "emotion": "curious",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.85,
+          "emotion": "curious",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 3,
+          "emotion": "encouraging",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.1,
+          "emotion": "encouraging",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.15,
+          "emotion": "encouraging",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.2,
+          "emotion": "encouraging",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.25,
+          "emotion": "encouraging",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.3,
+          "emotion": "encouraging",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.35,
+          "emotion": "encouraging",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.4,
+          "emotion": "encouraging",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.45,
+          "emotion": "encouraging",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.5,
+          "emotion": "encouraging",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.6,
+          "emotion": "encouraging",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4,
+          "emotion": "encouraging",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.05,
+          "emotion": "encouraging",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.85,
+          "emotion": "encouraging",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.9,
+          "emotion": "encouraging",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.05,
+          "emotion": "encouraging",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.1,
+          "emotion": "encouraging",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.15,
+          "emotion": "encouraging",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.2,
+          "emotion": "encouraging",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.3,
+          "emotion": "encouraging",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.45,
+          "emotion": "encouraging",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.5,
+          "emotion": "encouraging",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.55,
+          "emotion": "encouraging",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.6,
+          "emotion": "encouraging",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.65,
+          "emotion": "encouraging",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.85,
+          "emotion": "encouraging",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 6,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 6
+        },
+        {
+          "at": 6.1,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 6
+        },
+        {
+          "at": 6.15,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 6
+        },
+        {
+          "at": 6.3,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 6
+        },
+        {
+          "at": 6.35,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 6
+        },
+        {
+          "at": 6.4,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 6
+        },
+        {
+          "at": 6.6,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 6
+        },
+        {
+          "at": 6.65,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 6
+        },
+        {
+          "at": 6.9,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 6
+        },
+        {
+          "at": 7.05,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 6
+        }
+      ],
+      "endingEmotion": "pleased"
+    }
+  },
+  "pawn-threatens-piece-02": {
+    "original": "/coach/shared/originals/pawn-threatens-piece-02-1794880127098-202a9ffb.webm.wav",
+    "video": null,
+    "savedAt": "2026-11-17T01:48:47.102Z",
+    "bytes": 250638,
+    "mediaType": "audio",
+    "processingError": null,
+    "uploadedOriginal": "/coach/shared/originals/pawn-threatens-piece-02-1794880127098-202a9ffb.webm",
+    "takes": [],
+    "analysis": {
+      "id": "9bc08cf2-c30f-45a0-b24b-c1046d20d12e",
+      "url": "/coach/shared/analysis/9bc08cf2-c30f-45a0-b24b-c1046d20d12e/revision-4794bd1b-7fc5-4646-914f-9c4366995fa4.json",
+      "revision": "4794bd1b-7fc5-4646-914f-9c4366995fa4"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/pawn-threatens-piece-02-1794880127098-202a9ffb.webm.wav",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 1.15,
+          "mouth": 1
+        },
+        {
+          "at": 1.2,
+          "mouth": 2
+        },
+        {
+          "at": 1.25,
+          "mouth": 1
+        },
+        {
+          "at": 1.35,
+          "mouth": 2
+        },
+        {
+          "at": 1.4,
+          "mouth": 0
+        },
+        {
+          "at": 1.45,
+          "mouth": 1
+        },
+        {
+          "at": 1.5,
+          "mouth": 2
+        },
+        {
+          "at": 1.55,
+          "mouth": 1
+        },
+        {
+          "at": 1.6,
+          "mouth": 0
+        },
+        {
+          "at": 1.8,
+          "mouth": 1
+        },
+        {
+          "at": 1.85,
+          "mouth": 2
+        },
+        {
+          "at": 2.2,
+          "mouth": 1
+        },
+        {
+          "at": 2.25,
+          "mouth": 2
+        },
+        {
+          "at": 2.45,
+          "mouth": 1
+        },
+        {
+          "at": 2.55,
+          "mouth": 2
+        },
+        {
+          "at": 2.75,
+          "mouth": 1
+        },
+        {
+          "at": 2.8,
+          "mouth": 0
+        },
+        {
+          "at": 2.85,
+          "mouth": 2
+        },
+        {
+          "at": 3,
+          "mouth": 0
+        },
+        {
+          "at": 3.1,
+          "mouth": 1
+        },
+        {
+          "at": 3.15,
+          "mouth": 2
+        },
+        {
+          "at": 3.2,
+          "mouth": 1
+        },
+        {
+          "at": 3.35,
+          "mouth": 2
+        },
+        {
+          "at": 3.5,
+          "mouth": 1
+        },
+        {
+          "at": 3.65,
+          "mouth": 0
+        },
+        {
+          "at": 3.95,
+          "mouth": 2
+        },
+        {
+          "at": 4.15,
+          "mouth": 1
+        },
+        {
+          "at": 4.3,
+          "mouth": 0
+        },
+        {
+          "at": 4.35,
+          "mouth": 1
+        },
+        {
+          "at": 4.4,
+          "mouth": 2
+        },
+        {
+          "at": 4.65,
+          "mouth": 1
+        },
+        {
+          "at": 4.9,
+          "mouth": 0
+        },
+        {
+          "at": 5.22,
+          "mouth": 0
+        }
+      ]
+    },
+    "animation": {
+      "source": "/coach/shared/originals/pawn-threatens-piece-02-1794880127098-202a9ffb.webm.wav",
+      "analysisId": "9bc08cf2-c30f-45a0-b24b-c1046d20d12e",
+      "revision": "4794bd1b-7fc5-4646-914f-9c4366995fa4",
+      "spokenText": "Look at the pond bossing that big piece around that is leadership",
+      "approvedAt": "2026-11-17T01:49:24.394Z",
+      "cues": [
+        {
+          "at": 0,
+          "emotion": "skeptical",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.15,
+          "emotion": "skeptical",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.2,
+          "emotion": "skeptical",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.25,
+          "emotion": "skeptical",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.35,
+          "emotion": "skeptical",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.4,
+          "emotion": "skeptical",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.45,
+          "emotion": "skeptical",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.5,
+          "emotion": "skeptical",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.55,
+          "emotion": "skeptical",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.6,
+          "emotion": "skeptical",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.8,
+          "emotion": "skeptical",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.85,
+          "emotion": "skeptical",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.2,
+          "emotion": "skeptical",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.25,
+          "emotion": "skeptical",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.45,
+          "emotion": "skeptical",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.55,
+          "emotion": "skeptical",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.75,
+          "emotion": "skeptical",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.8,
+          "emotion": "skeptical",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.85,
+          "emotion": "skeptical",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 3,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.1,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.15,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.2,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.35,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.5,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.65,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.95,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.15,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.3,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.35,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.4,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.65,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.9,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 3
+        }
+      ],
+      "endingEmotion": "pleased"
+    }
+  }
+}

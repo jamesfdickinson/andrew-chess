@@ -1,0 +1,83 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 4.82975,
+  "segments": [
+    {
+      "start": 0.08,
+      "end": 1.14,
+      "text": " Who needs a bigger piece?",
+      "noSpeechProbability": 0.0022228541783988476
+    },
+    {
+      "start": 1.94,
+      "end": 3.96,
+      "text": " Our pawn seems perfectly qualified.",
+      "noSpeechProbability": 0.0022228541783988476
+    }
+  ],
+  "words": [
+    {
+      "start": 0.08,
+      "end": 0.18,
+      "text": "Who",
+      "probability": 0.8148016333580017
+    },
+    {
+      "start": 0.18,
+      "end": 0.36,
+      "text": "needs",
+      "probability": 0.9908125996589661
+    },
+    {
+      "start": 0.36,
+      "end": 0.58,
+      "text": "a",
+      "probability": 0.9932608008384705
+    },
+    {
+      "start": 0.58,
+      "end": 0.8,
+      "text": "bigger",
+      "probability": 0.9940987825393677
+    },
+    {
+      "start": 0.8,
+      "end": 1.14,
+      "text": "piece?",
+      "probability": 0.9458749294281006
+    },
+    {
+      "start": 1.94,
+      "end": 2.02,
+      "text": "Our",
+      "probability": 0.9560597538948059
+    },
+    {
+      "start": 2.02,
+      "end": 2.26,
+      "text": "pawn",
+      "probability": 0.452596515417099
+    },
+    {
+      "start": 2.26,
+      "end": 2.8,
+      "text": "seems",
+      "probability": 0.8789563179016113
+    },
+    {
+      "start": 2.8,
+      "end": 3.18,
+      "text": "perfectly",
+      "probability": 0.9890271425247192
+    },
+    {
+      "start": 3.18,
+      "end": 3.96,
+      "text": "qualified.",
+      "probability": 0.997343122959137
+    }
+  ],
+  "text": "Who needs a bigger piece? Our pawn seems perfectly qualified."
+}

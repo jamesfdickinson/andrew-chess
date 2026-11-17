@@ -1,0 +1,35 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 7.105375,
+  "segments": [
+    {
+      "start": 0.62,
+      "end": 1.98,
+      "text": " Pawn's left ears!",
+      "noSpeechProbability": 0.0565858893096447
+    }
+  ],
+  "words": [
+    {
+      "start": 0.62,
+      "end": 1.06,
+      "text": "Pawn's",
+      "probability": 0.6034688800573349
+    },
+    {
+      "start": 1.06,
+      "end": 1.42,
+      "text": "left",
+      "probability": 0.7608858942985535
+    },
+    {
+      "start": 1.42,
+      "end": 1.98,
+      "text": "ears!",
+      "probability": 0.49636557698249817
+    }
+  ],
+  "text": "Pawn's left ears!"
+}

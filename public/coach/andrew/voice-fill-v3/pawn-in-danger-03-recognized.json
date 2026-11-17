@@ -1,0 +1,107 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.154875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.8,
+      "text": " Your pawn has attracted the wrong kind of attention.",
+      "noSpeechProbability": 0.002901860047131777
+    },
+    {
+      "start": 3.74,
+      "end": 4.74,
+      "text": " Keep an eye on it.",
+      "noSpeechProbability": 0.002901860047131777
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.16,
+      "text": "Your",
+      "probability": 0.7266837358474731
+    },
+    {
+      "start": 0.16,
+      "end": 0.46,
+      "text": "pawn",
+      "probability": 0.7966565489768982
+    },
+    {
+      "start": 0.46,
+      "end": 0.78,
+      "text": "has",
+      "probability": 0.9916533827781677
+    },
+    {
+      "start": 0.78,
+      "end": 1.22,
+      "text": "attracted",
+      "probability": 0.9984096884727478
+    },
+    {
+      "start": 1.22,
+      "end": 1.58,
+      "text": "the",
+      "probability": 0.9959834814071655
+    },
+    {
+      "start": 1.58,
+      "end": 1.9,
+      "text": "wrong",
+      "probability": 0.9885104298591614
+    },
+    {
+      "start": 1.9,
+      "end": 2.28,
+      "text": "kind",
+      "probability": 0.9884138703346252
+    },
+    {
+      "start": 2.28,
+      "end": 2.46,
+      "text": "of",
+      "probability": 0.9984672665596008
+    },
+    {
+      "start": 2.46,
+      "end": 2.8,
+      "text": "attention.",
+      "probability": 0.9888533353805542
+    },
+    {
+      "start": 3.74,
+      "end": 3.84,
+      "text": "Keep",
+      "probability": 0.9887822270393372
+    },
+    {
+      "start": 3.84,
+      "end": 4.06,
+      "text": "an",
+      "probability": 0.9981046915054321
+    },
+    {
+      "start": 4.06,
+      "end": 4.3,
+      "text": "eye",
+      "probability": 0.999470055103302
+    },
+    {
+      "start": 4.3,
+      "end": 4.56,
+      "text": "on",
+      "probability": 0.9989199638366699
+    },
+    {
+      "start": 4.56,
+      "end": 4.74,
+      "text": "it.",
+      "probability": 0.9987303614616394
+    }
+  ],
+  "text": "Your pawn has attracted the wrong kind of attention. Keep an eye on it."
+}
