@@ -1,3 +1,4 @@
+import { setupInstall } from './pwa.js';
 import { coachAsset, selectedCoach, setSelectedCoach, defaultCoachId } from './coach-session.js';
 import { Chess } from 'chess.js';
 import { applyLegalMove } from './game-move.js';
@@ -24,7 +25,7 @@ function pixelPiece(piece) {
 }
 const names = { k: 'king', q: 'queen', r: 'rook', b: 'bishop', n: 'knight', p: 'pawn' };
 document.querySelector('#app').innerHTML = `
-<header><h1>Andrew-Chess</h1><div class="header-actions"><button id="mute" aria-label="Mute coach audio" aria-pressed="false" title="Mute coach audio"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9h4l5-4v14l-5-4H4z" fill="currentColor" stroke="none"/><path class="sound-waves" d="M16 8c2 2 2 6 0 8m3-11c4 4 4 10 0 14"/><path class="sound-off" d="m16 9 6 6m0-6-6 6"/></svg></button><button id="menu-button" aria-haspopup="dialog"><span class="menu-icon" aria-hidden="true"></span>Menu</button></div></header>
+<header><h1>Andrew Chess</h1><div class="header-actions"><button id="mute" aria-label="Mute coach audio" aria-pressed="false" title="Mute coach audio"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9h4l5-4v14l-5-4H4z" fill="currentColor" stroke="none"/><path class="sound-waves" d="M16 8c2 2 2 6 0 8m3-11c4 4 4 10 0 14"/><path class="sound-off" d="m16 9 6 6m0-6-6 6"/></svg></button><button id="install-button" hidden aria-label="Install Andrew Chess" title="Install Andrew Chess"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m-5-5 5 5 5-5M4 16v5h16v-5"/></svg><span>Install</span></button><button id="menu-button" aria-haspopup="dialog"><span class="menu-icon" aria-hidden="true"></span>Menu</button></div></header>
 <main><section class="play-area" aria-label="Chess game">
 <div class="player-row"><strong>COMPUTER</strong><span id="opponent-label">~1000</span><span id="thinking" role="status">YOUR TURN</span></div>
 <div class="board-space"><div class="board-shell"><div id="board" class="board" role="group" aria-label="Chessboard. Select a piece, then a highlighted destination."></div></div></div>
@@ -48,6 +49,8 @@ document.querySelector('#app').innerHTML = `
 <dialog id="learning-dialog"><h2>LEARNING</h2><p>Learn to take pawns with Andrew.</p><p>This lesson is coming soon.</p><button id="close-learning">Back to menu</button></dialog>
 <dialog id="promotion"><h2>Choose your promotion</h2><div>${['q', 'r', 'b', 'n'].map(piece => `<button data-promotion="${piece}" aria-label="Promote to ${names[piece]}">${pixelPiece({ color: 'w', type: piece })}</button>`).join('')}</div></dialog>
 `;
+
+setupInstall();
 
 const $ = selector => document.querySelector(selector);
 // Quantize every square to whole 2px cells instead of stretching the sprites.

@@ -3,6 +3,7 @@ import { defineConfig, loadEnv } from 'vite';
 import { fileURLToPath } from 'node:url';
 import { recordingServer } from './scripts/recording-server.mjs';
 import { playbackAssets } from './scripts/playback-assets.mjs';
+import { chessPwa } from './scripts/pwa.mjs';
 const root = fileURLToPath(new URL('.', import.meta.url));
 export default defineConfig(({ mode }) => {
 const tunnelOrigin = process.env.COACH_TUNNEL_ORIGIN || loadEnv(mode, root, 'COACH_TUNNEL_ORIGIN').COACH_TUNNEL_ORIGIN;
@@ -18,7 +19,7 @@ return {
     fs: { deny: ['.env', '.env.*', '*.{crt,pem}', '**/.git/**', '**/.speech/**', '**/.emotion/**'] },
   },
   optimizeDeps: { noDiscovery: true, include: ['chess.js'], entries: [] },
-  plugins: [rawMediaPlugin(root), playbackAssets(root), {
+  plugins: [rawMediaPlugin(root), playbackAssets(root), chessPwa(new URL('.', import.meta.url)), {
     name: 'local-coach-recordings',
     hotUpdate({ file }) {
       // Notice new public clips without reloading a studio during a take.

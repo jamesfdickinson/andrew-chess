@@ -1,0 +1,16 @@
+{
+  "id": "/",
+  "name": "Andrew Chess",
+  "short_name": "Andrew Chess",
+  "description": "Play chess with your opinionated pixel coach.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#14251e",
+  "theme_color": "#172820",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
