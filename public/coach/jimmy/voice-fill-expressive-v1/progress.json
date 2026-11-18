@@ -2560,7 +2560,47 @@
       "wordCoverage": 1,
       "duration": 6.966,
       "missingArtwork": []
+    },
+    {
+      "id": "opponent-out-of-pawns-01",
+      "text": "They have no pawns left! That is what I call a successful pawn hunt.",
+      "synthesisText": "[warm] They have no pawns left! [encouraging] That is what I call a successful pawn hunt.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/opponent-out-of-pawns-01-audio.wav",
+        "generatedText": "They have no pawns left! That is what I call a successful pawn hunt.",
+        "synthesisText": "[warm] They have no pawns left! [encouraging] That is what I call a successful pawn hunt.",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 251968,
+        "savedAt": "2026-11-18T00:00:14.703Z",
+        "video": null
+      },
+      "recognizedText": "They have no pawns left. That is what I call a successful pawn hunt.",
+      "wordCoverage": 1,
+      "duration": 5.24775,
+      "missingArtwork": []
+    },
+    {
+      "id": "opponent-out-of-pawns-02",
+      "text": "Still no enemy pawns on the board. A beautiful sight. Now finish the game!",
+      "synthesisText": "[warm] Still no enemy pawns on the board. [encouraging] A beautiful sight. [warm] Now finish the game!",
+      "status": "complete",
+      "take": {
+        "original": "/coach/jimmy/voice-fill-expressive-v1/opponent-out-of-pawns-02-audio.wav",
+        "generatedText": "Still no enemy pawns on the board. A beautiful sight. Now finish the game!",
+        "synthesisText": "[warm] Still no enemy pawns on the board. [encouraging] A beautiful sight. [warm] Now finish the game!",
+        "voiceId": "jimmy-long-reference-v2",
+        "mediaType": "audio",
+        "bytes": 289864,
+        "savedAt": "2026-11-18T00:00:25.464Z",
+        "video": null
+      },
+      "recognizedText": "Still no enemy pawns on the board. A beautiful sight. Now finish the game.",
+      "wordCoverage": 1,
+      "duration": 6.03725,
+      "missingArtwork": []
     }
   ],
-  "finishedAt": "2026-11-17T04:09:07.420Z"
+  "finishedAt": "2026-11-18T00:00:27.047Z"
 }

@@ -55371,5 +55371,759 @@
       ],
       "endingEmotion": "pleased"
     }
+  },
+  "opponent-out-of-pawns-01": {
+    "original": "/coach/jimmy/voice-fill-expressive-v1/opponent-out-of-pawns-01-audio.wav",
+    "generatedText": "They have no pawns left! That is what I call a successful pawn hunt.",
+    "synthesisText": "[warm] They have no pawns left! [encouraging] That is what I call a successful pawn hunt.",
+    "voiceId": "jimmy-long-reference-v2",
+    "mediaType": "audio",
+    "bytes": 251968,
+    "savedAt": "2026-11-18T00:00:14.703Z",
+    "video": null,
+    "analysis": {
+      "id": "f5123f0a-1425-46c1-9899-e5ce5eae7f7e",
+      "url": "/coach/shared/analysis/f5123f0a-1425-46c1-9899-e5ce5eae7f7e/analysis.json",
+      "revision": "00b30309-6649-44da-b359-68f60208ffc6"
+    },
+    "mouthSync": {
+      "source": "/coach/jimmy/voice-fill-expressive-v1/opponent-out-of-pawns-01-audio.wav",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.05,
+          "mouth": 1
+        },
+        {
+          "at": 0.3,
+          "mouth": 0
+        },
+        {
+          "at": 0.35,
+          "mouth": 1
+        },
+        {
+          "at": 0.5,
+          "mouth": 2
+        },
+        {
+          "at": 0.65,
+          "mouth": 1
+        },
+        {
+          "at": 0.7,
+          "mouth": 0
+        },
+        {
+          "at": 0.8,
+          "mouth": 2
+        },
+        {
+          "at": 1.05,
+          "mouth": 1
+        },
+        {
+          "at": 1.35,
+          "mouth": 0
+        },
+        {
+          "at": 2.15,
+          "mouth": 1
+        },
+        {
+          "at": 2.2,
+          "mouth": 2
+        },
+        {
+          "at": 2.35,
+          "mouth": 1
+        },
+        {
+          "at": 2.4,
+          "mouth": 0
+        },
+        {
+          "at": 2.45,
+          "mouth": 1
+        },
+        {
+          "at": 2.5,
+          "mouth": 0
+        },
+        {
+          "at": 2.6,
+          "mouth": 1
+        },
+        {
+          "at": 2.8,
+          "mouth": 2
+        },
+        {
+          "at": 2.9,
+          "mouth": 1
+        },
+        {
+          "at": 2.95,
+          "mouth": 0
+        },
+        {
+          "at": 3,
+          "mouth": 1
+        },
+        {
+          "at": 3.25,
+          "mouth": 0
+        },
+        {
+          "at": 3.8,
+          "mouth": 2
+        },
+        {
+          "at": 3.9,
+          "mouth": 1
+        },
+        {
+          "at": 4,
+          "mouth": 0
+        },
+        {
+          "at": 4.05,
+          "mouth": 1
+        },
+        {
+          "at": 4.1,
+          "mouth": 2
+        },
+        {
+          "at": 4.15,
+          "mouth": 1
+        },
+        {
+          "at": 4.2,
+          "mouth": 0
+        },
+        {
+          "at": 4.4,
+          "mouth": 1
+        },
+        {
+          "at": 4.6,
+          "mouth": 0
+        },
+        {
+          "at": 4.7,
+          "mouth": 1
+        },
+        {
+          "at": 4.75,
+          "mouth": 0
+        },
+        {
+          "at": 5.24775,
+          "mouth": 0
+        }
+      ]
+    },
+    "animation": {
+      "source": "/coach/jimmy/voice-fill-expressive-v1/opponent-out-of-pawns-01-audio.wav",
+      "analysisId": "f5123f0a-1425-46c1-9899-e5ce5eae7f7e",
+      "revision": "00b30309-6649-44da-b359-68f60208ffc6",
+      "spokenText": "They have no pawns left! That is what I call a successful pawn hunt.",
+      "automatic": true,
+      "createdAt": "2026-11-18T00:00:16.020Z",
+      "cues": [
+        {
+          "at": 0,
+          "emotion": "pawn-sad",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.05,
+          "emotion": "pawn-sad",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.3,
+          "emotion": "pawn-sad",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.35,
+          "emotion": "pawn-sad",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.5,
+          "emotion": "pawn-sad",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.65,
+          "emotion": "pawn-sad",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.7,
+          "emotion": "pawn-sad",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.8,
+          "emotion": "pawn-sad",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.05,
+          "emotion": "pawn-sad",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.35,
+          "emotion": "pawn-sad",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.15,
+          "emotion": "pawn-sad",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.2,
+          "emotion": "pawn-sad",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.35,
+          "emotion": "pawn-sad",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.4,
+          "emotion": "pawn-sad",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.45,
+          "emotion": "pawn-sad",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.5,
+          "emotion": "pawn-sad",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.6,
+          "emotion": "pawn-sad",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.8,
+          "emotion": "pawn-sad",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.9,
+          "emotion": "pawn-sad",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.95,
+          "emotion": "pawn-sad",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 3,
+          "emotion": "disappointed",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.25,
+          "emotion": "disappointed",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.8,
+          "emotion": "disappointed",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.9,
+          "emotion": "disappointed",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4,
+          "emotion": "disappointed",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.05,
+          "emotion": "disappointed",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.1,
+          "emotion": "disappointed",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.15,
+          "emotion": "disappointed",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.2,
+          "emotion": "disappointed",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.4,
+          "emotion": "disappointed",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.6,
+          "emotion": "disappointed",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.7,
+          "emotion": "disappointed",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.75,
+          "emotion": "disappointed",
+          "mouth": 0,
+          "segmentStart": 3
+        }
+      ],
+      "endingEmotion": "disappointed"
+    }
+  },
+  "opponent-out-of-pawns-02": {
+    "original": "/coach/jimmy/voice-fill-expressive-v1/opponent-out-of-pawns-02-audio.wav",
+    "generatedText": "Still no enemy pawns on the board. A beautiful sight. Now finish the game!",
+    "synthesisText": "[warm] Still no enemy pawns on the board. [encouraging] A beautiful sight. [warm] Now finish the game!",
+    "voiceId": "jimmy-long-reference-v2",
+    "mediaType": "audio",
+    "bytes": 289864,
+    "savedAt": "2026-11-18T00:00:25.464Z",
+    "video": null,
+    "analysis": {
+      "id": "7b1712e9-e5f7-49e3-95af-18e6a33b8d21",
+      "url": "/coach/shared/analysis/7b1712e9-e5f7-49e3-95af-18e6a33b8d21/analysis.json",
+      "revision": "364c485c-51a4-4999-b64e-5e104fbc48d6"
+    },
+    "mouthSync": {
+      "source": "/coach/jimmy/voice-fill-expressive-v1/opponent-out-of-pawns-02-audio.wav",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.25,
+          "mouth": 1
+        },
+        {
+          "at": 0.3,
+          "mouth": 2
+        },
+        {
+          "at": 0.7,
+          "mouth": 1
+        },
+        {
+          "at": 0.8,
+          "mouth": 2
+        },
+        {
+          "at": 1.05,
+          "mouth": 1
+        },
+        {
+          "at": 1.1,
+          "mouth": 0
+        },
+        {
+          "at": 1.15,
+          "mouth": 1
+        },
+        {
+          "at": 1.2,
+          "mouth": 2
+        },
+        {
+          "at": 1.4,
+          "mouth": 1
+        },
+        {
+          "at": 1.5,
+          "mouth": 2
+        },
+        {
+          "at": 1.65,
+          "mouth": 1
+        },
+        {
+          "at": 1.8,
+          "mouth": 2
+        },
+        {
+          "at": 1.9,
+          "mouth": 1
+        },
+        {
+          "at": 2.1,
+          "mouth": 0
+        },
+        {
+          "at": 2.65,
+          "mouth": 1
+        },
+        {
+          "at": 2.7,
+          "mouth": 0
+        },
+        {
+          "at": 2.85,
+          "mouth": 1
+        },
+        {
+          "at": 2.9,
+          "mouth": 2
+        },
+        {
+          "at": 3.15,
+          "mouth": 1
+        },
+        {
+          "at": 3.25,
+          "mouth": 2
+        },
+        {
+          "at": 3.3,
+          "mouth": 1
+        },
+        {
+          "at": 3.65,
+          "mouth": 0
+        },
+        {
+          "at": 4.45,
+          "mouth": 1
+        },
+        {
+          "at": 4.65,
+          "mouth": 0
+        },
+        {
+          "at": 4.8,
+          "mouth": 1
+        },
+        {
+          "at": 4.85,
+          "mouth": 2
+        },
+        {
+          "at": 5,
+          "mouth": 1
+        },
+        {
+          "at": 5.1,
+          "mouth": 0
+        },
+        {
+          "at": 5.15,
+          "mouth": 2
+        },
+        {
+          "at": 5.2,
+          "mouth": 1
+        },
+        {
+          "at": 5.3,
+          "mouth": 2
+        },
+        {
+          "at": 5.4,
+          "mouth": 1
+        },
+        {
+          "at": 5.55,
+          "mouth": 0
+        },
+        {
+          "at": 6.03725,
+          "mouth": 0
+        }
+      ]
+    },
+    "animation": {
+      "source": "/coach/jimmy/voice-fill-expressive-v1/opponent-out-of-pawns-02-audio.wav",
+      "analysisId": "7b1712e9-e5f7-49e3-95af-18e6a33b8d21",
+      "revision": "364c485c-51a4-4999-b64e-5e104fbc48d6",
+      "spokenText": "Still no enemy pawns on the board. A beautiful sight. Now finish the game!",
+      "automatic": true,
+      "createdAt": "2026-11-18T00:00:27.012Z",
+      "cues": [
+        {
+          "at": 0,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.25,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.3,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.7,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.8,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.05,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.1,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.15,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.2,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.4,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.5,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.65,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.8,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.9,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.1,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.65,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.7,
+          "emotion": "pleased",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.85,
+          "emotion": "pleased",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.9,
+          "emotion": "pleased",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 3,
+          "emotion": "delighted",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.15,
+          "emotion": "delighted",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.25,
+          "emotion": "delighted",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.3,
+          "emotion": "delighted",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.65,
+          "emotion": "delighted",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.45,
+          "emotion": "delighted",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.65,
+          "emotion": "delighted",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.8,
+          "emotion": "delighted",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.85,
+          "emotion": "delighted",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 5,
+          "emotion": "delighted",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.1,
+          "emotion": "delighted",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.15,
+          "emotion": "delighted",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.2,
+          "emotion": "delighted",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.3,
+          "emotion": "delighted",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.4,
+          "emotion": "delighted",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.55,
+          "emotion": "delighted",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 6,
+          "emotion": "encouraging",
+          "mouth": 0,
+          "segmentStart": 6
+        }
+      ],
+      "endingEmotion": "encouraging"
+    }
   }
 }

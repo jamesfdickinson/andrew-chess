@@ -1,0 +1,101 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 6.03725,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.46,
+      "text": " Still no enemy pawns on the board. A beautiful sight. Now finish the game.",
+      "noSpeechProbability": 0.0011945775477215648
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.3,
+      "text": "Still",
+      "probability": 0.863122284412384
+    },
+    {
+      "start": 0.3,
+      "end": 0.6,
+      "text": "no",
+      "probability": 0.9555312395095825
+    },
+    {
+      "start": 0.6,
+      "end": 0.98,
+      "text": "enemy",
+      "probability": 0.9884157180786133
+    },
+    {
+      "start": 0.98,
+      "end": 1.46,
+      "text": "pawns",
+      "probability": 0.9331376850605011
+    },
+    {
+      "start": 1.46,
+      "end": 1.56,
+      "text": "on",
+      "probability": 0.9970908164978027
+    },
+    {
+      "start": 1.56,
+      "end": 1.66,
+      "text": "the",
+      "probability": 0.991502046585083
+    },
+    {
+      "start": 1.66,
+      "end": 1.92,
+      "text": "board.",
+      "probability": 0.9927778840065002
+    },
+    {
+      "start": 2.64,
+      "end": 2.66,
+      "text": "A",
+      "probability": 0.9802260398864746
+    },
+    {
+      "start": 2.66,
+      "end": 3.1,
+      "text": "beautiful",
+      "probability": 0.9967513084411621
+    },
+    {
+      "start": 3.1,
+      "end": 3.56,
+      "text": "sight.",
+      "probability": 0.8783623576164246
+    },
+    {
+      "start": 4.38,
+      "end": 4.52,
+      "text": "Now",
+      "probability": 0.9891095161437988
+    },
+    {
+      "start": 4.52,
+      "end": 4.9,
+      "text": "finish",
+      "probability": 0.9036644697189331
+    },
+    {
+      "start": 4.9,
+      "end": 5.2,
+      "text": "the",
+      "probability": 0.9977965354919434
+    },
+    {
+      "start": 5.2,
+      "end": 5.46,
+      "text": "game.",
+      "probability": 0.9991126656532288
+    }
+  ],
+  "text": "Still no enemy pawns on the board. A beautiful sight. Now finish the game."
+}

@@ -14,6 +14,8 @@ import { recordingPhrases } from '../src/recording-phrases.js';
 import { replaceFile } from './replace-file.mjs';
 
 const root = process.cwd();
+const requestedIds = process.argv[3]?.split(',');
+if (requestedIds?.some(id => !recordingPhrases.some(phrase => phrase.id === id))) throw new Error('Unknown requested phrase');
 async function exists(file) { try { await access(file); return true; } catch (error) { if (error.code === 'ENOENT') return false; throw error; } }
 const client = new FishSpeechClient('http://192.168.1.84:8080');
 const tones = {
@@ -70,6 +72,7 @@ for (const coachId of ['jimmy', 'andrew'].filter(id => !process.argv[2] || proce
     // Include old index entries whose source has disappeared, retaining their metadata as a prior take.
     const currentIndex = await readRecordings(root);
     for (const phrase of recordingPhrases) {
+      if (requestedIds && !requestedIds.includes(phrase.id)) continue;
       if (state.items.some(item => item.id === phrase.id)) continue;
       const source = currentIndex[phrase.id]?.original;
       if (!source || !await exists(mediaFile(root, source))) state.items.push({ id: phrase.id, text: phrase.text, synthesisText: synthesisText(phrase), status: 'pending' });
@@ -78,6 +81,7 @@ for (const coachId of ['jimmy', 'andrew'].filter(id => !process.argv[2] || proce
     await editCoaches(root, profiles => { profiles.find(p => p.id === coachId).voiceId = reference.voiceId; });
     const core = await coreReference(root), library = await readFrameSets(root);
     for (const item of state.items) {
+      if (requestedIds && !requestedIds.includes(item.id)) continue;
       if (['complete', 'preserved'].includes(item.status)) continue;
       try {
         const current = (await readRecordings(root))[item.id];

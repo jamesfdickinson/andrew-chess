@@ -442,3 +442,30 @@ test('idle chatter waits a minute and never queues over advice', t => {
   assert.equal(played, 2);
   coach.stop();
 });
+
+for (const [fen, expected] of [
+  ['7k/7p/8/8/3R4/8/8/K7 w - - 0 1', 'out-of-pawns'],
+  ['7k/8/8/8/3R4/8/P7/K7 w - - 0 1', 'opponent-out-of-pawns'],
+]) test(`pawnless reminders recur after eight plies: ${expected}`, () => {
+  const game = new Chess(fen);
+  const moves = ['Kb1', 'Kg8', 'Kb2', 'Kg7', 'Kc2', 'Kf7', 'Kc3', 'Kf6'];
+  for (let i = 0; i < moves.length; i++) {
+    const before = new Chess(game.fen());
+    const move = game.move(moves[i]);
+    const reaction = chooseReaction(moveContext(before, game, move), () => 0);
+    if (i === 7) assert.equal(reaction?.id, expected);
+    else assert.notEqual(reaction?.id, expected);
+  }
+  game.undo();
+  const before = new Chess(game.fen());
+  const move = game.move('Kf6');
+  assert.equal(chooseReaction(moveContext(before, game, move), () => 0)?.id, expected);
+});
+
+test('pawnless reminders yield to move commentary and gestures', () => {
+  for (const reminder of ['remindOutOfPawns', 'remindOpponentOutOfPawns']) {
+    assert.equal(chooseReaction({ move: {}, check: true, [reminder]: true }, () => 0).id, 'check');
+    assert.equal(chooseReaction({ mover: 'b', move: {}, lostPawn: true, [reminder]: true }, () => 0).id, 'lost-pawn');
+    assert.equal(chooseReaction({ mover: 'b', move: {}, newPawnOpportunity: true, [reminder]: true }, () => 0).id, 'pawn-opportunity');
+  }
+});

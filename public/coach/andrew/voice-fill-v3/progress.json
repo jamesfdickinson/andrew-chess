@@ -2744,7 +2744,47 @@
       "wordCoverage": 1,
       "duration": 9.009375,
       "missingArtwork": []
+    },
+    {
+      "id": "opponent-out-of-pawns-01",
+      "text": "They have no pawns left! That is what I call a successful pawn hunt.",
+      "synthesisText": "They have no pawns left! That is what I call a successful pawn hunt.",
+      "status": "complete",
+      "take": {
+        "original": "/coach/andrew/voice-fill-v3/opponent-out-of-pawns-01-audio.wav",
+        "generatedText": "They have no pawns left! That is what I call a successful pawn hunt.",
+        "synthesisText": "They have no pawns left! That is what I call a successful pawn hunt.",
+        "voiceId": "andrew-new-recordings-v3",
+        "mediaType": "audio",
+        "bytes": 267572,
+        "savedAt": "2026-11-17T23:59:42.233Z",
+        "video": null
+      },
+      "recognizedText": "No pawns left, that is what I call a successful pawn hunt.",
+      "wordCoverage": 0.8571428571428571,
+      "duration": 5.5728125,
+      "missingArtwork": []
+    },
+    {
+      "id": "opponent-out-of-pawns-02",
+      "text": "Still no enemy pawns on the board. A beautiful sight. Now finish the game!",
+      "synthesisText": "Still no enemy pawns on the board. A beautiful sight. Now finish the game!",
+      "status": "complete",
+      "take": {
+        "original": "/coach/andrew/voice-fill-v3/opponent-out-of-pawns-02-audio.wav",
+        "generatedText": "Still no enemy pawns on the board. A beautiful sight. Now finish the game!",
+        "synthesisText": "Still no enemy pawns on the board. A beautiful sight. Now finish the game!",
+        "voiceId": "andrew-new-recordings-v3",
+        "mediaType": "audio",
+        "bytes": 314384,
+        "savedAt": "2026-11-17T23:59:57.343Z",
+        "video": null
+      },
+      "recognizedText": "still no enemy pawns on the board. A beautiful sight. Now finish the game!",
+      "wordCoverage": 1,
+      "duration": 6.5480625,
+      "missingArtwork": []
     }
   ],
-  "finishedAt": "2026-11-17T04:59:12.863Z"
+  "finishedAt": "2026-11-17T23:59:59.191Z"
 }

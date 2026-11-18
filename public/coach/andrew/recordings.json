@@ -7801,7 +7801,7 @@
           "source": "/coach/shared/originals/missed-pawn-01-1794889229582-08189771.webm.wav",
           "analysisId": "525d3dfe-4658-4b13-8f3e-1be0f1a2e5c9",
           "revision": "c93c3a26-c77c-4830-a40b-577ac854ea40",
-          "spokenText": "You missed the opportunity to take a pawn move. Get the pawn next time.",
+          "spokenText": "You missed an opportunity to take a pawn. That was the move! Get the pawn next time.",
           "automatic": true,
           "createdAt": "2026-11-17T04:20:31.262Z",
           "cues": [
@@ -8187,7 +8187,7 @@
       "source": "/coach/shared/originals/missed-pawn-01-1794889241674-eeac30bd.webm.wav",
       "analysisId": "3780a7c2-df1c-4e26-95b6-f6a2ec347e8f",
       "revision": "04a0b32d-4a04-4d18-844b-f0c2e53124b6",
-      "spokenText": "You missed opportunity, tick one.",
+      "spokenText": "You missed an opportunity to take a pawn.",
       "automatic": true,
       "createdAt": "2026-11-17T04:20:43.300Z",
       "cues": [
@@ -8401,7 +8401,7 @@
       "source": "/coach/shared/originals/missed-pawn-02-1794889259790-0f6b11b4.webm.wav",
       "analysisId": "2fb39c69-7e79-4e52-89d7-3dbc7c052027",
       "revision": "b93bb10d-9083-4fa8-b6cb-ff163689b236",
-      "spokenText": "It's the opportunity to take a poll.",
+      "spokenText": "You missed an opportunity to take a pawn.",
       "automatic": true,
       "createdAt": "2026-11-17T04:21:01.394Z",
       "cues": [
@@ -67248,6 +67248,1453 @@
         }
       ],
       "endingEmotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53"
+    }
+  },
+  "idle-13": {
+    "original": "/coach/shared/originals/missed-pawn-01-1794889229582-08189771.webm.wav",
+    "video": null,
+    "savedAt": "2026-11-17T04:20:29.585Z",
+    "bytes": 319758,
+    "mediaType": "audio",
+    "processingError": null,
+    "uploadedOriginal": "/coach/shared/originals/missed-pawn-01-1794889229582-08189771.webm",
+    "analysis": {
+      "id": "525d3dfe-4658-4b13-8f3e-1be0f1a2e5c9",
+      "url": "/coach/shared/analysis/525d3dfe-4658-4b13-8f3e-1be0f1a2e5c9/analysis.json",
+      "revision": "c93c3a26-c77c-4830-a40b-577ac854ea40"
+    },
+    "mouthSync": {
+      "source": "/coach/shared/originals/missed-pawn-01-1794889229582-08189771.webm.wav",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.2,
+          "mouth": 2
+        },
+        {
+          "at": 0.4,
+          "mouth": 1
+        },
+        {
+          "at": 0.45,
+          "mouth": 0
+        },
+        {
+          "at": 0.5,
+          "mouth": 1
+        },
+        {
+          "at": 0.55,
+          "mouth": 2
+        },
+        {
+          "at": 0.6,
+          "mouth": 1
+        },
+        {
+          "at": 0.65,
+          "mouth": 0
+        },
+        {
+          "at": 0.7,
+          "mouth": 2
+        },
+        {
+          "at": 0.8,
+          "mouth": 1
+        },
+        {
+          "at": 0.85,
+          "mouth": 0
+        },
+        {
+          "at": 0.9,
+          "mouth": 1
+        },
+        {
+          "at": 1,
+          "mouth": 2
+        },
+        {
+          "at": 1.3,
+          "mouth": 1
+        },
+        {
+          "at": 1.35,
+          "mouth": 2
+        },
+        {
+          "at": 1.45,
+          "mouth": 1
+        },
+        {
+          "at": 1.55,
+          "mouth": 2
+        },
+        {
+          "at": 1.6,
+          "mouth": 1
+        },
+        {
+          "at": 1.8,
+          "mouth": 0
+        },
+        {
+          "at": 1.85,
+          "mouth": 2
+        },
+        {
+          "at": 2.05,
+          "mouth": 1
+        },
+        {
+          "at": 2.1,
+          "mouth": 2
+        },
+        {
+          "at": 2.25,
+          "mouth": 1
+        },
+        {
+          "at": 2.3,
+          "mouth": 0
+        },
+        {
+          "at": 2.85,
+          "mouth": 1
+        },
+        {
+          "at": 2.9,
+          "mouth": 2
+        },
+        {
+          "at": 3.2,
+          "mouth": 1
+        },
+        {
+          "at": 3.25,
+          "mouth": 0
+        },
+        {
+          "at": 3.7,
+          "mouth": 2
+        },
+        {
+          "at": 3.9,
+          "mouth": 1
+        },
+        {
+          "at": 3.95,
+          "mouth": 0
+        },
+        {
+          "at": 4.75,
+          "mouth": 1
+        },
+        {
+          "at": 4.8,
+          "mouth": 2
+        },
+        {
+          "at": 4.85,
+          "mouth": 1
+        },
+        {
+          "at": 4.9,
+          "mouth": 0
+        },
+        {
+          "at": 5,
+          "mouth": 1
+        },
+        {
+          "at": 5.05,
+          "mouth": 2
+        },
+        {
+          "at": 5.45,
+          "mouth": 1
+        },
+        {
+          "at": 5.5,
+          "mouth": 0
+        },
+        {
+          "at": 5.7,
+          "mouth": 1
+        },
+        {
+          "at": 5.75,
+          "mouth": 0
+        },
+        {
+          "at": 5.85,
+          "mouth": 1
+        },
+        {
+          "at": 5.95,
+          "mouth": 0
+        },
+        {
+          "at": 6.05,
+          "mouth": 1
+        },
+        {
+          "at": 6.15,
+          "mouth": 0
+        },
+        {
+          "at": 6.45,
+          "mouth": 1
+        },
+        {
+          "at": 6.5,
+          "mouth": 0
+        },
+        {
+          "at": 6.66,
+          "mouth": 0
+        }
+      ]
+    },
+    "animation": {
+      "source": "/coach/shared/originals/missed-pawn-01-1794889229582-08189771.webm.wav",
+      "analysisId": "525d3dfe-4658-4b13-8f3e-1be0f1a2e5c9",
+      "revision": "c93c3a26-c77c-4830-a40b-577ac854ea40",
+      "spokenText": "You missed an opportunity to take a pawn. That was the move! Get the pawn next time.",
+      "automatic": true,
+      "createdAt": "2026-11-17T04:20:31.262Z",
+      "cues": [
+        {
+          "at": 0,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.2,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.4,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.45,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.5,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.55,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.6,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.65,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.7,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.8,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.85,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.9,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.3,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.35,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.45,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.55,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.6,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.8,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.85,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.05,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.1,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.25,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.3,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.85,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.9,
+          "emotion": "generated-portrait-confident-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 3,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.2,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.25,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.7,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.9,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.95,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.75,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.8,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.85,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.9,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 5,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.05,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.45,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.5,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.7,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.75,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.85,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.95,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 6,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 6
+        },
+        {
+          "at": 6.05,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 6
+        },
+        {
+          "at": 6.15,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 6
+        },
+        {
+          "at": 6.45,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 6
+        },
+        {
+          "at": 6.5,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 6
+        }
+      ],
+      "endingEmotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53"
+    }
+  },
+  "opponent-out-of-pawns-01": {
+    "original": "/coach/andrew/voice-fill-v3/opponent-out-of-pawns-01-audio.wav",
+    "generatedText": "They have no pawns left! That is what I call a successful pawn hunt.",
+    "synthesisText": "They have no pawns left! That is what I call a successful pawn hunt.",
+    "voiceId": "andrew-new-recordings-v3",
+    "mediaType": "audio",
+    "bytes": 267572,
+    "savedAt": "2026-11-17T23:59:42.233Z",
+    "video": null,
+    "analysis": {
+      "id": "ac35506d-ddc4-4f9f-8a3c-9e75371e7c69",
+      "url": "/coach/shared/analysis/ac35506d-ddc4-4f9f-8a3c-9e75371e7c69/analysis.json",
+      "revision": "3f6b34e1-0a8e-4091-8be7-faebd3945e88"
+    },
+    "mouthSync": {
+      "source": "/coach/andrew/voice-fill-v3/opponent-out-of-pawns-01-audio.wav",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.05,
+          "mouth": 2
+        },
+        {
+          "at": 0.35,
+          "mouth": 1
+        },
+        {
+          "at": 0.4,
+          "mouth": 2
+        },
+        {
+          "at": 0.75,
+          "mouth": 1
+        },
+        {
+          "at": 0.8,
+          "mouth": 0
+        },
+        {
+          "at": 0.85,
+          "mouth": 1
+        },
+        {
+          "at": 0.9,
+          "mouth": 2
+        },
+        {
+          "at": 1.25,
+          "mouth": 1
+        },
+        {
+          "at": 1.3,
+          "mouth": 2
+        },
+        {
+          "at": 1.6,
+          "mouth": 1
+        },
+        {
+          "at": 1.65,
+          "mouth": 0
+        },
+        {
+          "at": 2.3,
+          "mouth": 2
+        },
+        {
+          "at": 2.45,
+          "mouth": 1
+        },
+        {
+          "at": 2.5,
+          "mouth": 2
+        },
+        {
+          "at": 2.6,
+          "mouth": 1
+        },
+        {
+          "at": 2.65,
+          "mouth": 2
+        },
+        {
+          "at": 2.8,
+          "mouth": 1
+        },
+        {
+          "at": 2.85,
+          "mouth": 2
+        },
+        {
+          "at": 2.95,
+          "mouth": 1
+        },
+        {
+          "at": 3.05,
+          "mouth": 0
+        },
+        {
+          "at": 3.1,
+          "mouth": 2
+        },
+        {
+          "at": 3.45,
+          "mouth": 0
+        },
+        {
+          "at": 3.55,
+          "mouth": 2
+        },
+        {
+          "at": 3.6,
+          "mouth": 1
+        },
+        {
+          "at": 3.65,
+          "mouth": 0
+        },
+        {
+          "at": 3.85,
+          "mouth": 2
+        },
+        {
+          "at": 3.9,
+          "mouth": 1
+        },
+        {
+          "at": 4.05,
+          "mouth": 0
+        },
+        {
+          "at": 4.15,
+          "mouth": 1
+        },
+        {
+          "at": 4.2,
+          "mouth": 2
+        },
+        {
+          "at": 4.3,
+          "mouth": 1
+        },
+        {
+          "at": 4.35,
+          "mouth": 0
+        },
+        {
+          "at": 4.45,
+          "mouth": 1
+        },
+        {
+          "at": 4.5,
+          "mouth": 2
+        },
+        {
+          "at": 4.7,
+          "mouth": 1
+        },
+        {
+          "at": 4.75,
+          "mouth": 2
+        },
+        {
+          "at": 4.85,
+          "mouth": 1
+        },
+        {
+          "at": 4.9,
+          "mouth": 2
+        },
+        {
+          "at": 5.05,
+          "mouth": 1
+        },
+        {
+          "at": 5.2,
+          "mouth": 0
+        },
+        {
+          "at": 5.5728125,
+          "mouth": 0
+        }
+      ]
+    },
+    "animation": {
+      "source": "/coach/andrew/voice-fill-v3/opponent-out-of-pawns-01-audio.wav",
+      "analysisId": "ac35506d-ddc4-4f9f-8a3c-9e75371e7c69",
+      "revision": "3f6b34e1-0a8e-4091-8be7-faebd3945e88",
+      "spokenText": "They have no pawns left! That is what I call a successful pawn hunt.",
+      "automatic": true,
+      "createdAt": "2026-11-17T23:59:47.082Z",
+      "cues": [
+        {
+          "at": 0,
+          "emotion": "generated-pawn-present-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.05,
+          "emotion": "generated-pawn-present-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.35,
+          "emotion": "generated-pawn-present-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.4,
+          "emotion": "generated-pawn-present-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.75,
+          "emotion": "generated-pawn-present-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.8,
+          "emotion": "generated-pawn-present-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.85,
+          "emotion": "generated-pawn-present-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.9,
+          "emotion": "generated-pawn-present-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.25,
+          "emotion": "generated-pawn-present-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.3,
+          "emotion": "generated-pawn-present-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.6,
+          "emotion": "generated-pawn-present-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.65,
+          "emotion": "generated-pawn-present-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.3,
+          "emotion": "generated-pawn-present-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.45,
+          "emotion": "generated-pawn-present-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.5,
+          "emotion": "generated-pawn-present-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.6,
+          "emotion": "generated-pawn-present-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.65,
+          "emotion": "generated-pawn-present-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.8,
+          "emotion": "generated-pawn-present-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.85,
+          "emotion": "generated-pawn-present-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.95,
+          "emotion": "generated-pawn-present-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 3,
+          "emotion": "generated-portrait-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.05,
+          "emotion": "generated-portrait-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.1,
+          "emotion": "generated-portrait-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.45,
+          "emotion": "generated-portrait-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.55,
+          "emotion": "generated-portrait-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.6,
+          "emotion": "generated-portrait-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.65,
+          "emotion": "generated-portrait-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.85,
+          "emotion": "generated-portrait-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.9,
+          "emotion": "generated-portrait-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.05,
+          "emotion": "generated-portrait-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.15,
+          "emotion": "generated-portrait-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.2,
+          "emotion": "generated-portrait-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.3,
+          "emotion": "generated-portrait-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.35,
+          "emotion": "generated-portrait-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.45,
+          "emotion": "generated-portrait-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.5,
+          "emotion": "generated-portrait-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.7,
+          "emotion": "generated-portrait-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.75,
+          "emotion": "generated-portrait-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.85,
+          "emotion": "generated-portrait-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.9,
+          "emotion": "generated-portrait-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.05,
+          "emotion": "generated-portrait-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.2,
+          "emotion": "generated-portrait-sad-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        }
+      ],
+      "endingEmotion": "generated-portrait-sad-subtle-talk-ref-00676e4a1c53"
+    }
+  },
+  "opponent-out-of-pawns-02": {
+    "original": "/coach/andrew/voice-fill-v3/opponent-out-of-pawns-02-audio.wav",
+    "generatedText": "Still no enemy pawns on the board. A beautiful sight. Now finish the game!",
+    "synthesisText": "Still no enemy pawns on the board. A beautiful sight. Now finish the game!",
+    "voiceId": "andrew-new-recordings-v3",
+    "mediaType": "audio",
+    "bytes": 314384,
+    "savedAt": "2026-11-17T23:59:57.343Z",
+    "video": null,
+    "analysis": {
+      "id": "ed94a5cd-e689-4e2f-a8fa-de320852a4f3",
+      "url": "/coach/shared/analysis/ed94a5cd-e689-4e2f-a8fa-de320852a4f3/analysis.json",
+      "revision": "82574168-f598-432c-9831-785bd9f57c11"
+    },
+    "mouthSync": {
+      "source": "/coach/andrew/voice-fill-v3/opponent-out-of-pawns-02-audio.wav",
+      "method": "audio-amplitude",
+      "cues": [
+        {
+          "at": 0,
+          "mouth": 0
+        },
+        {
+          "at": 0.25,
+          "mouth": 2
+        },
+        {
+          "at": 0.75,
+          "mouth": 1
+        },
+        {
+          "at": 0.85,
+          "mouth": 2
+        },
+        {
+          "at": 0.9,
+          "mouth": 1
+        },
+        {
+          "at": 0.95,
+          "mouth": 2
+        },
+        {
+          "at": 1.2,
+          "mouth": 1
+        },
+        {
+          "at": 1.25,
+          "mouth": 0
+        },
+        {
+          "at": 1.3,
+          "mouth": 1
+        },
+        {
+          "at": 1.35,
+          "mouth": 2
+        },
+        {
+          "at": 1.9,
+          "mouth": 1
+        },
+        {
+          "at": 2,
+          "mouth": 2
+        },
+        {
+          "at": 2.3,
+          "mouth": 1
+        },
+        {
+          "at": 2.4,
+          "mouth": 0
+        },
+        {
+          "at": 2.85,
+          "mouth": 1
+        },
+        {
+          "at": 2.9,
+          "mouth": 2
+        },
+        {
+          "at": 2.95,
+          "mouth": 1
+        },
+        {
+          "at": 3.05,
+          "mouth": 0
+        },
+        {
+          "at": 3.1,
+          "mouth": 1
+        },
+        {
+          "at": 3.15,
+          "mouth": 2
+        },
+        {
+          "at": 3.45,
+          "mouth": 1
+        },
+        {
+          "at": 3.5,
+          "mouth": 0
+        },
+        {
+          "at": 3.55,
+          "mouth": 2
+        },
+        {
+          "at": 3.65,
+          "mouth": 1
+        },
+        {
+          "at": 3.7,
+          "mouth": 0
+        },
+        {
+          "at": 3.8,
+          "mouth": 2
+        },
+        {
+          "at": 3.9,
+          "mouth": 1
+        },
+        {
+          "at": 4.05,
+          "mouth": 0
+        },
+        {
+          "at": 4.65,
+          "mouth": 1
+        },
+        {
+          "at": 4.7,
+          "mouth": 2
+        },
+        {
+          "at": 4.9,
+          "mouth": 1
+        },
+        {
+          "at": 4.95,
+          "mouth": 0
+        },
+        {
+          "at": 5.1,
+          "mouth": 2
+        },
+        {
+          "at": 5.2,
+          "mouth": 1
+        },
+        {
+          "at": 5.25,
+          "mouth": 2
+        },
+        {
+          "at": 5.35,
+          "mouth": 1
+        },
+        {
+          "at": 5.45,
+          "mouth": 0
+        },
+        {
+          "at": 5.5,
+          "mouth": 1
+        },
+        {
+          "at": 5.55,
+          "mouth": 2
+        },
+        {
+          "at": 5.65,
+          "mouth": 1
+        },
+        {
+          "at": 5.7,
+          "mouth": 2
+        },
+        {
+          "at": 5.8,
+          "mouth": 1
+        },
+        {
+          "at": 6.25,
+          "mouth": 0
+        },
+        {
+          "at": 6.5480625,
+          "mouth": 0
+        }
+      ]
+    },
+    "animation": {
+      "source": "/coach/andrew/voice-fill-v3/opponent-out-of-pawns-02-audio.wav",
+      "analysisId": "ed94a5cd-e689-4e2f-a8fa-de320852a4f3",
+      "revision": "82574168-f598-432c-9831-785bd9f57c11",
+      "spokenText": "Still no enemy pawns on the board. A beautiful sight. Now finish the game!",
+      "automatic": true,
+      "createdAt": "2026-11-17T23:59:59.154Z",
+      "cues": [
+        {
+          "at": 0,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.25,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.75,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.85,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.9,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 0.95,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.2,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.25,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.3,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.35,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 1.9,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.3,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.4,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.85,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.9,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 0
+        },
+        {
+          "at": 2.95,
+          "emotion": "generated-portrait-pleased-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 0
+        },
+        {
+          "at": 3,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.05,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.1,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.15,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.45,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.5,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.55,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.65,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.7,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.8,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 3.9,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.05,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.65,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.7,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.9,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 4.95,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.1,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.2,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.25,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.35,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.45,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.5,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.55,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.65,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.7,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 2,
+          "segmentStart": 3
+        },
+        {
+          "at": 5.8,
+          "emotion": "generated-portrait-happy-emphatic-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 3
+        },
+        {
+          "at": 6,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 1,
+          "segmentStart": 6
+        },
+        {
+          "at": 6.25,
+          "emotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53",
+          "mouth": 0,
+          "segmentStart": 6
+        }
+      ],
+      "endingEmotion": "generated-portrait-encouraging-subtle-talk-ref-00676e4a1c53"
     }
   }
 }

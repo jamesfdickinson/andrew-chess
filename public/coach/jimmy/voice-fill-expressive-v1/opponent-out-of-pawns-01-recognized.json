@@ -1,0 +1,107 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.24775,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.36,
+      "text": " They have no pawns left.",
+      "noSpeechProbability": 0.0008155223331414163
+    },
+    {
+      "start": 2.02,
+      "end": 4.76,
+      "text": " That is what I call a successful pawn hunt.",
+      "noSpeechProbability": 0.0008155223331414163
+    }
+  ],
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.12,
+      "text": "They",
+      "probability": 0.5944523811340332
+    },
+    {
+      "start": 0.12,
+      "end": 0.28,
+      "text": "have",
+      "probability": 0.9978246688842773
+    },
+    {
+      "start": 0.28,
+      "end": 0.54,
+      "text": "no",
+      "probability": 0.9864118099212646
+    },
+    {
+      "start": 0.54,
+      "end": 1.12,
+      "text": "pawns",
+      "probability": 0.8045765459537506
+    },
+    {
+      "start": 1.12,
+      "end": 1.36,
+      "text": "left.",
+      "probability": 0.9995902180671692
+    },
+    {
+      "start": 2.02,
+      "end": 2.3,
+      "text": "That",
+      "probability": 0.9936113953590393
+    },
+    {
+      "start": 2.3,
+      "end": 2.48,
+      "text": "is",
+      "probability": 0.9713960289955139
+    },
+    {
+      "start": 2.48,
+      "end": 2.68,
+      "text": "what",
+      "probability": 0.9976416826248169
+    },
+    {
+      "start": 2.68,
+      "end": 2.84,
+      "text": "I",
+      "probability": 0.9893162250518799
+    },
+    {
+      "start": 2.84,
+      "end": 3.12,
+      "text": "call",
+      "probability": 0.9981496334075928
+    },
+    {
+      "start": 3.12,
+      "end": 3.42,
+      "text": "a",
+      "probability": 0.9861735105514526
+    },
+    {
+      "start": 3.42,
+      "end": 3.9,
+      "text": "successful",
+      "probability": 0.9455466270446777
+    },
+    {
+      "start": 3.9,
+      "end": 4.44,
+      "text": "pawn",
+      "probability": 0.9677477478981018
+    },
+    {
+      "start": 4.44,
+      "end": 4.76,
+      "text": "hunt.",
+      "probability": 0.9415768384933472
+    }
+  ],
+  "text": "They have no pawns left. That is what I call a successful pawn hunt."
+}

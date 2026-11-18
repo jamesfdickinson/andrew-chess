@@ -8,6 +8,10 @@ export const coachConfig = {
   idleAfterMs: 60000,
   speech: { enabled: true, lang: 'en-US', rate: 1, pitch: 1 },
   priorityEvents: [
+    { id: 'opponent-out-of-pawns', actions: [
+      { actionId: 'opponent-out-of-pawns-01', text: 'They have no pawns left! That is what I call a successful pawn hunt.', video: null, animation: 'bounce' },
+      { actionId: 'opponent-out-of-pawns-02', text: 'Still no enemy pawns on the board. A beautiful sight. Now finish the game!', video: null, animation: 'talk' },
+    ] },
     { id: 'out-of-pawns', when: ({ lostLastPawn }) => lostLastPawn, actions: [
       { actionId: 'out-of-pawns-01', text: 'Just forfeit. You are out of pawns!', video: null, animation: 'shake' }, // Recording: /coach/out-of-pawns-01.mp4
       { actionId: 'out-of-pawns-02', text: 'No pawns left? Go get theirs! They have been keeping them far too long.', video: null, animation: 'point' },
@@ -242,6 +246,7 @@ export const coachConfig = {
   },
   // Separate from chess events; plays while waiting for you to move.
   idle: [
+    { actionId: 'idle-13', text: 'You missed an opportunity to take a pawn. That was the move! Get the pawn next time.', requiresRecording: true, video: null, animation: 'point' },
     { actionId: 'idle-01', text: 'Take your time. Can any of your pieces take a pawn?', video: null, animation: 'point' }, // Recording: /coach/idle-01.mp4
     { actionId: 'idle-02', text: "I'm here when you're ready. Those pawns are not going to take themselves.", video: null, animation: 'talk' }, // Recording: /coach/idle-02.mp4
     { actionId: 'idle-03', text: 'Eight little pawns walked onto this board. How many are you going to let walk away?', video: null, animation: 'shrug' }, // Recording: /coach/idle-03.mp4

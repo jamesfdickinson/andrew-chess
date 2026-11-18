@@ -96,7 +96,22 @@ export function moveContext(before, game, move) {
   const newlyProtectedPawns = move.color === 'w' ? protectedPawns(game)
     .filter(item => item.defender === move.to &&
       !priorPawnDefenders.has(`${move.from}-${item.pawn}`)) : [];
+  const history = game.history({ verbose: true });
+  const pawnlessPlies = symbol => {
+    let count = 0;
+    for (const past of history.toReversed()) {
+      if (past.after.split(' ')[0].includes(symbol)) break;
+      count++;
+    }
+    return count;
+  };
+  const reminderDue = symbol => !game.isGameOver() && !game.isCheck() &&
+    pawnlessPlies(symbol) > 1 && pawnlessPlies(symbol) % 8 === 0;
+  const opponentHasPawns = game.board().flat().some(piece => piece?.color === 'b' && piece.type === 'p');
   return {
+    opponentHasPawns,
+    remindOutOfPawns: reminderDue('P'),
+    remindOpponentOutOfPawns: reminderDue('p') && (!reminderDue('P') || pawnlessPlies('p') % 16 === 0),
     moveNumber: Number(before.fen().split(' ')[5]),
     newlyProtectedPawns,
     newPawnProtections,
@@ -133,7 +148,13 @@ export function chooseAction(actions, random = Math.random, previousId) {
 export function chooseReaction(context, random = Math.random, config = coachConfig, previousId) {
   const opponent = context.mover === 'b' || context.move?.color === 'b';
   const events = [...(config.priorityEvents ?? []), ...(config.twoMoveEvents ?? []), ...(opponent ? (config.opponentEvents ?? []) : config.events)];
-  const event = events.find((event, index) => index === events.length - 1 || event.when?.(context));
+  let event = events.find((event, index) => index === events.length - 1 || event.when?.(context));
+  const otherwiseQuiet = !event || event.silent || !event.actions?.length;
+  if (otherwiseQuiet && context.remindOpponentOutOfPawns) {
+    event = config.priorityEvents?.find(item => item.id === 'opponent-out-of-pawns') ?? event;
+  } else if (otherwiseQuiet && context.remindOutOfPawns && !context.lostLastPawn) {
+    event = config.priorityEvents?.find(item => item.id === 'out-of-pawns') ?? event;
+  }
   if (event?.silent) return null;
   if (event?.gestureChance) {
     const gestures = event.actions.filter(action => action.kind === 'gesture');
@@ -142,7 +163,10 @@ export function chooseReaction(context, random = Math.random, config = coachConf
     const action = chooseAction(pool, random, previousId);
     return action ? { ...action, id: event.id } : null;
   }
-  const action = chooseAction(event?.actions, random, previousId);
+  // Only the forfeit line remains accurate when neither side has pawns.
+  const actions = event?.id === 'out-of-pawns' && context.opponentHasPawns === false
+    ? event.actions.filter(action => action.actionId === 'out-of-pawns-01') : event?.actions;
+  const action = chooseAction(actions, random, previousId);
   return action ? { ...action, id: event.id } : null;
 }
 
@@ -213,7 +237,7 @@ export function createCoach(root, { recordedVideo = () => null, recordedAnimatio
     clearTimeout(idleTimer);
     idleTimer = setTimeout(() => {
       if (canIdle() && !busy) {
-        const action = chooseAction(coachConfig.idle, Math.random, lastAction?.actionId);
+        const action = chooseAction(coachConfig.idle.filter(action => !action.requiresRecording || recordedVideo(action)), Math.random, lastAction?.actionId);
         if (action) play({ ...action, id: 'idle' });
       }
       activity();
@@ -330,7 +354,7 @@ export function createCoach(root, { recordedVideo = () => null, recordedAnimatio
     replay() { if (lastAction) enqueue(lastAction); },
     preview(action) { stop(); play(action); },
     idleNow() {
-      const action = chooseAction(coachConfig.idle, Math.random, lastAction?.actionId);
+      const action = chooseAction(coachConfig.idle.filter(action => !action.requiresRecording || recordedVideo(action)), Math.random, lastAction?.actionId);
       if (action) { stop(); play({ ...action, id: 'idle' }); }
     },
     stop, reset, activity,
@@ -347,4 +371,4 @@ export function createCoach(root, { recordedVideo = () => null, recordedAnimatio
       return muted;
     },
   };
-}
+}

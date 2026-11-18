@@ -1,0 +1,89 @@
+{
+  "engine": "faster-whisper",
+  "model": "base.en",
+  "language": "en",
+  "duration": 5.5728125,
+  "segments": [
+    {
+      "start": 0.46,
+      "end": 5.04,
+      "text": " No pawns left, that is what I call a successful pawn hunt.",
+      "noSpeechProbability": 0.013865914195775986
+    }
+  ],
+  "words": [
+    {
+      "start": 0.46,
+      "end": 0.68,
+      "text": "No",
+      "probability": 0.6030856370925903
+    },
+    {
+      "start": 0.68,
+      "end": 1.28,
+      "text": "pawns",
+      "probability": 0.5405260473489761
+    },
+    {
+      "start": 1.28,
+      "end": 1.54,
+      "text": "left,",
+      "probability": 0.9984622001647949
+    },
+    {
+      "start": 2.1,
+      "end": 2.42,
+      "text": "that",
+      "probability": 0.9933551549911499
+    },
+    {
+      "start": 2.42,
+      "end": 2.58,
+      "text": "is",
+      "probability": 0.9799277782440186
+    },
+    {
+      "start": 2.58,
+      "end": 2.8,
+      "text": "what",
+      "probability": 0.9975600242614746
+    },
+    {
+      "start": 2.8,
+      "end": 2.94,
+      "text": "I",
+      "probability": 0.9913387298583984
+    },
+    {
+      "start": 2.94,
+      "end": 3.2,
+      "text": "call",
+      "probability": 0.9949607849121094
+    },
+    {
+      "start": 3.2,
+      "end": 3.98,
+      "text": "a",
+      "probability": 0.9869865775108337
+    },
+    {
+      "start": 3.98,
+      "end": 3.98,
+      "text": "successful",
+      "probability": 0.9694417119026184
+    },
+    {
+      "start": 3.98,
+      "end": 4.64,
+      "text": "pawn",
+      "probability": 0.9626959562301636
+    },
+    {
+      "start": 4.64,
+      "end": 5.04,
+      "text": "hunt.",
+      "probability": 0.9816687703132629
+    }
+  ],
+  "text": "No pawns left, that is what I call a successful pawn hunt."
+}
